@@ -1,0 +1,192 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+191;F3H-841;Drive;Aug 29 2025 09:12 AM;;Av De Los Heroes, San Juan De Miraflores, Lima, Lima [Province];16;N/A;;-12.1538421000;-76.9726645000
+190;F3H-841;Drive;Aug 29 2025 09:12 AM;;Av De Los Heroes, San Juan De Miraflores, Lima, Lima [Province], Perú;28;N/A;;-12.1533063000;-76.9739393000
+189;F3H-841;Drive;Aug 29 2025 09:10 AM;;Salida-4, Surco, Lima, Lima [Province];28;N/A;;-12.1494050000;-76.9838623000
+188;F3H-841;Drive;Aug 29 2025 09:10 AM;;Av Tomas Marsano-21, Surco, Lima, Lima [Province];30;N/A;;-12.1494180000;-76.9842946000
+187;F3H-841;Drive;Aug 29 2025 09:10 AM;;Entrada-33, Surco, Lima, Lima [Province];33;N/A;;-12.1497106000;-76.9845578000
+186;F3H-841;Drive;Aug 29 2025 09:10 AM;;Entrada-43, Surco, Lima, Lima [Province];37;N/A;;-12.1501910000;-76.9845241000
+185;F3H-841;Drive;Aug 29 2025 09:10 AM;;Entrada-51, Surco, Lima, Lima [Province], Perú;37;N/A;;-12.1504721000;-76.9841711000
+184;F3H-841;Drive;Aug 29 2025 09:10 AM;;Lateral-66, Surco, Lima, Lima [Province];35;N/A;;-12.1504280000;-76.9837490000
+183;F3H-841;End Speeding;Aug 29 2025 09:09 AM;;Av Panamericana-42, Surco, Lima, Lima [Province];65;N/A;;-12.1432243000;-76.9816225000
+182;F3H-841;Speed alert;Aug 29 2025 09:08 AM;;Av Panamericana, Surco, Lima, Lima [Province];74;N/A;;-12.1374595000;-76.9805931000
+181;F3H-841;Drive;Aug 29 2025 09:07 AM;;Av Panamericana-51, Surco, Lima, Lima [Province];49;N/A;;-12.1272466000;-76.9770216000
+180;F3H-841;Drive;Aug 29 2025 09:06 AM;;Av Panamericana-29, Surco, Lima, Lima [Province];54;N/A;;-12.1216875000;-76.9771400000
+179;F3H-841;Drive;Aug 29 2025 09:05 AM;;Av Panamericana-90, Surco, Lima, Lima [Province];57;N/A;;-12.1127381000;-76.9779303000
+178;F3H-841;Drive;Aug 29 2025 09:04 AM;;Av Panamericana-63, Surco, Lima, Lima [Province];62;N/A;;-12.0982095000;-76.9799543000
+177;F3H-841;Drive;Aug 29 2025 09:02 AM;;Av Circunvalacion-16, San Luis, Lima, Lima [Province];14;N/A;;-12.0841558000;-76.9844426000
+176;F3H-841;Drive;Aug 29 2025 09:02 AM;;Av Circunvalacion-49, San Luis, Lima, Lima [Province];25;N/A;;-12.0839965000;-76.9847451000
+175;F3H-841;Drive;Aug 29 2025 09:01 AM;;Av Circunvalacion-48, San Luis, Lima, Lima [Province];38;N/A;;-12.0841413000;-76.9850916000
+174;F3H-841;Drive;Aug 29 2025 09:01 AM;;Av Javier Prado Este-56, San Borja, Lima, Lima [Province];28;N/A;;-12.0844165000;-76.9852293000
+173;F3H-841;Drive;Aug 29 2025 09:01 AM;;Av Javier Prado Este-67, San Borja, Lima, Lima [Province], Perú;30;N/A;;-12.0847836000;-76.9850826000
+172;F3H-841;Drive;Aug 29 2025 09:01 AM;;Av Javier Prado Este-97, Surco, Lima, Lima [Province];33;N/A;;-12.0846123000;-76.9792691000
+171;F3H-841;Drive;Aug 29 2025 09:00 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province];14;N/A;;-12.0845135000;-76.9785865000
+170;F3H-841;Travel Start;Aug 29 2025 08:59 AM;;Av Javier Prado Este-74, La Molina, Lima, Lima [Province];35;N/A;;-12.0820136000;-76.9681660000
+169;F3H-841;Travel Stop;Aug 29 2025 08:58 AM;;Av Javier Prado Este-27, La Molina, Lima, Lima [Province];0;N/A;;-12.0813226000;-76.9673300000
+168;F3H-841;Travel Start;Aug 29 2025 08:57 AM;;Av Javier Prado Este-71, La Molina, Lima, Lima [Province];35;N/A;;-12.0758788000;-76.9639581000
+167;F3H-841;Travel Stop;Aug 29 2025 08:55 AM;;Av Javier Prado Este-50, La Molina, Lima, Lima [Province];0;N/A;;-12.0749035000;-76.9632003000
+166;F3H-841;Travel Start;Aug 29 2025 08:54 AM;;Av Javier Prado Este-48, La Molina, Lima, Lima [Province];20;N/A;;-12.0739226000;-76.9620011000
+165;F3H-841;Drive;Aug 29 2025 08:54 AM;;Av Javier Prado Este-61, La Molina, Lima, Lima [Province];24;N/A;;-12.0738058000;-76.9618003000
+164;F3H-841;Travel Stop;Aug 29 2025 08:54 AM;;Av Javier Prado Este-87, La Molina, Lima, Lima [Province];0;N/A;;-12.0734473000;-76.9610625000
+163;F3H-841;Travel Start;Aug 29 2025 08:53 AM;;Av Javier Prado Este-20, La Molina, Lima, Lima [Province];38;N/A;;-12.0717581000;-76.9573380000
+162;F3H-841;Travel Stop;Aug 29 2025 08:51 AM;;Av Javier Prado Este-25, La Molina, Lima, Lima [Province];0;N/A;;-12.0712473000;-76.9562418000
+161;F3H-841;Drive;Aug 29 2025 08:51 AM;;Av Javier Prado Este-33, La Molina, Lima, Lima [Province];9;N/A;;-12.0712263000;-76.9561660000
+160;F3H-841;Travel Start;Aug 29 2025 08:49 AM;;Los Civiles-96, La Molina, Lima, Lima [Province];22;N/A;;-12.0688303000;-76.9492973000
+159;F3H-841;Idle - Stop;Aug 29 2025 08:48 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0685270000;-76.9484210000
+158;F3H-841;Travel Stop;Aug 29 2025 08:48 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0685366000;-76.9484096000
+157;F3H-841;Travel Start;Aug 29 2025 08:46 AM;;Av Flora Tristan, La Molina, Lima, Lima [Province];20;N/A;;-12.0667505000;-76.9443765000
+156;F3H-841;Travel Stop;Aug 29 2025 08:45 AM;;Av Javier Prado Este-49, La Molina, Lima, Lima [Province];0;N/A;;-12.0663740000;-76.9436711000
+155;F3H-841;Travel Start;Aug 29 2025 08:45 AM;;Av Javier Prado Este-39, La Molina, Lima, Lima [Province];9;N/A;;-12.0663306000;-76.9435708000
+154;F3H-841;Travel Stop;Aug 29 2025 08:44 AM;;Av Javier Prado Este-42, La Molina, Lima, Lima [Province];0;N/A;;-12.0657273000;-76.9424558000
+153;F3H-841;Travel Start;Aug 29 2025 08:43 AM;;Av Javier Prado Este-84, La Molina, Lima, Lima [Province], Perú;14;N/A;;-12.0655975000;-76.9422131000
+152;F3H-841;Idle - Stop;Aug 29 2025 08:42 AM;;Av Javier Prado Este-47, La Molina, Lima, Lima [Province];0;N/A;;-12.0651783000;-76.9413736000
+151;F3H-841;Travel Stop;Aug 29 2025 08:42 AM;;Av Javier Prado Este-47, La Molina, Lima, Lima [Province];0;N/A;;-12.0651688000;-76.9413605000
+150;F3H-841;Drive;Aug 29 2025 08:41 AM;;Av Javier Prado Este-47, Ate Vitarte, Lima, Lima [Province];33;N/A;;-12.0634061000;-76.9389090000
+149;F3H-841;Drive;Aug 29 2025 08:39 AM;;Av Javier Prado Este, Ate Vitarte, Lima, Lima [Province];30;N/A;;-12.0562161000;-76.9380833000
+148;F3H-841;Drive;Aug 29 2025 08:37 AM;;Via Varsovia-37, Ate Vitarte, Lima, Lima [Province], Perú;51;N/A;;-12.0457820000;-76.9354646000
+147;F3H-841;Drive;Aug 29 2025 08:36 AM;;Prolongacion Javier Prado, Ate, Peru;43;N/A;;-12.0437468000;-76.9319758000
+146;F3H-841;Travel Start;Aug 29 2025 08:36 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;33;N/A;;-12.0436068000;-76.9314058000
+145;F3H-841;Travel Stop;Aug 29 2025 08:34 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0433055000;-76.9301855000
+144;F3H-841;Drive;Aug 29 2025 08:33 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;30;N/A;;-12.0421743000;-76.9255980000
+143;F3H-841;Drive;Aug 29 2025 08:33 AM;;Via Principal-60, Ate Vitarte, Lima, Lima [Province], Perú;14;N/A;;-12.0400350000;-76.9239763000
+142;F3H-841;Drive;Aug 29 2025 08:33 AM;;Via Principal-68, Ate Vitarte, Lima, Lima [Province];14;N/A;;-12.0399163000;-76.9238295000
+141;F3H-841;Drive;Aug 29 2025 08:32 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;14;N/A;;-12.0408795000;-76.9225300000
+140;F3H-841;Drive;Aug 29 2025 08:31 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province];12;N/A;;-12.0409086000;-76.9205331000
+139;F3H-841;Drive;Aug 29 2025 08:31 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province];9;N/A;;-12.0408978000;-76.9204221000
+138;F3H-841;Drive;Aug 29 2025 08:30 AM;;Av Puente Llanos-32, Ate Vitarte, Lima, Lima [Province];9;N/A;;-12.0417431000;-76.9200295000
+137;F3H-841;Travel Start;Aug 29 2025 08:29 AM;;Husares De Junin-24, Ate Vitarte, Lima, Lima [Province], Perú;17;N/A;;-12.0449893000;-76.9169651000
+136;F3H-841;Travel Stop;Aug 29 2025 08:27 AM;;Husares De Junin-30, Ate Vitarte, Lima, Lima [Province], Perú;4;N/A;;-12.0463278000;-76.9157893000
+135;F3H-841;Drive;Aug 29 2025 08:27 AM;;Husares De Junin-30, Ate Vitarte, Lima, Lima [Province], Perú;9;N/A;;-12.0464591000;-76.9156196000
+134;F3H-841;Drive;Aug 29 2025 08:27 AM;;Husares De Junin-31, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0465820000;-76.9155768000
+133;F3H-841;Drive;Aug 29 2025 08:27 AM;;Husares De Junin-33, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0469521000;-76.9160243000
+132;F3H-841;Drive;Aug 29 2025 08:27 AM;;Husares De Junin-34, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0471813000;-76.9162473000
+131;F3H-841;Travel Start;Aug 29 2025 08:26 AM;;X32P+93 Ate, Peru;16;N/A;;-12.0490703000;-76.9148916000
+130;F3H-841;Idle - Stop;Aug 29 2025 08:24 AM;;X32P+58 Ate, Peru;0;N/A;;-12.0495650000;-76.9142490000
+129;F3H-841;Idle Alert;Aug 29 2025 08:18 AM;;X32P+58 Ate, Peru;0;N/A;;-12.0495543000;-76.9142545000
+128;F3H-841;Idle - Stop;Aug 29 2025 08:18 AM;;X32P+58 Ate, Peru;0;N/A;;-12.0495540000;-76.9142551000
+127;F3H-841;Idle - Stop;Aug 29 2025 08:16 AM;;X32P+58 Ate, Peru;0;N/A;;-12.0495588000;-76.9142631000
+126;F3H-841;Travel Stop;Aug 29 2025 08:13 AM;;X32P+58 Ate, Peru;0;N/A;;-12.0495425000;-76.9142613000
+125;F3H-841;Drive;Aug 29 2025 08:12 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;19;N/A;;-12.0505901000;-76.9123931000
+124;F3H-841;Travel Start;Aug 29 2025 08:12 AM;;W3XQ+H9 Ate, Peru;9;N/A;;-12.0510200000;-76.9115366000
+123;F3H-841;Travel Stop;Aug 29 2025 08:10 AM;;W3XR+R42, Ate 15491, Peru;1;N/A;;-12.0511208000;-76.9109340000
+122;F3H-841;Drive;Aug 29 2025 08:09 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;9;N/A;;-12.0510613000;-76.9108923000
+121;F3H-841;Travel Start;Aug 29 2025 08:09 AM;;W3XR+R42, Ate 15491, Peru;9;N/A;;-12.0511245000;-76.9109478000
+120;F3H-841;Idle Alert;Aug 29 2025 08:08 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0511853000;-76.9116166000
+119;F3H-841;Idle - Stop;Aug 29 2025 08:06 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0511891000;-76.9116106000
+118;F3H-841;Idle - Stop;Aug 29 2025 08:06 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0511948000;-76.9116165000
+117;F3H-841;Travel Stop;Aug 29 2025 08:03 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0511925000;-76.9116061000
+116;F3H-841;Drive;Aug 29 2025 08:02 AM;;Husares De Junin-41, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0509060000;-76.9118311000
+115;F3H-841;Drive;Aug 29 2025 08:01 AM;;Husares De Junin-40, Ate Vitarte, Lima, Lima [Province], Perú;20;N/A;;-12.0504236000;-76.9133396000
+114;F3H-841;Drive;Aug 29 2025 08:00 AM;;Husares De Junin-35, Ate Vitarte, Lima, Lima [Province], Perú;16;N/A;;-12.0476488000;-76.9158743000
+113;F3H-841;Drive;Aug 29 2025 08:00 AM;;Husares De Junin-35, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0472115000;-76.9162605000
+112;F3H-841;Drive;Aug 29 2025 08:00 AM;;Husares De Junin-34, Ate Vitarte, Lima, Lima [Province], Perú;12;N/A;;-12.0470873000;-76.9162941000
+111;F3H-841;Drive;Aug 29 2025 08:00 AM;;Husares De Junin-32, Ate Vitarte, Lima, Lima [Province], Perú;11;N/A;;-12.0467646000;-76.9157270000
+110;F3H-841;Drive;Aug 29 2025 08:00 AM;;Husares De Junin-31, Ate Vitarte, Lima, Lima [Province], Perú;9;N/A;;-12.0466891000;-76.9156588000
+109;F3H-841;Drive;Aug 29 2025 07:59 AM;;Husares De Junin-26, Ate Vitarte, Lima, Lima [Province], Perú;9;N/A;;-12.0455943000;-76.9163255000
+108;F3H-841;Travel Start;Aug 29 2025 07:57 AM;;Av Puente Llanos-22, Ate Vitarte, Lima, Lima [Province], Perú;11;N/A;;-12.0423066000;-76.9198473000
+107;F3H-841;Travel Stop;Aug 29 2025 07:56 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;6;N/A;;-12.0409775000;-76.9206310000
+106;F3H-841;Drive;Aug 29 2025 07:54 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0417796000;-76.9232591000
+105;F3H-841;Travel Start;Aug 29 2025 07:53 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province];20;N/A;;-12.0424511000;-76.9254911000
+104;F3H-841;Travel Stop;Aug 29 2025 07:53 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0426773000;-76.9261973000
+103;F3H-841;Travel Start;Aug 29 2025 07:51 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province];16;N/A;;-12.0435478000;-76.9304218000
+102;F3H-841;Travel Stop;Aug 29 2025 07:50 AM;;Via Principal, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0437456000;-76.9312108000
+101;F3H-841;Drive;Aug 29 2025 07:49 AM;;Cerro Mayorazgo, Ate, Peru;28;N/A;;-12.0441805000;-76.9331240000
+100;F3H-841;Drive;Aug 29 2025 07:49 AM;;Av Javier Prado Este-36, Ate Vitarte, Lima, Lima [Province], Perú;25;N/A;;-12.0454735000;-76.9351130000
+99;F3H-841;Drive;Aug 29 2025 07:48 AM;;Av Javier Prado Este-12, Ate Vitarte, Lima, Lima [Province], Perú;0;N/A;;-12.0470353000;-76.9360185000
+98;F3H-841;Drive;Aug 29 2025 07:47 AM;;Av Javier Prado Este, Ate Vitarte, Lima, Lima [Province];40;N/A;;-12.0540741000;-76.9377791000
+97;F3H-841;Drive;Aug 29 2025 07:45 AM;;Via Principal-66, La Molina, Lima, Lima [Province];0;N/A;;-12.0621910000;-76.9381735000
+96;F3H-841;Travel Start;Aug 29 2025 07:44 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];17;N/A;;-12.0646616000;-76.9396061000
+95;F3H-841;Travel Stop;Aug 29 2025 07:43 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0650945000;-76.9403350000
+94;F3H-841;Drive;Aug 29 2025 07:42 AM;;Av Javier Prado Este-66, La Molina, Lima, Lima [Province];22;N/A;;-12.0664898000;-76.9431605000
+93;F3H-841;Travel Start;Aug 29 2025 07:42 AM;;Av Flora Tristan-27, La Molina, Lima, Lima [Province];19;N/A;;-12.0670345000;-76.9441403000
+92;F3H-841;Travel Stop;Aug 29 2025 07:41 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0674741000;-76.9449661000
+91;F3H-841;Drive;Aug 29 2025 07:40 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];20;N/A;;-12.0676708000;-76.9453280000
+90;F3H-841;Travel Start;Aug 29 2025 07:38 AM;;Av Javier Prado Este-92, La Molina, Lima, Lima [Province];27;N/A;;-12.0697066000;-76.9507998000
+89;F3H-841;Travel Stop;Aug 29 2025 07:38 AM;;Av Javier Prado Este-7, La Molina, Lima, Lima [Province];4;N/A;;-12.0699923000;-76.9516761000
+88;F3H-841;Drive;Aug 29 2025 07:36 AM;;Av Javier Prado Este-82, La Molina, Lima, Lima [Province];25;N/A;;-12.0714776000;-76.9562788000
+87;F3H-841;Travel Start;Aug 29 2025 07:36 AM;;Av La Molina-88, La Molina, Lima, Lima [Province], Perú;17;N/A;;-12.0717315000;-76.9568218000
+86;F3H-841;Travel Stop;Aug 29 2025 07:35 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0720956000;-76.9576261000
+85;F3H-841;Travel Start;Aug 29 2025 07:33 AM;;Av Javier Prado Este-24, La Molina, Lima, Lima [Province];30;N/A;;-12.0750761000;-76.9630963000
+84;F3H-841;Travel Stop;Aug 29 2025 07:32 AM;;Av Javier Prado Este, La Molina, Lima, Lima [Province];0;N/A;;-12.0759843000;-76.9637615000
+83;F3H-841;Travel Start;Aug 29 2025 07:31 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province], Perú;16;N/A;;-12.0783250000;-76.9649598000
+82;F3H-841;Drive;Aug 29 2025 07:30 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province];11;N/A;;-12.0788916000;-76.9654161000
+81;F3H-841;Travel Stop;Aug 29 2025 07:30 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province], Perú;0;N/A;;-12.0790548000;-76.9655348000
+80;F3H-841;Travel Start;Aug 29 2025 07:29 AM;;Av Javier Prado Este-84, Surco, Lima, Lima [Province], Perú;30;N/A;;-12.0810073000;-76.9666756000
+79;F3H-841;Travel Stop;Aug 29 2025 07:28 AM;;Av Javier Prado Este-92, Surco, Lima, Lima [Province], Perú;0;N/A;;-12.0819223000;-76.9673313000
+78;F3H-841;Drive;Aug 29 2025 07:26 AM;;Ovalo Monitor-95, Surco, Lima, Lima [Province];12;N/A;;-12.0837138000;-76.9698466000
+77;F3H-841;Drive;Aug 29 2025 07:24 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province];11;N/A;;-12.0843266000;-76.9754070000
+76;F3H-841;Drive;Aug 29 2025 07:24 AM;;Av Javier Prado Este, Surco, Lima, Lima [Province];12;N/A;;-12.0843600000;-76.9756791000
+75;F3H-841;Drive;Aug 29 2025 07:22 AM;;Av Javier Prado Este-23, Surco, Lima, Lima [Province];0;N/A;;-12.0849798000;-76.9803536000
+74;F3H-841;Drive;Aug 29 2025 07:22 AM;;Salida-42, Surco, Lima, Lima [Province], Perú;0;N/A;;-12.0851791000;-76.9811118000
+73;F3H-841;Drive;Aug 29 2025 07:21 AM;;Av Evitamiento-62, Ate Vitarte, Lima, Lima [Province];28;N/A;;-12.0891741000;-76.9809726000
+72;F3H-841;Drive;Aug 29 2025 07:19 AM;;Av Panamericana-19, Surco, Lima, Lima [Province];43;N/A;;-12.1001931000;-76.9795895000
+71;F3H-841;Drive;Aug 29 2025 07:18 AM;;Av Panamericana-57, Surco, Lima, Lima [Province];46;N/A;;-12.1015146000;-76.9794128000
+70;F3H-841;Drive;Aug 29 2025 07:17 AM;;Rampa-90, Surco, Lima, Lima [Province];24;N/A;;-12.1123118000;-76.9779546000
+69;F3H-841;Drive;Aug 29 2025 07:15 AM;;Av Panamericana-12, Surco, Lima, Lima [Province];12;N/A;;-12.1165908000;-76.9773595000
+68;F3H-841;Travel Start;Aug 29 2025 07:13 AM;;Salida-87, Surco, Lima, Lima [Province];11;N/A;;-12.1196065000;-76.9771781000
+67;F3H-841;Drive;Aug 29 2025 07:12 AM;;Salida-58, Surco, Lima, Lima [Province];12;N/A;;-12.1199951000;-76.9771685000
+66;F3H-841;Travel Stop;Aug 29 2025 07:12 AM;;Av Panamericana-30, Surco, Lima, Lima [Province];1;N/A;;-12.1203091000;-76.9771588000
+65;F3H-841;Drive;Aug 29 2025 07:10 AM;;Av Panamericana-61, Surco, Lima, Lima [Province];9;N/A;;-12.1229631000;-76.9770668000
+64;F3H-841;Drive;Aug 29 2025 07:08 AM;;Av Panamericana-87, Surco, Lima, Lima [Province];9;N/A;;-12.1263683000;-76.9769640000
+63;F3H-841;Travel Start;Aug 29 2025 07:06 AM;;Cerro Lindo-68, Surco, Lima, Lima [Province];11;N/A;;-12.1297171000;-76.9776416000
+62;F3H-841;Drive;Aug 29 2025 07:06 AM;;Cerro Lindo-68, Surco, Lima, Lima [Province];12;N/A;;-12.1297398000;-76.9776501000
+61;F3H-841;Travel Stop;Aug 29 2025 07:06 AM;;Circunvalacion-30, Surco, Lima, Lima [Province];0;N/A;;-12.1304405000;-76.9779161000
+60;F3H-841;Travel Start;Aug 29 2025 07:05 AM;;Av Panamericana, Surco, Lima, Lima [Province];11;N/A;;-12.1315173000;-76.9783138000
+59;F3H-841;Travel Stop;Aug 29 2025 07:04 AM;;Av Panamericana, Surco, Lima, Lima [Province];0;N/A;;-12.1323000000;-76.9786311000
+58;F3H-841;Drive;Aug 29 2025 07:03 AM;;Cerro Amarillo, Surco, Lima, Lima [Province];0;N/A;;-12.1337970000;-76.9792175000
+57;F3H-841;Travel Start;Aug 29 2025 07:01 AM;;Av Panamericana, Surco, Lima, Lima [Province];22;N/A;;-12.1368495000;-76.9803493000
+56;F3H-841;Travel Stop;Aug 29 2025 07:01 AM;;Av Panamericana, Surco, Lima, Lima [Province];0;N/A;;-12.1376411000;-76.9805438000
+55;F3H-841;Idle - Stop;Aug 29 2025 07:00 AM;;Circunvalacion-34, Surco, Lima, Lima [Province];6;N/A;;-12.1378390000;-76.9805923000
+54;F3H-841;Drive;Aug 29 2025 06:59 AM;;Av Panamericana-42, Surco, Lima, Lima [Province];12;N/A;;-12.1406461000;-76.9810908000
+53;F3H-841;Drive;Aug 29 2025 06:57 AM;;Av Panamericana-74, Surco, Lima, Lima [Province];22;N/A;;-12.1458286000;-76.9819988000
+52;F3H-841;Landmark OUT;Aug 29 2025 06:55 AM;QUAVII AVANCE;Av Panamericana-9, Surco, Lima, Lima [Province];12;N/A;;-12.1510958000;-76.9835603000
+51;F3H-841;Travel Start;Aug 29 2025 06:55 AM;QUAVII AVANCE;Av Panamericana-9, Surco, Lima, Lima [Province];12;N/A;;-12.1510958000;-76.9835603000
+50;F3H-841;Ignition ON;Aug 29 2025 06:55 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000
+49;F3H-841;POWER UP;Aug 29 2025 06:55 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000
+48;F3H-841;Drive;Aug 29 2025 06:52 AM;;Av Panamericana-64, San Juan De Miraflores, Lima, Lima [Province];12;N/A;;-12.1639280000;-76.9811891000
+47;F3H-841;Travel Start;Aug 29 2025 06:50 AM;;Av Panamericana-64, San Juan De Miraflores, Lima, Lima [Province];12;N/A;;-12.1678965000;-76.9800286000
+46;F3H-841;Travel Stop;Aug 29 2025 06:50 AM;;Av Panamericana-77, San Juan De Miraflores, Lima, Lima [Province];6;N/A;;-12.1686426000;-76.9798046000
+45;F3H-841;Drive;Aug 29 2025 06:48 AM;;Av Panamericana-18, San Juan De Miraflores, Lima, Lima [Province];20;N/A;;-12.1726103000;-76.9785993000
+44;F3H-841;Drive;Aug 29 2025 06:47 AM;;Av Apurimac, San Juan De Miraflores, Lima, Lima [Province];41;N/A;;-12.1801593000;-76.9761945000
+43;F3H-841;Drive;Aug 29 2025 06:45 AM;;Av Pedro Miotta-13, San Juan De Miraflores, Lima, Lima [Province];33;N/A;;-12.1920098000;-76.9722300000
+42;F3H-841;Travel Start;Aug 29 2025 06:43 AM;;Av Pumacahua, Villa El Salvador, Lima, Lima [Province];17;N/A;;-12.1932398000;-76.9669963000
+41;F3H-841;Idle - Stop;Aug 29 2025 06:42 AM;;Av Pumacahua, Villa El Salvador, Lima, Lima [Province];3;N/A;;-12.1931168000;-76.9658793000
+40;F3H-841;Idle Alert;Aug 29 2025 06:42 AM;;Av Pumacahua, Villa El Salvador, Lima, Lima [Province];1;N/A;;-12.1930926000;-76.9656515000
+39;F3H-841;Idle - Stop;Aug 29 2025 06:40 AM;;Av Pumacahua-37, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.1929228000;-76.9642535000
+38;F3H-841;Travel Stop;Aug 29 2025 06:37 AM;;Av Pumacahua-65, Villa El Salvador, Lima, Lima [Province];3;N/A;;-12.1927560000;-76.9627571000
+37;F3H-841;Idle - Stop;Aug 29 2025 06:36 AM;;Cl8, Villa El Salvador, Lima, Lima [Province];4;N/A;;-12.1926938000;-76.9622706000
+36;F3H-841;Travel Start;Aug 29 2025 06:36 AM;;Av Pumacahua-23, Villa El Salvador, Lima, Lima [Province];14;N/A;;-12.1926445000;-76.9618445000
+35;F3H-841;Travel Stop;Aug 29 2025 06:35 AM;;Av Pastor Sevilla-39, Villa El Salvador, Lima, Lima [Province];1;N/A;;-12.1926875000;-76.9607711000
+34;F3H-841;Drive;Aug 29 2025 06:33 AM;;Av Pastor Sevilla, Villa El Salvador, Lima, Lima [Province];12;N/A;;-12.1953646000;-76.9591785000
+33;F3H-841;Drive;Aug 29 2025 06:33 AM;;Av Pastor Sevilla, Villa El Salvador, Lima, Lima [Province];12;N/A;;-12.1954465000;-76.9591080000
+32;F3H-841;Travel Start;Aug 29 2025 06:32 AM;;Av Modelo, Villa El Salvador, Lima, Lima [Province];22;N/A;;-12.1937363000;-76.9560045000
+31;F3H-841;Travel Stop;Aug 29 2025 06:31 AM;;Av Modelo-33, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.1931718000;-76.9550301000
+30;F3H-841;Drive;Aug 29 2025 06:30 AM;;Av Modelo-52, Villa El Salvador, Lima, Lima [Province];12;N/A;;-12.1927485000;-76.9542898000
+29;F3H-841;Drive;Aug 29 2025 06:29 AM;;Av Modelo, Villa El Salvador, Lima, Lima [Province];17;N/A;;-12.1906661000;-76.9507158000
+28;F3H-841;Idle - Stop;Aug 29 2025 06:27 AM;;Av Modelo-89, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.1877083000;-76.9456161000
+27;F3H-841;Drive;Aug 29 2025 06:27 AM;;Av Modelo-93, Villa El Salvador, Lima, Lima [Province];9;N/A;;-12.1876333000;-76.9455485000
+26;F3H-841;Drive;Aug 29 2025 06:26 AM;;Via Principal-86, Villa El Salvador, Lima, Lima [Province];16;N/A;;-12.1856248000;-76.9467563000
+25;F3H-841;Drive;Aug 29 2025 06:26 AM;;Via Principal-88, Villa El Salvador, Lima, Lima [Province];16;N/A;;-12.1854190000;-76.9468066000
+24;F3H-841;Travel Start;Aug 29 2025 06:25 AM;;Via Principal-24, Villa Maria Del Triunfo, Lima, Lima [Province];17;N/A;;-12.1837653000;-76.9445365000
+23;F3H-841;Drive;Aug 29 2025 06:24 AM;;Via Principal-49, Villa Maria Del Triunfo, Lima, Lima [Province];9;N/A;;-12.1833920000;-76.9438891000
+22;F3H-841;Idle Alert;Aug 29 2025 06:20 AM;;Via Principal-52, Villa Maria Del Triunfo, Lima, Lima [Province];0;N/A;;-12.1833198000;-76.9437115000
+21;F3H-841;Idle - Stop;Aug 29 2025 06:18 AM;;Via Principal-52, Villa Maria Del Triunfo, Lima, Lima [Province];0;N/A;;-12.1833176000;-76.9437068000
+20;F3H-841;Idle - Stop;Aug 29 2025 06:18 AM;;Via Principal-52, Villa Maria Del Triunfo, Lima, Lima [Province];0;N/A;;-12.1833105000;-76.9437051000
+19;F3H-841;Travel Stop;Aug 29 2025 06:15 AM;;Via Principal-52, Villa Maria Del Triunfo, Lima, Lima [Province];0;N/A;;-12.1833130000;-76.9437058000
+18;F3H-841;Drive;Aug 29 2025 06:14 AM;;Via Principal-60, Villa El Salvador, Lima, Lima [Province];17;N/A;;-12.1826915000;-76.9425881000
+17;F3H-841;Drive;Aug 29 2025 06:14 AM;;Av Pachacutec-72, Villa Maria Del Triunfo, Lima, Lima [Province];16;N/A;;-12.1825696000;-76.9424665000
+16;F3H-841;Drive;Aug 29 2025 06:13 AM;;Av Pachacutec-64, Villa Maria Del Triunfo, Lima, Lima [Province];20;N/A;;-12.1816181000;-76.9428838000
+15;F3H-841;Drive;Aug 29 2025 06:12 AM;;Av Pachacutec-30, Villa Maria Del Triunfo, Lima, Lima [Province];20;N/A;;-12.1786483000;-76.9446981000
+14;F3H-841;Travel Start;Aug 29 2025 06:11 AM;;Av Pachacutec-93, Villa Maria Del Triunfo, Lima, Lima [Province];8;N/A;;-12.1767473000;-76.9458458000
+13;F3H-841;Idle - Stop;Aug 29 2025 06:10 AM;;Av De Los Heroes-51, Villa Maria Del Triunfo, Lima, Lima [Province];0;N/A;;-12.1753141000;-76.9466455000
+12;F3H-841;Travel Stop;Aug 29 2025 06:07 AM;;Av De Los Heroes-15, Villa Maria Del Triunfo, Lima, Lima [Province];4;N/A;;-12.1746556000;-76.9461531000
+11;F3H-841;Travel Start;Aug 29 2025 06:06 AM;;Av Progreso, Villa Maria Del Triunfo, Lima, Lima [Province];9;N/A;;-12.1743090000;-76.9455345000
+10;F3H-841;Drive;Aug 29 2025 06:06 AM;;Av Progreso, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;9;N/A;;-12.1741891000;-76.9453225000
+9;F3H-841;Travel Stop;Aug 29 2025 06:05 AM;;Av Nicolas De Pierola-24, Villa Maria Del Triunfo, Lima, Lima [Province];6;N/A;;-12.1735850000;-76.9442476000
+8;F3H-841;Travel Start;Aug 29 2025 06:05 AM;;Av Nicolas De Pierola-35, Villa Maria Del Triunfo, Lima, Lima [Province];8;N/A;;-12.1731113000;-76.9444436000
+7;F3H-841;Idle - Stop;Aug 29 2025 06:00 AM;;Santa Cruz-23, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;0;N/A;;-12.1720371000;-76.9441026000
+6;F3H-841;Landmark OUT;Aug 29 2025 06:00 AM;SEDE CAMPOY;La Union-85, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;0;N/A;;-12.1720391000;-76.9440940000
+5;F3H-841;Idle Alert;Aug 29 2025 06:00 AM;SEDE CAMPOY;La Union-85, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;0;N/A;;-12.1720391000;-76.9440940000
+4;F3H-841;Landmark OUT;Aug 29 2025 05:58 AM;QUAVII AVANCE;La Union-85, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;0;N/A;;-12.1720415000;-76.9440996000
+3;F3H-841;Idle - Stop;Aug 29 2025 05:58 AM;QUAVII AVANCE;La Union-85, Villa Maria Del Triunfo, Lima, Lima [Province], Perú;0;N/A;;-12.1720415000;-76.9440996000
+2;F3H-841;Ignition ON;Aug 29 2025 05:55 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000
+1;F3H-841;POWER UP;Aug 29 2025 05:54 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000

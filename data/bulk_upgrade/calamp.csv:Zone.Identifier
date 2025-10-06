@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://prod-entity-excel-templates-bucket.s3.us-east-1.amazonaws.com/devices/exportLargeActivities/c80bcc4c-3a53-46c0-aafd-fc75e91a58ca_success.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAIA7564QNMGPPEKXA%2F20250717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250717T180233Z&X-Amz-Expires=604800&X-Amz-Signature=cb51cbe3a51827031a58ce0fa11974f0cdcef5b17970da2466e3d15b30f3e6a4&X-Amz-SignedHeaders=host&x-id=GetObject

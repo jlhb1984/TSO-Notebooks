@@ -1,0 +1,514 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+513;HSR591;Parked;Jun 21 2025 11:25 AM;;5QJH+9J Tello, Huila, Colombia;0;N/A;;3.1809130000;-75.2209130000
+512;HSR591;Parked;Jun 21 2025 11:25 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+511;HSR591;Ignición Apagada;Jun 21 2025 11:25 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+510;HSR591;Idle - Stop;Jun 21 2025 11:25 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+509;HSR591;Ignición Encendida;Jun 21 2025 11:25 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+508;HSR591;Parked;Jun 21 2025 11:19 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+507;HSR591;Parked;Jun 21 2025 11:18 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+506;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 11:18 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+505;HSR591;Ignición Apagada;Jun 21 2025 11:18 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1810240000;-75.2209320000
+504;HSR591;Idle - Stop;Jun 21 2025 11:17 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1823450000;-75.2205950000
+503;HSR591;Drive;Jun 21 2025 11:16 AM;;Villavieja, Huila, Colombia;28;N/A;;3.1849900000;-75.2195710000
+502;HSR591;Drive;Jun 21 2025 11:16 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;17;N/A;;3.1851390000;-75.2194480000
+501;HSR591;Idle - Stop;Jun 21 2025 11:16 AM;;Villavieja, Villavieja, Huila, Colombia;0;N/A;;3.1852240000;-75.2193550000
+500;HSR591;Idle - Stop;Jun 21 2025 11:15 AM;;Villavieja - Baraya #2-38, Polonia, Villavieja, Huila, Colombia;0;N/A;;3.1851950000;-75.2193570000
+499;HSR591;Idle - Stop;Jun 21 2025 11:14 AM;;Villavieja - Baraya #2-38, Polonia, Villavieja, Huila, Colombia;0;N/A;;3.1851950000;-75.2193570000
+498;HSR591;Drive;Jun 21 2025 11:13 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;28;N/A;;3.1836950000;-75.2202880000
+497;HSR591;Idle - Stop;Jun 21 2025 11:12 AM;;5QJH+VP Tello, Huila, Colombia;0;N/A;;3.1821780000;-75.2206690000
+496;HSR591;Idle - Stop;Jun 21 2025 11:11 AM;;5QJH+VP Tello, Huila, Colombia;0;N/A;;3.1821780000;-75.2206690000
+495;HSR591;Drive;Jun 21 2025 11:10 AM;;5QJH+JM Tello, Huila, Colombia;28;N/A;;3.1816300000;-75.2208010000
+494;HSR591;Idle - Stop;Jun 21 2025 11:10 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1808690000;-75.2209180000
+493;HSR591;Ignición Encendida;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809250000;-75.2208770000
+492;HSR591;Idle - Stop;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809250000;-75.2208770000
+491;HSR591;Parked;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809250000;-75.2208770000
+490;HSR591;Parked;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809250000;-75.2208770000
+489;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809390000;-75.2208670000
+488;HSR591;Ignición Apagada;Jun 21 2025 11:09 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809390000;-75.2208670000
+487;HSR591;Drive;Jun 21 2025 11:08 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;17;N/A;;3.1807880000;-75.2209500000
+486;HSR591;Idle - Stop;Jun 21 2025 11:08 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+485;HSR591;Ignición Encendida;Jun 21 2025 11:08 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+484;HSR591;Parked;Jun 21 2025 10:45 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+483;HSR591;Parked;Jun 21 2025 10:44 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+482;HSR591;Ignición Apagada;Jun 21 2025 10:44 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+481;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 10:44 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803340000;-75.2209510000
+480;HSR591;Drive;Jun 21 2025 10:44 AM;;Neiva - Baraya- Villa Vieja-5, Villavieja, Huila, Colombia;35;N/A;;3.1789780000;-75.2211630000
+479;HSR591;Drive;Jun 21 2025 10:43 AM;;Villavieja, Tello, Huila, Colombia;27;N/A;;3.1781320000;-75.2213790000
+478;HSR591;Drive;Jun 21 2025 10:43 AM;;Villavieja, Tello, Huila, Colombia;59;N/A;;3.1733730000;-75.2247380000
+477;HSR591;Drive;Jun 21 2025 10:42 AM;;Neiva - Baraya- Villa Vieja-21, Villavieja, Huila, Colombia;46;N/A;;3.1687240000;-75.2295830000
+476;HSR591;Drive;Jun 21 2025 10:42 AM;;Neiva - Baraya- Villa Vieja-23, Villavieja, Huila, Colombia;38;N/A;;3.1670550000;-75.2300840000
+475;HSR591;Drive;Jun 21 2025 10:41 AM;;Villavieja, Tello, Huila, Colombia;56;N/A;;3.1587130000;-75.2324570000
+474;HSR591;Drive;Jun 21 2025 10:40 AM;;Neiva - Baraya- Villa Vieja-35, Villavieja, Huila, Colombia;37;N/A;;3.1574170000;-75.2326900000
+473;HSR591;Drive;Jun 21 2025 10:40 AM;;Neiva - Baraya- Villa Vieja-37, Villavieja, Huila, Colombia;38;N/A;;3.1561350000;-75.2309150000
+472;HSR591;Drive;Jun 21 2025 10:40 AM;;Villavieja, Tello, Huila, Colombia;22;N/A;;3.1544800000;-75.2305300000
+471;HSR591;Drive;Jun 21 2025 10:39 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;11;N/A;;3.1537090000;-75.2305310000
+470;HSR591;Idle - Stop;Jun 21 2025 10:39 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1535980000;-75.2305500000
+469;HSR591;Drive;Jun 21 2025 10:39 AM;;Villavieja, Tello, Huila, Colombia;14;N/A;;3.1536550000;-75.2305360000
+468;HSR591;Idle - Stop;Jun 21 2025 10:39 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1537580000;-75.2305150000
+467;HSR591;Idle - Stop;Jun 21 2025 10:38 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+466;HSR591;Ignición Encendida;Jun 21 2025 10:38 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+465;HSR591;Parked;Jun 21 2025 10:37 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+464;HSR591;Parked;Jun 21 2025 10:37 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+463;HSR591;Ignición Apagada;Jun 21 2025 10:37 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+462;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 10:37 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1538120000;-75.2305090000
+461;HSR591;Drive;Jun 21 2025 10:36 AM;;Villavieja, Tello, Huila, Colombia;40;N/A;;3.1553540000;-75.2306180000
+460;HSR591;Drive;Jun 21 2025 10:36 AM;;Villavieja, Tello, Huila, Colombia;43;N/A;;3.1556780000;-75.2307100000
+459;HSR591;Drive;Jun 21 2025 10:36 AM;;Neiva - Baraya- Villa Vieja-36, Villavieja, Huila, Colombia;35;N/A;;3.1570480000;-75.2325900000
+458;HSR591;Drive;Jun 21 2025 10:35 AM;;Neiva - Baraya- Villa Vieja-32, Villavieja, Huila, Colombia;57;N/A;;3.1609440000;-75.2320140000
+457;HSR591;Drive;Jun 21 2025 10:34 AM;;Villavieja, Tello, Huila, Colombia;46;N/A;;3.1685020000;-75.2298090000
+456;HSR591;Drive;Jun 21 2025 10:33 AM;;Villavieja, Tello, Huila, Colombia;64;N/A;;3.1748160000;-75.2237430000
+455;HSR591;Drive;Jun 21 2025 10:32 AM;;Villavieja, Tello, Huila, Colombia;30;N/A;;3.1793320000;-75.2210670000
+454;HSR591;Idle - Stop;Jun 21 2025 10:31 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803660000;-75.2209450000
+453;HSR591;Idle - Stop;Jun 21 2025 10:30 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803660000;-75.2209450000
+452;HSR591;Idle - Stop;Jun 21 2025 10:29 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803660000;-75.2209450000
+451;HSR591;Drive;Jun 21 2025 10:28 AM;;Villavieja, Tello, Huila, Colombia;9;N/A;;3.1810250000;-75.2209320000
+450;HSR591;Idle - Stop;Jun 21 2025 10:27 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1824350000;-75.2205950000
+449;HSR591;Drive;Jun 21 2025 10:26 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;16;N/A;;3.1830420000;-75.2204810000
+448;HSR591;Drive;Jun 21 2025 10:25 AM;;Cra. 3ª # 5-124, Polonia, Villavieja, Huila, Colombia;9;N/A;;3.1866280000;-75.2186070000
+447;HSR591;Drive;Jun 21 2025 10:24 AM;;Neiva - Villa Vieja-80, Villavieja, Huila, Colombia;61;N/A;;3.1940240000;-75.2141530000
+446;HSR591;Drive;Jun 21 2025 10:23 AM;;6Q2R+G3 Villavieja, Huila, Colombia;70;N/A;;3.2013230000;-75.2098170000
+445;HSR591;Drive;Jun 21 2025 10:23 AM;;Villavieja, Villavieja, Huila, Colombia;70;N/A;;3.2033330000;-75.2094920000
+444;HSR591;Drive;Jun 21 2025 10:22 AM;;Neiva - Villa Vieja, Villavieja, Huila, Colombia;70;N/A;;3.2098090000;-75.2099730000
+443;HSR591;Drive;Jun 21 2025 10:22 AM;;6Q7Q+6C Villavieja, Huila, Colombia;54;N/A;;3.2130600000;-75.2114500000
+442;HSR591;Drive;Jun 21 2025 10:21 AM;;Neiva - Villa Vieja, Villavieja, Huila, Colombia;24;N/A;;3.2170860000;-75.2138660000
+441;HSR591;Drive;Jun 21 2025 10:20 AM;;Cl. 4 #7-43, Villavieja, Huila, Colombia;20;N/A;;3.2186450000;-75.2164140000
+440;HSR591;Drive;Jun 21 2025 10:20 AM;;Villa Vieja, Villavieja, Huila, Colombia;16;N/A;;3.2189610000;-75.2169630000
+439;HSR591;Drive;Jun 21 2025 10:19 AM;;Cra. 6 # 5-28, Villavieja, Huila, Colombia;9;N/A;;3.2201140000;-75.2168920000
+438;HSR591;Drive;Jun 21 2025 10:19 AM;;Cra. 6 # 5-84, Villavieja, Huila, Colombia;11;N/A;;3.2207160000;-75.2167530000
+437;HSR591;Drive;Jun 21 2025 10:19 AM;;Cra. 6 # 5-96, Villavieja, Huila, Colombia;9;N/A;;3.2208670000;-75.2167030000
+436;HSR591;Idle - Stop;Jun 21 2025 10:19 AM;;Cra. 5 #6-16, Villavieja, Huila, Colombia;0;N/A;;3.2209440000;-75.2167840000
+435;HSR591;Drive;Jun 21 2025 10:18 AM;;Cra. 5 # 5-36, Villavieja, Huila, Colombia;25;N/A;;3.2202630000;-75.2171970000
+434;HSR591;Drive;Jun 21 2025 10:17 AM;;Cl. 4 # 5-5, Villavieja, Huila, Colombia;9;N/A;;3.2194090000;-75.2175710000
+433;HSR591;Idle - Stop;Jun 21 2025 10:17 AM;;Cl. 4 #5-05, Villavieja, Huila, Colombia;0;N/A;;3.2193410000;-75.2175730000
+432;HSR591;Idle - Stop;Jun 21 2025 10:16 AM;;Cl. 4 #5-05, Villavieja, Huila, Colombia;0;N/A;;3.2193410000;-75.2175730000
+431;HSR591;Idle - Stop;Jun 21 2025 10:15 AM;;Cl. 4 #5-05, Villavieja, Huila, Colombia;0;N/A;;3.2193410000;-75.2175730000
+430;HSR591;Idle - Stop;Jun 21 2025 10:14 AM;;Cl. 4 #5-05, Villavieja, Huila, Colombia;0;N/A;;3.2193410000;-75.2175730000
+429;HSR591;Idle - Stop;Jun 21 2025 10:13 AM;;Cl. 4 #5-05, Villavieja, Huila, Colombia;0;N/A;;3.2193410000;-75.2175730000
+428;HSR591;Idle - Stop;Jun 21 2025 10:12 AM;;Villa Vieja, Villavieja, Huila, Colombia;0;N/A;;3.2190570000;-75.2171480000
+427;HSR591;Drive;Jun 21 2025 10:11 AM;;Neiva - Villa Vieja, Villavieja, Huila, Colombia;25;N/A;;3.2177470000;-75.2148260000
+426;HSR591;Drive;Jun 21 2025 10:11 AM;;Neiva - Villa Vieja, Villavieja, Huila, Colombia;33;N/A;;3.2168690000;-75.2135300000
+425;HSR591;Drive;Jun 21 2025 10:10 AM;;Neiva - Villa Vieja, Villavieja, Huila, Colombia;9;N/A;;3.2146040000;-75.2121450000
+424;HSR591;Drive;Jun 21 2025 10:09 AM;;6Q4R+P4 Villavieja, Huila, Colombia;57;N/A;;3.2068310000;-75.2097220000
+423;HSR591;Drive;Jun 21 2025 10:09 AM;;Neiva - Villa Vieja-30, Villavieja, Huila, Colombia;61;N/A;;3.2024590000;-75.2094220000
+422;HSR591;Drive;Jun 21 2025 10:08 AM;;5QXQ+23 Villavieja, Huila, Colombia;70;N/A;;3.1975240000;-75.2122620000
+421;HSR591;Drive;Jun 21 2025 10:07 AM;;Villavieja, Villavieja, Huila, Colombia;49;N/A;;3.1901350000;-75.2167330000
+420;HSR591;Drive;Jun 21 2025 10:06 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;14;N/A;;3.1860560000;-75.2188510000
+419;HSR591;Drive;Jun 21 2025 10:05 AM;;5QMH+FV Villavieja, Huila, Colombia;11;N/A;;3.1836150000;-75.2203260000
+418;HSR591;Idle - Stop;Jun 21 2025 10:05 AM;;Neiva-Villavieja, Villavieja, Huila, Colombia;0;N/A;;3.1835240000;-75.2203770000
+417;HSR591;Idle - Stop;Jun 21 2025 10:05 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836480000;-75.2205130000
+416;HSR591;Idle - Stop;Jun 21 2025 10:04 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1836230000;-75.2204120000
+415;HSR591;Idle - Stop;Jun 21 2025 10:04 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+414;HSR591;Ignición Encendida;Jun 21 2025 10:04 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+413;HSR591;Parked;Jun 21 2025 09:53 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+412;HSR591;Parked;Jun 21 2025 09:53 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+411;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:53 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+410;HSR591;Ignición Apagada;Jun 21 2025 09:53 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834270000;-75.2204990000
+409;HSR591;Idle - Stop;Jun 21 2025 09:53 AM;;5QMH+8R Villavieja, Huila, Colombia;0;N/A;;3.1833250000;-75.2204480000
+408;HSR591;Drive;Jun 21 2025 09:52 AM;;5QMH+3Q Tello, Huila, Colombia;17;N/A;;3.1827470000;-75.2205000000
+407;HSR591;Drive;Jun 21 2025 09:52 AM;;5QJH+VP Tello, Huila, Colombia;17;N/A;;3.1821300000;-75.2206680000
+406;HSR591;Idle - Stop;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1802460000;-75.2209250000
+405;HSR591;Idle - Stop;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1801760000;-75.2209620000
+404;HSR591;Ignición Encendida;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1801760000;-75.2209620000
+403;HSR591;Parked;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1801760000;-75.2209620000
+402;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1801760000;-75.2209620000
+401;HSR591;Ignición Apagada;Jun 21 2025 09:51 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1801760000;-75.2209620000
+400;HSR591;Idle - Stop;Jun 21 2025 09:50 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1800200000;-75.2209780000
+399;HSR591;Ignición Encendida;Jun 21 2025 09:50 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+398;HSR591;Idle - Stop;Jun 21 2025 09:50 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+397;HSR591;Parked;Jun 21 2025 09:49 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+396;HSR591;Parked;Jun 21 2025 09:48 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+395;HSR591;Ignición Apagada;Jun 21 2025 09:48 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+394;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:48 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+393;HSR591;Idle - Stop;Jun 21 2025 09:48 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1803610000;-75.2209210000
+392;HSR591;Idle - Stop;Jun 21 2025 09:47 AM;;5QJH+8M Tello, Huila, Colombia;0;N/A;;3.1808880000;-75.2208720000
+391;HSR591;Idle - Stop;Jun 21 2025 09:46 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1809200000;-75.2208670000
+390;HSR591;Idle - Stop;Jun 21 2025 09:46 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+389;HSR591;Ignición Encendida;Jun 21 2025 09:46 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+388;HSR591;Parked;Jun 21 2025 09:46 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+387;HSR591;Parked;Jun 21 2025 09:45 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+386;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:45 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+385;HSR591;Ignición Apagada;Jun 21 2025 09:45 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1807530000;-75.2208770000
+384;HSR591;Drive;Jun 21 2025 09:44 AM;;Villavieja, Tello, Huila, Colombia;17;N/A;;3.1781540000;-75.2213700000
+383;HSR591;Drive;Jun 21 2025 09:43 AM;;Villavieja, Tello, Huila, Colombia;38;N/A;;3.1762950000;-75.2227900000
+382;HSR591;Drive;Jun 21 2025 09:43 AM;;Neiva - Baraya- Villa Vieja-9, Villavieja, Huila, Colombia;45;N/A;;3.1760130000;-75.2229510000
+381;HSR591;Drive;Jun 21 2025 09:42 AM;;Villavieja, Tello, Huila, Colombia;54;N/A;;3.1696090000;-75.2274260000
+380;HSR591;Drive;Jun 21 2025 09:42 AM;;Villavieja, Tello, Huila, Colombia;43;N/A;;3.1691730000;-75.2285370000
+379;HSR591;Drive;Jun 21 2025 09:41 AM;;Villavieja, Tello, Huila, Colombia;38;N/A;;3.1650960000;-75.2309160000
+378;HSR591;Drive;Jun 21 2025 09:41 AM;;Neiva - Baraya- Villa Vieja-27, Villavieja, Huila, Colombia;37;N/A;;3.1646010000;-75.2312370000
+377;HSR591;Drive;Jun 21 2025 09:40 AM;;Villavieja, Tello, Huila, Colombia;40;N/A;;3.1592540000;-75.2323440000
+376;HSR591;Drive;Jun 21 2025 09:39 AM;;Neiva - Baraya- Villa Vieja-35, Villavieja, Huila, Colombia;19;N/A;;3.1574510000;-75.2326920000
+375;HSR591;Drive;Jun 21 2025 09:39 AM;;Neiva - Baraya- Villa Vieja-37, Villavieja, Huila, Colombia;20;N/A;;3.1563440000;-75.2312710000
+374;HSR591;Drive;Jun 21 2025 09:39 AM;;Villavieja, Tello, Huila, Colombia;22;N/A;;3.1562600000;-75.2311180000
+373;HSR591;Idle - Stop;Jun 21 2025 09:38 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1545610000;-75.2304870000
+372;HSR591;Drive;Jun 21 2025 09:37 AM;;5Q39+JR Tello, Huila, Colombia;16;N/A;;3.1540640000;-75.2304670000
+371;HSR591;Idle - Stop;Jun 21 2025 09:37 AM;;Villa Vieja, Tello, Huila, Colombia;0;N/A;;3.1538530000;-75.2304420000
+370;HSR591;Idle - Stop;Jun 21 2025 09:36 AM;;5Q39+GR Tello, Huila, Colombia;0;N/A;;3.1537530000;-75.2304110000
+369;HSR591;Drive;Jun 21 2025 09:35 AM;;5Q3C+65 Tello, Huila, Colombia;14;N/A;;3.1530810000;-75.2296120000
+368;HSR591;Idle - Stop;Jun 21 2025 09:35 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525210000;-75.2292680000
+367;HSR591;Idle - Stop;Jun 21 2025 09:35 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+366;HSR591;Ignición Encendida;Jun 21 2025 09:35 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+365;HSR591;Parked;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+364;HSR591;Parked;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+363;HSR591;Ignición Apagada;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+362;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525000000;-75.2292730000
+361;HSR591;Idle - Stop;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525100000;-75.2292630000
+360;HSR591;Idle - Stop;Jun 21 2025 09:33 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525260000;-75.2292340000
+359;HSR591;Drive;Jun 21 2025 09:32 AM;;5Q3C+37 Tello, Huila, Colombia;9;N/A;;3.1527570000;-75.2293590000
+358;HSR591;Drive;Jun 21 2025 09:32 AM;;5Q3C+74 Tello, Huila, Colombia;11;N/A;;3.1531660000;-75.2297360000
+357;HSR591;Idle - Stop;Jun 21 2025 09:32 AM;;5Q39+GR Tello, Huila, Colombia;0;N/A;;3.1537310000;-75.2304520000
+356;HSR591;Idle - Stop;Jun 21 2025 09:31 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1537410000;-75.2305020000
+355;HSR591;Idle - Stop;Jun 21 2025 09:30 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1537090000;-75.2305360000
+354;HSR591;Idle - Stop;Jun 21 2025 09:30 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1535980000;-75.2305740000
+353;HSR591;Idle - Stop;Jun 21 2025 09:30 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1535770000;-75.2305500000
+352;HSR591;Idle - Stop;Jun 21 2025 09:30 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1535380000;-75.2305360000
+351;HSR591;Idle - Stop;Jun 21 2025 09:29 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+350;HSR591;Idle - Stop;Jun 21 2025 09:28 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+349;HSR591;Idle - Stop;Jun 21 2025 09:27 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+348;HSR591;Idle - Stop;Jun 21 2025 09:26 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+347;HSR591;Idle - Stop;Jun 21 2025 09:25 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+346;HSR591;Idle - Stop;Jun 21 2025 09:24 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+345;HSR591;Idle - Stop;Jun 21 2025 09:23 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+344;HSR591;Idle - Stop;Jun 21 2025 09:22 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540100000;-75.2305190000
+343;HSR591;Drive;Jun 21 2025 09:21 AM;;Neiva - Baraya- Villa Vieja-38, Villavieja, Huila, Colombia;32;N/A;;3.1556550000;-75.2306980000
+342;HSR591;Drive;Jun 21 2025 09:21 AM;;Neiva - Baraya- Villa Vieja-36, Villavieja, Huila, Colombia;33;N/A;;3.1566350000;-75.2318360000
+341;HSR591;Drive;Jun 21 2025 09:21 AM;;Villavieja, Tello, Huila, Colombia;30;N/A;;3.1569960000;-75.2325120000
+340;HSR591;Drive;Jun 21 2025 09:20 AM;;Neiva - Baraya- Villa Vieja-31, Villavieja, Huila, Colombia;33;N/A;;3.1615310000;-75.2318780000
+339;HSR591;Drive;Jun 21 2025 09:19 AM;;Villavieja, Tello, Huila, Colombia;33;N/A;;3.1657990000;-75.2305490000
+338;HSR591;Drive;Jun 21 2025 09:19 AM;;Neiva - Baraya- Villa Vieja-22, Villavieja, Huila, Colombia;32;N/A;;3.1681410000;-75.2299890000
+337;HSR591;Drive;Jun 21 2025 09:18 AM;;5Q9C+PM Villavieja, Huila, Colombia;33;N/A;;3.1693030000;-75.2282290000
+336;HSR591;Drive;Jun 21 2025 09:18 AM;;Villavieja, Tello, Huila, Colombia;33;N/A;;3.1697450000;-75.2272800000
+335;HSR591;Drive;Jun 21 2025 09:17 AM;;Villavieja, Tello, Huila, Colombia;35;N/A;;3.1732900000;-75.2248150000
+334;HSR591;Drive;Jun 21 2025 09:16 AM;;Villavieja, Tello, Huila, Colombia;14;N/A;;3.1764680000;-75.2226940000
+333;HSR591;Drive;Jun 21 2025 09:15 AM;;Villavieja, Tello, Huila, Colombia;12;N/A;;3.1781040000;-75.2213930000
+332;HSR591;Drive;Jun 21 2025 09:14 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;11;N/A;;3.1805580000;-75.2209270000
+331;HSR591;Drive;Jun 21 2025 09:13 AM;;Villavieja, Tello, Huila, Colombia;12;N/A;;3.1822750000;-75.2206420000
+330;HSR591;Idle - Stop;Jun 21 2025 09:12 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;0;N/A;;3.1833850000;-75.2203820000
+329;HSR591;Idle - Stop;Jun 21 2025 09:12 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;0;N/A;;3.1834920000;-75.2203660000
+328;HSR591;Idle - Stop;Jun 21 2025 09:12 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+327;HSR591;Ignición Encendida;Jun 21 2025 09:12 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+326;HSR591;Parked;Jun 21 2025 09:06 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+325;HSR591;Parked;Jun 21 2025 09:05 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+324;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:05 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+323;HSR591;Ignición Apagada;Jun 21 2025 09:05 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+322;HSR591;Idle - Stop;Jun 21 2025 09:05 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835520000;-75.2204040000
+321;HSR591;Idle - Stop;Jun 21 2025 09:05 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+320;HSR591;Ignición Encendida;Jun 21 2025 09:05 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+319;HSR591;Parked;Jun 21 2025 09:01 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+318;HSR591;Parked;Jun 21 2025 09:01 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+317;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 09:01 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+316;HSR591;Ignición Apagada;Jun 21 2025 09:01 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+315;HSR591;Idle - Stop;Jun 21 2025 09:01 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836390000;-75.2205460000
+314;HSR591;Idle - Stop;Jun 21 2025 09:00 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834850000;-75.2204300000
+313;HSR591;Drive;Jun 21 2025 09:00 AM;;5QMH+3Q Tello, Huila, Colombia;12;N/A;;3.1827600000;-75.2205070000
+312;HSR591;Drive;Jun 21 2025 08:59 AM;;South America, Huila;14;N/A;;3.1818840000;-75.2207310000
+311;HSR591;Idle - Stop;Jun 21 2025 08:59 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811690000;-75.2209180000
+310;HSR591;Idle - Stop;Jun 21 2025 08:59 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811230000;-75.2209190000
+309;HSR591;Idle - Stop;Jun 21 2025 08:59 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811260000;-75.2209160000
+308;HSR591;Idle - Stop;Jun 21 2025 08:58 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811620000;-75.2209150000
+307;HSR591;Idle - Stop;Jun 21 2025 08:57 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811620000;-75.2209150000
+306;HSR591;Idle - Stop;Jun 21 2025 08:56 AM;;5QJH+XQ Tello, Huila, Colombia;0;N/A;;3.1824520000;-75.2206060000
+305;HSR591;Idle - Stop;Jun 21 2025 08:55 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;0;N/A;;3.1833920000;-75.2203560000
+304;HSR591;Idle - Stop;Jun 21 2025 08:55 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+303;HSR591;Ignición Encendida;Jun 21 2025 08:55 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+302;HSR591;Parked;Jun 21 2025 08:50 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+301;HSR591;Parked;Jun 21 2025 08:50 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+300;HSR591;Ignición Apagada;Jun 21 2025 08:49 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+299;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 08:49 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+298;HSR591;Idle - Stop;Jun 21 2025 08:49 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835580000;-75.2204590000
+297;HSR591;Idle - Stop;Jun 21 2025 08:49 AM;;5QMH+CQ Villavieja, Huila, Colombia;0;N/A;;3.1835930000;-75.2205280000
+296;HSR591;Idle - Stop;Jun 21 2025 08:48 AM;;5QMH+CR Villavieja, Huila, Colombia;0;N/A;;3.1835090000;-75.2204820000
+295;HSR591;Drive;Jun 21 2025 08:48 AM;;Neiva - Baraya- Villa Vieja, Villavieja, Huila, Colombia;12;N/A;;3.1833400000;-75.2203820000
+294;HSR591;Drive;Jun 21 2025 08:47 AM;;Villavieja, Tello, Huila, Colombia;12;N/A;;3.1813750000;-75.2208680000
+293;HSR591;Idle - Stop;Jun 21 2025 08:46 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1812500000;-75.2208680000
+292;HSR591;Idle - Stop;Jun 21 2025 08:45 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1812500000;-75.2208680000
+291;HSR591;Idle - Stop;Jun 21 2025 08:44 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1812500000;-75.2208680000
+290;HSR591;Idle - Stop;Jun 21 2025 08:43 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1812500000;-75.2208680000
+289;HSR591;Idle - Stop;Jun 21 2025 08:43 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1811130000;-75.2209030000
+288;HSR591;Drive;Jun 21 2025 08:43 AM;;5QJH+9J Tello, Huila, Colombia;11;N/A;;3.1809690000;-75.2209240000
+287;HSR591;Drive;Jun 21 2025 08:43 AM;;Villavieja, Tello, Huila, Colombia;12;N/A;;3.1808600000;-75.2209310000
+286;HSR591;Idle - Stop;Jun 21 2025 08:42 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1807910000;-75.2209200000
+285;HSR591;Idle - Stop;Jun 21 2025 08:41 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1807910000;-75.2209200000
+284;HSR591;Idle - Stop;Jun 21 2025 08:40 AM;;Neiva - Baraya- Villa Vieja-4, Villavieja, Huila, Colombia;0;N/A;;3.1807860000;-75.2209220000
+283;HSR591;Idle - Stop;Jun 21 2025 08:39 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1769960000;-75.2222340000
+282;HSR591;Drive;Jun 21 2025 08:38 AM;;5QCF+GG Villavieja, Huila, Colombia;65;N/A;;3.1712550000;-75.2261520000
+281;HSR591;Drive;Jun 21 2025 08:37 AM;;Neiva - Baraya- Villa Vieja-26, Villavieja, Huila, Colombia;54;N/A;;3.1652110000;-75.2308330000
+280;HSR591;Drive;Jun 21 2025 08:37 AM;;Villavieja, Tello, Huila, Colombia;54;N/A;;3.1644920000;-75.2313030000
+279;HSR591;Drive;Jun 21 2025 08:36 AM;;Neiva - Baraya- Villa Vieja-34, Villavieja, Huila, Colombia;38;N/A;;3.1583470000;-75.2325330000
+278;HSR591;Drive;Jun 21 2025 08:36 AM;;5Q48+WW Tello, Huila, Colombia;32;N/A;;3.1572970000;-75.2326750000
+277;HSR591;Drive;Jun 21 2025 08:36 AM;;Neiva - Baraya- Villa Vieja-37, Villavieja, Huila, Colombia;30;N/A;;3.1562520000;-75.2310880000
+276;HSR591;Drive;Jun 21 2025 08:35 AM;;5Q39+VR Villavieja, Huila, Colombia;20;N/A;;3.1547410000;-75.2304940000
+275;HSR591;Idle - Stop;Jun 21 2025 08:34 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1545880000;-75.2304830000
+274;HSR591;Idle - Stop;Jun 21 2025 08:33 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1545880000;-75.2304830000
+273;HSR591;Drive;Jun 21 2025 08:33 AM;;5Q39+JR Tello, Huila, Colombia;12;N/A;;3.1540240000;-75.2304570000
+272;HSR591;Drive;Jun 21 2025 08:32 AM;;5Q39+CV Tello, Huila, Colombia;9;N/A;;3.1536750000;-75.2302980000
+271;HSR591;Drive;Jun 21 2025 08:32 AM;;5Q3C+46 Tello, Huila, Colombia;9;N/A;;3.1528730000;-75.2294230000
+270;HSR591;Drive;Jun 21 2025 08:32 AM;;5Q3C+37 Tello, Huila, Colombia;9;N/A;;3.1527030000;-75.2293500000
+269;HSR591;Drive;Jun 21 2025 08:31 AM;;5Q3C+37 Tello, Huila, Colombia;9;N/A;;3.1526080000;-75.2293170000
+268;HSR591;Idle - Stop;Jun 21 2025 08:31 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525230000;-75.2292860000
+267;HSR591;Idle - Stop;Jun 21 2025 08:30 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525230000;-75.2292860000
+266;HSR591;Idle - Stop;Jun 21 2025 08:29 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525230000;-75.2292860000
+265;HSR591;Idle - Stop;Jun 21 2025 08:28 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525230000;-75.2292860000
+264;HSR591;Drive;Jun 21 2025 08:27 AM;;5Q3C+37 Tello, Huila, Colombia;9;N/A;;3.1526860000;-75.2293250000
+263;HSR591;Idle - Stop;Jun 21 2025 08:27 AM;;5Q3C+47 Tello, Huila, Colombia;0;N/A;;3.1528230000;-75.2293680000
+262;HSR591;Idle - Stop;Jun 21 2025 08:26 AM;;5Q39+FR Tello, Huila, Colombia;0;N/A;;3.1537200000;-75.2303950000
+261;HSR591;Idle - Stop;Jun 21 2025 08:26 AM;;5Q39+GR Tello, Huila, Colombia;0;N/A;;3.1537700000;-75.2304810000
+260;HSR591;Idle - Stop;Jun 21 2025 08:25 AM;;Neiva - Baraya- Villa Vieja-40, Villavieja, Huila, Colombia;0;N/A;;3.1537910000;-75.2305150000
+259;HSR591;Idle - Stop;Jun 21 2025 08:24 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1543440000;-75.2305140000
+258;HSR591;Idle - Stop;Jun 21 2025 08:24 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+257;HSR591;Ignición Encendida;Jun 21 2025 08:24 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+256;HSR591;Parked;Jun 21 2025 08:21 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+255;HSR591;Parked;Jun 21 2025 08:20 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+254;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 08:20 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+253;HSR591;Ignición Apagada;Jun 21 2025 08:20 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+252;HSR591;Idle - Stop;Jun 21 2025 08:20 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+251;HSR591;Idle - Stop;Jun 21 2025 08:20 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+250;HSR591;Idle - Stop;Jun 21 2025 08:19 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+249;HSR591;Idle - Stop;Jun 21 2025 08:18 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+248;HSR591;Idle - Stop;Jun 21 2025 08:17 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+247;HSR591;Idle - Stop;Jun 21 2025 08:16 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+246;HSR591;Idle - Stop;Jun 21 2025 08:15 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541010000;-75.2305120000
+245;HSR591;Idle - Stop;Jun 21 2025 08:14 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541100000;-75.2305110000
+244;HSR591;Idle - Stop;Jun 21 2025 08:14 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541130000;-75.2305130000
+243;HSR591;Idle - Stop;Jun 21 2025 08:14 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1541780000;-75.2305160000
+242;HSR591;Idle - Stop;Jun 21 2025 08:13 AM;;Neiva - Baraya- Villa Vieja-39, Villavieja, Huila, Colombia;0;N/A;;3.1542020000;-75.2305170000
+241;HSR591;Drive;Jun 21 2025 08:13 AM;;South America, Villavieja, Huila;49;N/A;;3.1526930000;-75.2307030000
+240;HSR591;Drive;Jun 21 2025 08:12 AM;;Villavieja, Tello, Huila, Colombia;19;N/A;;3.1479530000;-75.2320630000
+239;HSR591;Idle - Stop;Jun 21 2025 08:11 AM;;4QW9+M6 Villavieja, Huila, Colombia;0;N/A;;3.1467160000;-75.2319120000
+238;HSR591;Idle - Stop;Jun 21 2025 08:11 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+237;HSR591;Ignición Encendida;Jun 21 2025 08:11 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+236;HSR591;Parked;Jun 21 2025 08:06 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+235;HSR591;Parked;Jun 21 2025 08:05 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+234;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 08:05 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+233;HSR591;Ignición Apagada;Jun 21 2025 08:05 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467710000;-75.2318440000
+232;HSR591;Idle - Stop;Jun 21 2025 08:05 AM;;4QW9+P6 Villavieja, Huila, Colombia;0;N/A;;3.1467720000;-75.2318410000
+231;HSR591;Idle - Stop;Jun 21 2025 08:05 AM;;4QW9+M6 Villavieja, Huila, Colombia;0;N/A;;3.1467800000;-75.2319750000
+230;HSR591;Drive;Jun 21 2025 08:04 AM;;Neiva - Baraya- Villa Vieja-47, Villavieja, Huila, Colombia;24;N/A;;3.1477620000;-75.2320910000
+229;HSR591;Drive;Jun 21 2025 08:03 AM;;Villavieja, Tello, Huila, Colombia;30;N/A;;3.1522640000;-75.2308470000
+228;HSR591;Drive;Jun 21 2025 08:03 AM;;5Q39+FR Tello, Huila, Colombia;16;N/A;;3.1536570000;-75.2304290000
+227;HSR591;Idle - Stop;Jun 21 2025 08:02 AM;;5Q39+9X Tello, Huila, Colombia;0;N/A;;3.1534590000;-75.2300690000
+226;HSR591;Idle - Stop;Jun 21 2025 08:01 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525240000;-75.2292800000
+225;HSR591;Idle - Stop;Jun 21 2025 08:01 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525130000;-75.2292770000
+224;HSR591;Idle - Stop;Jun 21 2025 08:00 AM;;5Q3C+27 Tello, Huila, Colombia;0;N/A;;3.1525130000;-75.2292770000
+223;HSR591;Idle - Stop;Jun 21 2025 07:59 AM;;5Q3C+37 Tello, Huila, Colombia;0;N/A;;3.1526240000;-75.2293050000
+222;HSR591;Idle - Stop;Jun 21 2025 07:59 AM;;5Q3C+37 Tello, Huila, Colombia;0;N/A;;3.1527630000;-75.2293410000
+221;HSR591;Drive;Jun 21 2025 07:58 AM;;5Q39+FR Tello, Huila, Colombia;14;N/A;;3.1537310000;-75.2303890000
+220;HSR591;Idle - Stop;Jun 21 2025 07:58 AM;;5Q39+GR Tello, Huila, Colombia;0;N/A;;3.1537820000;-75.2304650000
+219;HSR591;Idle - Stop;Jun 21 2025 07:57 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540860000;-75.2305080000
+218;HSR591;Idle - Stop;Jun 21 2025 07:56 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540860000;-75.2305080000
+217;HSR591;Idle - Stop;Jun 21 2025 07:55 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540860000;-75.2305080000
+216;HSR591;Idle - Stop;Jun 21 2025 07:54 AM;;Villavieja, Tello, Huila, Colombia;0;N/A;;3.1540860000;-75.2305080000
+215;HSR591;Drive;Jun 21 2025 07:54 AM;;Neiva - Baraya- Villa Vieja-38, Villavieja, Huila, Colombia;46;N/A;;3.1557580000;-75.2307160000
+214;HSR591;Drive;Jun 21 2025 07:53 AM;;Neiva - Baraya- Villa Vieja-36, Villavieja, Huila, Colombia;40;N/A;;3.1569660000;-75.2324750000
+213;HSR591;Drive;Jun 21 2025 07:52 AM;;Villavieja, Tello, Huila, Colombia;22;N/A;;3.1637120000;-75.2316070000
+212;HSR591;Drive;Jun 21 2025 07:51 AM;;Neiva - Baraya- Villa Vieja-22, Villavieja, Huila, Colombia;48;N/A;;3.1682990000;-75.2299100000
+211;HSR591;Drive;Jun 21 2025 07:51 AM;;Neiva - Baraya- Villa Vieja-21, Villavieja, Huila, Colombia;48;N/A;;3.1689700000;-75.2291370000
+210;HSR591;Drive;Jun 21 2025 07:51 AM;;Villavieja, Tello, Huila, Colombia;59;N/A;;3.1697970000;-75.2271970000
+209;HSR591;Drive;Jun 21 2025 07:50 AM;;Villavieja, Tello, Huila, Colombia;51;N/A;;3.1749200000;-75.2236530000
+208;HSR591;Drive;Jun 21 2025 07:49 AM;;Neiva - Baraya- Villa Vieja-5, Villavieja, Huila, Colombia;24;N/A;;3.1790510000;-75.2211360000
+207;HSR591;Idle - Stop;Jun 21 2025 07:48 AM;;South America, Villavieja, Huila;0;N/A;;3.1811510000;-75.2208790000
+206;HSR591;Drive;Jun 21 2025 07:47 AM;;5QMH+3Q Villavieja, Huila, Colombia;12;N/A;;3.1827300000;-75.2206070000
+205;HSR591;Drive;Jun 21 2025 07:47 AM;;5QMH+9Q Villavieja, Huila, Colombia;14;N/A;;3.1833460000;-75.2205190000
+204;HSR591;Idle - Stop;Jun 21 2025 07:47 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836100000;-75.2205570000
+203;HSR591;Idle - Stop;Jun 21 2025 07:46 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836830000;-75.2205940000
+202;HSR591;Idle - Stop;Jun 21 2025 07:45 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836830000;-75.2205940000
+201;HSR591;Idle - Stop;Jun 21 2025 07:45 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836490000;-75.2205770000
+200;HSR591;Ignición Encendida;Jun 21 2025 07:45 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836490000;-75.2205770000
+199;HSR591;Parked;Jun 21 2025 07:32 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836490000;-75.2205770000
+198;HSR591;Parked;Jun 21 2025 07:32 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836490000;-75.2205770000
+197;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 07:32 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+196;HSR591;Ignición Apagada;Jun 21 2025 07:32 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+195;HSR591;Idle - Stop;Jun 21 2025 07:31 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+194;HSR591;Idle - Stop;Jun 21 2025 07:30 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+193;HSR591;Idle - Stop;Jun 21 2025 07:29 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+192;HSR591;Idle - Stop;Jun 21 2025 07:28 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+191;HSR591;Idle - Stop;Jun 21 2025 07:27 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+190;HSR591;Idle - Stop;Jun 21 2025 07:26 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+189;HSR591;Idle - Stop;Jun 21 2025 07:25 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+188;HSR591;Idle - Stop;Jun 21 2025 07:24 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+187;HSR591;Idle - Stop;Jun 21 2025 07:23 AM;;5QMH+FQ Villavieja, Huila, Colombia;0;N/A;;3.1836160000;-75.2205490000
+186;HSR591;Idle - Stop;Jun 21 2025 07:23 AM;;5QMH+9R Villavieja, Huila, Colombia;0;N/A;;3.1834720000;-75.2204330000
+185;HSR591;Drive;Jun 21 2025 07:22 AM;;Villavieja, Tello, Huila, Colombia;33;N/A;;3.1816030000;-75.2207660000
+184;HSR591;Drive;Jun 21 2025 07:22 AM;;Villavieja, Tello, Huila, Colombia;20;N/A;;3.1782120000;-75.2213100000
+183;HSR591;Drive;Jun 21 2025 07:21 AM;;Villavieja, Tello, Huila, Colombia;22;N/A;;3.1773180000;-75.2219050000
+182;HSR591;Drive;Jun 21 2025 07:20 AM;;Villavieja, Tello, Huila, Colombia;70;N/A;;3.1711040000;-75.2262290000
+181;HSR591;Drive;Jun 21 2025 07:20 AM;;Villavieja, Tello, Huila, Colombia;57;N/A;;3.1686370000;-75.2296680000
+180;HSR591;Drive;Jun 21 2025 07:19 AM;;Villavieja, Tello, Huila, Colombia;54;N/A;;3.1642530000;-75.2314440000
+179;HSR591;Drive;Jun 21 2025 07:19 AM;;Neiva - Baraya- Villa Vieja-36, Villavieja, Huila, Colombia;38;N/A;;3.1574000000;-75.2327060000
+178;HSR591;Drive;Jun 21 2025 07:18 AM;;Neiva - Baraya- Villa Vieja-36, Villavieja, Huila, Colombia;43;N/A;;3.1565560000;-75.2316960000
+177;HSR591;Drive;Jun 21 2025 07:18 AM;;Neiva - Baraya- Villa Vieja-37, Villavieja, Huila, Colombia;46;N/A;;3.1560880000;-75.2308660000
+176;HSR591;Drive;Jun 21 2025 07:17 AM;;4QX9+Q8 Tello, Huila, Colombia;59;N/A;;3.1494160000;-75.2317840000
+175;HSR591;Drive;Jun 21 2025 07:17 AM;;Neiva - Baraya- Villa Vieja-46, Villavieja, Huila, Colombia;49;N/A;;3.1490050000;-75.2319270000
+174;HSR591;Drive;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-55, Villavieja, Huila;67;N/A;;3.1413940000;-75.2312610000
+173;HSR591;Drive;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-61, Villavieja, Huila, Colombia;38;N/A;;3.1367860000;-75.2305180000
+172;HSR591;Drive;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-61, Villavieja, Huila;38;N/A;;3.1363560000;-75.2307640000
+171;HSR591;Unk Harsh Behavior;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-61, Villavieja, Huila;33;N/A;;3.1360350000;-75.2315030000
+170;HSR591;Drive;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-61, Villavieja, Huila;33;N/A;;3.1360350000;-75.2315030000
+169;HSR591;Drive;Jun 21 2025 07:16 AM;;Neiva - Baraya- Villa Vieja-62, Villavieja, Huila;35;N/A;;3.1357930000;-75.2315450000
+168;HSR591;Drive;Jun 21 2025 07:15 AM;;Neiva - Baraya- Villa Vieja-62, Villavieja, Huila;41;N/A;;3.1358570000;-75.2309840000
+167;HSR591;Drive;Jun 21 2025 07:15 AM;;Neiva - Baraya- Villa Vieja-62, Villavieja, Huila;46;N/A;;3.1358680000;-75.2306620000
+166;HSR591;Drive;Jun 21 2025 07:15 AM;;Villavieja, Tello, Huila, Colombia;51;N/A;;3.1325160000;-75.2281700000
+165;HSR591;Drive;Jun 21 2025 07:15 AM;;Neiva - Baraya- Villa Vieja-68, Villavieja, Huila, Colombia;74;N/A;;3.1315800000;-75.2259450000
+164;HSR591;Drive;Jun 21 2025 07:14 AM;;Neiva - Baraya- Villa Vieja-70, Villavieja, Huila;72;N/A;;3.1303620000;-75.2249400000
+163;HSR591;Drive;Jun 21 2025 07:14 AM;;Villavieja, Tello, Huila, Colombia;51;N/A;;3.1294370000;-75.2245060000
+162;HSR591;Drive;Jun 21 2025 07:14 AM;;Neiva - Baraya- Villa Vieja-73, Villavieja, Huila;54;N/A;;3.1275350000;-75.2258420000
+161;HSR591;Drive;Jun 21 2025 07:13 AM;;Neiva - Baraya- Villa Vieja-83, Villavieja, Huila;102;N/A;;3.1208940000;-75.2225040000
+160;HSR591;Drive;Jun 21 2025 07:13 AM;;Neiva - Baraya- Villa Vieja-89, Villavieja, Huila;49;N/A;;3.1164930000;-75.2215650000
+159;HSR591;Drive;Jun 21 2025 07:13 AM;;Neiva - Baraya- Villa Vieja-90, Villavieja, Huila;51;N/A;;3.1158180000;-75.2218630000
+158;HSR591;Drive;Jun 21 2025 07:13 AM;;Neiva - Baraya- Villa Vieja-92, Villavieja, Huila, Colombia;53;N/A;;3.1138200000;-75.2223320000
+157;HSR591;Drive;Jun 21 2025 07:13 AM;;Neiva - Baraya- Villa Vieja-93, Villavieja, Huila;54;N/A;;3.1129530000;-75.2216100000
+156;HSR591;Drive;Jun 21 2025 07:12 AM;;Neiva - Baraya- Villa Vieja-94, Villavieja, Huila;32;N/A;;3.1121640000;-75.2211020000
+155;HSR591;Drive;Jun 21 2025 07:12 AM;;Neiva - Baraya- Villa Vieja-95, Villavieja, Huila;46;N/A;;3.1119840000;-75.2203770000
+154;HSR591;Drive;Jun 21 2025 07:11 AM;;Neiva - Baraya- Villa Vieja-7, Neiva, Huila;59;N/A;;3.1048010000;-75.2171360000
+153;HSR591;Drive;Jun 21 2025 07:10 AM;;South America, Huila;57;N/A;;3.0946710000;-75.2187880000
+152;HSR591;Drive;Jun 21 2025 07:10 AM;;Neiva - Baraya- Villa Vieja-25, Neiva, Huila, Colombia;59;N/A;;3.0942350000;-75.2187260000
+151;HSR591;Drive;Jun 21 2025 07:09 AM;;Villavieja #8, Tello, Huila, Colombia;17;N/A;;3.0862980000;-75.2214850000
+150;HSR591;Drive;Jun 21 2025 07:09 AM;;Neiva - Baraya- Villa Vieja-45, Neiva, Huila, Colombia;46;N/A;;3.0825540000;-75.2238210000
+149;HSR591;Unk Harsh Behavior;Jun 21 2025 07:09 AM;;Villavieja #8, Tello, Huila, Colombia;78;N/A;;3.0809050000;-75.2239920000
+148;HSR591;Drive;Jun 21 2025 07:08 AM;;Neiva - Baraya- Villa Vieja-51, Neiva, Huila;62;N/A;;3.0781500000;-75.2235430000
+147;HSR591;Unk Harsh Behavior;Jun 21 2025 07:08 AM;;Neiva - Baraya- Villa Vieja-60, Neiva, Huila;51;N/A;;3.0736320000;-75.2283380000
+146;HSR591;Drive;Jun 21 2025 07:08 AM;;Neiva - Baraya- Villa Vieja-61, Neiva, Huila;43;N/A;;3.0734460000;-75.2286600000
+145;HSR591;Drive;Jun 21 2025 07:07 AM;;Neiva - Baraya- Villa Vieja-64, Neiva, Huila, Colombia;35;N/A;;3.0719050000;-75.2286480000
+144;HSR591;Drive;Jun 21 2025 07:07 AM;;Villavieja #8, Tello, Huila, Colombia;41;N/A;;3.0714340000;-75.2285960000
+143;HSR591;Drive;Jun 21 2025 07:07 AM;;Neiva - Baraya- Villa Vieja-73, Neiva, Huila, Colombia;57;N/A;;3.0668660000;-75.2318330000
+142;HSR591;Drive;Jun 21 2025 07:06 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;40;N/A;;3.0657480000;-75.2315880000
+141;HSR591;Drive;Jun 21 2025 07:06 AM;;Neiva - Baraya- Villa Vieja-76, Neiva, Huila;51;N/A;;3.0651310000;-75.2317190000
+140;HSR591;Drive;Jun 21 2025 07:05 AM;;Neiva - Baraya- Villa Vieja-85, Neiva, Huila;65;N/A;;3.0604750000;-75.2362350000
+139;HSR591;Drive;Jun 21 2025 07:05 AM;;Neiva - Baraya- Villa Vieja-86, Neiva, Huila, Colombia;59;N/A;;3.0598690000;-75.2370470000
+138;HSR591;Drive;Jun 21 2025 07:05 AM;;Neiva - Baraya- Villa Vieja-89, Neiva, Huila;65;N/A;;3.0581090000;-75.2370650000
+137;HSR591;Drive;Jun 21 2025 07:05 AM;;Villavieja, Neiva, Huila, Colombia;28;N/A;;3.0532290000;-75.2377250000
+136;HSR591;Drive;Jun 21 2025 07:04 AM;;Neiva - Baraya- Villa Vieja-98, Neiva, Huila;35;N/A;;3.0523710000;-75.2376890000
+135;HSR591;Drive;Jun 21 2025 07:04 AM;;Neiva - Baraya- Villa Vieja-98, Neiva, Huila;24;N/A;;3.0521370000;-75.2375640000
+134;HSR591;Drive;Jun 21 2025 07:03 AM;;Neiva - Baraya- Villa Vieja-91, Neiva, Huila, Colombia;65;N/A;;3.0472430000;-75.2423120000
+133;HSR591;Drive;Jun 21 2025 07:03 AM;;Neiva - Baraya- Villa Vieja-80, Neiva, Huila, Colombia;67;N/A;;3.0420870000;-75.2499360000
+132;HSR591;Drive;Jun 21 2025 07:02 AM;;Neiva - Baraya- Villa Vieja-77, Neiva, Huila, Colombia;32;N/A;;3.0400010000;-75.2504960000
+131;HSR591;Idle - Stop;Jun 21 2025 07:02 AM;;Cra. 3ª #3-29, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0355750000;-75.2506460000
+130;HSR591;Ignición Encendida;Jun 21 2025 07:01 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+129;HSR591;Idle - Stop;Jun 21 2025 07:01 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+128;HSR591;Parked;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+127;HSR591;Parked;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+126;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+125;HSR591;Ignición Apagada;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375420000;-75.2505060000
+124;HSR591;Idle - Stop;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0375230000;-75.2505190000
+123;HSR591;Drive;Jun 21 2025 06:52 AM;;Cl. 5ª #3-31, Fortalecillas, Neiva, Huila, Colombia;11;N/A;;3.0374450000;-75.2505500000
+122;HSR591;Idle - Stop;Jun 21 2025 06:51 AM;;Neiva - Baraya- Villa Vieja-75, Neiva, Huila, Colombia;0;N/A;;3.0373110000;-75.2504640000
+121;HSR591;Drive;Jun 21 2025 06:51 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;11;N/A;;3.0360010000;-75.2499930000
+120;HSR591;Idle - Stop;Jun 21 2025 06:51 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;0;N/A;;3.0358350000;-75.2499410000
+119;HSR591;Idle - Stop;Jun 21 2025 06:51 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;0;N/A;;3.0357380000;-75.2499590000
+118;HSR591;Idle - Stop;Jun 21 2025 06:50 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;0;N/A;;3.0357380000;-75.2499590000
+117;HSR591;Idle - Stop;Jun 21 2025 06:49 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;0;N/A;;3.0357380000;-75.2499590000
+116;HSR591;Drive;Jun 21 2025 06:48 AM;;Neiva - Baraya- Villa Vieja-73, Neiva, Huila, Colombia;9;N/A;;3.0355120000;-75.2507000000
+115;HSR591;Idle - Stop;Jun 21 2025 06:48 AM;;Cra. 3ª #3-29, Fortalecillas, Neiva, Huila, Colombia;0;N/A;;3.0354570000;-75.2507510000
+114;HSR591;Drive;Jun 21 2025 06:47 AM;;Cra. 3ª #3-29, Fortalecillas, Neiva, Huila, Colombia;9;N/A;;3.0356320000;-75.2505570000
+113;HSR591;Drive;Jun 21 2025 06:47 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila;12;N/A;;3.0357060000;-75.2498530000
+112;HSR591;Idle - Stop;Jun 21 2025 06:47 AM;;Neiva - Baraya- Villa Vieja-74, Neiva, Huila, Colombia;0;N/A;;3.0357100000;-75.2497910000
+111;HSR591;Drive;Jun 21 2025 06:46 AM;;Cra. 3ª #3-29, Fortalecillas, Neiva, Huila, Colombia;59;N/A;;3.0323980000;-75.2499150000
+110;HSR591;Drive;Jun 21 2025 06:45 AM;;km 8 Vereda La Mata Via a Fortalecillas, Neiva, Huila, Colombia;65;N/A;;3.0232690000;-75.2535710000
+109;HSR591;Drive;Jun 21 2025 06:44 AM;;South America, Huila;57;N/A;;3.0152880000;-75.2576030000
+108;HSR591;Drive;Jun 21 2025 06:43 AM;;South America, Huila;59;N/A;;3.0085400000;-75.2627800000
+107;HSR591;Drive;Jun 21 2025 06:42 AM;;Neiva - Baraya- Villa Vieja-24, Neiva, Huila, Colombia;62;N/A;;3.0000450000;-75.2664490000
+106;HSR591;Drive;Jun 21 2025 06:41 AM;;Via Principal-57, Neiva, Huila;49;N/A;;2.9943150000;-75.2676550000
+105;HSR591;Drive;Jun 21 2025 06:41 AM;;Via Principal-59, Neiva, Huila;59;N/A;;2.9920040000;-75.2689020000
+104;HSR591;Drive;Jun 21 2025 06:40 AM;;Via Principal-73, Neiva, Huila, Colombia;22;N/A;;2.9862770000;-75.2752340000
+103;HSR591;Drive;Jun 21 2025 06:39 AM;;Neiva-Tello, Neiva, Huila, Colombia;67;N/A;;2.9836890000;-75.2804640000
+102;HSR591;Drive;Jun 21 2025 06:38 AM;;Neiva-Tello, Neiva, Huila, Colombia;41;N/A;;2.9825510000;-75.2823050000
+101;HSR591;Drive;Jun 21 2025 06:38 AM;;Carrera 7 # 86A-2 a 86A-100, Neiva, Huila, Colombia;35;N/A;;2.9782040000;-75.2839000000
+100;HSR591;Drive;Jun 21 2025 06:37 AM;;Kr7 83a-86, Neiva, Huila, Colombia;9;N/A;;2.9772830000;-75.2841320000
+99;HSR591;Drive;Jun 21 2025 06:37 AM;;Kr7 82-22, Neiva, Huila;33;N/A;;2.9756200000;-75.2845240000
+98;HSR591;Drive;Jun 21 2025 06:36 AM;;Kr7 75a, Neiva, Huila;35;N/A;;2.9698640000;-75.2859600000
+97;HSR591;Drive;Jun 21 2025 06:35 AM;;Kr7 65a, Neiva, Huila;49;N/A;;2.9633110000;-75.2875050000
+96;HSR591;Drive;Jun 21 2025 06:34 AM;;Via Principal-46, Neiva, Huila;41;N/A;;2.9567290000;-75.2893460000
+95;HSR591;Drive;Jun 21 2025 06:33 AM;;Kr7 49-41, Neiva, Huila;19;N/A;;2.9536790000;-75.2903010000
+94;HSR591;Idle - Stop;Jun 21 2025 06:33 AM;;Calle 49 #6-42, Neiva, Neiva, Huila, Colombia;0;N/A;;2.9535080000;-75.2905960000
+93;HSR591;Idle - Stop;Jun 21 2025 06:32 AM;;Calle 49 #6-42, Neiva, Neiva, Huila, Colombia;0;N/A;;2.9535080000;-75.2905960000
+92;HSR591;Idle - Stop;Jun 21 2025 06:32 AM;;Calle 49 #6-42, Neiva, Neiva, Huila, Colombia;0;N/A;;2.9535080000;-75.2905960000
+91;HSR591;Idle - Stop;Jun 21 2025 06:32 AM;;Calle 49 #6-42, Neiva, Neiva, Huila, Colombia;0;N/A;;2.9535080000;-75.2905960000
+90;HSR591;Drive;Jun 21 2025 06:31 AM;;Cl49 6-46, Neiva, Huila, Colombia;14;N/A;;2.9535530000;-75.2907630000
+89;HSR591;Drive;Jun 21 2025 06:31 AM;;Cl42 6-34, Neiva, Huila, Colombia;30;N/A;;2.9506740000;-75.2915580000
+88;HSR591;Drive;Jun 21 2025 06:30 AM;;Kr6 32-47, Neiva, Huila, Colombia;30;N/A;;2.9463000000;-75.2918040000
+87;HSR591;Drive;Jun 21 2025 06:29 AM;;Kr6 26-57, Neiva, Huila, Colombia;19;N/A;;2.9429090000;-75.2919870000
+86;HSR591;Idle - Stop;Jun 21 2025 06:29 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426640000;-75.2919460000
+85;HSR591;Idle - Stop;Jun 21 2025 06:29 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+84;HSR591;Idle - Stop;Jun 21 2025 06:28 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+83;HSR591;Idle - Stop;Jun 21 2025 06:27 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+82;HSR591;Idle - Stop;Jun 21 2025 06:26 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+81;HSR591;Idle - Stop;Jun 21 2025 06:25 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+80;HSR591;Idle - Stop;Jun 21 2025 06:24 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+79;HSR591;Idle - Stop;Jun 21 2025 06:23 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+78;HSR591;Idle - Stop;Jun 21 2025 06:22 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+77;HSR591;Idle - Stop;Jun 21 2025 06:21 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+76;HSR591;Idle - Stop;Jun 21 2025 06:20 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+75;HSR591;Idle - Stop;Jun 21 2025 06:19 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+74;HSR591;Idle - Stop;Jun 21 2025 06:18 AM;;Kr6 26-26, Neiva, Huila, Colombia;0;N/A;;2.9426510000;-75.2919360000
+73;HSR591;Drive;Jun 21 2025 06:17 AM;;Kr6 26-13, Neiva, Huila;14;N/A;;2.9424620000;-75.2919240000
+72;HSR591;Idle - Stop;Jun 21 2025 06:17 AM;;Cl26 5, Neiva, Huila;0;N/A;;2.9422130000;-75.2920780000
+71;HSR591;Drive;Jun 21 2025 06:16 AM;;Cl26 5, Neiva, Huila;32;N/A;;2.9421100000;-75.2924040000
+70;HSR591;Drive;Jun 21 2025 06:15 AM;;Cl26 5-74, Neiva, Huila;35;N/A;;2.9418770000;-75.2938190000
+69;HSR591;Drive;Jun 21 2025 06:15 AM;;Via Principal-42, Neiva, Huila;28;N/A;;2.9415260000;-75.2941170000
+68;HSR591;Drive;Jun 21 2025 06:15 AM;;Via Principal-57, Neiva, Huila, Colombia;38;N/A;;2.9408510000;-75.2966580000
+67;HSR591;Drive;Jun 21 2025 06:14 AM;;Kr2 21-79, Neiva, Huila;28;N/A;;2.9355820000;-75.2948390000
+66;HSR591;Drive;Jun 21 2025 06:13 AM;;Kr21 16a-11, Neiva, Huila;9;N/A;;2.9351150000;-75.2946450000
+65;HSR591;Idle - Stop;Jun 21 2025 06:13 AM;;Kr21 16a-22, Neiva, Huila, Colombia;0;N/A;;2.9350640000;-75.2946270000
+64;HSR591;Idle - Stop;Jun 21 2025 06:13 AM;;Kr21 16a-22, Neiva, Huila, Colombia;0;N/A;;2.9350640000;-75.2946270000
+63;HSR591;Drive;Jun 21 2025 06:12 AM;;Via Principal-67, Neiva, Huila, Colombia;28;N/A;;2.9338880000;-75.2940940000
+62;HSR591;Drive;Jun 21 2025 06:12 AM;;Av La Toma 1g-62, Neiva, Huila, Colombia;38;N/A;;2.9325160000;-75.2954640000
+61;HSR591;Drive;Jun 21 2025 06:11 AM;;Av La Toma 1d-4, Neiva, Huila, Colombia;32;N/A;;2.9306100000;-75.2969300000
+60;HSR591;Drive;Jun 21 2025 06:11 AM;;Kr1f 9, Neiva, Huila;35;N/A;;2.9266490000;-75.2940260000
+59;HSR591;Drive;Jun 21 2025 06:10 AM;;Kr1f 2a-39, Neiva, Huila;38;N/A;;2.9213360000;-75.2913880000
+58;HSR591;Drive;Jun 21 2025 06:09 AM;;Kr1f 2-74, Neiva, Huila;22;N/A;;2.9204040000;-75.2896130000
+57;HSR591;Drive;Jun 21 2025 06:09 AM;;Kr2 Circunvalar-74, Neiva, Huila;38;N/A;;2.9195590000;-75.2888770000
+56;HSR591;Drive;Jun 21 2025 06:08 AM;;Glorieta-31, Neiva, Huila;28;N/A;;2.9190390000;-75.2883330000
+55;HSR591;Idle - Stop;Jun 21 2025 06:08 AM;;Cl2s 5-75, Neiva, Huila, Colombia;0;N/A;;2.9198560000;-75.2851250000
+54;HSR591;Idle - Stop;Jun 21 2025 06:07 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+53;HSR591;Ignición Encendida;Jun 21 2025 06:07 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+52;HSR591;Parked;Jun 21 2025 06:02 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+51;HSR591;Parked;Jun 21 2025 06:01 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+50;HSR591;Ignición Apagada;Jun 21 2025 06:01 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+49;HSR591;Desplazándose - Ign. apagada;Jun 21 2025 06:01 AM;;Cl2s 5-82, Neiva, Huila;0;N/A;;2.9198940000;-75.2850140000
+48;HSR591;Drive;Jun 21 2025 06:01 AM;;Kr7 2-85, Neiva, Huila;17;N/A;;2.9199950000;-75.2837890000
+47;HSR591;Idle - Stop;Jun 21 2025 06:01 AM;;Kr7 2-84, Neiva, Huila;0;N/A;;2.9199450000;-75.2836760000
+46;HSR591;Drive;Jun 21 2025 06:01 AM;;Cl2s 14-64, Neiva, Huila, Colombia;28;N/A;;2.9192990000;-75.2801130000
+45;HSR591;Drive;Jun 21 2025 06:00 AM;;Glorieta-60, Neiva, Huila;25;N/A;;2.9192800000;-75.2798980000
+44;HSR591;Drive;Jun 21 2025 06:00 AM;;Kr15 1h-26, Neiva, Huila;25;N/A;;2.9226140000;-75.2793870000
+43;HSR591;Drive;Jun 21 2025 05:59 AM;;Kr15 1h-64, Neiva, Huila;22;N/A;;2.9228070000;-75.2793780000
+42;HSR591;Drive;Jun 21 2025 05:57 AM;;Kr20a 2-26, Neiva, Huila;22;N/A;;2.9234020000;-75.2735760000
+41;HSR591;Drive;Jun 21 2025 05:57 AM;;Kr20a 2-55, Neiva, Huila;27;N/A;;2.9237640000;-75.2734330000
+40;HSR591;Drive;Jun 21 2025 05:57 AM;;Cl2a 20a-6, Neiva, Huila, Colombia;17;N/A;;2.9239460000;-75.2733960000
+39;HSR591;Drive;Jun 21 2025 05:57 AM;;Cra. 24 #2-2 a 2-50, Neiva, Huila, Colombia;12;N/A;;2.9237150000;-75.2722270000
+38;HSR591;Drive;Jun 21 2025 05:56 AM;;Cl. 2b Bis #24-2 a 24-70, Neiva, Neiva, Huila, Colombia;28;N/A;;2.9249710000;-75.2716970000
+37;HSR591;Drive;Jun 21 2025 05:56 AM;;Cra. 29a #2 h-17, Neiva, Huila, Colombia;40;N/A;;2.9260160000;-75.2684400000
+36;HSR591;Drive;Jun 21 2025 05:55 AM;;Cl2c 30b-38, Neiva, Huila;17;N/A;;2.9263700000;-75.2666410000
+35;HSR591;Drive;Jun 21 2025 05:55 AM;;Kr30c 2e-38, Neiva, Huila;28;N/A;;2.9274830000;-75.2667180000
+34;HSR591;Drive;Jun 21 2025 05:55 AM;;Cl3 32-84, Neiva, Huila, Colombia;37;N/A;;2.9284720000;-75.2659260000
+33;HSR591;Drive;Jun 21 2025 05:54 AM;;Cl8 33, Neiva, Huila, Colombia;19;N/A;;2.9301210000;-75.2642400000
+32;HSR591;Idle - Stop;Jun 21 2025 05:54 AM;;Cl38 34a-4, Neiva, Huila;0;N/A;;2.9303190000;-75.2637100000
+31;HSR591;Drive;Jun 21 2025 05:53 AM;;Cl8 35-41, Neiva, Huila;53;N/A;;2.9302370000;-75.2623700000
+30;HSR591;Drive;Jun 21 2025 05:53 AM;;Cl8, Neiva, Huila, Colombia;45;N/A;;2.9318280000;-75.2559820000
+29;HSR591;Drive;Jun 21 2025 05:52 AM;;Cl8 55, Neiva, Huila, Colombia;49;N/A;;2.9332730000;-75.2484940000
+28;HSR591;Drive;Jun 21 2025 05:50 AM;;Cl8 55, Neiva, Huila, COLOMBIA;33;N/A;;2.9339760000;-75.2460610000
+27;HSR591;Drive;Jun 21 2025 05:50 AM;;Cl16 51-51, Neiva, Huila, Colombia;28;N/A;;2.9387220000;-75.2473240000
+26;HSR591;Drive;Jun 21 2025 05:50 AM;;Cl. 16a ###52-04, Neiva, Huila, Colombia;19;N/A;;2.9389360000;-75.2473700000
+25;HSR591;Drive;Jun 21 2025 05:49 AM;;Cl. 17 #5054, Neiva, Huila, Colombia;16;N/A;;2.9387370000;-75.2482160000
+24;HSR591;Drive;Jun 21 2025 05:49 AM;;Kr49a 17-16, Neiva, Huila, Colombia;9;N/A;;2.9385890000;-75.2487210000
+23;HSR591;Idle - Stop;Jun 21 2025 05:49 AM;;Cra. 49a #17-29, Neiva, Huila, Colombia;0;N/A;;2.9388700000;-75.2490120000
+22;HSR591;Drive;Jun 21 2025 05:48 AM;;Kr49a 17c-55, Neiva, Huila, Colombia;12;N/A;;2.9394360000;-75.2493140000
+21;HSR591;Drive;Jun 21 2025 05:47 AM;;Kr52 17b-86, Neiva, Huila;14;N/A;;2.9403770000;-75.2476950000
+20;HSR591;Idle - Stop;Jun 21 2025 05:47 AM;;Cl18 52-4, Neiva, Huila, Colombia;0;N/A;;2.9404250000;-75.2476200000
+19;HSR591;Drive;Jun 21 2025 05:47 AM;;Cl16b 52-4, Neiva, Huila, Colombia;40;N/A;;2.9391010000;-75.2472090000
+18;HSR591;Drive;Jun 21 2025 05:46 AM;;Cra. 52, Neiva, Neiva, Huila, Colombia;25;N/A;;2.9342030000;-75.2457910000
+17;HSR591;Idle - Stop;Jun 21 2025 05:46 AM;;Cl8 55, Neiva, Huila, Colombia;0;N/A;;2.9338850000;-75.2459820000
+16;HSR591;Idle - Stop;Jun 21 2025 05:45 AM;;Cl8 55, Neiva, Huila, Colombia;0;N/A;;2.9338850000;-75.2459820000
+15;HSR591;Drive;Jun 21 2025 05:44 AM;;Cl8 55, Neiva, Huila, Colombia;41;N/A;;2.9322880000;-75.2519510000
+14;HSR591;Drive;Jun 21 2025 05:43 AM;;Cl. 8 #41-516 a 41-612, Neiva, Neiva, Huila, Colombia;28;N/A;;2.9320250000;-75.2532290000
+13;HSR591;Drive;Jun 21 2025 05:43 AM;;Cl8, Neiva, Huila, Colombia;16;N/A;;2.9319390000;-75.2536060000
+12;HSR591;Idle - Stop;Jun 21 2025 05:43 AM;;C. 8 # 46-62, Neiva, Huila, Colombia;0;N/A;;2.9315620000;-75.2536380000
+11;HSR591;Drive;Jun 21 2025 05:43 AM;;C. 8 #46-52, Neiva, Huila, Colombia;12;N/A;;2.9313810000;-75.2536030000
+10;HSR591;Idle - Stop;Jun 21 2025 05:42 AM;;C. 8 #46-18, Neiva, Huila, Colombia;0;N/A;;2.9312790000;-75.2530490000
+9;HSR591;Idle - Stop;Jun 21 2025 05:42 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+8;HSR591;Idle - Stop;Jun 21 2025 05:42 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+7;HSR591;Ignición Encendida;Jun 21 2025 05:42 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+6;HSR591;Parked;Jun 21 2025 05:08 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+5;HSR591;Parked;Jun 21 2025 04:08 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+4;HSR591;Parked;Jun 21 2025 03:08 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+3;HSR591;Parked;Jun 21 2025 02:07 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+2;HSR591;Parked;Jun 21 2025 01:07 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000
+1;HSR591;Parked;Jun 21 2025 12:07 AM;;C. 8 #46-52, Neiva, Huila, Colombia;0;N/A;;2.9313290000;-75.2532700000

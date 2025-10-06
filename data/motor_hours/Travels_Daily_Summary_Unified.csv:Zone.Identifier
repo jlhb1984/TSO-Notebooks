@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://app.tsomobile.com/wcf/appnet/reportviewer.aspx?tkn=ABFF13DF-AFF4-4C5B-B9B3-3E98A386DD29&pt={%22reportid%22:148,%22ItemID%22:%220%22,%22DateFrom%22:%222025-08-23%2000:00:00%22,%22DateTo%22:%222025-08-29%2023:59:59%22,%22Filter%22:5,%22IsGroup%22:false,%22CurrentLanguage%22:%22en%22}&lan=en&channel=GPSV6&UICulture=es-CO
+HostUrl=https://app.tsomobile.com/wcf/Reserved.ReportViewerWebControl.axd?ReportSession=5jrp0455uoht5o45iind2d55&Culture=9226&CultureOverrides=True&UICulture=9226&UICultureOverrides=True&ReportStack=1&ControlID=2fbf3dd110c14305b7b906da2a562b4d&OpType=Export&FileName=Travels_Daily_Summary_Unified&ContentDisposition=OnlyHtmlInline&Format=CSV

@@ -1,0 +1,10 @@
+﻿GroupName,UnitName,StartTime,MovingTimeSecs,MilesDriven,MaxSpeed,StopTime,textbox43,StopLengthSecs,ContactName,textbox45,textbox54,textbox28,textbox29,textbox30,textbox32,MovingTimeSecs_1,MilesDriven_1,MaxSpeed_1,StopLengthSecs_1
+,Unit: JST321,4/08/2025 12:00 a.m.,00h:00m:00s,"0,00",0,4/08/2025 5:56:2.m.,Parked/Idle,18h:53m:24s,"Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 6:54 p.m.,00h:00m:00s,"0,00",0,4/08/2025 6:54:2.m.,Parked/Idle,00h:00m:00s,"Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 6:55 p.m.,00h:00m:14s,"0,11",6,4/08/2025 6:55:3.m.,Idle,00h:00m:08s," Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 6:55 p.m.,00h:00m:57s,"0,18",12,4/08/2025 6:56:3.m.,Idle,00h:00m:33s,"Carrera 5, Puerto Boyacá, Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 6:57 p.m.,00h:01m:05s,"0,39",12,4/08/2025 6:58:1.m.,Ign Off,01h:21m:29s," Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 8:18 p.m.,00h:00m:00s,"0,00",0,4/08/2025 8:18:4.m.,Parked/Idle,00h:01m:25s,"Cra. 5 #30-48, Puerto Boyacá, Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 8:21 p.m.,00h:00m:48s,"0,43",9,4/08/2025 8:22:0.m.,Idle,00h:01m:14s," Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+,Unit: JST321,4/08/2025 8:23 p.m.,00h:00m:29s,"0,10",6,4/08/2025 8:23:4.m.,Ign Off,19h:53m:34s,"Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia",Boyacá,155201,00h:03m:33s,"1,21",12,40h:11m:47s,00h:03m:33s,"1,21",12,40h:11m:47s
+

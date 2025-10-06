@@ -1,0 +1,11 @@
+Unnamed: 5,count
+"eventCategory:""FORWARD_COLLISION""",138
+"eventCategory:""SHARP_TURN""",103
+"eventCategory:""DMS""",90
+"eventCategory:""POTENTIAL_INCIDENT""",22
+"eventCategory:""HARD_BRAKE""",20
+"eventCategory:""STOP_SIGN_VIOLATION""",14
+"eventCategory:""HARD_ACCEL""",5
+"eventCategory:""HEADWAY_MONITORING""",2
+"eventCategory:""LANE_DEPARTURE""",2
+"eventCategory:""MANUAL""",1

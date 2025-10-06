@@ -1,0 +1,63 @@
+﻿GroupName,UnitName,StartTime,MovingTimeSecs,MilesDriven,MaxSpeed,StopTime,textbox43,StopLengthSecs,ContactName,textbox45,textbox54,textbox28,textbox29,textbox30,textbox32,MovingTimeSecs_1,MilesDriven_1,MaxSpeed_1,StopLengthSecs_1
+,Unit: LPL614,1/06/2025 12:00 a.m.,00h:00m:00s,"0,00",0,1/06/2025 5:45:3.m.,Parked/Idle,06h:01m:30s,"I-25 # 29 a 37, Planeta Rica, Córdoba, Colombia",Córdoba,233048,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 6:04 a.m.,00h:04m:00s,"3,40",39,1/06/2025 6:08:2.m.,Idle,00h:01m:08s,"9CJH+97 Planeta Rica, Cordoba, Colombia",Cordoba,233048,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 6:09 a.m.,00h:04m:06s,"4,39",49,1/06/2025 6:13:3.m.,Idle,00h:01m:57s,"Pueblo Nuevo-Planeta Rica, Planeta Rica, Córdoba, Colombia",Córdoba,233047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 6:15 a.m.,00h:26m:04s,"33,62",55,1/06/2025 6:41:3.m.,Idle,00h:01m:37s,"El Viajano - Pueblo Nuevo, Sahagún, Córdoba, Colombia",Córdoba,232557,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 6:43 a.m.,01h:39m:21s,"89,88",54,1/06/2025 8:22:3.m.,Idle,00h:00m:22s,"Km 60 de la vía Sincelejo - Carmen de Bolivar, , Sucre",Suc,701078,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 8:22 a.m.,00h:26m:31s,"22,90",45,1/06/2025 8:49:2.m.,Idle,00h:00m:40s,"Km 20 de la vía Sincelejo - Carmen de Bolivar, , Sucre",Suc,705030,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 8:50 a.m.,00h:42m:15s,"41,57",52,1/06/2025 9:32:2.m.,Idle,00h:28m:50s,"Km 24 de la vía Carmen de Bolivar - Calamar, , Bolívar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 10:01 a.m.,00h:04m:08s,"5,50",45,1/06/2025 10:05:2.m.,Idle,00h:01m:27s,"Km 28 de la vía Carmen de Bolivar - Calamar, , Bolívar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 10:06 a.m.,00h:10m:14s,"9,43",53,1/06/2025 10:17:1.m.,Idle,00h:00m:26s,"Km 39 de la vía Carmen de Bolivar - Calamar, , Bolívar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 10:17 a.m.,00h:02m:36s,"1,96",47,1/06/2025 10:20:1.m.,Idle,00h:00m:35s,"Av 25, Malagana, Bolivar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 10:20 a.m.,00h:13m:21s,"9,27",49,1/06/2025 10:34:0.m.,Ign Off,00h:03m:30s,"Av 25, Malagana, Bolivar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 10:35 a.m.,00h:00m:00s,"0,00",0,1/06/2025 10:35:4.m.,Parked/Idle,00h:32m:25s,"Av 25, Malagana, Bolivar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 11:08 a.m.,00h:00m:00s,"0,00",0,1/06/2025 11:08:0.m.,Parked/Idle,00h:19m:13s,"Av 25, Malagana, Bolivar",Bol,701037,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 11:27 a.m.,00h:30m:23s,"35,26",51,1/06/2025 11:57:4.m.,Idle,00h:05m:28s,"Av 25, Arroyo Hondo, Bolivar, Colombia",Bolívar,131548,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 12:03 p.m.,00h:32m:24s,"32,01",48,1/06/2025 12:35:4.m.,Idle,00h:01m:29s,"I-25 # 1 a 99, Campo De La Cruz, Atlántico, Colombia",Atlántico,084047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 12:37 p.m.,00h:21m:18s,"21,08",47,1/06/2025 12:58:2.m.,Idle,00h:00m:21s,"Av 25, Malambo, Atlantico",Atl,084047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 12:58 p.m.,00h:21m:15s,"21,65",50,1/06/2025 1:20:0.m.,Idle,00h:00m:59s,"Av 25, Malambo, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:21 p.m.,00h:08m:13s,"8,18",46,1/06/2025 1:29:1.m.,Idle,00h:00m:35s,"Cl10 19, Malambo, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:29 p.m.,00h:07m:35s,"5,07",22,1/06/2025 1:37:2.m.,Idle,00h:01m:07s,"Cl30 15b-50, Soledad, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:38 p.m.,00h:10m:09s,"4,76",27,1/06/2025 1:48:4.m.,Idle,00h:01m:20s,"SOLEDAD
+Kr27c 54-4, Soledad, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:50 p.m.,00h:04m:40s,"2,54",21,1/06/2025 1:54:4.m.,Idle,00h:01m:16s,"COSTA FRENOS
+Cl69 14-50, Barranquilla, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:55 p.m.,00h:00m:18s,"0,26",6,1/06/2025 1:56:1.m.,Idle,00h:01m:29s,"COSTA FRENOS
+Kr12 51b-47, Barranquilla, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614,1/06/2025 1:57 p.m.,00h:13m:51s,"0,77",13,1/06/2025 2:11:3.m.,Ign Off,40h:38m:44s,"COSTA FRENOS
+Dg83 18d-73, Soledad, Atlantico",Atl,083047,06h:22m:42s,"353,51",55,48h:26m:28s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 12:00 a.m.,00h:00m:00s,"0,00",0,1/06/2025 5:46:4.m.,Parked/Idle,06h:01m:17s,"9C4V+65 Planeta Rica, Cordoba, Colombia",Cordoba,233048,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:03 a.m.,00h:00m:31s,"0,00",20,1/06/2025 6:03:5.m.,Idle,00h:02m:00s,"9C4R+6J Planeta Rica, Cordoba, Colombia",Cordoba,233048,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:05 a.m.,00h:15m:59s,"0,00",44,1/06/2025 6:21:4.m.,Ign Off,00h:01m:01s,"CFXF+P2 Pueblo Nuevo, Córdoba, Colombia",Córdoba,233048,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:22 a.m.,00h:00m:00s,"0,00",0,1/06/2025 6:22:5.m.,Parked/Idle,00h:00m:00s,"25, Pueblo Nuevo, Córdoba, Colombia",Córdoba,233007,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:24 a.m.,00h:10m:07s,,44,1/06/2025 6:34:5.m.,Idle,00h:00m:19s,"Tv. 2 # 9-195, El Varal, Pueblo Nuevo, Córdoba, Colombia",Córdoba,233007,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:36 a.m.,00h:05m:30s,"0,00",44,1/06/2025 6:42:2.m.,Idle,00h:02m:30s,"25, Sahagún, Córdoba, Colombia",Córdoba,232557,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 6:44 a.m.,00h:39m:00s,"0,00",50,1/06/2025 7:23:5.m.,Idle,00h:02m:00s,"Carrera 17 # 1 SUR-37, Sahagún, Córdoba, Colombia",Córdoba,232540,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 7:25 a.m.,00h:41m:28s,"0,00",50,1/06/2025 8:07:2.m.,Ign Off,00h:01m:02s,"6HFQ+PW Sampués, Sucre, Colombia",Sucre,705077,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:08 a.m.,00h:00m:00s,"0,00",0,1/06/2025 8:08:2.m.,Parked/Idle,00h:00m:00s,"6HWP+6P Sincelejo, Sucre, Colombia",Sucre,705077,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:10 a.m.,00h:17m:00s,,50,1/06/2025 8:27:2.m.,Idle,00h:02m:00s,"Cl. 40 # 21E-61, Corozal, Sucre, Colombia",Sucre,705030,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:29 a.m.,00h:05m:01s,"0,00",41,1/06/2025 8:34:2.m.,Ign Off,00h:00m:59s,"9P27+FH Corozal, Sucre, Colombia",Sucre,705037,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:35 a.m.,00h:00m:00s,"0,00",0,1/06/2025 8:35:2.m.,Parked/Idle,00h:00m:00s,"25, Morroa, Sucre, Colombia",Sucre,701077,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:37 a.m.,00h:12m:00s,,42,1/06/2025 8:49:2.m.,Idle,00h:02m:00s,"Barrio arriba, 25, El Piñal, Los Palmitos, Sucre, Colombia",Sucre,701057,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 8:51 a.m.,00h:41m:36s,"0,00",51,1/06/2025 9:33:0.m.,Idle,00h:28m:30s,"QV2H+R7, El Carmen de Bolívar, Mala Noche, El Cármen de Bolívar, Bolívar, Colombia",Bolívar,132057,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 10:01 a.m.,00h:16m:47s,"0,00",48,1/06/2025 10:18:2.m.,Ign Off,00h:02m:13s,"Puerta de Hierro - Palmar de Varela y Carreto - Cruz del Viso, San Jacinto, Bolívar, Colombia",Bolívar,132037,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 10:20 a.m.,00h:00m:00s,"0,00",0,1/06/2025 10:20:3.m.,Parked/Idle,00h:00m:00s,"VVPQ+FH San Jacinto, Bolivar, Colombia",Bolivar,132037,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 10:23 a.m.,00h:09m:00s,,53,1/06/2025 10:32:3.m.,Idle,01h:12m:12s,"Cl. 18 # 20A-25, San Juán Nepomuceno, Bolívar, Colombia",Bolívar,132010,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 11:08 a.m.,00h:00m:00s,"0,00",0,1/06/2025 11:08:3.m.,Parked/Idle,00h:15m:59s,"Cl. 18 # 20A-101, San Juán Nepomuceno, Bolívar, Colombia",Bolívar,132010,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 11:27 a.m.,00h:04m:20s,"0,00",43,1/06/2025 11:31:2.m.,Ign Off,00h:00m:41s,"XWQF+W8 San Juan Nepomuceno, Bolivar, Colombia",Bolivar,132017,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 11:32 a.m.,00h:00m:00s,"0,00",0,1/06/2025 11:32:1.m.,Parked/Idle,00h:00m:00s,"Puerta de Hierro - Palmar de Varela y Carreto - Cruz del Viso, San Juán Nepomuceno, Bolívar, Colombi",Bolívar,132017,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 11:34 a.m.,00h:23m:58s,,51,1/06/2025 11:58:0.m.,Idle,00h:06m:00s,"6354+97 Calamar, Bolivar, Colombia",Bolivar,131548,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 12:04 p.m.,00h:32m:00s,"0,00",49,1/06/2025 12:36:0.m.,Idle,00h:03m:30s,"Calle 1 # 6-106, Bohorquez, Campo de La Cruz, Atlántico, Colombia",Atlántico,084047,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 12:39 p.m.,00h:40m:30s,"0,00",51,1/06/2025 1:20:0.m.,Idle,00h:02m:00s,"Q6XR+QC Sabanagrande, Atlantico, Colombia",Atlantico,083047,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 1:22 p.m.,00h:16m:00s,"0,00",45,1/06/2025 1:38:0.m.,Idle,00h:00m:30s,"Cl. 30 # 16B-71, Soledad, Atlántico, Colombia",Atlántico,083005,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 1:38 p.m.,00h:10m:00s,"0,00",23,1/06/2025 1:48:3.m.,Idle,00h:02m:00s,"SOLEDAD
+Cra. 28 #55-54, Soledad, Barranquilla, Atlántico, Colombia",Atlántico,083001,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 1:50 p.m.,00h:04m:00s,"0,00",31,1/06/2025 1:54:3.m.,Idle,00h:02m:00s,"COSTA FRENOS
+Av. Circunvalar #69-1, Barranquilla, Atlántico, Colombia",Atlántico,080013,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL614 VF,1/06/2025 1:56 p.m.,00h:14m:56s,"0,00",11,1/06/2025 2:11:3.m.,Ign Off,40h:39m:19s,"COSTA FRENOS
+Cra. 18d #83, Soledad, Barranquilla, Atlántico, Colombia",Atlántico,080013,05h:59m:43s,"0,00",53,49h:10m:02s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL636,1/06/2025 12:00 a.m.,00h:00m:00s,"0,00",0,1/06/2025 7:27:0.m.,Parked/Idle,52h:12m:06s,Gulf of Guinea,Atlántico,083047,00h:00m:00s,"0,00",0,52h:12m:06s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LPL636 VF,1/06/2025 12:00 a.m.,00h:00m:00s,"0,00",0,1/06/2025 7:27:0.m.,Parked/Idle,52h:14m:12s,"Cl. 7a # 16-80, Sabanagrande, Atlántico, Colombia",Atlántico,083040,00h:00m:00s,"0,00",0,52h:14m:12s,12h:22m:25s,"353,51",55,221h:00m:44s
+,Unit: LWY561 VF,1/06/2025 12:00 a.m.,00h:00m:00s,"0,00",0,1/06/2025 9:36:4.m.,Parked/Idle,18h:57m:56s,"COSTA FRENOS
+Cra. 18a # 83-75, Soledad, Barranquilla, Atlántico, Colombia",Atlántico,083010,00h:00m:00s,"0,00",0,18h:57m:56s,12h:22m:25s,"353,51",55,221h:00m:44s
+

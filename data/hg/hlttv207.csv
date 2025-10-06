@@ -1,0 +1,664 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+663;TTV207;Parked;Jul 14 2025 10:05 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+662;TTV207;Parked;Jul 14 2025 09:05 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+661;TTV207;Parked;Jul 14 2025 08:05 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+660;TTV207;Parked;Jul 14 2025 07:05 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+659;TTV207;Parked;Jul 14 2025 06:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+658;TTV207;Parked;Jul 14 2025 05:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+657;TTV207;Parked;Jul 14 2025 04:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+656;TTV207;Parked;Jul 14 2025 03:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+655;TTV207;Parked;Jul 14 2025 02:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+654;TTV207;Parked;Jul 14 2025 01:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+653;TTV207;Parked;Jul 14 2025 12:04 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+652;TTV207;Parked;Jul 14 2025 11:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784550000;-73.8551050000
+651;TTV207;Parked;Jul 14 2025 09:04 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+650;TTV207;Parked;Jul 14 2025 09:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+649;TTV207;Towing/Drifting?;Jul 14 2025 09:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+648;TTV207;Ignition OFF;Jul 14 2025 09:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+647;TTV207;Idle - Stop;Jul 14 2025 09:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+646;TTV207;Idle - Stop;Jul 14 2025 09:03 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+645;TTV207;Idle - Stop;Jul 14 2025 09:02 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+644;TTV207;Idle - Stop;Jul 14 2025 09:01 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+643;TTV207;Idle - Stop;Jul 14 2025 09:00 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+642;TTV207;Idle - Stop;Jul 14 2025 08:59 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784880000;-73.8551980000
+641;TTV207;Idle - Stop;Jul 14 2025 08:58 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784610000;-73.8552190000
+640;TTV207;Idle - Stop;Jul 14 2025 08:58 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+639;TTV207;Ignition ON;Jul 14 2025 08:58 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+638;TTV207;Parked;Jul 14 2025 08:38 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+637;TTV207;Parked;Jul 14 2025 08:37 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+636;TTV207;Towing/Drifting?;Jul 14 2025 08:37 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+635;TTV207;Ignition OFF;Jul 14 2025 08:37 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+634;TTV207;Idle - Stop;Jul 14 2025 08:36 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784480000;-73.8551880000
+633;TTV207;Idle - Stop;Jul 14 2025 08:35 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784530000;-73.8551850000
+632;TTV207;Ignition ON;Jul 14 2025 08:35 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+631;TTV207;Idle - Stop;Jul 14 2025 08:35 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+630;TTV207;Parked;Jul 14 2025 08:13 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+629;TTV207;Parked;Jul 14 2025 08:12 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+628;TTV207;Towing/Drifting?;Jul 14 2025 08:12 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+627;TTV207;Ignition OFF;Jul 14 2025 08:12 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+626;TTV207;Idle - Stop;Jul 14 2025 08:12 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+625;TTV207;Idle - Stop;Jul 14 2025 08:11 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785030000;-73.8552290000
+624;TTV207;Ignition ON;Jul 14 2025 08:10 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+623;TTV207;Idle - Stop;Jul 14 2025 08:10 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+622;TTV207;Parked;Jul 14 2025 07:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+621;TTV207;Parked;Jul 14 2025 06:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+620;TTV207;Parked;Jul 14 2025 05:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+619;TTV207;Parked;Jul 14 2025 04:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+618;TTV207;Parked;Jul 14 2025 03:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+617;TTV207;Parked;Jul 14 2025 02:43 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+616;TTV207;Parked;Jul 14 2025 01:42 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+615;TTV207;Parked;Jul 14 2025 12:42 AM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+614;TTV207;Parked;Jul 13 2025 11:42 PM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+613;TTV207;Parked;Jul 13 2025 10:42 PM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+612;TTV207;Parked;Jul 13 2025 09:42 PM;;Cl. 74 #20 - 81, Barrancabermeja, Santander, Colombia;0;N/A;;7.0786530000;-73.8548500000
+611;TTV207;Parked;Jul 13 2025 08:42 PM;;Cra. 21 #73-52, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782510000;-73.8542650000
+610;TTV207;Parked;Jul 13 2025 08:42 PM;;Cra. 21 #73-52, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782510000;-73.8542650000
+609;TTV207;Ignition OFF;Jul 13 2025 08:42 PM;;Cra. 21 #73-52, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782510000;-73.8542650000
+608;TTV207;Towing/Drifting?;Jul 13 2025 08:42 PM;;Cra. 21 #73-52, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782510000;-73.8542650000
+607;TTV207;Idle - Stop;Jul 13 2025 08:41 PM;;Cra. 21 #73-52, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782510000;-73.8542650000
+606;TTV207;Idle - Stop;Jul 13 2025 08:41 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+605;TTV207;Ignition ON;Jul 13 2025 08:41 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+604;TTV207;Parked;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+603;TTV207;Ignition OFF;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+602;TTV207;Towing/Drifting?;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+601;TTV207;Idle - Stop;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0781680000;-73.8547620000
+600;TTV207;Idle - Stop;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782970000;-73.8548090000
+599;TTV207;Ignition ON;Jul 13 2025 08:40 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782970000;-73.8548090000
+598;TTV207;Parked;Jul 13 2025 08:39 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782970000;-73.8548090000
+597;TTV207;Parked;Jul 13 2025 08:39 PM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0782970000;-73.8548090000
+596;TTV207;Towing/Drifting?;Jul 13 2025 08:38 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+595;TTV207;Ignition OFF;Jul 13 2025 08:38 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+594;TTV207;Ignition ON;Jul 13 2025 08:38 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+593;TTV207;Idle - Stop;Jul 13 2025 08:38 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+592;TTV207;Parked;Jul 13 2025 08:25 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+591;TTV207;Parked;Jul 13 2025 07:25 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+590;TTV207;Parked;Jul 13 2025 06:25 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+589;TTV207;Parked;Jul 13 2025 05:25 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+588;TTV207;Parked;Jul 13 2025 04:25 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+587;TTV207;Parked;Jul 13 2025 03:24 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+586;TTV207;Parked;Jul 13 2025 02:24 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+585;TTV207;Parked;Jul 13 2025 01:24 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+584;TTV207;Parked;Jul 13 2025 12:24 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+583;TTV207;Parked;Jul 13 2025 11:24 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+582;TTV207;Parked;Jul 13 2025 10:24 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+581;TTV207;Parked;Jul 13 2025 09:24 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+580;TTV207;Parked;Jul 13 2025 08:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+579;TTV207;Parked;Jul 13 2025 07:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+578;TTV207;Parked;Jul 13 2025 06:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+577;TTV207;Parked;Jul 13 2025 05:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+576;TTV207;Parked;Jul 13 2025 04:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+575;TTV207;Parked;Jul 13 2025 03:23 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+574;TTV207;Parked;Jul 13 2025 02:22 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+573;TTV207;Parked;Jul 13 2025 01:22 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+572;TTV207;Parked;Jul 13 2025 12:22 AM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+571;TTV207;Parked;Jul 12 2025 10:22 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+570;TTV207;Parked;Jul 12 2025 10:22 PM;;Cl74 20-37, Barrancabermeja, Santander, Colombia;0;N/A;;7.0785180000;-73.8551700000
+569;TTV207;Towing/Drifting?;Jul 12 2025 10:22 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+568;TTV207;Ignition OFF;Jul 12 2025 10:22 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+567;TTV207;Idle - Stop;Jul 12 2025 10:21 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+566;TTV207;Idle - Stop;Jul 12 2025 10:15 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+565;TTV207;Idle - Stop;Jul 12 2025 10:06 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+564;TTV207;Idle - Stop;Jul 12 2025 10:04 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+563;TTV207;Idle - Stop;Jul 12 2025 10:04 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+562;TTV207;Idle - Stop;Jul 12 2025 10:03 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+561;TTV207;Idle - Stop;Jul 12 2025 10:02 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+560;TTV207;Idle - Stop;Jul 12 2025 10:02 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+559;TTV207;Idle - Stop;Jul 12 2025 10:01 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+558;TTV207;Idle - Stop;Jul 12 2025 10:01 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+557;TTV207;Idle - Stop;Jul 12 2025 10:00 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+556;TTV207;Idle - Stop;Jul 12 2025 09:59 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+555;TTV207;Idle - Stop;Jul 12 2025 09:54 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+554;TTV207;Idle - Stop;Jul 12 2025 09:53 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+553;TTV207;Idle - Stop;Jul 12 2025 08:40 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+552;TTV207;Idle - Stop;Jul 12 2025 08:39 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+551;TTV207;Idle - Stop;Jul 12 2025 08:39 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+550;TTV207;Idle - Stop;Jul 12 2025 08:39 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+549;TTV207;Idle - Stop;Jul 12 2025 08:38 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+548;TTV207;Idle - Stop;Jul 12 2025 08:38 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+547;TTV207;Idle - Stop;Jul 12 2025 08:34 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+546;TTV207;Idle - Stop;Jul 12 2025 08:34 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+545;TTV207;Idle - Stop;Jul 12 2025 08:32 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+544;TTV207;Idle - Stop;Jul 12 2025 08:32 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+543;TTV207;Idle - Stop;Jul 12 2025 08:30 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+542;TTV207;Idle - Stop;Jul 12 2025 08:30 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+541;TTV207;Idle - Stop;Jul 12 2025 08:29 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+540;TTV207;Idle - Stop;Jul 12 2025 08:28 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+539;TTV207;Idle - Stop;Jul 12 2025 08:27 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+538;TTV207;Idle - Stop;Jul 12 2025 08:27 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+537;TTV207;Idle - Stop;Jul 12 2025 08:08 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+536;TTV207;Idle - Stop;Jul 12 2025 08:04 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+535;TTV207;Idle - Stop;Jul 12 2025 07:18 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+534;TTV207;Idle - Stop;Jul 12 2025 07:10 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+533;TTV207;Idle - Stop;Jul 12 2025 07:08 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+532;TTV207;Idle - Stop;Jul 12 2025 07:08 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+531;TTV207;Idle - Stop;Jul 12 2025 05:18 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+530;TTV207;Idle - Stop;Jul 12 2025 05:18 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+529;TTV207;Idle - Stop;Jul 12 2025 05:14 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+528;TTV207;Idle - Stop;Jul 12 2025 05:14 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+527;TTV207;Idle - Stop;Jul 12 2025 05:10 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+526;TTV207;Idle - Stop;Jul 12 2025 05:10 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+525;TTV207;Idle - Stop;Jul 12 2025 04:16 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+524;TTV207;Idle - Stop;Jul 12 2025 04:16 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+523;TTV207;Idle - Stop;Jul 12 2025 03:56 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+522;TTV207;Idle - Stop;Jul 12 2025 03:54 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+521;TTV207;Idle - Stop;Jul 12 2025 03:53 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+520;TTV207;Idle - Stop;Jul 12 2025 03:53 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+519;TTV207;Idle - Stop;Jul 12 2025 03:53 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+518;TTV207;Idle - Stop;Jul 12 2025 03:50 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+517;TTV207;Idle - Stop;Jul 12 2025 03:50 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+516;TTV207;Idle - Stop;Jul 12 2025 03:50 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+515;TTV207;Ignition ON;Jul 12 2025 03:50 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+514;TTV207;Parked;Jul 12 2025 03:40 PM;;Landazuri-Velez, Vélez, Santander, Colombia;0;N/A;;6.0017440000;-73.6959230000
+513;TTV207;Parked;Jul 12 2025 03:39 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+512;TTV207;Ignition OFF;Jul 12 2025 03:39 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+511;TTV207;Idle - Stop;Jul 12 2025 03:39 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+510;TTV207;Idle - Stop;Jul 12 2025 03:38 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+509;TTV207;Ignition ON;Jul 12 2025 03:38 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+508;TTV207;Parked;Jul 12 2025 03:38 PM;;Av 62, Barbosa, Santander, Colombia;0;N/A;;6.0016450000;-73.6958100000
+507;TTV207;Ignition OFF;Jul 12 2025 03:38 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+506;TTV207;Idle - Stop;Jul 12 2025 03:38 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+505;TTV207;Towing/Drifting?;Jul 12 2025 03:38 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+504;TTV207;Idle - Stop;Jul 12 2025 03:38 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+503;TTV207;Idle - Stop;Jul 12 2025 02:54 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+502;TTV207;Idle - Stop;Jul 12 2025 02:51 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+501;TTV207;Idle - Stop;Jul 12 2025 02:45 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+500;TTV207;Idle - Stop;Jul 12 2025 02:39 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+499;TTV207;Ignition ON;Jul 12 2025 02:00 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+498;TTV207;Idle - Stop;Jul 12 2025 02:00 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+497;TTV207;Parked;Jul 12 2025 01:58 PM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+496;TTV207;Parked;Jul 12 2025 11:58 AM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+495;TTV207;Parked;Jul 12 2025 10:57 AM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+494;TTV207;Parked;Jul 12 2025 09:57 AM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+493;TTV207;Parked;Jul 12 2025 07:57 AM;;a 14-91, Cra. 7 #141, Barbosa, Santander, Colombia;0;N/A;;5.9332620000;-73.6132280000
+492;TTV207;Parked;Jul 12 2025 07:56 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+491;TTV207;Ignition OFF;Jul 12 2025 07:56 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+490;TTV207;Towing/Drifting?;Jul 12 2025 07:56 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+489;TTV207;Idle - Stop;Jul 12 2025 07:54 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+488;TTV207;Idle - Stop;Jul 12 2025 07:53 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+487;TTV207;Idle - Stop;Jul 12 2025 07:46 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+486;TTV207;Idle - Stop;Jul 12 2025 07:40 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+485;TTV207;Ignition ON;Jul 12 2025 07:39 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+484;TTV207;Idle - Stop;Jul 12 2025 07:39 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+483;TTV207;Parked;Jul 12 2025 07:10 AM;;South America, Boyaca;0;N/A;;5.9284300000;-73.6186920000
+482;TTV207;Parked;Jul 12 2025 07:09 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+481;TTV207;Ignition OFF;Jul 12 2025 07:09 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+480;TTV207;Idle - Stop;Jul 12 2025 07:09 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+479;TTV207;Idle - Stop;Jul 12 2025 07:06 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+478;TTV207;Idle - Stop;Jul 12 2025 07:06 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+477;TTV207;Idle - Stop;Jul 12 2025 07:03 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+476;TTV207;Idle - Stop;Jul 12 2025 07:02 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+475;TTV207;Idle - Stop;Jul 12 2025 06:57 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+474;TTV207;Idle - Stop;Jul 12 2025 06:55 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+473;TTV207;Idle - Stop;Jul 12 2025 06:55 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+472;TTV207;Idle - Stop;Jul 12 2025 06:50 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+471;TTV207;Idle - Stop;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+470;TTV207;Ignition ON;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+469;TTV207;Ignition OFF;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+468;TTV207;Towing/Drifting?;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+467;TTV207;Idle - Stop;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+466;TTV207;Ignition ON;Jul 12 2025 06:49 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+465;TTV207;Parked;Jul 12 2025 06:29 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+464;TTV207;Parked;Jul 12 2025 05:29 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+463;TTV207;Parked;Jul 12 2025 04:29 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+462;TTV207;Parked;Jul 12 2025 03:29 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+461;TTV207;Parked;Jul 12 2025 02:28 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+460;TTV207;Parked;Jul 12 2025 01:28 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+459;TTV207;Parked;Jul 12 2025 12:28 AM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+458;TTV207;Parked;Jul 11 2025 11:28 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+457;TTV207;Parked;Jul 11 2025 10:28 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+456;TTV207;Parked;Jul 11 2025 09:28 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+455;TTV207;Parked;Jul 11 2025 08:27 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+454;TTV207;Parked;Jul 11 2025 06:28 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+453;TTV207;Parked;Jul 11 2025 06:27 PM;;Carrera 3ª # 11-20, Barbosa, Santander, Colombia;0;N/A;;5.9288720000;-73.6129820000
+452;TTV207;Towing/Drifting?;Jul 11 2025 06:27 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+451;TTV207;Ignition OFF;Jul 11 2025 06:27 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+450;TTV207;Idle - Stop;Jul 11 2025 06:27 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+449;TTV207;Idle - Stop;Jul 11 2025 06:26 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+448;TTV207;Idle - Stop;Jul 11 2025 06:24 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+447;TTV207;Idle - Stop;Jul 11 2025 06:20 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+446;TTV207;Idle - Stop;Jul 11 2025 06:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+445;TTV207;Ignition ON;Jul 11 2025 06:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+444;TTV207;Ignition OFF;Jul 11 2025 06:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+443;TTV207;Towing/Drifting?;Jul 11 2025 06:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+442;TTV207;Idle - Stop;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+441;TTV207;Ignition ON;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+440;TTV207;Towing/Drifting?;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+439;TTV207;Ignition OFF;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+438;TTV207;Idle - Stop;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+437;TTV207;Ignition ON;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+436;TTV207;Towing/Drifting?;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+435;TTV207;Ignition OFF;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+434;TTV207;Idle - Stop;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+433;TTV207;Ignition ON;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+432;TTV207;Idle - Stop;Jul 11 2025 06:14 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+431;TTV207;Parked;Jul 11 2025 05:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+430;TTV207;Parked;Jul 11 2025 05:15 PM;;Cra. 6 # 14-54, Barbosa, Santander, Colombia;0;N/A;;5.9333740000;-73.6129950000
+429;TTV207;Ignition OFF;Jul 11 2025 05:15 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+428;TTV207;Towing/Drifting?;Jul 11 2025 05:15 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+427;TTV207;Idle - Stop;Jul 11 2025 05:09 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+426;TTV207;Idle - Stop;Jul 11 2025 04:57 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+425;TTV207;Idle - Stop;Jul 11 2025 04:57 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+424;TTV207;Idle - Stop;Jul 11 2025 04:55 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+423;TTV207;Idle - Stop;Jul 11 2025 04:53 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+422;TTV207;Ignition ON;Jul 11 2025 04:53 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+421;TTV207;Parked;Jul 11 2025 04:45 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+420;TTV207;Parked;Jul 11 2025 04:45 PM;;Barbosa - Ovado Real, Barbosa, Santander, Colombia;0;N/A;;5.9450070000;-73.6118810000
+419;TTV207;Ignition OFF;Jul 11 2025 04:45 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+418;TTV207;Towing/Drifting?;Jul 11 2025 04:45 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+417;TTV207;Idle - Stop;Jul 11 2025 04:34 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+416;TTV207;Idle - Stop;Jul 11 2025 04:34 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+415;TTV207;Idle - Stop;Jul 11 2025 04:33 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+414;TTV207;Idle - Stop;Jul 11 2025 04:33 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+413;TTV207;Ignition ON;Jul 11 2025 04:33 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+412;TTV207;Parked;Jul 11 2025 04:14 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+411;TTV207;Parked;Jul 11 2025 04:14 PM;;Cra. 6 #1450, Barbosa, Santander, Colombia;0;N/A;;5.9332790000;-73.6131680000
+410;TTV207;Towing/Drifting?;Jul 11 2025 04:14 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+409;TTV207;Ignition OFF;Jul 11 2025 04:14 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+408;TTV207;Ignition ON;Jul 11 2025 04:13 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+407;TTV207;Idle - Stop;Jul 11 2025 04:13 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+406;TTV207;Parked;Jul 11 2025 03:36 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+405;TTV207;Parked;Jul 11 2025 02:35 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+404;TTV207;Parked;Jul 11 2025 01:35 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+403;TTV207;Parked;Jul 11 2025 12:35 PM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+402;TTV207;Parked;Jul 11 2025 11:35 AM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+401;TTV207;Parked;Jul 11 2025 10:35 AM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+400;TTV207;Parked;Jul 11 2025 08:35 AM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+399;TTV207;Parked;Jul 11 2025 08:34 AM;;Kr7 14-37, Barbosa, Santander, Colombia;0;N/A;;5.9333040000;-73.6132670000
+398;TTV207;Towing/Drifting?;Jul 11 2025 08:34 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+397;TTV207;Ignition OFF;Jul 11 2025 08:34 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+396;TTV207;Ignition ON;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+395;TTV207;Idle - Stop;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+394;TTV207;Ignition OFF;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+393;TTV207;Towing/Drifting?;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+392;TTV207;Idle - Stop;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+391;TTV207;Ignition ON;Jul 11 2025 08:26 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+390;TTV207;Parked;Jul 11 2025 07:45 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9326400000;-73.6173700000
+389;TTV207;Parked;Jul 11 2025 07:44 AM;;Kr10 9-71, Barbosa, Santander, Colombia;0;N/A;;5.9323970000;-73.6176190000
+388;TTV207;Ignition OFF;Jul 11 2025 07:44 AM;;Kr10 9-71, Barbosa, Santander, Colombia;0;N/A;;5.9323970000;-73.6176190000
+387;TTV207;Panic button;Jul 11 2025 07:44 AM;;Calle 9a #9-2 a 9-110, Barbosa, Barbosa, Santander, Colombia;28;N/A;;5.9320770000;-73.6172840000
+386;TTV207;Panic button;Jul 11 2025 07:44 AM;;Calle 9a #9-2 a 9-110, Barbosa, Barbosa, Santander, Colombia;28;N/A;;5.9320770000;-73.6172840000
+385;TTV207;Idle - Stop;Jul 11 2025 07:43 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324970000;-73.6175270000
+384;TTV207;Idle - Stop;Jul 11 2025 07:43 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324830000;-73.6175000000
+383;TTV207;Ignition ON;Jul 11 2025 07:43 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324830000;-73.6175000000
+382;TTV207;Parked;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324830000;-73.6175000000
+381;TTV207;Parked;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324830000;-73.6175000000
+380;TTV207;Ignition OFF;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324300000;-73.6175470000
+379;TTV207;Towing/Drifting?;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324300000;-73.6175470000
+378;TTV207;Idle - Stop;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324300000;-73.6175470000
+377;TTV207;Panic button;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324300000;-73.6175470000
+376;TTV207;Idle - Stop;Jul 11 2025 07:22 AM;;Cl9a 10-15, Barbosa, Santander, Colombia;0;N/A;;5.9324300000;-73.6175470000
+375;TTV207;Idle - Stop;Jul 11 2025 07:21 AM;;Kr10 9-71, Barbosa, Santander, Colombia;0;N/A;;5.9323800000;-73.6176380000
+374;TTV207;Drive;Jul 11 2025 07:21 AM;;Cl. 9 #1226, Barbosa, Santander, Colombia;24;N/A;;5.9321090000;-73.6184630000
+373;TTV207;Panic button;Jul 11 2025 07:21 AM;;Kr10 9-72, Barbosa, Santander, Colombia;4;N/A;;5.9324450000;-73.6176150000
+372;TTV207;Panic button;Jul 11 2025 07:21 AM;;Kr10 9-72, Barbosa, Santander, Colombia;4;N/A;;5.9324450000;-73.6176150000
+371;TTV207;Idle - Stop;Jul 11 2025 07:21 AM;;Kr10 9a-93, Barbosa, Santander, Colombia;0;N/A;;5.9325120000;-73.6173900000
+370;TTV207;Panic button;Jul 11 2025 07:21 AM;;Kr10 9a-93, Barbosa, Santander, Colombia;0;N/A;;5.9325120000;-73.6173900000
+369;TTV207;Idle - Stop;Jul 11 2025 07:20 AM;;Kr10 9-72, Barbosa, Santander, Colombia;0;N/A;;5.9324820000;-73.6176490000
+368;TTV207;Ignition ON;Jul 11 2025 07:20 AM;;Kr10 9-72, Barbosa, Santander, Colombia;0;N/A;;5.9324820000;-73.6176490000
+367;TTV207;Panic button;Jul 11 2025 06:26 AM;;Kr10 9-72, Barbosa, Santander, Colombia;0;N/A;;5.9324820000;-73.6176490000
+366;TTV207;Parked;Jul 11 2025 06:25 AM;;Kr10 9-72, Barbosa, Santander, Colombia;0;N/A;;5.9324820000;-73.6176490000
+365;TTV207;Parked;Jul 11 2025 06:25 AM;;Calle 9A # 10-2 a 10-100, Barbosa, Santander, Colombia;0;N/A;;5.9325230000;-73.6176700000
+364;TTV207;Ignition OFF;Jul 11 2025 06:25 AM;;Calle 9A # 10-2 a 10-100, Barbosa, Santander, Colombia;0;N/A;;5.9325230000;-73.6176700000
+363;TTV207;Idle - Stop;Jul 11 2025 06:25 AM;;Calle 9A # 10-2 a 10-100, Barbosa, Santander, Colombia;0;N/A;;5.9325420000;-73.6176780000
+362;TTV207;Idle - Stop;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+361;TTV207;Ignition ON;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+360;TTV207;Parked;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+359;TTV207;Ignition OFF;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+358;TTV207;Idle - Stop;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+357;TTV207;Ignition ON;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+356;TTV207;Parked;Jul 11 2025 06:24 AM;;Cl9a 10-9, Barbosa, Santander, Colombia;0;N/A;;5.9325810000;-73.6174350000
+355;TTV207;Ignition OFF;Jul 11 2025 06:24 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+354;TTV207;Parked;Jul 11 2025 06:24 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+353;TTV207;Idle - Stop;Jul 11 2025 06:23 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+352;TTV207;Panic button;Jul 11 2025 06:23 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+351;TTV207;Idle - Stop;Jul 11 2025 06:22 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+350;TTV207;Panic button;Jul 11 2025 06:22 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+349;TTV207;Panic button;Jul 11 2025 06:22 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+348;TTV207;Idle - Stop;Jul 11 2025 06:22 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325870000;-73.6175240000
+347;TTV207;Idle - Stop;Jul 11 2025 06:21 AM;;South America, Boyaca;0;N/A;;5.9328340000;-73.6174110000
+346;TTV207;Idle - Stop;Jul 11 2025 06:21 AM;;South America, Boyaca;0;N/A;;5.9328340000;-73.6174110000
+345;TTV207;Idle - Stop;Jul 11 2025 06:20 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9328280000;-73.6172850000
+344;TTV207;Panic button;Jul 11 2025 06:20 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9328280000;-73.6172850000
+343;TTV207;Panic button;Jul 11 2025 06:19 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;1;N/A;;5.9328410000;-73.6172660000
+342;TTV207;Idle - Stop;Jul 11 2025 06:19 AM;;Cl9a 10-32, Barbosa, Santander, Colombia;0;N/A;;5.9326720000;-73.6174520000
+341;TTV207;Idle - Stop;Jul 11 2025 06:19 AM;;Cl9a 10-32, Barbosa, Santander, Colombia;0;N/A;;5.9326840000;-73.6174630000
+340;TTV207;Idle - Stop;Jul 11 2025 06:19 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325930000;-73.6175060000
+339;TTV207;Panic button;Jul 11 2025 06:18 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325930000;-73.6175060000
+338;TTV207;Idle - Stop;Jul 11 2025 06:18 AM;;Carrera 10 # 9A-31, Barbosa, Santander, Colombia;0;N/A;;5.9325930000;-73.6175060000
+337;TTV207;Panic button;Jul 11 2025 06:17 AM;;Kr11 9a-35, Barbosa, Santander, Colombia;1;N/A;;5.9333150000;-73.6170740000
+336;TTV207;Idle - Stop;Jul 11 2025 06:17 AM;;Cra. 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9328580000;-73.6173500000
+335;TTV207;Panic button;Jul 11 2025 06:17 AM;;South America, Boyaca;19;N/A;;5.9333120000;-73.6171750000
+334;TTV207;Idle - Stop;Jul 11 2025 06:16 AM;;Cl9a 10-56, Barbosa, Santander, Colombia;9;N/A;;5.9326490000;-73.6177150000
+333;TTV207;Drive;Jul 11 2025 06:14 AM;;Kr10 9a-13, Barbosa, Santander;37;N/A;;5.9332980000;-73.6166920000
+332;TTV207;Idle - Stop;Jul 11 2025 06:14 AM;;Carrera 10 #9a-1 a 9a-93, Barbosa, Barbosa, Santander, Colombia;0;N/A;;5.9328110000;-73.6172310000
+331;TTV207;Idle - Stop;Jul 11 2025 06:14 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+330;TTV207;Ignition ON;Jul 11 2025 06:14 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+329;TTV207;Parked;Jul 11 2025 06:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+328;TTV207;Parked;Jul 11 2025 05:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+327;TTV207;Parked;Jul 11 2025 04:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+326;TTV207;Parked;Jul 11 2025 03:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+325;TTV207;Parked;Jul 11 2025 02:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+324;TTV207;Parked;Jul 11 2025 01:00 AM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+323;TTV207;Parked;Jul 10 2025 11:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+322;TTV207;Parked;Jul 10 2025 10:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+321;TTV207;Parked;Jul 10 2025 09:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+320;TTV207;Parked;Jul 10 2025 08:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+319;TTV207;Parked;Jul 10 2025 07:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+318;TTV207;Parked;Jul 10 2025 06:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+317;TTV207;Parked;Jul 10 2025 04:59 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+316;TTV207;Parked;Jul 10 2025 04:58 PM;;Cl. 9a #9-2 a 9-110, Barbosa, Santander, Colombia;0;N/A;;5.9323890000;-73.6173930000
+315;TTV207;Ignition OFF;Jul 10 2025 04:58 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+314;TTV207;Towing/Drifting?;Jul 10 2025 04:58 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+313;TTV207;Idle - Stop;Jul 10 2025 04:57 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+312;TTV207;Idle - Stop;Jul 10 2025 04:57 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+311;TTV207;Idle - Stop;Jul 10 2025 04:54 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+310;TTV207;Idle - Stop;Jul 10 2025 04:53 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+309;TTV207;Idle - Stop;Jul 10 2025 04:46 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+308;TTV207;Ignition ON;Jul 10 2025 04:46 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+307;TTV207;Parked;Jul 10 2025 04:41 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+306;TTV207;Parked;Jul 10 2025 04:41 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+305;TTV207;Parked;Jul 10 2025 04:40 PM;;Av 45a-98, Barbosa, Santander;0;N/A;;5.9415640000;-73.6129490000
+304;TTV207;Ignition OFF;Jul 10 2025 04:40 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+303;TTV207;Idle - Stop;Jul 10 2025 04:40 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+302;TTV207;Towing/Drifting?;Jul 10 2025 04:40 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+301;TTV207;Idle - Stop;Jul 10 2025 04:38 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+300;TTV207;Idle - Stop;Jul 10 2025 04:23 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+299;TTV207;Idle - Stop;Jul 10 2025 04:22 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+298;TTV207;Idle - Stop;Jul 10 2025 04:22 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+297;TTV207;Idle - Stop;Jul 10 2025 04:21 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+296;TTV207;Idle - Stop;Jul 10 2025 04:19 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+295;TTV207;Idle - Stop;Jul 10 2025 04:18 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+294;TTV207;Idle - Stop;Jul 10 2025 04:17 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+293;TTV207;Idle - Stop;Jul 10 2025 04:16 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+292;TTV207;Idle - Stop;Jul 10 2025 04:15 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+291;TTV207;Idle - Stop;Jul 10 2025 04:10 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+290;TTV207;Idle - Stop;Jul 10 2025 04:05 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+289;TTV207;Idle - Stop;Jul 10 2025 04:04 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+288;TTV207;Idle - Stop;Jul 10 2025 04:04 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+287;TTV207;Ignition ON;Jul 10 2025 04:04 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+286;TTV207;Parked;Jul 10 2025 03:33 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+285;TTV207;Parked;Jul 10 2025 03:33 PM;;Cra. 7 #1504, Barbosa, Santander, Colombia;0;N/A;;5.9333650000;-73.6131760000
+284;TTV207;Towing/Drifting?;Jul 10 2025 03:32 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+283;TTV207;Ignition OFF;Jul 10 2025 03:32 PM;;67R857X4+PV;0;N/A;;6.1993460000;-73.7427510000
+282;TTV207;Drive;Jul 10 2025 03:32 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+281;TTV207;Idle - Stop;Jul 10 2025 03:31 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+280;TTV207;Drive;Jul 10 2025 03:30 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+279;TTV207;Idle - Stop;Jul 10 2025 03:30 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+278;TTV207;Drive;Jul 10 2025 02:33 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+277;TTV207;Idle - Stop;Jul 10 2025 02:31 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+276;TTV207;Drive;Jul 10 2025 02:30 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+275;TTV207;Idle - Stop;Jul 10 2025 02:21 PM;;67R857X4+PV;20;N/A;;6.1993460000;-73.7427510000
+274;TTV207;Drive;Jul 10 2025 01:05 PM;;67R857X5+Q3;17;N/A;;6.1994760000;-73.7423540000
+273;TTV207;Drive;Jul 10 2025 01:05 PM;;67R857X5+X8;33;N/A;;6.1999310000;-73.7417160000
+272;TTV207;Drive;Jul 10 2025 01:05 PM;;Landazuri-Velez, Vélez, Santander, Colombia;27;N/A;;6.2009430000;-73.7416020000
+271;TTV207;Drive;Jul 10 2025 01:04 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;24;N/A;;6.2011000000;-73.7419710000
+270;TTV207;Drive;Jul 10 2025 01:04 PM;;Av 62, Puerto Berrio, Antioquia;20;N/A;;6.2014300000;-73.7424340000
+269;TTV207;Drive;Jul 10 2025 01:04 PM;;Landazuri-Velez, Vélez, Santander, Colombia;20;N/A;;6.2017610000;-73.7429090000
+268;TTV207;Drive;Jul 10 2025 01:04 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;33;N/A;;6.2015910000;-73.7449250000
+267;TTV207;Drive;Jul 10 2025 01:03 PM;;Landazuri-Velez, Vélez, Santander, Colombia;30;N/A;;6.2018150000;-73.7453530000
+266;TTV207;Drive;Jul 10 2025 01:03 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;12;N/A;;6.2032040000;-73.7451820000
+265;TTV207;Drive;Jul 10 2025 01:03 PM;;Av 62, Puerto Berrio, Antioquia;25;N/A;;6.2038630000;-73.7447050000
+264;TTV207;Drive;Jul 10 2025 01:03 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;22;N/A;;6.2040200000;-73.7446000000
+263;TTV207;Idle - Stop;Jul 10 2025 01:02 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2041010000;-73.7452160000
+262;TTV207;Drive;Jul 10 2025 01:02 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;28;N/A;;6.2039130000;-73.7462720000
+261;TTV207;Drive;Jul 10 2025 01:01 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;22;N/A;;6.2042600000;-73.7469760000
+260;TTV207;Drive;Jul 10 2025 01:01 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;14;N/A;;6.2044530000;-73.7479060000
+259;TTV207;Idle - Stop;Jul 10 2025 01:01 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2043550000;-73.7489860000
+258;TTV207;Drive;Jul 10 2025 01:00 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;9;N/A;;6.2045640000;-73.7492510000
+257;TTV207;Drive;Jul 10 2025 12:55 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;12;N/A;;6.2152280000;-73.7507130000
+256;TTV207;Drive;Jul 10 2025 12:54 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;24;N/A;;6.2164140000;-73.7511000000
+255;TTV207;Drive;Jul 10 2025 12:54 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;25;N/A;;6.2166060000;-73.7511400000
+254;TTV207;Drive;Jul 10 2025 12:54 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;25;N/A;;6.2169540000;-73.7518490000
+253;TTV207;Drive;Jul 10 2025 12:53 PM;;Av 62, Puerto Berrio, Antioquia;22;N/A;;6.2196710000;-73.7525440000
+252;TTV207;Drive;Jul 10 2025 12:53 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;25;N/A;;6.2208220000;-73.7527960000
+251;TTV207;Drive;Jul 10 2025 12:53 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;30;N/A;;6.2216850000;-73.7534440000
+250;TTV207;Drive;Jul 10 2025 12:52 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;20;N/A;;6.2225850000;-73.7540690000
+249;TTV207;Drive;Jul 10 2025 12:52 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;11;N/A;;6.2228540000;-73.7543000000
+248;TTV207;Drive;Jul 10 2025 12:51 PM;;Av 62, Puerto Berrio, Antioquia;12;N/A;;6.2240290000;-73.7547070000
+247;TTV207;Idle - Stop;Jul 10 2025 12:51 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2249230000;-73.7547980000
+246;TTV207;Idle - Stop;Jul 10 2025 12:51 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;0;N/A;;6.2252180000;-73.7549150000
+245;TTV207;Drive;Jul 10 2025 12:50 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;14;N/A;;6.2260880000;-73.7564680000
+244;TTV207;Drive;Jul 10 2025 12:50 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;14;N/A;;6.2265120000;-73.7574080000
+243;TTV207;Drive;Jul 10 2025 12:49 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;14;N/A;;6.2265910000;-73.7578010000
+242;TTV207;Drive;Jul 10 2025 12:49 PM;;Av 62, Puerto Berrio, Antioquia;9;N/A;;6.2269570000;-73.7585930000
+241;TTV207;Drive;Jul 10 2025 12:48 PM;;Av 62, Puerto Berrio, Antioquia;25;N/A;;6.2276020000;-73.7605910000
+240;TTV207;Drive;Jul 10 2025 12:48 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;12;N/A;;6.2276000000;-73.7610230000
+239;TTV207;Drive;Jul 10 2025 12:48 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;14;N/A;;6.2274010000;-73.7611860000
+238;TTV207;Drive;Jul 10 2025 12:45 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;35;N/A;;6.2271330000;-73.7699820000
+237;TTV207;Drive;Jul 10 2025 12:44 PM;;Av 62, Puerto Berrio, Antioquia;28;N/A;;6.2258370000;-73.7735770000
+236;TTV207;Drive;Jul 10 2025 12:44 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;35;N/A;;6.2262580000;-73.7740710000
+235;TTV207;Drive;Jul 10 2025 12:44 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;30;N/A;;6.2267760000;-73.7741590000
+234;TTV207;Drive;Jul 10 2025 12:43 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;17;N/A;;6.2286710000;-73.7739890000
+233;TTV207;Drive;Jul 10 2025 12:43 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;20;N/A;;6.2289700000;-73.7738970000
+232;TTV207;Drive;Jul 10 2025 12:43 PM;;Av 62, Puerto Berrio, Antioquia;22;N/A;;6.2293610000;-73.7745310000
+231;TTV207;Drive;Jul 10 2025 12:42 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;16;N/A;;6.2284040000;-73.7766880000
+230;TTV207;Drive;Jul 10 2025 12:42 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;12;N/A;;6.2282820000;-73.7774970000
+229;TTV207;Drive;Jul 10 2025 12:41 PM;;Av 62, Puerto Berrio, Antioquia;9;N/A;;6.2291380000;-73.7783480000
+228;TTV207;Drive;Jul 10 2025 12:41 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;11;N/A;;6.2286130000;-73.7800600000
+227;TTV207;Drive;Jul 10 2025 12:40 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;9;N/A;;6.2279360000;-73.7818710000
+226;TTV207;Drive;Jul 10 2025 12:39 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;9;N/A;;6.2275510000;-73.7823070000
+225;TTV207;Idle - Stop;Jul 10 2025 12:39 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;0;N/A;;6.2265380000;-73.7827760000
+224;TTV207;Drive;Jul 10 2025 12:38 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;9;N/A;;6.2264670000;-73.7827980000
+223;TTV207;Drive;Jul 10 2025 12:38 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;9;N/A;;6.2266440000;-73.7840020000
+222;TTV207;Idle - Stop;Jul 10 2025 12:38 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;0;N/A;;6.2262340000;-73.7829670000
+221;TTV207;Drive;Jul 10 2025 12:37 PM;;I-62 # 1 a 2, Landázuri, Santander, Colombia;11;N/A;;6.2268120000;-73.7843060000
+220;TTV207;Drive;Jul 10 2025 12:36 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;12;N/A;;6.2268810000;-73.7859020000
+219;TTV207;Drive;Jul 10 2025 12:36 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;11;N/A;;6.2272110000;-73.7861220000
+218;TTV207;Drive;Jul 10 2025 12:35 PM;;Av 62, Puerto Berrio, Antioquia;17;N/A;;6.2272500000;-73.7875200000
+217;TTV207;Drive;Jul 10 2025 12:35 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;14;N/A;;6.2270750000;-73.7880870000
+216;TTV207;Idle - Stop;Jul 10 2025 12:35 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;0;N/A;;6.2265940000;-73.7885380000
+215;TTV207;Drive;Jul 10 2025 12:34 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;25;N/A;;6.2258070000;-73.7893370000
+214;TTV207;Drive;Jul 10 2025 12:34 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;27;N/A;;6.2251980000;-73.7902010000
+213;TTV207;Drive;Jul 10 2025 12:34 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;27;N/A;;6.2251370000;-73.7904040000
+212;TTV207;Drive;Jul 10 2025 12:34 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;27;N/A;;6.2243570000;-73.7909910000
+211;TTV207;Drive;Jul 10 2025 12:34 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;27;N/A;;6.2240730000;-73.7912810000
+210;TTV207;Drive;Jul 10 2025 12:33 PM;;Av 62, Puerto Berrio, Antioquia;28;N/A;;6.2243220000;-73.7917780000
+209;TTV207;Drive;Jul 10 2025 12:33 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;30;N/A;;6.2242130000;-73.7928130000
+208;TTV207;Drive;Jul 10 2025 12:32 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;12;N/A;;6.2280420000;-73.7932040000
+207;TTV207;Idle - Stop;Jul 10 2025 12:31 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2285350000;-73.7941900000
+206;TTV207;Idle - Stop;Jul 10 2025 12:31 PM;;South America, Landazuri, Santander;0;N/A;;6.2285640000;-73.7943530000
+205;TTV207;Drive;Jul 10 2025 12:31 PM;;Av 62, Puerto Berrio, Antioquia;27;N/A;;6.2287280000;-73.7949900000
+204;TTV207;Drive;Jul 10 2025 12:30 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;12;N/A;;6.2307820000;-73.7958310000
+203;TTV207;Drive;Jul 10 2025 12:30 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;20;N/A;;6.2310020000;-73.7957910000
+202;TTV207;Drive;Jul 10 2025 12:30 PM;;Av 62, Puerto Berrio, Antioquia;16;N/A;;6.2310210000;-73.7964750000
+201;TTV207;Drive;Jul 10 2025 12:29 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;33;N/A;;6.2287930000;-73.7976500000
+200;TTV207;Drive;Jul 10 2025 12:29 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;30;N/A;;6.2279530000;-73.7992110000
+199;TTV207;Drive;Jul 10 2025 12:28 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;30;N/A;;6.2259690000;-73.8018500000
+198;TTV207;Drive;Jul 10 2025 12:28 PM;;65GX+63 Landázuri, Santander, Colombia;30;N/A;;6.2255720000;-73.8023770000
+197;TTV207;Drive;Jul 10 2025 12:28 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;28;N/A;;6.2251260000;-73.8037070000
+196;TTV207;Drive;Jul 10 2025 12:27 PM;;Landazuri-Velez, Landázuri, Santander, Colombia;33;N/A;;6.2234220000;-73.8061030000
+195;TTV207;Drive;Jul 10 2025 12:27 PM;;62, Landázuri, Landázuri, Santander, Colombia;32;N/A;;6.2223610000;-73.8071030000
+194;TTV207;Drive;Jul 10 2025 12:27 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;32;N/A;;6.2216520000;-73.8073320000
+193;TTV207;Drive;Jul 10 2025 12:26 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;25;N/A;;6.2211450000;-73.8068890000
+192;TTV207;Drive;Jul 10 2025 12:26 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;28;N/A;;6.2202750000;-73.8066090000
+191;TTV207;Drive;Jul 10 2025 12:26 PM;;62, Landázuri, Landázuri, Santander, Colombia;30;N/A;;6.2198110000;-73.8070980000
+190;TTV207;Drive;Jul 10 2025 12:25 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;22;N/A;;6.2188680000;-73.8091510000
+189;TTV207;Drive;Jul 10 2025 12:25 PM;;Av 62, Puerto Berrio, Antioquia;19;N/A;;6.2187250000;-73.8094420000
+188;TTV207;Drive;Jul 10 2025 12:25 PM;;Av 62, Puerto Berrio, Antioquia;11;N/A;;6.2191670000;-73.8098330000
+187;TTV207;Idle - Stop;Jul 10 2025 12:24 PM;;Calle 5B, Landázuri, Santander, Colombia;0;N/A;;6.2194800000;-73.8105080000
+186;TTV207;Idle - Stop;Jul 10 2025 12:23 PM;;Via Principal Landazuri, Landázuri, Landázuri, Santander, Colombia;0;N/A;;6.2195200000;-73.8105650000
+185;TTV207;Idle - Stop;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+184;TTV207;Ignition ON;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+183;TTV207;Parked;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+182;TTV207;Ignition OFF;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+181;TTV207;Towing/Drifting?;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+180;TTV207;Idle - Stop;Jul 10 2025 12:23 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2194430000;-73.8103730000
+179;TTV207;Idle - Stop;Jul 10 2025 12:22 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2195260000;-73.8103030000
+178;TTV207;Ignition ON;Jul 10 2025 12:22 PM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2195260000;-73.8103030000
+177;TTV207;Parked;Jul 10 2025 11:56 AM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2195260000;-73.8103030000
+176;TTV207;Parked;Jul 10 2025 11:55 AM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2195260000;-73.8103030000
+175;TTV207;Towing/Drifting?;Jul 10 2025 11:55 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+174;TTV207;Ignition OFF;Jul 10 2025 11:55 AM;;X62G+RW Barrancabermeja, Santander, Colombia;0;N/A;;6.9520920000;-73.7727090000
+173;TTV207;Drive;Jul 10 2025 11:54 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+172;TTV207;Ping;Jul 10 2025 11:53 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+171;TTV207;POWER UP;Jul 10 2025 11:50 AM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2287930000;-73.7976500000
+170;TTV207;Self Test/Reboot;Jul 10 2025 11:50 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+169;TTV207;Power OFF;Jul 10 2025 11:50 AM;;Av 62, Puerto Berrio, Antioquia, Colombia;0;N/A;;6.2287930000;-73.7976500000
+168;TTV207;Idle - Stop;Jul 10 2025 11:46 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+167;TTV207;Drive;Jul 10 2025 11:45 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+166;TTV207;Idle - Stop;Jul 10 2025 11:45 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+165;TTV207;Drive;Jul 10 2025 11:44 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+164;TTV207;Idle - Stop;Jul 10 2025 11:42 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+163;TTV207;Drive;Jul 10 2025 11:41 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+162;TTV207;Idle - Stop;Jul 10 2025 11:41 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+161;TTV207;Drive;Jul 10 2025 10:25 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+160;TTV207;Idle - Stop;Jul 10 2025 10:17 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+159;TTV207;Drive;Jul 10 2025 10:04 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+158;TTV207;Idle - Stop;Jul 10 2025 09:59 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+157;TTV207;Drive;Jul 10 2025 09:56 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+156;TTV207;Idle - Stop;Jul 10 2025 09:55 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+155;TTV207;Drive;Jul 10 2025 09:54 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+154;TTV207;Idle - Stop;Jul 10 2025 09:54 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+153;TTV207;Drive;Jul 10 2025 09:51 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+152;TTV207;Idle - Stop;Jul 10 2025 09:51 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+151;TTV207;Drive;Jul 10 2025 08:15 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+150;TTV207;Idle - Stop;Jul 10 2025 08:15 AM;;X62G+RW Barrancabermeja, Santander, Colombia;54;N/A;;6.9520920000;-73.7727090000
+149;TTV207;Drive;Jul 10 2025 07:57 AM;;Troncal Magdalena - Barrancabermeja, Barrancabermeja, Santander, Colombia;28;N/A;;6.9541020000;-73.7722660000
+148;TTV207;Drive;Jul 10 2025 07:56 AM;;X64H+MM Barrancabermeja, Santander, Colombia;45;N/A;;6.9567490000;-73.7708100000
+147;TTV207;Drive;Jul 10 2025 07:55 AM;;Via Principal, Barrancabermeja, Santander;33;N/A;;6.9605450000;-73.7744680000
+146;TTV207;Drive;Jul 10 2025 07:54 AM;;Via Principal, Barrancabermeja, Santander, Colombia;45;N/A;;6.9663260000;-73.7758550000
+145;TTV207;Drive;Jul 10 2025 07:53 AM;;Via Principal, Barrancabermeja, Santander, Colombia;40;N/A;;6.9732950000;-73.7768870000
+144;TTV207;Drive;Jul 10 2025 07:53 AM;;Barrancabermeja-Troncal Magdalena, Barrancabermeja, Santander, Colombia;35;N/A;;6.9735750000;-73.7770030000
+143;TTV207;Drive;Jul 10 2025 07:53 AM;;Via Principal, Barrancabermeja, Santander;49;N/A;;6.9751520000;-73.7799960000
+142;TTV207;Drive;Jul 10 2025 07:52 AM;;Via Principal, Barrancabermeja, Santander;38;N/A;;6.9768890000;-73.7818290000
+141;TTV207;Drive;Jul 10 2025 07:51 AM;;Via Principal, Barrancabermeja, Santander, Colombia;46;N/A;;6.9829120000;-73.7819940000
+140;TTV207;Drive;Jul 10 2025 07:50 AM;;Via Principal, Barrancabermeja, Santander, Colombia;59;N/A;;6.9902410000;-73.7836010000
+139;TTV207;Drive;Jul 10 2025 07:50 AM;;Via Principal, Barrancabermeja, Santander, Colombia;57;N/A;;6.9920420000;-73.7841120000
+138;TTV207;Drive;Jul 10 2025 07:49 AM;;Via Principal, Barrancabermeja, Santander, Colombia;24;N/A;;6.9979380000;-73.7812060000
+137;TTV207;Drive;Jul 10 2025 07:49 AM;;Via Principal, Barrancabermeja, Santander;41;N/A;;6.9997350000;-73.7800400000
+136;TTV207;Drive;Jul 10 2025 07:48 AM;;Via Principal, Barrancabermeja, Santander, Colombia;57;N/A;;7.0026520000;-73.7814950000
+135;TTV207;Drive;Jul 10 2025 07:48 AM;;Via Principal, Barrancabermeja, Santander, Colombia;46;N/A;;7.0041190000;-73.7819290000
+134;TTV207;Drive;Jul 10 2025 07:47 AM;;Via Principal, Barrancabermeja, Santander;53;N/A;;7.0099750000;-73.7857830000
+133;TTV207;Drive;Jul 10 2025 07:47 AM;;South America, Barrancabermeja, Santander;45;N/A;;7.0121450000;-73.7883290000
+132;TTV207;Drive;Jul 10 2025 07:47 AM;;Via Principal, Barrancabermeja, Santander;48;N/A;;7.0131190000;-73.7884940000
+131;TTV207;Drive;Jul 10 2025 07:47 AM;;Via Principal, Barrancabermeja, Santander, Colombia;43;N/A;;7.0137970000;-73.7886150000
+130;TTV207;Drive;Jul 10 2025 07:46 AM;;Via Principal, Barrancabermeja, Santander, Colombia;57;N/A;;7.0151870000;-73.7914740000
+129;TTV207;Drive;Jul 10 2025 07:45 AM;;Via Principal, Barrancabermeja, Santander;45;N/A;;7.0165350000;-73.7993120000
+128;TTV207;Drive;Jul 10 2025 07:44 AM;;Via Principal, Barrancabermeja, Santander, Colombia;33;N/A;;7.0167570000;-73.8061320000
+127;TTV207;Drive;Jul 10 2025 07:43 AM;;Via Principal, Barrancabermeja, Santander;43;N/A;;7.0165100000;-73.8112230000
+126;TTV207;Drive;Jul 10 2025 07:43 AM;;Via Principal, Barrancabermeja, Santander;40;N/A;;7.0165110000;-73.8119060000
+125;TTV207;Drive;Jul 10 2025 07:43 AM;;Via Principal, Barrancabermeja, Santander;38;N/A;;7.0168420000;-73.8124270000
+124;TTV207;Drive;Jul 10 2025 07:42 AM;;Via Principal, Barrancabermeja, Santander, Colombia;53;N/A;;7.0214860000;-73.8102330000
+123;TTV207;Drive;Jul 10 2025 07:42 AM;;Via Principal, Barrancabermeja, Santander;56;N/A;;7.0226030000;-73.8095480000
+122;TTV207;Drive;Jul 10 2025 07:42 AM;;Via Principal, Barrancabermeja, Santander;54;N/A;;7.0241730000;-73.8097800000
+121;TTV207;Drive;Jul 10 2025 07:42 AM;;Via Principal, Barrancabermeja, Santander;46;N/A;;7.0259800000;-73.8094320000
+120;TTV207;Drive;Jul 10 2025 07:41 AM;;Via Principal, Barrancabermeja, Santander, Colombia;46;N/A;;7.0278690000;-73.8112220000
+119;TTV207;Drive;Jul 10 2025 07:41 AM;;Via Principal, Barrancabermeja, Santander, COLOMBIA;51;N/A;;7.0292190000;-73.8120520000
+118;TTV207;Drive;Jul 10 2025 07:40 AM;;Unnamed Road, Barrancabermeja, Santander, Colombia;51;N/A;;7.0325250000;-73.8175220000
+117;TTV207;Drive;Jul 10 2025 07:40 AM;;Via Principal, Barrancabermeja, Santander, Colombia;46;N/A;;7.0336990000;-73.8189260000
+116;TTV207;Drive;Jul 10 2025 07:40 AM;;Via Principal, Barrancabermeja, Santander;43;N/A;;7.0336260000;-73.8211750000
+115;TTV207;Drive;Jul 10 2025 07:39 AM;;Via Principal, Barrancabermeja, Santander;38;N/A;;7.0345290000;-73.8225720000
+114;TTV207;Drive;Jul 10 2025 07:39 AM;;Unnamed Road, Barrancabermeja, Santander, Colombia;35;N/A;;7.0350770000;-73.8233260000
+113;TTV207;Drive;Jul 10 2025 07:39 AM;;Via Principal-60, Barrancabermeja, Santander;30;N/A;;7.0351270000;-73.8236090000
+112;TTV207;Drive;Jul 10 2025 07:38 AM;;Via Principal-83, Barrancabermeja, Santander;41;N/A;;7.0406270000;-73.8260900000
+111;TTV207;Drive;Jul 10 2025 07:38 AM;;Via Principal-57, Barrancabermeja, Santander;33;N/A;;7.0414740000;-73.8263180000
+110;TTV207;Drive;Jul 10 2025 07:37 AM;;Cl37-90, Barrancabermeja, Santander;40;N/A;;7.0423970000;-73.8297570000
+109;TTV207;Drive;Jul 10 2025 07:37 AM;;Cl37 59-4, Barrancabermeja, Santander;45;N/A;;7.0421830000;-73.8310570000
+108;TTV207;Drive;Jul 10 2025 07:37 AM;;Cl37 54-71, Barrancabermeja, Santander;43;N/A;;7.0411740000;-73.8332730000
+107;TTV207;Drive;Jul 10 2025 07:37 AM;;Via Principal-37, Barrancabermeja, Santander;51;N/A;;7.0411070000;-73.8342710000
+106;TTV207;Drive;Jul 10 2025 07:36 AM;;Kr49, Barrancabermeja, Santander;48;N/A;;7.0439410000;-73.8367430000
+105;TTV207;Drive;Jul 10 2025 07:35 AM;;Cl37 37b, Barrancabermeja, Santander;46;N/A;;7.0499570000;-73.8405520000
+104;TTV207;Drive;Jul 10 2025 07:35 AM;;Dg36 36a-68, Barrancabermeja, Santander, Colombia;48;N/A;;7.0509860000;-73.8424340000
+103;TTV207;Drive;Jul 10 2025 07:34 AM;;Cl36 35-39, Barrancabermeja, Santander;46;N/A;;7.0506920000;-73.8465340000
+102;TTV207;Drive;Jul 10 2025 07:34 AM;;Cl36 35-7, Barrancabermeja, Santander;46;N/A;;7.0505660000;-73.8472070000
+101;TTV207;Drive;Jul 10 2025 07:33 AM;;Kr28 44-58, Barrancabermeja, Santander;24;N/A;;7.0559150000;-73.8502060000
+100;TTV207;Idle - Stop;Jul 10 2025 07:33 AM;;Kr28 44-94, Barrancabermeja, Santander, Colombia;0;N/A;;7.0562240000;-73.8503100000
+99;TTV207;Idle - Stop;Jul 10 2025 07:32 AM;;Kr28 44-94, Barrancabermeja, Santander, Colombia;0;N/A;;7.0562240000;-73.8503100000
+98;TTV207;Idle - Stop;Jul 10 2025 07:32 AM;;Kr28 44-94, Barrancabermeja, Santander, Colombia;0;N/A;;7.0562240000;-73.8503100000
+97;TTV207;Idle - Stop;Jul 10 2025 07:31 AM;;Kr28 45-89, Barrancabermeja, Santander;0;N/A;;7.0571400000;-73.8505470000
+96;TTV207;Drive;Jul 10 2025 07:30 AM;;Kr28 46-26, Barrancabermeja, Santander;20;N/A;;7.0575220000;-73.8506620000
+95;TTV207;Idle - Stop;Jul 10 2025 07:29 AM;;Kr28 48-78, Barrancabermeja, Santander;0;N/A;;7.0597340000;-73.8513190000
+94;TTV207;Drive;Jul 10 2025 07:29 AM;;Kr28 49-41, Barrancabermeja, Santander;33;N/A;;7.0602680000;-73.8514710000
+93;TTV207;Idle - Stop;Jul 10 2025 07:28 AM;;Dg49 28-61, Barrancabermeja, Santander;0;N/A;;7.0609220000;-73.8515210000
+92;TTV207;Idle - Stop;Jul 10 2025 07:27 AM;;Dg49 28-61, Barrancabermeja, Santander;0;N/A;;7.0609220000;-73.8515210000
+91;TTV207;Idle - Stop;Jul 10 2025 07:26 AM;;Dg49 29a-29, Barrancabermeja, Santander;0;N/A;;7.0612380000;-73.8511980000
+90;TTV207;Idle - Stop;Jul 10 2025 07:25 AM;;Dg49 29a-41, Barrancabermeja, Santander;0;N/A;;7.0613190000;-73.8511230000
+89;TTV207;Idle - Stop;Jul 10 2025 07:24 AM;;Dg49 52c-17, Barrancabermeja, Santander;0;N/A;;7.0622280000;-73.8504400000
+88;TTV207;Drive;Jul 10 2025 07:23 AM;;Dg49 31, Barrancabermeja, Santander;41;N/A;;7.0631910000;-73.8496640000
+87;TTV207;Drive;Jul 10 2025 07:23 AM;;Dg49 31a-55, Barrancabermeja, Santander;30;N/A;;7.0641330000;-73.8489240000
+86;TTV207;Drive;Jul 10 2025 07:22 AM;;Kr32 58-96, Barrancabermeja, Santander;28;N/A;;7.0682350000;-73.8487250000
+85;TTV207;Idle - Stop;Jul 10 2025 07:21 AM;;Kr32 62-5, Barrancabermeja, Santander;0;N/A;;7.0698050000;-73.8488030000
+84;TTV207;Idle - Stop;Jul 10 2025 07:21 AM;;Kr32 62-5, Barrancabermeja, Santander;0;N/A;;7.0698200000;-73.8488070000
+83;TTV207;Idle - Stop;Jul 10 2025 07:20 AM;;Kr30 67-34, Barrancabermeja, Santander;0;N/A;;7.0722750000;-73.8496940000
+82;TTV207;Drive;Jul 10 2025 07:19 AM;;Kr30 69-50, Barrancabermeja, Santander;25;N/A;;7.0733010000;-73.8501360000
+81;TTV207;Drive;Jul 10 2025 07:19 AM;;Cl71 27-6, Barrancabermeja, Santander;12;N/A;;7.0748650000;-73.8518460000
+80;TTV207;Drive;Jul 10 2025 07:18 AM;;South America, Barrancabermeja, Santander;17;N/A;;7.0752230000;-73.8518980000
+79;TTV207;Drive;Jul 10 2025 07:18 AM;;Calle 72 # 24-2 a 24-100, Barrancabermeja, Santander, Colombia;12;N/A;;7.0754970000;-73.8517290000
+78;TTV207;Drive;Jul 10 2025 07:17 AM;;Calle 72 #23-2 a 23-140, Barrancabermeja, Barrancabermeja, Santander, Colombia;14;N/A;;7.0763870000;-73.8529860000
+77;TTV207;Drive;Jul 10 2025 07:17 AM;;Cl72 21-18, Barrancabermeja, Santander, Colombia;12;N/A;;7.0771690000;-73.8546500000
+76;TTV207;Drive;Jul 10 2025 07:16 AM;;Kr21 72-90, Barrancabermeja, Santander, Colombia;14;N/A;;7.0776880000;-73.8546580000
+75;TTV207;Drive;Jul 10 2025 07:16 AM;;Kr21 73-66, Barrancabermeja, Santander, Colombia;9;N/A;;7.0780190000;-73.8545410000
+74;TTV207;Drive;Jul 10 2025 07:16 AM;;Kr21 73-97, Barrancabermeja, Santander, Colombia;9;N/A;;7.0782730000;-73.8544670000
+73;TTV207;Idle - Stop;Jul 10 2025 07:15 AM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784730000;-73.8548830000
+72;TTV207;Idle - Stop;Jul 10 2025 07:14 AM;;Cl. 74 #20-90, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784730000;-73.8548830000
+71;TTV207;Idle - Stop;Jul 10 2025 07:13 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784510000;-73.8549160000
+70;TTV207;Idle - Stop;Jul 10 2025 07:12 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+69;TTV207;Idle - Stop;Jul 10 2025 07:11 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+68;TTV207;Idle - Stop;Jul 10 2025 07:10 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+67;TTV207;Idle - Stop;Jul 10 2025 07:09 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+66;TTV207;Idle - Stop;Jul 10 2025 07:08 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+65;TTV207;Ignition ON;Jul 10 2025 07:08 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+64;TTV207;Towing/Drifting?;Jul 10 2025 07:08 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+63;TTV207;Ignition OFF;Jul 10 2025 07:08 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784190000;-73.8551510000
+62;TTV207;Idle - Stop;Jul 10 2025 07:08 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784010000;-73.8551660000
+61;TTV207;Idle - Stop;Jul 10 2025 07:08 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784360000;-73.8552150000
+60;TTV207;Ignition ON;Jul 10 2025 07:08 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784360000;-73.8552150000
+59;TTV207;Parked;Jul 10 2025 07:08 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784360000;-73.8552150000
+58;TTV207;Towing/Drifting?;Jul 10 2025 07:08 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784360000;-73.8552150000
+57;TTV207;Ignition OFF;Jul 10 2025 07:08 AM;;Cl. 74 #20-30, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784360000;-73.8552150000
+56;TTV207;Idle - Stop;Jul 10 2025 07:07 AM;;Cl. 73 #20-47, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783650000;-73.8552120000
+55;TTV207;Ignition ON;Jul 10 2025 07:07 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784580000;-73.8551930000
+54;TTV207;Idle - Stop;Jul 10 2025 07:07 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784580000;-73.8551930000
+53;TTV207;Parked;Jul 10 2025 05:56 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784580000;-73.8551930000
+52;TTV207;Parked;Jul 10 2025 05:55 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+51;TTV207;Ignition OFF;Jul 10 2025 05:55 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+50;TTV207;Ignition ON;Jul 10 2025 05:55 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+49;TTV207;Idle - Stop;Jul 10 2025 05:55 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+48;TTV207;Parked;Jul 10 2025 05:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+47;TTV207;Parked;Jul 10 2025 04:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+46;TTV207;Parked;Jul 10 2025 03:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+45;TTV207;Parked;Jul 10 2025 02:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+44;TTV207;Parked;Jul 10 2025 01:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+43;TTV207;Parked;Jul 10 2025 12:19 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+42;TTV207;Parked;Jul 09 2025 11:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+41;TTV207;Parked;Jul 09 2025 10:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+40;TTV207;Parked;Jul 09 2025 09:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+39;TTV207;Parked;Jul 09 2025 08:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+38;TTV207;Parked;Jul 09 2025 07:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+37;TTV207;Parked;Jul 09 2025 06:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+36;TTV207;Parked;Jul 09 2025 05:18 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+35;TTV207;Parked;Jul 09 2025 05:17 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+34;TTV207;Towing/Drifting?;Jul 09 2025 05:17 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+33;TTV207;Ignition OFF;Jul 09 2025 05:17 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+32;TTV207;Idle - Stop;Jul 09 2025 05:17 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+31;TTV207;Idle - Stop;Jul 09 2025 05:16 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+30;TTV207;Idle - Stop;Jul 09 2025 05:15 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+29;TTV207;Idle - Stop;Jul 09 2025 05:14 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+28;TTV207;Idle - Stop;Jul 09 2025 05:13 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+27;TTV207;Idle - Stop;Jul 09 2025 05:12 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+26;TTV207;Idle - Stop;Jul 09 2025 05:11 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+25;TTV207;Idle - Stop;Jul 09 2025 05:10 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+24;TTV207;Idle - Stop;Jul 09 2025 05:09 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+23;TTV207;Idle - Stop;Jul 09 2025 05:08 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+22;TTV207;End Speeding;Jul 09 2025 05:07 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+21;TTV207;Idle - Stop;Jul 09 2025 05:07 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0784390000;-73.8551120000
+20;TTV207;Idle - Stop;Jul 09 2025 05:07 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+19;TTV207;Idle - Stop;Jul 09 2025 05:07 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+18;TTV207;Ignition ON;Jul 09 2025 05:07 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+17;TTV207;Parked;Jul 09 2025 04:44 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+16;TTV207;Parked;Jul 09 2025 03:44 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+15;TTV207;Parked;Jul 09 2025 02:43 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+14;TTV207;Parked;Jul 09 2025 01:43 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+13;TTV207;Parked;Jul 09 2025 12:43 PM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+12;TTV207;Parked;Jul 09 2025 11:43 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+11;TTV207;Parked;Jul 09 2025 10:43 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+10;TTV207;Parked;Jul 09 2025 09:43 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+9;TTV207;Parked;Jul 09 2025 08:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+8;TTV207;Parked;Jul 09 2025 07:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+7;TTV207;Parked;Jul 09 2025 06:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+6;TTV207;Parked;Jul 09 2025 05:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+5;TTV207;Parked;Jul 09 2025 04:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+4;TTV207;Parked;Jul 09 2025 03:42 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+3;TTV207;Parked;Jul 09 2025 02:41 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+2;TTV207;Parked;Jul 09 2025 01:41 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000
+1;TTV207;Parked;Jul 09 2025 12:41 AM;;Cl. 74 #2054, Barrancabermeja, Santander, Colombia;0;N/A;;7.0783400000;-73.8551960000

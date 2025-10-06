@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://app.tsomobile.com/wcf/appnet/reportviewer.aspx?tkn=7060F2E2-45FE-4F26-B9A8-50DEF2C2F5EF&pt={%22reportid%22:152,%22ItemID%22:%221096315%22,%22DateFrom%22:%222025-09-01%2000:00:00%22,%22DateTo%22:%222025-09-11%2023:59:59%22,%22IsGroup%22:%220%22,%22RaiseAndDropOnly%22:%223%22}&lan=en&channel=GPSV6&UICulture=es-CO
+HostUrl=https://app.tsomobile.com/wcf/Reserved.ReportViewerWebControl.axd?ReportSession=3ex0ro45rlgek1qeua0hee45&Culture=9226&CultureOverrides=True&UICulture=9226&UICultureOverrides=True&ReportStack=1&ControlID=fec31cf2c248471da7f8e5f351e8fe06&OpType=Export&FileName=Fuel+Levels+History+Changes&ContentDisposition=OnlyHtmlInline&Format=CSV

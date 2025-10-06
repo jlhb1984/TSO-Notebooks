@@ -1,0 +1,77 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+76;CFV-839;Ignition OFF;Oct 06 2025 09:13 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019725800;-81.0721359253
+75;CFV-839;Drive;Oct 06 2025 09:12 AM;;Av Pe-02, Paita, Paita, Piura, Perú;9;N/A;;-5.1019544601;-81.0722427368
+74;CFV-839;Drive;Oct 06 2025 09:12 AM;;Av Pe-02, Paita, Paita, Piura, Perú;9;N/A;;-5.1027483940;-81.0726318359
+73;CFV-839;Idle - Stop;Oct 06 2025 09:11 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1031265259;-81.0725555420
+72;CFV-839;Ignition ON;Oct 06 2025 09:10 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1031265259;-81.0725555420
+71;CFV-839;Parked;Oct 06 2025 08:41 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+70;CFV-839;Parked;Oct 04 2025 07:47 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+69;CFV-839;Parked;Oct 04 2025 03:47 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+68;CFV-839;Ignition OFF;Oct 04 2025 03:36 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+67;CFV-839;Idle - Stop;Oct 04 2025 03:36 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+66;CFV-839;Idle - Stop;Oct 04 2025 03:35 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+65;CFV-839;Idle - Stop;Oct 04 2025 03:34 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1036763191;-81.0728988647
+64;CFV-839;Idle - Stop;Oct 04 2025 03:33 PM;;Carr Interoceánica Nte, Paita, Peru;4;N/A;;-5.1037111282;-81.0729293823
+63;CFV-839;Idle - Stop;Oct 04 2025 03:32 PM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;;-5.1038017273;-81.0728759766
+62;CFV-839;Idle - Stop;Oct 04 2025 03:32 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1038370132;-81.0728530884
+61;CFV-839;Idle - Stop;Oct 04 2025 03:31 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1038370132;-81.0728530884
+60;CFV-839;Ignition ON;Oct 04 2025 03:30 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1038370132;-81.0728530884
+59;CFV-839;Ignition OFF;Oct 04 2025 01:03 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1038370132;-81.0728530884
+58;CFV-839;Idle - Stop;Oct 04 2025 01:02 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1038370132;-81.0728530884
+57;CFV-839;Drive;Oct 04 2025 01:00 PM;;Carretera Interoceánica Norte, Paita, Peru;9;N/A;;-5.1037611961;-81.0730133057
+56;CFV-839;Drive;Oct 04 2025 01:00 PM;;Av Pe-02, Paita, Paita, Piura, Perú;9;N/A;;-5.1035318375;-81.0729980469
+55;CFV-839;Idle - Stop;Oct 04 2025 12:59 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1020340919;-81.0721969604
+54;CFV-839;Idle - Stop;Oct 04 2025 12:58 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019897461;-81.0720367432
+53;CFV-839;Idle - Stop;Oct 04 2025 12:57 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019897461;-81.0720367432
+52;CFV-839;Idle - Stop;Oct 04 2025 12:56 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019897461;-81.0720367432
+51;CFV-839;Ignition ON;Oct 04 2025 12:55 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019897461;-81.0720367432
+50;CFV-839;Ignition OFF;Oct 04 2025 12:13 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019897461;-81.0720367432
+49;CFV-839;Idle - Stop;Oct 04 2025 12:12 PM;;Av Pe-02, Paita, Paita, Piura, Perú;8;N/A;;-5.1019291878;-81.0721893311
+48;CFV-839;Idle - Stop;Oct 04 2025 12:12 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1022472382;-81.0723953247
+47;CFV-839;Idle - Stop;Oct 04 2025 12:12 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1022853851;-81.0725021362
+46;CFV-839;Idle - Stop;Oct 04 2025 12:12 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1021184921;-81.0725479126
+45;CFV-839;Ignition ON;Oct 04 2025 12:11 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019911766;-81.0725631714
+44;CFV-839;Ignition OFF;Oct 04 2025 11:58 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1019911766;-81.0725631714
+43;CFV-839;Idle - Stop;Oct 04 2025 11:57 AM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1019911766;-81.0725936890
+42;CFV-839;Idle - Stop;Oct 04 2025 11:57 AM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1022319794;-81.0725479126
+41;CFV-839;Idle - Stop;Oct 04 2025 11:56 AM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;;-5.1020064354;-81.0720672607
+40;CFV-839;Idle - Stop;Oct 04 2025 11:56 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+39;CFV-839;Idle - Stop;Oct 04 2025 11:55 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+38;CFV-839;Idle - Stop;Oct 04 2025 11:54 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+37;CFV-839;Ignition ON;Oct 04 2025 11:53 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+36;CFV-839;Parked;Oct 04 2025 09:33 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+35;CFV-839;Parked;Oct 04 2025 05:33 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+34;CFV-839;Parked;Oct 04 2025 01:33 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+33;CFV-839;Parked;Oct 03 2025 09:33 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+32;CFV-839;Ignition OFF;Oct 03 2025 05:33 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018624306;-81.0720520020
+31;CFV-839;Idle - Stop;Oct 03 2025 05:33 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1018238068;-81.0721130371
+30;CFV-839;Idle - Stop;Oct 03 2025 05:33 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1021485329;-81.0723800659
+29;CFV-839;Idle - Stop;Oct 03 2025 05:32 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1022295952;-81.0724945068
+28;CFV-839;Idle - Stop;Oct 03 2025 05:32 PM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;;-5.1021504402;-81.0725631714
+27;CFV-839;Idle - Stop;Oct 03 2025 05:31 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+26;CFV-839;Idle - Stop;Oct 03 2025 05:30 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+25;CFV-839;Idle - Stop;Oct 03 2025 05:29 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+24;CFV-839;Idle - Stop;Oct 03 2025 05:28 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+23;CFV-839;Idle - Stop;Oct 03 2025 05:27 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+22;CFV-839;Idle - Stop;Oct 03 2025 05:26 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+21;CFV-839;Idle - Stop;Oct 03 2025 05:25 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1023254395;-81.0723800659
+20;CFV-839;Idle - Stop;Oct 03 2025 05:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;;-5.1023254395;-81.0723800659
+19;CFV-839;Idle - Stop;Oct 03 2025 05:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1023011208;-81.0724182129
+18;CFV-839;Idle - Stop;Oct 03 2025 05:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1022558212;-81.0725021362
+17;CFV-839;Idle - Stop;Oct 03 2025 05:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;;-5.1021595001;-81.0725097656
+16;CFV-839;Idle - Stop;Oct 03 2025 05:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;;-5.1020517349;-81.0723342896
+15;CFV-839;Idle - Stop;Oct 03 2025 05:22 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+14;CFV-839;Idle - Stop;Oct 03 2025 05:21 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+13;CFV-839;Idle - Stop;Oct 03 2025 05:20 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+12;CFV-839;Idle - Stop;Oct 03 2025 05:19 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+11;CFV-839;Idle - Stop;Oct 03 2025 05:18 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+10;CFV-839;Idle - Stop;Oct 03 2025 05:17 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+9;CFV-839;Idle - Stop;Oct 03 2025 05:16 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+8;CFV-839;Ignition ON;Oct 03 2025 05:15 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+7;CFV-839;Ignition OFF;Oct 03 2025 04:57 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+6;CFV-839;Idle - Stop;Oct 03 2025 04:56 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+5;CFV-839;Idle - Stop;Oct 03 2025 04:55 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+4;CFV-839;Idle - Stop;Oct 03 2025 04:54 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+3;CFV-839;Idle - Stop;Oct 03 2025 04:53 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+2;CFV-839;Ignition ON;Oct 03 2025 04:52 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253
+1;CFV-839;Parked;Oct 03 2025 03:18 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;;-5.1018352509;-81.0721359253

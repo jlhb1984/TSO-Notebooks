@@ -1,0 +1,16 @@
+Unnamed: 4,count
+"event:""FORWARD_COLLISION_WARNING""",138
+"event:""SHARP_TURN""",103
+"event:""SMOKING""",75
+"event:""HARD_BRAKE""",20
+"event:""POTENTIAL_INCIDENT_LOW""",14
+"event:""STOP_SIGN_VIOLATION""",14
+"event:""POTENTIAL_INCIDENT_MEDIUM""",8
+"event:""USING_PHONE""",7
+"event:""DROWSINESS""",6
+"event:""HARD_ACCEL""",5
+"event:""HEADWAY_MONITORING_EMERGENCY""",2
+"event:""LANE_DEPARTURE_WARNING""",2
+"event:""MANUAL""",1
+"event:""NO_SEATBELT""",1
+"event:""YAWN""",1

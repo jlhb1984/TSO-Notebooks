@@ -1,0 +1,262 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+261;JOP086;Parked;Aug 04 2025 11:41 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9738683701;-74.5777893066
+260;JOP086;Parked;Aug 04 2025 10:41 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9738683701;-74.5777893066
+259;JOP086;Parked;Aug 04 2025 09:41 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9738683701;-74.5777893066
+258;JOP086;Ignition OFF;Aug 04 2025 08:42 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9738683701;-74.5777893066
+257;JOP086;Drive;Aug 04 2025 08:40 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;11;N/A;;5.9732003212;-74.5780258179
+256;JOP086;Drive;Aug 04 2025 08:40 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9730372429;-74.5777053833
+255;JOP086;Drive;Aug 04 2025 08:40 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;9;N/A;;5.9729733467;-74.5776672363
+254;JOP086;Drive;Aug 04 2025 08:40 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;14;N/A;;5.9729394913;-74.5777587891
+253;JOP086;Drive;Aug 04 2025 08:39 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;9;N/A;;5.9732823372;-74.5787048340
+252;JOP086;Drive;Aug 04 2025 08:38 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;11;N/A;;5.9751067162;-74.5836029053
+251;JOP086;Drive;Aug 04 2025 08:37 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9759020805;-74.5836563110
+250;JOP086;Drive;Aug 04 2025 08:37 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;14;N/A;;5.9759712219;-74.5837249756
+249;JOP086;Drive;Aug 04 2025 08:36 PM;;Calle 16, Puerto Boyacá, Boyacá, Colombia;11;N/A;;5.9762668610;-74.5875625610
+248;JOP086;Drive;Aug 04 2025 08:36 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;9;N/A;;5.9756836891;-74.5876464844
+247;JOP086;Drive;Aug 04 2025 08:35 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;19;N/A;;5.9755859375;-74.5868911743
+246;JOP086;Ignition ON;Aug 04 2025 08:34 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9755339622;-74.5862045288
+245;JOP086;Parked;Aug 04 2025 08:17 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9755339622;-74.5862045288
+244;JOP086;Parked;Aug 04 2025 07:17 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9755339622;-74.5862045288
+243;JOP086;Ignition OFF;Aug 04 2025 06:18 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9755339622;-74.5862045288
+242;JOP086;Idle - Stop;Aug 04 2025 06:17 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9755339622;-74.5862045288
+241;JOP086;Drive;Aug 04 2025 06:16 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;14;N/A;;5.9753322601;-74.5837554932
+240;JOP086;Drive;Aug 04 2025 06:14 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;22;N/A;;5.9770164490;-74.5835266113
+239;JOP086;Drive;Aug 04 2025 06:14 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;9;N/A;;5.9772443771;-74.5835800171
+238;JOP086;Drive;Aug 04 2025 06:13 PM;;Cra. 3, Puerto Boyacá, Boyacá, Colombia;22;N/A;;5.9775772095;-74.5869598389
+237;JOP086;Drive;Aug 04 2025 06:12 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9777874947;-74.5895156860
+236;JOP086;Drive;Aug 04 2025 06:11 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9779200554;-74.5911636353
+235;JOP086;Drive;Aug 04 2025 06:09 PM;;Cl. 12 #1-2 a 1-76, Puerto Boyacá, Puerto Boyacá, Boyacá, Colombia;11;N/A;;5.9791374207;-74.5911026001
+234;JOP086;Idle - Stop;Aug 04 2025 06:09 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;8;N/A;;5.9791975021;-74.5915756226
+233;JOP086;Ignition ON;Aug 04 2025 06:09 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9792442322;-74.5916366577
+232;JOP086;Parked;Aug 04 2025 05:13 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9792442322;-74.5916366577
+231;JOP086;Parked;Aug 04 2025 04:13 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9792442322;-74.5916366577
+230;JOP086;Ignition OFF;Aug 04 2025 03:12 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9792442322;-74.5916366577
+229;JOP086;Idle - Stop;Aug 04 2025 03:12 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;6;N/A;;5.9792442322;-74.5916366577
+228;JOP086;Idle - Stop;Aug 04 2025 03:11 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;6;N/A;;5.9792833328;-74.5922698975
+227;JOP086;Drive;Aug 04 2025 03:11 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9776163101;-74.5924377441
+226;JOP086;Drive;Aug 04 2025 03:10 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;16;N/A;;5.9761719704;-74.5925445557
+225;JOP086;Drive;Aug 04 2025 03:10 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;25;N/A;;5.9759459496;-74.5909423828
+224;JOP086;Drive;Aug 04 2025 03:09 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;27;N/A;;5.9756693840;-74.5869979858
+223;JOP086;Drive;Aug 04 2025 03:08 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;28;N/A;;5.9748506546;-74.5823974609
+222;JOP086;Drive;Aug 04 2025 03:07 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;22;N/A;;5.9734101295;-74.5785675049
+221;JOP086;Drive;Aug 04 2025 03:06 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;27;N/A;;5.9731717110;-74.5779876709
+220;JOP086;Idle - Stop;Aug 04 2025 03:04 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;6;N/A;;5.9714498520;-74.5708541870
+219;JOP086;Idle - Stop;Aug 04 2025 03:04 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;6;N/A;;5.9713506699;-74.5708160400
+218;JOP086;Idle - Stop;Aug 04 2025 03:03 PM;;a 32-540,, Cra. 5 #32268, Puerto Boyacá, Boyacá, Colombia;8;N/A;;5.9701099396;-74.5707550049
+217;JOP086;Idle - Stop;Aug 04 2025 03:02 PM;;155201, Puerto Boyacá, Boyacá, Colombia;4;N/A;;5.9687433243;-74.5706710815
+216;JOP086;Idle - Stop;Aug 04 2025 03:01 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9686841965;-74.5707473755
+215;JOP086;Idle - Stop;Aug 04 2025 02:59 PM;;155201, Puerto Boyacá, Boyacá, Colombia;6;N/A;;5.9688129425;-74.5710906982
+214;JOP086;Idle - Stop;Aug 04 2025 02:59 PM;;155201, Puerto Boyacá, Boyacá, Colombia;4;N/A;;5.9687623978;-74.5711517334
+213;JOP086;Idle - Stop;Aug 04 2025 02:59 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+212;JOP086;Idle - Stop;Aug 04 2025 02:58 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+211;JOP086;Idle - Stop;Aug 04 2025 02:57 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+210;JOP086;Idle - Stop;Aug 04 2025 02:56 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+209;JOP086;Idle - Stop;Aug 04 2025 02:55 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+208;JOP086;Idle - Stop;Aug 04 2025 02:54 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+207;JOP086;Idle - Stop;Aug 04 2025 02:53 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+206;JOP086;Idle - Stop;Aug 04 2025 02:52 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+205;JOP086;Idle - Stop;Aug 04 2025 02:51 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9687004089;-74.5711212158
+204;JOP086;Idle - Stop;Aug 04 2025 02:50 PM;;155201, Puerto Boyacá, Boyacá, Colombia;4;N/A;;5.9687538147;-74.5706634521
+203;JOP086;Drive;Aug 04 2025 02:48 PM;;155201, Puerto Boyacá, Boyacá, Colombia;11;N/A;;5.9685354233;-74.5706024170
+202;JOP086;Idle - Stop;Aug 04 2025 02:48 PM;;XC9H+3R Puerto Boyacá, Boyaca, Colombia;4;N/A;;5.9677014351;-74.5704727173
+201;JOP086;Idle - Stop;Aug 04 2025 02:47 PM;;XC9H+3R Puerto Boyacá, Boyaca, Colombia;6;N/A;;5.9676423073;-74.5704574585
+200;JOP086;Idle - Stop;Aug 04 2025 02:47 PM;;XC9H+3Q Puerto Boyacá, Boyaca, Colombia;4;N/A;;5.9676108360;-74.5705184937
+199;JOP086;Idle - Stop;Aug 04 2025 02:47 PM;;XC9H+4Q Puerto Boyacá, Boyaca, Colombia;0;N/A;;5.9677686691;-74.5705718994
+198;JOP086;Idle - Stop;Aug 04 2025 02:46 PM;;XC9H+4Q Puerto Boyacá, Boyaca, Colombia;0;N/A;;5.9677686691;-74.5705718994
+197;JOP086;Idle - Stop;Aug 04 2025 02:45 PM;;XC9H+4Q Puerto Boyacá, Boyaca, Colombia;0;N/A;;5.9677686691;-74.5705718994
+196;JOP086;Idle - Stop;Aug 04 2025 02:44 PM;;XC9H+4Q Puerto Boyacá, Boyaca, Colombia;0;N/A;;5.9677686691;-74.5705718994
+195;JOP086;Idle - Stop;Aug 04 2025 02:43 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9680867195;-74.5706024170
+194;JOP086;Idle - Stop;Aug 04 2025 02:42 PM;;155201, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9680867195;-74.5706024170
+193;JOP086;Idle - Stop;Aug 04 2025 02:40 PM;;155201, Puerto Boyacá, Boyacá, Colombia;4;N/A;;5.9687919617;-74.5706481934
+192;JOP086;Idle - Stop;Aug 04 2025 02:40 PM;;155201, Puerto Boyacá, Boyacá, Colombia;6;N/A;;5.9688591957;-74.5706253052
+191;JOP086;Idle - Stop;Aug 04 2025 02:40 PM;;a 32-540,, Cra. 5 #32268, Puerto Boyacá, Boyacá, Colombia;6;N/A;;5.9693889618;-74.5706481934
+190;JOP086;Drive;Aug 04 2025 02:38 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9714159966;-74.5708236694
+189;JOP086;Drive;Aug 04 2025 02:37 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;22;N/A;;5.9728922844;-74.5774307251
+188;JOP086;Drive;Aug 04 2025 02:37 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9729351997;-74.5775527954
+187;JOP086;Drive;Aug 04 2025 02:36 PM;;Carrera 4 #28-2 a 28-104, Puerto Boyacá, Puerto Boyacá, Boyacá, Colombia;14;N/A;;5.9738845825;-74.5772094727
+186;JOP086;Drive;Aug 04 2025 02:36 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;9;N/A;;5.9743328094;-74.5771179199
+185;JOP086;Drive;Aug 04 2025 02:36 PM;;Cl. 27 # 3-3, Puerto Boyacá, Boyacá, Colombia;9;N/A;;5.9745016098;-74.5774917603
+184;JOP086;Ignition ON;Aug 04 2025 02:36 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740009308;-74.5777435303
+183;JOP086;Parked;Aug 04 2025 02:30 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740009308;-74.5777435303
+182;JOP086;Ignition OFF;Aug 04 2025 01:30 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740009308;-74.5777435303
+181;JOP086;Drive;Aug 04 2025 01:30 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;11;N/A;;5.9732923508;-74.5780258179
+180;JOP086;Drive;Aug 04 2025 01:30 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;14;N/A;;5.9732141495;-74.5780105591
+179;JOP086;Drive;Aug 04 2025 01:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;51;N/A;;5.9710083008;-74.5681457520
+178;JOP086;Drive;Aug 04 2025 01:28 PM;;Av 45, Puerto Salgar, Cundinamarca;75;N/A;;5.9721951485;-74.5664749146
+177;JOP086;Drive;Aug 04 2025 01:27 PM;;Km 65 de la vía Dorada - Sabana de Torres, , Boyacá;96;N/A;;5.9829983711;-74.5569305420
+176;JOP086;Drive;Aug 04 2025 01:26 PM;;Km 66 de la vía Dorada - Sabana de Torres, , Boyacá;91;N/A;;5.9953007698;-74.5521392822
+175;JOP086;Drive;Aug 04 2025 01:24 PM;;Km 69 de la vía Dorada - Sabana de Torres, , Boyacá;93;N/A;;6.0166726112;-74.5621032715
+174;JOP086;Drive;Aug 04 2025 01:24 PM;;Km 70 de la vía Dorada - Sabana de Torres, , Boyacá;91;N/A;;6.0247516632;-74.5570449829
+173;JOP086;Drive;Aug 04 2025 01:23 PM;;Km 71 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;94;N/A;;6.0228409767;-74.5491256714
+172;JOP086;Drive;Aug 04 2025 01:23 PM;;Av 45, Puerto Salgar, Cundinamarca;98;N/A;;6.0239863396;-74.5469512939
+171;JOP086;Drive;Aug 04 2025 01:22 PM;;Av 45, Puerto Salgar, Cundinamarca;43;N/A;;6.0338435173;-74.5427398682
+170;JOP086;Drive;Aug 04 2025 01:20 PM;;Km 75 de la vía Dorada - Sabana de Torres, , Boyacá;109;N/A;;6.0476751328;-74.5576324463
+169;JOP086;Drive;Aug 04 2025 01:20 PM;;Km 76 de la vía Dorada - Sabana de Torres, , Boyacá;107;N/A;;6.0539555550;-74.5619735718
+168;JOP086;Drive;Aug 04 2025 01:18 PM;;Km 78 de la vía Dorada - Sabana de Torres, , Boyacá;101;N/A;;6.0722565651;-74.5527191162
+167;JOP086;Drive;Aug 04 2025 01:18 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;102;N/A;;6.0808935165;-74.5523529053
+166;JOP086;Drive;Aug 04 2025 01:17 PM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá;104;N/A;;6.0957913399;-74.5535125732
+165;JOP086;Drive;Aug 04 2025 01:15 PM;;Av 45, Puerto Berrio, Antioquia;27;N/A;;6.1192164421;-74.5554580688
+164;JOP086;Drive;Aug 04 2025 01:15 PM;;Av 45, Puerto Berrio, Antioquia;11;N/A;;6.1193575859;-74.5554275513
+163;JOP086;Idle - Stop;Aug 04 2025 01:15 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;6;N/A;;6.1193680763;-74.5553817749
+162;JOP086;Drive;Aug 04 2025 01:14 PM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá;11;N/A;;6.1060504913;-74.5541229248
+161;JOP086;Idle - Stop;Aug 04 2025 01:14 PM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá;4;N/A;;6.1060199738;-74.5540618896
+160;JOP086;Drive;Aug 04 2025 01:13 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;51;N/A;;6.1087465286;-74.5523605347
+159;JOP086;Drive;Aug 04 2025 01:13 PM;;Av 45, Puerto Berrio, Antioquia;61;N/A;;6.1094269753;-74.5472488403
+158;JOP086;Drive;Aug 04 2025 01:13 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;61;N/A;;6.1119580269;-74.5457077026
+157;JOP086;Drive;Aug 04 2025 01:12 PM;;Av 45, Puerto Berrio, Antioquia;43;N/A;;6.1136388779;-74.5435409546
+156;JOP086;Drive;Aug 04 2025 01:12 PM;;Av 45, Puerto Berrio, Antioquia;35;N/A;;6.1139273643;-74.5431289673
+155;JOP086;Drive;Aug 04 2025 01:12 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;43;N/A;;6.1146659851;-74.5435409546
+154;JOP086;Drive;Aug 04 2025 01:11 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;43;N/A;;6.1196274757;-74.5427398682
+153;JOP086;Drive;Aug 04 2025 01:11 PM;;4FC6+FP Puerto Boyacá, Boyaca, Colombia;59;N/A;;6.1212353706;-74.5382080078
+152;JOP086;Drive;Aug 04 2025 01:10 PM;;Av 45, Puerto Berrio, Antioquia;56;N/A;;6.1208148003;-74.5363693237
+151;JOP086;Drive;Aug 04 2025 01:10 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;35;N/A;;6.1175875664;-74.5350723267
+150;JOP086;Drive;Aug 04 2025 01:10 PM;;Av 45, Puerto Berrio, Antioquia;46;N/A;;6.1167259216;-74.5341491699
+149;JOP086;Drive;Aug 04 2025 01:09 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;46;N/A;;6.1150460243;-74.5266418457
+148;JOP086;Drive;Aug 04 2025 01:09 PM;;Av 45, Puerto Berrio, Antioquia;43;N/A;;6.1142301559;-74.5251235962
+147;JOP086;Drive;Aug 04 2025 01:08 PM;;Av 45, Puerto Berrio, Antioquia;46;N/A;;6.1130056381;-74.5247344971
+146;JOP086;Drive;Aug 04 2025 01:08 PM;;Av 45, Puerto Berrio, Antioquia;51;N/A;;6.1118578911;-74.5230026245
+145;JOP086;Drive;Aug 04 2025 01:08 PM;;Av 45, Puerto Berrio, Antioquia;33;N/A;;6.1109366417;-74.5224533081
+144;JOP086;Drive;Aug 04 2025 01:08 PM;;Av 45, Puerto Berrio, Antioquia;22;N/A;;6.1105427742;-74.5218429565
+143;JOP086;Drive;Aug 04 2025 01:07 PM;;Av 45, Puerto Berrio, Antioquia;24;N/A;;6.1073241234;-74.5202560425
+142;JOP086;Drive;Aug 04 2025 01:05 PM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;17;N/A;;6.1058688164;-74.5147857666
+141;JOP086;Drive;Aug 04 2025 01:05 PM;;Av 45, Puerto Berrio, Antioquia, Colombia;25;N/A;;6.1067872047;-74.5123291016
+140;JOP086;Idle - Stop;Aug 04 2025 01:04 PM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá;4;N/A;;6.1021461487;-74.5080032349
+139;JOP086;Drive;Aug 04 2025 01:03 PM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá;22;N/A;;6.0998377800;-74.5069122314
+138;JOP086;Drive;Aug 04 2025 01:01 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;9;N/A;;6.0949273109;-74.5057601929
+137;JOP086;Idle - Stop;Aug 04 2025 01:01 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá;6;N/A;;6.0948929787;-74.5056915283
+136;JOP086;Idle - Stop;Aug 04 2025 01:00 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+135;JOP086;Idle - Stop;Aug 04 2025 12:59 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+134;JOP086;Idle - Stop;Aug 04 2025 12:58 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+133;JOP086;Idle - Stop;Aug 04 2025 12:57 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+132;JOP086;Idle - Stop;Aug 04 2025 12:56 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+131;JOP086;Idle - Stop;Aug 04 2025 12:55 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+130;JOP086;Idle - Stop;Aug 04 2025 12:54 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;0;N/A;;6.0948791504;-74.5055999756
+129;JOP086;Idle - Stop;Aug 04 2025 12:52 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;6;N/A;;6.0948791504;-74.5055999756
+128;JOP086;Idle - Stop;Aug 04 2025 12:52 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá;6;N/A;;6.0948657990;-74.5056304932
+127;JOP086;Drive;Aug 04 2025 12:52 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;12;N/A;;6.0940136909;-74.5054779053
+126;JOP086;Drive;Aug 04 2025 12:51 PM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;38;N/A;;6.0923085213;-74.5044021606
+125;JOP086;Idle - Stop;Aug 04 2025 12:50 PM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;6;N/A;;6.0887527466;-74.5033950806
+124;JOP086;Drive;Aug 04 2025 12:49 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;14;N/A;;6.0856814384;-74.5029602051
+123;JOP086;Drive;Aug 04 2025 12:48 PM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;22;N/A;;6.0846915245;-74.5044021606
+122;JOP086;Drive;Aug 04 2025 12:48 PM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;19;N/A;;6.0843458176;-74.5051803589
+121;JOP086;Drive;Aug 04 2025 12:48 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;27;N/A;;6.0849280357;-74.5055007935
+120;JOP086;Drive;Aug 04 2025 12:48 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;28;N/A;;6.0846734047;-74.5067367554
+119;JOP086;Drive;Aug 04 2025 12:47 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;17;N/A;;6.0850396156;-74.5074234009
+118;JOP086;Drive;Aug 04 2025 12:47 PM;;3FPR+5Q Puerto Boyacá, Boyaca, Colombia;16;N/A;;6.0854549408;-74.5080642700
+117;JOP086;Idle - Stop;Aug 04 2025 12:46 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;4;N/A;;6.0850324631;-74.5087966919
+116;JOP086;Idle - Stop;Aug 04 2025 12:46 PM;;3FPR+2F Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850062370;-74.5088195801
+115;JOP086;Idle - Stop;Aug 04 2025 12:45 PM;;3FPR+2F Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850062370;-74.5088195801
+114;JOP086;Idle - Stop;Aug 04 2025 12:44 PM;;3FPR+2F Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850062370;-74.5088195801
+113;JOP086;Idle - Stop;Aug 04 2025 12:43 PM;;3FPR+2F Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850062370;-74.5088195801
+112;JOP086;Idle - Stop;Aug 04 2025 12:41 PM;;3FPR+2F Puerto Boyacá, Boyaca, Colombia;6;N/A;;6.0850062370;-74.5088195801
+111;JOP086;Idle - Stop;Aug 04 2025 12:41 PM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;6;N/A;;6.0850257874;-74.5087814331
+110;JOP086;Drive;Aug 04 2025 12:41 PM;;3FPR+37 Puerto Boyacá, Boyaca, Colombia;11;N/A;;6.0851163864;-74.5093078613
+109;JOP086;Idle - Stop;Aug 04 2025 12:40 PM;;3FPR+27 Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850648880;-74.5092544556
+108;JOP086;Ignition ON;Aug 04 2025 12:39 PM;;3FPR+27 Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850648880;-74.5092544556
+107;JOP086;Ignition OFF;Aug 04 2025 11:56 AM;;3FPR+27 Puerto Boyacá, Boyaca, Colombia;0;N/A;;6.0850648880;-74.5092544556
+106;JOP086;Idle - Stop;Aug 04 2025 11:56 AM;;3FPR+37 Puerto Boyacá, Boyaca, Colombia;8;N/A;;6.0851082802;-74.5092544556
+105;JOP086;Drive;Aug 04 2025 11:56 AM;;3FPR+29 Puerto Boyacá, Boyaca, Colombia;11;N/A;;6.0851821899;-74.5091781616
+104;JOP086;Idle - Stop;Aug 04 2025 11:55 AM;;3FPR+39 Puerto Boyacá, Boyaca, Colombia;6;N/A;;6.0851726532;-74.5090560913
+103;JOP086;Drive;Aug 04 2025 11:55 AM;;3FPR+4R Puerto Boyacá, Boyaca, Colombia;14;N/A;;6.0852932930;-74.5079956055
+102;JOP086;Drive;Aug 04 2025 11:55 AM;;3FMV+R6 Puerto Boyacá, Boyaca, Colombia;16;N/A;;6.0845856667;-74.5069046021
+101;JOP086;Drive;Aug 04 2025 11:54 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;22;N/A;;6.0847239494;-74.5054550171
+100;JOP086;Drive;Aug 04 2025 11:54 AM;;South America, Boyaca;14;N/A;;6.0841484070;-74.5049591064
+99;JOP086;Drive;Aug 04 2025 11:53 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;17;N/A;;6.0815839767;-74.5050659180
+98;JOP086;Drive;Aug 04 2025 11:52 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;11;N/A;;6.0808405876;-74.5048828125
+97;JOP086;Ignition ON;Aug 04 2025 11:52 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;0;N/A;;6.0808892250;-74.5049438477
+96;JOP086;Parked;Aug 04 2025 11:51 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;0;N/A;;6.0808892250;-74.5049438477
+95;JOP086;Ignition OFF;Aug 04 2025 10:51 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;0;N/A;;6.0808892250;-74.5049438477
+94;JOP086;Idle - Stop;Aug 04 2025 10:51 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;8;N/A;;6.0808892250;-74.5049438477
+93;JOP086;Drive;Aug 04 2025 10:50 AM;;Km 79 de la vía Dorada - Sabana de Torres, , Boyacá;19;N/A;;6.0835351944;-74.5054244995
+92;JOP086;Drive;Aug 04 2025 10:49 AM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;19;N/A;;6.0851817131;-74.5032806396
+91;JOP086;Drive;Aug 04 2025 10:49 AM;;South America, Boyaca;9;N/A;;6.0863432884;-74.5031051636
+90;JOP086;Idle - Stop;Aug 04 2025 10:49 AM;;South America, Boyaca;4;N/A;;6.0863709450;-74.5031127930
+89;JOP086;Drive;Aug 04 2025 10:48 AM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá;28;N/A;;6.0893464088;-74.5035934448
+88;JOP086;Drive;Aug 04 2025 10:47 AM;;Km 80 de la vía Dorada - Sabana de Torres, , Boyacá;25;N/A;;6.0932240486;-74.5051956177
+87;JOP086;Drive;Aug 04 2025 10:46 AM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;24;N/A;;6.0973105431;-74.5067520142
+86;JOP086;Drive;Aug 04 2025 10:45 AM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;25;N/A;;6.1016530991;-74.5076522827
+85;JOP086;Drive;Aug 04 2025 10:45 AM;;4F2R+VP Puerto Boyacá, Boyaca, Colombia;19;N/A;;6.1021890640;-74.5081024170
+84;JOP086;Drive;Aug 04 2025 10:44 AM;;South America, Boyaca;22;N/A;;6.1047883034;-74.5099792480
+83;JOP086;Drive;Aug 04 2025 10:43 AM;;4F4Q+Q5 Puerto Boyacá, Boyaca, Colombia;22;N/A;;6.1068177223;-74.5120849609
+82;JOP086;Drive;Aug 04 2025 10:43 AM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;38;N/A;;6.1058077812;-74.5134658813
+81;JOP086;Drive;Aug 04 2025 10:42 AM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;11;N/A;;6.1062626839;-74.5166854858
+80;JOP086;Idle - Stop;Aug 04 2025 10:41 AM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá;0;N/A;;6.1062374115;-74.5168838501
+79;JOP086;Idle - Stop;Aug 04 2025 10:40 AM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá;0;N/A;;6.1062374115;-74.5168838501
+78;JOP086;Drive;Aug 04 2025 10:38 AM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;12;N/A;;6.1060867310;-74.5185775757
+77;JOP086;Drive;Aug 04 2025 10:38 AM;;Av 45, Puerto Berrio, Antioquia;32;N/A;;6.1070246696;-74.5201034546
+76;JOP086;Drive;Aug 04 2025 10:38 AM;;Unnamed Road, Puerto Boyacá, Boyacá, Colombia;41;N/A;;6.1086368561;-74.5202102661
+75;JOP086;Drive;Aug 04 2025 10:37 AM;;Av 45, Puerto Berrio, Antioquia;19;N/A;;6.1126189232;-74.5245819092
+74;JOP086;Drive;Aug 04 2025 10:36 AM;;Av 45, Puerto Berrio, Antioquia;24;N/A;;6.1134991646;-74.5247726440
+73;JOP086;Drive;Aug 04 2025 10:36 AM;;Av 45, Puerto Berrio, Antioquia, Colombia;30;N/A;;6.1140913963;-74.5249404907
+72;JOP086;Drive;Aug 04 2025 10:35 AM;;Av 45, Puerto Berrio, Antioquia;30;N/A;;6.1150221825;-74.5290069580
+71;JOP086;Drive;Aug 04 2025 10:33 AM;;Av 45, Puerto Berrio, Antioquia;11;N/A;;6.1174316406;-74.5350570679
+70;JOP086;Drive;Aug 04 2025 10:33 AM;;Av 45, Puerto Berrio, Antioquia;17;N/A;;6.1178040504;-74.5350646973
+69;JOP086;Drive;Aug 04 2025 10:32 AM;;Av 45, Puerto Berrio, Antioquia, Colombia;16;N/A;;6.1205487251;-74.5361557007
+68;JOP086;Drive;Aug 04 2025 10:32 AM;;Av 45, Puerto Berrio, Antioquia;20;N/A;;6.1211414337;-74.5373611450
+67;JOP086;Drive;Aug 04 2025 10:31 AM;;Av 45, Puerto Berrio, Antioquia;30;N/A;;6.1197557449;-74.5424118042
+66;JOP086;Drive;Aug 04 2025 10:30 AM;;Av 45, Puerto Berrio, Antioquia;35;N/A;;6.1169848442;-74.5437545776
+65;JOP086;Drive;Aug 04 2025 10:30 AM;;Av 45, Puerto Berrio, Antioquia;19;N/A;;6.1141161919;-74.5431594849
+64;JOP086;Drive;Aug 04 2025 10:29 AM;;Av 45, Puerto Berrio, Antioquia;40;N/A;;6.1098556519;-74.5463180542
+63;JOP086;Drive;Aug 04 2025 10:28 AM;;Av 45, Puerto Berrio, Antioquia;22;N/A;;6.1091656685;-74.5512466431
+62;JOP086;Drive;Aug 04 2025 10:27 AM;;4C5X+J4 Puerto Boyacá, Boyaca, Colombia;17;N/A;;6.1090188026;-74.5522308350
+61;JOP086;Drive;Aug 04 2025 10:27 AM;;Av 45, Puerto Berrio, Antioquia;30;N/A;;6.1080942154;-74.5523300171
+60;JOP086;Drive;Aug 04 2025 10:27 AM;;Km 82 de la vía Dorada - Sabana de Torres, , Boyacá;32;N/A;;6.1060934067;-74.5540313721
+59;JOP086;Drive;Aug 04 2025 10:26 AM;;Km 81 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;99;N/A;;6.0987248421;-74.5536041260
+58;JOP086;Drive;Aug 04 2025 10:25 AM;;Av 45, Puerto Salgar, Cundinamarca, Colombia;85;N/A;;6.0753159523;-74.5514755249
+57;JOP086;Drive;Aug 04 2025 10:24 AM;;Km 78 de la vía Dorada - Sabana de Torres, , Boyacá;101;N/A;;6.0701136589;-74.5548858643
+56;JOP086;Drive;Aug 04 2025 10:23 AM;;Km 76 de la vía Dorada - Sabana de Torres, , Boyacá;85;N/A;;6.0569663048;-74.5611648560
+55;JOP086;Drive;Aug 04 2025 10:23 AM;;Km 75 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;85;N/A;;6.0514426231;-74.5608596802
+54;JOP086;Drive;Aug 04 2025 10:22 AM;;Km 74 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;91;N/A;;6.0448689461;-74.5495986938
+53;JOP086;Drive;Aug 04 2025 10:21 AM;;Puerto Boyaca-Puerto Nare, Puerto Boyacá, Boyacá, Colombia;78;N/A;;6.0352177620;-74.5426025391
+52;JOP086;Drive;Aug 04 2025 10:20 AM;;Av 45, Puerto Salgar, Cundinamarca;82;N/A;;6.0324897766;-74.5424118042
+51;JOP086;Drive;Aug 04 2025 10:19 AM;;Km 71 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;80;N/A;;6.0228447914;-74.5478973389
+50;JOP086;Drive;Aug 04 2025 10:19 AM;;Km 70 de la vía Dorada - Sabana de Torres, , Boyacá;85;N/A;;6.0240926743;-74.5529556274
+49;JOP086;Drive;Aug 04 2025 10:18 AM;;Km 70 de la vía Dorada - Sabana de Torres, , Boyacá;80;N/A;;6.0214262009;-74.5591583252
+48;JOP086;Drive;Aug 04 2025 10:18 AM;;Km 69 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;77;N/A;;6.0185565948;-74.5620574951
+47;JOP086;Drive;Aug 04 2025 10:17 AM;;Km 68 de la vía Dorada - Sabana de Torres, , Boyacá, Colombia;85;N/A;;6.0070428848;-74.5585861206
+46;JOP086;Drive;Aug 04 2025 10:16 AM;;Puerto Boyaca-Puerto Nare, Puerto Boyacá, Boyacá, Colombia;88;N/A;;5.9969253540;-74.5519638062
+45;JOP086;Drive;Aug 04 2025 10:15 AM;;Puerto Boyaca-Puerto Nare, Puerto Boyacá, Boyacá, Colombia;72;N/A;;5.9857435226;-74.5542297363
+44;JOP086;Drive;Aug 04 2025 10:14 AM;;Puerto Boyaca-Puerto Nare, Puerto Boyacá, Boyacá, Colombia;69;N/A;;5.9778499603;-74.5607299805
+43;JOP086;Drive;Aug 04 2025 10:13 AM;;Av 45, Puerto Salgar, Cundinamarca;32;N/A;;5.9704761505;-74.5664138794
+42;JOP086;Drive;Aug 04 2025 10:13 AM;;XC9M+WG Puerto Boyacá, Boyaca, Colombia;30;N/A;;5.9698181152;-74.5662994385
+41;JOP086;Drive;Aug 04 2025 10:13 AM;;XC9M+WH Puerto Boyacá, Boyaca, Colombia;38;N/A;;5.9697389603;-74.5660552979
+40;JOP086;Drive;Aug 04 2025 10:13 AM;;Av 45, Puerto Salgar, Cundinamarca, Colombia;40;N/A;;5.9699149132;-74.5657196045
+39;JOP086;Drive;Aug 04 2025 10:13 AM;;Av 45, Puerto Salgar, Cundinamarca, Colombia;33;N/A;;5.9702773094;-74.5657119751
+38;JOP086;Drive;Aug 04 2025 10:12 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;41;N/A;;5.9710369110;-74.5687561035
+37;JOP086;Drive;Aug 04 2025 10:11 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;30;N/A;;5.9718270302;-74.5727157593
+36;JOP086;Drive;Aug 04 2025 10:10 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;33;N/A;;5.9730205536;-74.5780029297
+35;JOP086;Idle - Stop;Aug 04 2025 10:09 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9733018875;-74.5787734985
+34;JOP086;Idle - Stop;Aug 04 2025 10:08 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9743418694;-74.5816879272
+33;JOP086;Idle - Stop;Aug 04 2025 10:07 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9743418694;-74.5816879272
+32;JOP086;Idle - Stop;Aug 04 2025 10:06 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9744524956;-74.5818634033
+31;JOP086;Idle - Stop;Aug 04 2025 10:05 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9744524956;-74.5818634033
+30;JOP086;Idle - Stop;Aug 04 2025 10:04 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;0;N/A;;5.9744524956;-74.5818634033
+29;JOP086;Drive;Aug 04 2025 10:03 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9750928879;-74.5834732056
+28;JOP086;Drive;Aug 04 2025 10:02 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;9;N/A;;5.9772109985;-74.5835418701
+27;JOP086;Drive;Aug 04 2025 10:01 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;19;N/A;;5.9775056839;-74.5858688354
+26;JOP086;Drive;Aug 04 2025 10:00 AM;;Carrera 2, Puerto Boyacá, Boyacá, Colombia;16;N/A;;5.9776601791;-74.5884857178
+25;JOP086;Drive;Aug 04 2025 09:59 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;16;N/A;;5.9779472351;-74.5911941528
+24;JOP086;Drive;Aug 04 2025 09:58 AM;;Cl. 12 #1-2 a 1-76, Puerto Boyacá, Puerto Boyacá, Boyacá, Colombia;14;N/A;;5.9791092873;-74.5911178589
+23;JOP086;Ignition ON;Aug 04 2025 09:57 AM;;Cra. 1 #1150, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9791193008;-74.5917358398
+22;JOP086;Parked;Aug 04 2025 09:02 AM;;Cra. 1 #1150, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9791193008;-74.5917358398
+21;JOP086;Ignition OFF;Aug 04 2025 08:03 AM;;Cra. 1 #1150, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9791193008;-74.5917358398
+20;JOP086;Drive;Aug 04 2025 08:01 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;9;N/A;;5.9791727066;-74.5923843384
+19;JOP086;Drive;Aug 04 2025 08:01 AM;;Cl. 11 # 1-14, Puerto Boyacá, Boyacá, Colombia;9;N/A;;5.9791169167;-74.5924148560
+18;JOP086;Drive;Aug 04 2025 08:01 AM;;Carrera 1, Puerto Boyacá, Boyacá, Colombia;11;N/A;;5.9786033630;-74.5923461914
+17;JOP086;Drive;Aug 04 2025 08:01 AM;;Carrera 1, Puerto Boyacá, Boyacá, Colombia;16;N/A;;5.9785461426;-74.5919952393
+16;JOP086;Drive;Aug 04 2025 08:00 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;11;N/A;;5.9783525467;-74.5893859863
+15;JOP086;Drive;Aug 04 2025 07:58 AM;;South America, Puerto Boyacá, Boyaca;17;N/A;;5.9780516624;-74.5854644775
+14;JOP086;Drive;Aug 04 2025 07:58 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;14;N/A;;5.9779129028;-74.5853118896
+13;JOP086;Drive;Aug 04 2025 07:58 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;17;N/A;;5.9777054787;-74.5835952759
+12;JOP086;Drive;Aug 04 2025 07:57 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;17;N/A;;5.9766845703;-74.5835342407
+11;JOP086;Drive;Aug 04 2025 07:57 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;27;N/A;;5.9760093689;-74.5818328857
+10;JOP086;Drive;Aug 04 2025 07:55 AM;;Cra. 3a #26-2 a 26-58, Puerto Boyacá, Puerto Boyacá, Boyacá, Colombia;9;N/A;;5.9744954109;-74.5776290894
+9;JOP086;Ignition ON;Aug 04 2025 07:55 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+8;JOP086;Parked;Aug 04 2025 07:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+7;JOP086;Parked;Aug 04 2025 06:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+6;JOP086;Parked;Aug 04 2025 05:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+5;JOP086;Parked;Aug 04 2025 04:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+4;JOP086;Parked;Aug 04 2025 03:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+3;JOP086;Parked;Aug 04 2025 02:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+2;JOP086;Parked;Aug 04 2025 01:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303
+1;JOP086;Parked;Aug 04 2025 12:41 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739685059;-74.5777435303

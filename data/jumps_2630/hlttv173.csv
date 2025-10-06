@@ -1,0 +1,618 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+617;TTV173;Parked;Aug 06 2025 11:42 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391996000;-73.1324018000
+616;TTV173;Parked;Aug 06 2025 11:33 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391701000;-73.1324558000
+615;TTV173;Parked;Aug 06 2025 11:25 AM;;Cl6 15-62, Bucaramanga, Santander, Colombia;0;N/A;;7.1391636000;-73.1325841000
+614;TTV173;Parked;Aug 06 2025 11:16 AM;;Carrera 15 #5-1 a 5-91, Bucaramanga, Bucaramanga, Santander, Colombia;0;N/A;;7.1392258000;-73.1326061000
+613;TTV173;Parked;Aug 06 2025 11:08 AM;;Carrera 15 #5-1 a 5-91, Bucaramanga, Bucaramanga, Santander, Colombia;0;N/A;;7.1392330000;-73.1326190000
+612;TTV173;Parked;Aug 06 2025 10:59 AM;;Cl6 15-30, Bucaramanga, Santander, Colombia;0;N/A;;7.1391553000;-73.1326053000
+611;TTV173;Parked;Aug 06 2025 10:51 AM;;Cl6 15-55, Bucaramanga, Santander, Colombia;0;N/A;;7.1392286000;-73.1325578000
+610;TTV173;Parked;Aug 06 2025 10:42 AM;;Kr15 5-63, Bucaramanga, Santander;0;N/A;;7.1394755000;-73.1328131000
+609;TTV173;Parked;Aug 06 2025 10:34 AM;;Cl6 15-30, Bucaramanga, Santander, Colombia;0;N/A;;7.1391103000;-73.1326008000
+608;TTV173;Parked;Aug 06 2025 10:25 AM;;Cl6 15-47, Bucaramanga, Santander, Colombia;0;N/A;;7.1393111000;-73.1326546000
+607;TTV173;Parked;Aug 06 2025 10:17 AM;;Cl6 15-54, Bucaramanga, Santander, Colombia;0;N/A;;7.1390626000;-73.1325010000
+606;TTV173;Parked;Aug 06 2025 10:08 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391978000;-73.1324556000
+605;TTV173;Parked;Aug 06 2025 10:00 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391026000;-73.1324246000
+604;TTV173;Parked;Aug 06 2025 09:54 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391156000;-73.1324471000
+603;TTV173;Parked;Aug 06 2025 09:51 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391786000;-73.1324568000
+602;TTV173;Ignition OFF;Aug 06 2025 09:44 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391526000;-73.1324188000
+601;TTV173;Ignition ON;Aug 06 2025 09:44 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391340000;-73.1324253000
+600;TTV173;Parked;Aug 06 2025 09:43 AM;;Cl6 15-86, Bucaramanga, Santander, Colombia;0;N/A;;7.1391538000;-73.1323493000
+599;TTV173;Parked;Aug 06 2025 09:34 AM;;Cl6 15-62, Bucaramanga, Santander, Colombia;0;N/A;;7.1391345000;-73.1325355000
+598;TTV173;Parked;Aug 06 2025 09:26 AM;;Kr15a 5-82, Bucaramanga, Santander, Colombia;0;N/A;;7.1392860000;-73.1324690000
+597;TTV173;Parked;Aug 06 2025 09:17 AM;;Cl6 15-55, Bucaramanga, Santander, Colombia;0;N/A;;7.1393023000;-73.1325505000
+596;TTV173;Parked;Aug 06 2025 09:09 AM;;Cl6 15-55, Bucaramanga, Santander, Colombia;0;N/A;;7.1392361000;-73.1325445000
+595;TTV173;Parked;Aug 06 2025 09:00 AM;;Cl6 15-62, Bucaramanga, Santander, Colombia;0;N/A;;7.1391168000;-73.1325198000
+594;TTV173;Parked;Aug 06 2025 08:52 AM;;Cl6 15-55, Bucaramanga, Santander, Colombia;0;N/A;;7.1392611000;-73.1325458000
+593;TTV173;Parked;Aug 06 2025 08:43 AM;;South America, Bucaramanga, Santander;0;N/A;;7.1391630000;-73.1324340000
+592;TTV173;Parked;Aug 06 2025 08:35 AM;;Cl6 15-23, Bucaramanga, Santander, Colombia;0;N/A;;7.1390866000;-73.1326801000
+591;TTV173;Parked;Aug 06 2025 08:26 AM;;Kr15a 5-82, Bucaramanga, Santander, Colombia;0;N/A;;7.1392706000;-73.1324750000
+590;TTV173;Parked;Aug 06 2025 08:19 AM;;Kr15a 5-82, Bucaramanga, Santander, Colombia;0;N/A;;7.1392783000;-73.1324455000
+589;TTV173;Parked;Aug 06 2025 08:18 AM;;Cl6 15-54, Bucaramanga, Santander, Colombia;0;N/A;;7.1390548000;-73.1325916000
+588;TTV173;Parked;Aug 06 2025 08:09 AM;;Cl6 15a-12, Bucaramanga, Santander, Colombia;0;N/A;;7.1392105000;-73.1322908000
+587;TTV173;Ignition OFF;Aug 06 2025 08:09 AM;;Cl6 15-75, Bucaramanga, Santander;0;N/A;;7.1390068000;-73.1324223000
+586;TTV173;Ignition ON;Aug 06 2025 08:07 AM;;Kr15a 5-82, Bucaramanga, Santander, Colombia;0;N/A;;7.1392675000;-73.1324461000
+585;TTV173;Ignition OFF;Aug 06 2025 08:05 AM;;Kr15a 5-74, Bucaramanga, Santander, Colombia;0;N/A;;7.1393320000;-73.1324476000
+584;TTV173;Idle - Stop;Aug 06 2025 08:01 AM;;Cl6 15-86, Bucaramanga, Santander, Colombia;1;N/A;;7.1391150000;-73.1323661000
+583;TTV173;Idle - Stop;Aug 06 2025 07:52 AM;;Cl6 15-75, Bucaramanga, Santander;1;N/A;;7.1390788000;-73.1324476000
+582;TTV173;Idle Alert;Aug 06 2025 07:48 AM;;Kr15 6-23, Bucaramanga, Santander;0;N/A;;7.1389451000;-73.1326406000
+581;TTV173;Idle - Stop;Aug 06 2025 07:46 AM;;Kr15 6-51, Bucaramanga, Santander;0;N/A;;7.1386681000;-73.1325321000
+580;TTV173;Idle - Stop;Aug 06 2025 07:44 AM;;Kr15 6-51, Bucaramanga, Santander;0;N/A;;7.1386548000;-73.1325098000
+579;TTV173;Travel Stop;Aug 06 2025 07:43 AM;;Kr15 6-51, Bucaramanga, Santander;0;N/A;;7.1386468000;-73.1325008000
+578;TTV173;Travel Start;Aug 06 2025 07:42 AM;;Kr15 8-31, Bucaramanga, Santander;12;N/A;;7.1371578000;-73.1318698000
+577;TTV173;Travel Stop;Aug 06 2025 07:41 AM;;Kr15 9-29, Bucaramanga, Santander;0;N/A;;7.1364473000;-73.1315121000
+576;TTV173;Travel Start;Aug 06 2025 07:41 AM;;Kr15 9a-11, Bucaramanga, Santander;9;N/A;;7.1358698000;-73.1312381000
+575;TTV173;Travel Stop;Aug 06 2025 07:40 AM;;Kr15 10a-44, Bucaramanga, Santander;1;N/A;;7.1352040000;-73.1310558000
+574;TTV173;Travel Start;Aug 06 2025 07:39 AM;;Kr15 9a-63, Bucaramanga, Santander, Colombia;19;N/A;;7.1360116000;-73.1313878000
+573;TTV173;Travel Stop;Aug 06 2025 07:39 AM;;Kr15 8-72, Bucaramanga, Santander;0;N/A;;7.1368050000;-73.1317805000
+572;TTV173;Travel Start;Aug 06 2025 07:37 AM;;Carrera 15 # 4-1 a 4-99, Bucaramanga, Santander, Colombia;22;N/A;;7.1403491000;-73.1331925000
+571;TTV173;Travel Stop;Aug 06 2025 07:36 AM;;Cl3 15-17, Bucaramanga, Santander;0;N/A;;7.1413088000;-73.1333958000
+570;TTV173;Travel Start;Aug 06 2025 07:36 AM;;Cl3 15-18, Bucaramanga, Santander;8;N/A;;7.1414886000;-73.1334156000
+569;TTV173;Idle - Stop;Aug 06 2025 07:35 AM;;Cl2a 15-22, Bucaramanga, Santander;0;N/A;;7.1422241000;-73.1336896000
+568;TTV173;Travel Stop;Aug 06 2025 07:35 AM;;Av 45a-83, Bucaramanga, Santander;3;N/A;;7.1424280000;-73.1339105000
+567;TTV173;Drive;Aug 06 2025 07:34 AM;;Cl1a 15-32, Bucaramanga, Santander;14;N/A;;7.1427555000;-73.1342381000
+566;TTV173;Drive;Aug 06 2025 07:32 AM;;Av 45a-26, Bucaramanga, Santander;20;N/A;;7.1452751000;-73.1384430000
+565;TTV173;Drive;Aug 06 2025 07:32 AM;;Av 45a-16, Bucaramanga, Santander;22;N/A;;7.1454493000;-73.1385745000
+564;TTV173;Drive;Aug 06 2025 07:32 AM;;Av 45a, Bucaramanga, Santander, COLOMBIA;22;N/A;;7.1456706000;-73.1385268000
+563;TTV173;Drive;Aug 06 2025 07:31 AM;;Av 45a, Bucaramanga, Santander;14;N/A;;7.1462520000;-73.1367488000
+562;TTV173;Drive;Aug 06 2025 07:30 AM;;Av 45a-5, Bucaramanga, Santander;9;N/A;;7.1455486000;-73.1349568000
+561;TTV173;Travel Start;Aug 06 2025 07:29 AM;;Av 45a-38, Bucaramanga, Santander, Colombia;12;N/A;;7.1450201000;-73.1327261000
+560;TTV173;Idle - Stop;Aug 06 2025 07:27 AM;;I-45A # 28 a 100, Bucaramanga, Santander, Colombia;3;N/A;;7.1451801000;-73.1314288000
+559;TTV173;Idle - Stop;Aug 06 2025 07:27 AM;;Av 45a-58, Bucaramanga, Santander, Colombia;0;N/A;;7.1451860000;-73.1313836000
+558;TTV173;Travel Stop;Aug 06 2025 07:24 AM;;Av 45a-32, Bucaramanga, Santander;0;N/A;;7.1453035000;-73.1305323000
+557;TTV173;Travel Start;Aug 06 2025 07:23 AM;;Av 45a-21, Bucaramanga, Santander;6;N/A;;7.1453366000;-73.1302630000
+556;TTV173;Idle - Stop;Aug 06 2025 07:22 AM;;Av 45a-40, Bucaramanga, Santander;0;N/A;;7.1460730000;-73.1295690000
+555;TTV173;Travel Stop;Aug 06 2025 07:19 AM;;Cl5n 15a-90, Bucaramanga, Santander;0;N/A;;7.1466586000;-73.1298341000
+554;TTV173;Drive;Aug 06 2025 07:18 AM;;Av 45a-28, Bucaramanga, Santander, COLOMBIA;17;N/A;;7.1484850000;-73.1308176000
+553;TTV173;Drive;Aug 06 2025 07:18 AM;;Av 45a-71, Bucaramanga, Santander;16;N/A;;7.1488005000;-73.1310788000
+552;TTV173;Drive;Aug 06 2025 07:16 AM;;Bucaramanga-San Alberto, Bucaramanga, Bucaramanga, Santander, Colombia;17;N/A;;7.1546258000;-73.1337368000
+551;TTV173;Drive;Aug 06 2025 07:16 AM;;Av 45a-19, Bucaramanga, Santander;19;N/A;;7.1560093000;-73.1346168000
+550;TTV173;Drive;Aug 06 2025 07:15 AM;;Av 45a, Bucaramanga, Santander;19;N/A;;7.1566095000;-73.1343758000
+549;TTV173;Drive;Aug 06 2025 07:14 AM;;Av 45a-56, Bucaramanga, Santander, Colombia;27;N/A;;7.1566125000;-73.1305073000
+548;TTV173;Travel Start;Aug 06 2025 07:14 AM;;Av 45a-22, Bucaramanga, Santander;30;N/A;;7.1569978000;-73.1296435000
+547;TTV173;Travel Stop;Aug 06 2025 07:12 AM;;Av 45a-76, Bucaramanga, Santander;0;N/A;;7.1581275000;-73.1289553000
+546;TTV173;Drive;Aug 06 2025 07:11 AM;;Av 45a-78, Bucaramanga, Santander;38;N/A;;7.1621346000;-73.1282778000
+545;TTV173;Drive;Aug 06 2025 07:11 AM;;Km 1 de la vía Bucaramanga - San Alberto, , Santander, Colombia;28;N/A;;7.1630701000;-73.1280721000
+544;TTV173;Drive;Aug 06 2025 07:11 AM;;Km 1 de la vía Bucaramanga - San Alberto, , Santander;43;N/A;;7.1636301000;-73.1291090000
+543;TTV173;Drive;Aug 06 2025 07:10 AM;;Km 1 de la vía Bucaramanga - San Alberto, , Santander, Colombia;43;N/A;;7.1640946000;-73.1297138000
+542;TTV173;Drive;Aug 06 2025 07:10 AM;;Km 1 de la vía Bucaramanga - San Alberto, , Santander;40;N/A;;7.1651388000;-73.1296086000
+541;TTV173;Drive;Aug 06 2025 07:10 AM;;Km 1 de la vía Bucaramanga - San Alberto, , Santander, Colombia;33;N/A;;7.1656870000;-73.1296083000
+540;TTV173;Drive;Aug 06 2025 07:10 AM;;Av 45a-22, Bucaramanga, Santander;43;N/A;;7.1656495000;-73.1323790000
+539;TTV173;Drive;Aug 06 2025 07:10 AM;;South America, Santander;45;N/A;;7.1656876000;-73.1324888000
+538;TTV173;Drive;Aug 06 2025 07:09 AM;;Av 45a, Bucaramanga, Santander, Colombia;41;N/A;;7.1670820000;-73.1339601000
+537;TTV173;Drive;Aug 06 2025 07:09 AM;;Av 45a, Bucaramanga, Santander, Colombia;53;N/A;;7.1701580000;-73.1331570000
+536;TTV173;Travel Start;Aug 06 2025 07:08 AM;;Km 3 de la vía Bucaramanga - San Alberto, , Santander;28;N/A;;7.1765061000;-73.1342035000
+535;TTV173;Idle - Stop;Aug 06 2025 07:07 AM;;Bucaramanga-San Alberto, Bucaramanga, Santander, Colombia;0;N/A;;7.1778131000;-73.1349121000
+534;TTV173;Travel Stop;Aug 06 2025 07:04 AM;;Av 45a, Bucaramanga, Santander;3;N/A;;7.1784226000;-73.1357571000
+533;TTV173;Drive;Aug 06 2025 07:03 AM;;Av 45a, Bucaramanga, Santander, Colombia;25;N/A;;7.1800603000;-73.1366300000
+532;TTV173;Drive;Aug 06 2025 07:03 AM;;Km 4 de la vía Bucaramanga - San Alberto, , Santander, Colombia;25;N/A;;7.1811396000;-73.1367848000
+531;TTV173;Drive;Aug 06 2025 07:02 AM;;Km 4 de la vía Bucaramanga - San Alberto, , Santander;24;N/A;;7.1819446000;-73.1362588000
+530;TTV173;Drive;Aug 06 2025 07:02 AM;;Km 4 de la vía Bucaramanga - San Alberto, , Santander;25;N/A;;7.1818290000;-73.1353145000
+529;TTV173;Drive;Aug 06 2025 07:01 AM;;Km 4 de la vía Bucaramanga - San Alberto, , Santander, Colombia;38;N/A;;7.1838436000;-73.1332425000
+528;TTV173;Drive;Aug 06 2025 07:01 AM;;Km 4 de la vía Bucaramanga - San Alberto, , Santander, Colombia;59;N/A;;7.1858738000;-73.1319896000
+527;TTV173;Drive;Aug 06 2025 07:00 AM;;Bucaramanga-San Alberto, Bucaramanga, Santander, Colombia;56;N/A;;7.1963503000;-73.1290133000
+526;TTV173;Drive;Aug 06 2025 06:59 AM;;Km 6 de la vía Bucaramanga - San Alberto, , Santander;40;N/A;;7.2013968000;-73.1299238000
+525;TTV173;Drive;Aug 06 2025 06:58 AM;;Km 7 de la vía Bucaramanga - San Alberto, , Santander;28;N/A;;7.2075751000;-73.1307458000
+524;TTV173;Drive;Aug 06 2025 06:57 AM;;Av 45a-42, Bucaramanga, Santander;40;N/A;;7.2129355000;-73.1336745000
+523;TTV173;Drive;Aug 06 2025 06:56 AM;;Km 7 de la vía Bucaramanga - San Alberto, , Santander;20;N/A;;7.2145646000;-73.1371228000
+522;TTV173;Drive;Aug 06 2025 06:55 AM;;Av 45a-43, Bucaramanga, Santander;20;N/A;;7.2130775000;-73.1381580000
+521;TTV173;Drive;Aug 06 2025 06:55 AM;;Av 45a-43, Bucaramanga, Santander;20;N/A;;7.2130146000;-73.1383456000
+520;TTV173;Drive;Aug 06 2025 06:55 AM;;Km 8 de la vía Bucaramanga - San Alberto, , Santander, Colombia;20;N/A;;7.2145241000;-73.1388380000
+519;TTV173;Drive;Aug 06 2025 06:55 AM;;Av 45a-45, Bucaramanga, Santander;19;N/A;;7.2147480000;-73.1394816000
+518;TTV173;Drive;Aug 06 2025 06:55 AM;;Av 45a-45, Bucaramanga, Santander, COLOMBIA;20;N/A;;7.2148723000;-73.1397091000
+517;TTV173;Drive;Aug 06 2025 06:55 AM;;Av 45a-46, Bucaramanga, Santander;17;N/A;;7.2150048000;-73.1397478000
+516;TTV173;Drive;Aug 06 2025 06:54 AM;;Km 8 de la vía Bucaramanga - San Alberto, , Santander;22;N/A;;7.2153745000;-73.1391935000
+515;TTV173;Drive;Aug 06 2025 06:53 AM;;Km 8 de la vía Bucaramanga - San Alberto, , Santander;17;N/A;;7.2186076000;-73.1381488000
+514;TTV173;Drive;Aug 06 2025 06:53 AM;;Km 8 de la vía Bucaramanga - San Alberto, , Santander;20;N/A;;7.2192853000;-73.1382925000
+513;TTV173;Drive;Aug 06 2025 06:53 AM;;Km 8 de la vía Bucaramanga - San Alberto, , Santander, Colombia;22;N/A;;7.2193348000;-73.1392340000
+512;TTV173;Drive;Aug 06 2025 06:52 AM;;Av 45a-52, Bucaramanga, Santander;20;N/A;;7.2204096000;-73.1408728000
+511;TTV173;Drive;Aug 06 2025 06:52 AM;;Av 45a-52, Bucaramanga, Santander;20;N/A;;7.2201930000;-73.1413946000
+510;TTV173;Drive;Aug 06 2025 06:52 AM;;Av 45a-52, Bucaramanga, Santander;20;N/A;;7.2201378000;-73.1416203000
+509;TTV173;Drive;Aug 06 2025 06:52 AM;;Av 45a-52, Bucaramanga, Santander;20;N/A;;7.2202471000;-73.1417911000
+508;TTV173;Drive;Aug 06 2025 06:52 AM;;Av 45a-53, Bucaramanga, Santander;22;N/A;;7.2210983000;-73.1415790000
+507;TTV173;Drive;Aug 06 2025 06:51 AM;;Av 45a-56, Bucaramanga, Santander;19;N/A;;7.2229685000;-73.1432755000
+506;TTV173;Drive;Aug 06 2025 06:50 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander, Colombia;20;N/A;;7.2234243000;-73.1459393000
+505;TTV173;Drive;Aug 06 2025 06:49 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander;17;N/A;;7.2225343000;-73.1489873000
+504;TTV173;Drive;Aug 06 2025 06:49 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander, Colombia;14;N/A;;7.2225053000;-73.1491523000
+503;TTV173;Drive;Aug 06 2025 06:49 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander, Colombia;12;N/A;;7.2226263000;-73.1493051000
+502;TTV173;Drive;Aug 06 2025 06:48 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander;20;N/A;;7.2233050000;-73.1491193000
+501;TTV173;Drive;Aug 06 2025 06:48 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander;17;N/A;;7.2240928000;-73.1491186000
+500;TTV173;Drive;Aug 06 2025 06:48 AM;;Km 10 de la vía Bucaramanga - San Alberto, , Santander;20;N/A;;7.2247663000;-73.1503840000
+499;TTV173;Drive;Aug 06 2025 06:47 AM;;Km 11 de la vía Bucaramanga - San Alberto, , Santander;30;N/A;;7.2259381000;-73.1518540000
+498;TTV173;Drive;Aug 06 2025 06:47 AM;;Km 11 de la vía Bucaramanga - San Alberto, , Santander, Colombia;41;N/A;;7.2283325000;-73.1506870000
+497;TTV173;Drive;Aug 06 2025 06:46 AM;;Km 11 de la vía Bucaramanga - San Alberto, , Santander;48;N/A;;7.2300420000;-73.1486505000
+496;TTV173;Drive;Aug 06 2025 06:46 AM;;Km 12 de la vía Bucaramanga - San Alberto, , Santander;40;N/A;;7.2306095000;-73.1479891000
+495;TTV173;Drive;Aug 06 2025 06:46 AM;;Km 12 de la vía Bucaramanga - San Alberto, , Santander;40;N/A;;7.2326151000;-73.1479255000
+494;TTV173;Drive;Aug 06 2025 06:46 AM;;Km 12 de la vía Bucaramanga - San Alberto, , Santander, Colombia;35;N/A;;7.2333681000;-73.1492613000
+493;TTV173;Drive;Aug 06 2025 06:46 AM;;Km 12 de la vía Bucaramanga - San Alberto, , Santander, Colombia;38;N/A;;7.2345678000;-73.1503196000
+492;TTV173;Drive;Aug 06 2025 06:45 AM;;I-45A # 38 a 76, Rionegro, Santander, Colombia;30;N/A;;7.2377776000;-73.1493371000
+491;TTV173;Drive;Aug 06 2025 06:44 AM;;Km 13 de la vía Bucaramanga - San Alberto, , Santander;9;N/A;;7.2395278000;-73.1494538000
+490;TTV173;Drive;Aug 06 2025 06:44 AM;;Km 13 de la vía Bucaramanga - San Alberto, , Santander, Colombia;11;N/A;;7.2397368000;-73.1494863000
+489;TTV173;Drive;Aug 06 2025 06:44 AM;;I-45A # 38 a 76, Rionegro, Santander, Colombia;49;N/A;;7.2431756000;-73.1493141000
+488;TTV173;Drive;Aug 06 2025 06:42 AM;;Km 15 de la vía Bucaramanga - San Alberto, , Santander;46;N/A;;7.2551185000;-73.1504808000
+487;TTV173;Drive;Aug 06 2025 06:41 AM;;I-45A # 76, Rionegro, Santander, Colombia;30;N/A;;7.2578713000;-73.1490816000
+486;TTV173;Drive;Aug 06 2025 06:41 AM;;Tr3-76, Rionegro, Santander, Colombia;40;N/A;;7.2592556000;-73.1497253000
+485;TTV173;Drive;Aug 06 2025 06:40 AM;;Kr7-37, Bucaramanga, Santander, Colombia;33;N/A;;7.2620413000;-73.1481245000
+484;TTV173;Drive;Aug 06 2025 06:39 AM;;Cl13-71, Rionegro, Santander;9;N/A;;7.2654826000;-73.1482433000
+483;TTV173;Drive;Aug 06 2025 06:38 AM;;Av 45a-48, Bucaramanga, Santander, Colombia;53;N/A;;7.2674853000;-73.1505196000
+482;TTV173;Drive;Aug 06 2025 06:37 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;41;N/A;;7.2781710000;-73.1529828000
+481;TTV173;Drive;Aug 06 2025 06:36 AM;;Km 18 de la vía Bucaramanga - San Alberto, , Santander;41;N/A;;7.2796448000;-73.1524330000
+480;TTV173;Drive;Aug 06 2025 06:36 AM;;Km 18 de la vía Bucaramanga - San Alberto, , Santander, Colombia;57;N/A;;7.2851940000;-73.1526941000
+479;TTV173;Drive;Aug 06 2025 06:35 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;67;N/A;;7.2917223000;-73.1545360000
+478;TTV173;Drive;Aug 06 2025 06:33 AM;;Av 45a-64, Bucaramanga, Santander, Colombia;40;N/A;;7.3062318000;-73.1582278000
+477;TTV173;Drive;Aug 06 2025 06:33 AM;;Km 21 de la vía Bucaramanga - San Alberto, , Santander;35;N/A;;7.3082906000;-73.1580503000
+476;TTV173;Drive;Aug 06 2025 06:33 AM;;Av 45a-60, Bucaramanga, Santander, Colombia;49;N/A;;7.3098131000;-73.1588315000
+475;TTV173;Drive;Aug 06 2025 06:32 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;38;N/A;;7.3115966000;-73.1589968000
+474;TTV173;Drive;Aug 06 2025 06:30 AM;;Av 45a-43, Bucaramanga, Santander, Colombia;41;N/A;;7.3256900000;-73.1649166000
+473;TTV173;Drive;Aug 06 2025 06:29 AM;;Av 45a-38, Bucaramanga, Santander, Colombia;30;N/A;;7.3305098000;-73.1656133000
+472;TTV173;Drive;Aug 06 2025 06:28 AM;;Av 45a-34, Bucaramanga, Santander;14;N/A;;7.3341126000;-73.1671546000
+471;TTV173;Drive;Aug 06 2025 06:27 AM;;Av 45a-32, Bucaramanga, Santander, Colombia;17;N/A;;7.3363651000;-73.1684011000
+470;TTV173;Drive;Aug 06 2025 06:26 AM;;Av 45a-29, Bucaramanga, Santander, Colombia;14;N/A;;7.3391753000;-73.1691760000
+469;TTV173;Drive;Aug 06 2025 06:26 AM;;Km 25 de la vía Bucaramanga - San Alberto, , Santander, Colombia;19;N/A;;7.3396926000;-73.1698193000
+468;TTV173;Drive;Aug 06 2025 06:25 AM;;Km 25 de la vía Bucaramanga - San Alberto, , Santander;22;N/A;;7.3411195000;-73.1706496000
+467;TTV173;Drive;Aug 06 2025 06:23 AM;;Km 26 de la vía Bucaramanga - San Alberto, , Santander;17;N/A;;7.3478665000;-73.1722681000
+466;TTV173;Drive;Aug 06 2025 06:21 AM;;I-45A, Rionegro, Santander, Colombia;30;N/A;;7.3534450000;-73.1739918000
+465;TTV173;Drive;Aug 06 2025 06:21 AM;;Km 27 de la vía Bucaramanga - San Alberto, , Santander;28;N/A;;7.3571795000;-73.1758961000
+464;TTV173;Drive;Aug 06 2025 06:19 AM;;Km 29 de la vía Bucaramanga - San Alberto, , Santander;62;N/A;;7.3716856000;-73.1765951000
+463;TTV173;Drive;Aug 06 2025 06:19 AM;;Km 29 de la vía Bucaramanga - San Alberto, , Santander, Colombia;62;N/A;;7.3720276000;-73.1766983000
+462;TTV173;Drive;Aug 06 2025 06:17 AM;;Av 45a-15, Bucaramanga, Santander, Colombia;43;N/A;;7.3815428000;-73.1791208000
+461;TTV173;Drive;Aug 06 2025 06:15 AM;;Av 45a-29, Bucaramanga, Santander;46;N/A;;7.3960551000;-73.1815708000
+460;TTV173;Drive;Aug 06 2025 06:13 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;40;N/A;;7.4105613000;-73.1856925000
+459;TTV173;Drive;Aug 06 2025 06:13 AM;;Av 45a-46, Bucaramanga, Santander, Colombia;38;N/A;;7.4121123000;-73.1852075000
+458;TTV173;Drive;Aug 06 2025 06:12 AM;;Km 34 de la vía Bucaramanga - San Alberto, , Santander;30;N/A;;7.4142728000;-73.1857181000
+457;TTV173;Drive;Aug 06 2025 06:12 AM;;Km 34 de la vía Bucaramanga - San Alberto, , Santander;22;N/A;;7.4148200000;-73.1870871000
+456;TTV173;Drive;Aug 06 2025 06:12 AM;;Km 34 de la vía Bucaramanga - San Alberto, , Santander;20;N/A;;7.4152168000;-73.1873381000
+455;TTV173;Drive;Aug 06 2025 06:11 AM;;Av 45a-49, Bucaramanga, Santander;25;N/A;;7.4155075000;-73.1886410000
+454;TTV173;Drive;Aug 06 2025 06:11 AM;;Av 45a-52, Bucaramanga, Santander, Colombia;30;N/A;;7.4173625000;-73.1894108000
+453;TTV173;Drive;Aug 06 2025 06:11 AM;;Av 45a-52, Bucaramanga, Santander, Colombia;25;N/A;;7.4182046000;-73.1893138000
+452;TTV173;Drive;Aug 06 2025 06:10 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;24;N/A;;7.4202670000;-73.1895800000
+451;TTV173;Drive;Aug 06 2025 06:09 AM;;Av 45a-58, Bucaramanga, Santander, COLOMBIA;22;N/A;;7.4244963000;-73.1906895000
+450;TTV173;Drive;Aug 06 2025 06:07 AM;;Bucaramanga-San Alberto, Rionegro, Santander, Colombia;16;N/A;;7.4312546000;-73.1922256000
+449;TTV173;Drive;Aug 06 2025 06:05 AM;;Av 45a-74, Bucaramanga, Santander;27;N/A;;7.4394006000;-73.1944135000
+448;TTV173;Drive;Aug 06 2025 06:05 AM;;Av 45a-75, Bucaramanga, Santander, Colombia;25;N/A;;7.4400216000;-73.1948345000
+447;TTV173;Drive;Aug 06 2025 06:04 AM;;Km 38 de la vía Bucaramanga - San Alberto, , Santander;35;N/A;;7.4450986000;-73.1968053000
+446;TTV173;Drive;Aug 06 2025 06:02 AM;;South America, Santander;38;N/A;;7.4559183000;-73.2008273000
+445;TTV173;Drive;Aug 06 2025 06:02 AM;;Km 39 de la vía Bucaramanga - San Alberto, , Santander;38;N/A;;7.4560310000;-73.2008891000
+444;TTV173;Drive;Aug 06 2025 06:01 AM;;Km 40 de la vía Bucaramanga - San Alberto, , Santander;49;N/A;;7.4627618000;-73.2008143000
+443;TTV173;Travel Start;Aug 06 2025 06:00 AM;;Kr8-23, El Playon, Santander;19;N/A;;7.4657530000;-73.2018321000
+442;TTV173;Idle Alert;Aug 06 2025 05:56 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664788000;-73.2024793000
+441;TTV173;Idle - Stop;Aug 06 2025 05:54 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664771000;-73.2024695000
+440;TTV173;Idle - Stop;Aug 06 2025 05:53 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664750000;-73.2024720000
+439;TTV173;Ignition ON;Aug 06 2025 05:51 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664956000;-73.2024545000
+438;TTV173;Parked;Aug 06 2025 05:45 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664801000;-73.2024353000
+437;TTV173;Parked;Aug 06 2025 05:36 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664883000;-73.2024688000
+436;TTV173;Parked;Aug 06 2025 05:28 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664840000;-73.2024286000
+435;TTV173;Parked;Aug 06 2025 05:19 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664736000;-73.2024218000
+434;TTV173;Parked;Aug 06 2025 05:11 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664626000;-73.2024310000
+433;TTV173;Parked;Aug 06 2025 05:02 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664776000;-73.2024431000
+432;TTV173;Parked;Aug 06 2025 04:54 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664735000;-73.2024610000
+431;TTV173;Parked;Aug 06 2025 04:45 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664721000;-73.2024343000
+430;TTV173;Parked;Aug 06 2025 04:37 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664593000;-73.2024340000
+429;TTV173;Parked;Aug 06 2025 04:28 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664646000;-73.2024196000
+428;TTV173;Parked;Aug 06 2025 04:20 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664723000;-73.2024378000
+427;TTV173;Parked;Aug 06 2025 04:11 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664603000;-73.2024415000
+426;TTV173;Parked;Aug 06 2025 04:03 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664590000;-73.2024516000
+425;TTV173;Parked;Aug 06 2025 03:54 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664736000;-73.2024373000
+424;TTV173;Parked;Aug 06 2025 03:46 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664758000;-73.2024460000
+423;TTV173;Parked;Aug 06 2025 03:37 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664598000;-73.2024563000
+422;TTV173;Parked;Aug 06 2025 03:29 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664931000;-73.2024661000
+421;TTV173;Parked;Aug 06 2025 03:20 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664828000;-73.2024638000
+420;TTV173;Parked;Aug 06 2025 03:12 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664868000;-73.2024573000
+419;TTV173;Parked;Aug 06 2025 03:03 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664835000;-73.2024485000
+418;TTV173;Parked;Aug 06 2025 03:00 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664508000;-73.2024671000
+417;TTV173;Parked;Aug 06 2025 02:55 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664445000;-73.2024503000
+416;TTV173;Parked;Aug 06 2025 02:46 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664886000;-73.2024851000
+415;TTV173;Parked;Aug 06 2025 02:38 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664655000;-73.2024546000
+414;TTV173;Parked;Aug 06 2025 02:29 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664628000;-73.2024296000
+413;TTV173;Parked;Aug 06 2025 02:21 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664851000;-73.2024471000
+412;TTV173;Parked;Aug 06 2025 02:12 AM;;Bucaramanga-San Alberto #5-1 a 5-71, El Playón, El Playón, Santander, Colombia;0;N/A;;7.4665093000;-73.2024138000
+411;TTV173;Parked;Aug 06 2025 02:04 AM;;Kr8 5-62, El Playon, Santander, Colombia;0;N/A;;7.4664876000;-73.2023950000
+410;TTV173;Parked;Aug 06 2025 01:55 AM;;Kr8 5-62, El Playon, Santander, Colombia;0;N/A;;7.4664456000;-73.2023948000
+409;TTV173;Parked;Aug 06 2025 01:47 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664661000;-73.2024225000
+408;TTV173;Parked;Aug 06 2025 01:38 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664528000;-73.2024263000
+407;TTV173;Parked;Aug 06 2025 01:30 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664630000;-73.2024373000
+406;TTV173;Parked;Aug 06 2025 01:21 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664935000;-73.2024260000
+405;TTV173;Parked;Aug 06 2025 01:13 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664918000;-73.2024235000
+404;TTV173;Parked;Aug 06 2025 01:04 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664863000;-73.2024263000
+403;TTV173;Parked;Aug 06 2025 12:56 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664908000;-73.2024591000
+402;TTV173;Parked;Aug 06 2025 12:47 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664663000;-73.2024380000
+401;TTV173;Parked;Aug 06 2025 12:39 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664916000;-73.2024656000
+400;TTV173;Parked;Aug 06 2025 12:30 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664880000;-73.2024266000
+399;TTV173;Parked;Aug 06 2025 12:22 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664668000;-73.2024325000
+398;TTV173;Parked;Aug 06 2025 12:13 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664676000;-73.2024086000
+397;TTV173;Parked;Aug 06 2025 12:05 AM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664913000;-73.2024153000
+396;TTV173;Parked;Aug 05 2025 11:56 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664636000;-73.2024088000
+395;TTV173;Parked;Aug 05 2025 11:48 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664870000;-73.2024536000
+394;TTV173;Parked;Aug 05 2025 11:39 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664596000;-73.2024783000
+393;TTV173;Parked;Aug 05 2025 11:31 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664728000;-73.2024168000
+392;TTV173;Parked;Aug 05 2025 11:22 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664548000;-73.2024388000
+391;TTV173;Parked;Aug 05 2025 11:14 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664633000;-73.2024521000
+390;TTV173;Parked;Aug 05 2025 11:05 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664516000;-73.2024561000
+389;TTV173;Parked;Aug 05 2025 11:00 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664611000;-73.2024326000
+388;TTV173;Parked;Aug 05 2025 10:57 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664321000;-73.2024835000
+387;TTV173;Parked;Aug 05 2025 10:48 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664648000;-73.2024833000
+386;TTV173;Parked;Aug 05 2025 10:40 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664601000;-73.2024678000
+385;TTV173;Parked;Aug 05 2025 10:31 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664681000;-73.2024565000
+384;TTV173;Parked;Aug 05 2025 10:23 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664898000;-73.2024400000
+383;TTV173;Parked;Aug 05 2025 10:14 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664816000;-73.2024236000
+382;TTV173;Parked;Aug 05 2025 10:06 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664721000;-73.2024501000
+381;TTV173;Parked;Aug 05 2025 09:57 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664643000;-73.2024563000
+380;TTV173;Parked;Aug 05 2025 09:49 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664900000;-73.2024801000
+379;TTV173;Parked;Aug 05 2025 09:40 PM;;Bucaramanga-San Alberto #5-1 a 5-71, El Playón, El Playón, Santander, Colombia;0;N/A;;7.4665110000;-73.2025050000
+378;TTV173;Parked;Aug 05 2025 09:32 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664926000;-73.2024868000
+377;TTV173;Parked;Aug 05 2025 09:23 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664846000;-73.2024825000
+376;TTV173;Parked;Aug 05 2025 09:15 PM;;Cra. 7ª #512, El Playon, El Playón, Santander, Colombia;0;N/A;;7.4664700000;-73.2025123000
+375;TTV173;Parked;Aug 05 2025 09:06 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664740000;-73.2024656000
+374;TTV173;Parked;Aug 05 2025 08:58 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664793000;-73.2024605000
+373;TTV173;Parked;Aug 05 2025 08:49 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664368000;-73.2024211000
+372;TTV173;Parked;Aug 05 2025 08:41 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664413000;-73.2024380000
+371;TTV173;Parked;Aug 05 2025 08:32 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664605000;-73.2024208000
+370;TTV173;Parked;Aug 05 2025 08:24 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664678000;-73.2024655000
+369;TTV173;Parked;Aug 05 2025 08:15 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664670000;-73.2024396000
+368;TTV173;Parked;Aug 05 2025 08:07 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664790000;-73.2024085000
+367;TTV173;Parked;Aug 05 2025 07:58 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664256000;-73.2024346000
+366;TTV173;Parked;Aug 05 2025 07:50 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664546000;-73.2024485000
+365;TTV173;Parked;Aug 05 2025 07:41 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664468000;-73.2024318000
+364;TTV173;Parked;Aug 05 2025 07:33 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664861000;-73.2024333000
+363;TTV173;Parked;Aug 05 2025 07:24 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664905000;-73.2024103000
+362;TTV173;Parked;Aug 05 2025 07:16 PM;;Kr8 5-62, El Playon, Santander, Colombia;0;N/A;;7.4664671000;-73.2023995000
+361;TTV173;Parked;Aug 05 2025 07:07 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664673000;-73.2024308000
+360;TTV173;Parked;Aug 05 2025 07:00 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664715000;-73.2024236000
+359;TTV173;Parked;Aug 05 2025 06:59 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664791000;-73.2024221000
+358;TTV173;Parked;Aug 05 2025 06:50 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664768000;-73.2024336000
+357;TTV173;Ignition OFF;Aug 05 2025 06:50 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664791000;-73.2024230000
+356;TTV173;Idle - Stop;Aug 05 2025 06:42 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664636000;-73.2024605000
+355;TTV173;Idle Alert;Aug 05 2025 06:40 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664595000;-73.2024256000
+354;TTV173;Idle - Stop;Aug 05 2025 06:38 PM;;Kr8 5-56, El Playon, Santander, Colombia;0;N/A;;7.4664736000;-73.2024406000
+353;TTV173;Travel Stop;Aug 05 2025 06:35 PM;;Kr8 5-62, El Playon, Santander, Colombia;3;N/A;;7.4664933000;-73.2023983000
+352;TTV173;Drive;Aug 05 2025 06:34 PM;;South America, Santander;22;N/A;;7.4686071000;-73.2031876000
+351;TTV173;Drive;Aug 05 2025 06:33 PM;;South America, Santander;17;N/A;;7.4700843000;-73.2040185000
+350;TTV173;Drive;Aug 05 2025 06:32 PM;;Via Principal-74, El Playon, Santander, Colombia;17;N/A;;7.4733975000;-73.2055226000
+349;TTV173;Drive;Aug 05 2025 06:30 PM;;Bucaramanga-San Alberto, El Playón, Santander, Colombia;38;N/A;;7.4834048000;-73.2113211000
+348;TTV173;Drive;Aug 05 2025 06:28 PM;;Km 44 de la vía Bucaramanga - San Alberto, , Santander, Colombia;48;N/A;;7.4978636000;-73.2151115000
+347;TTV173;Drive;Aug 05 2025 06:26 PM;;Km 45 de la vía Bucaramanga - San Alberto, , Santander, Colombia;49;N/A;;7.5077045000;-73.2180981000
+346;TTV173;Drive;Aug 05 2025 06:25 PM;;El Playon - San Alberto, El Playón, Santander, Colombia;56;N/A;;7.5163138000;-73.2210806000
+345;TTV173;Drive;Aug 05 2025 06:24 PM;;Km 47 de la vía Bucaramanga - San Alberto, , Santander, Colombia;35;N/A;;7.5222083000;-73.2215905000
+344;TTV173;Drive;Aug 05 2025 06:23 PM;;El Playon - San Alberto, El Playón, Santander, Colombia;32;N/A;;7.5232840000;-73.2233076000
+343;TTV173;Drive;Aug 05 2025 06:23 PM;;Av 45a-35, Bucaramanga, Santander, Colombia;33;N/A;;7.5290761000;-73.2234793000
+342;TTV173;Drive;Aug 05 2025 06:22 PM;;Km 48 de la vía Bucaramanga - San Alberto, , Santander;40;N/A;;7.5313498000;-73.2254881000
+341;TTV173;Drive;Aug 05 2025 06:21 PM;;Av 45a-42, Bucaramanga, Santander;41;N/A;;7.5393671000;-73.2255408000
+340;TTV173;Drive;Aug 05 2025 06:20 PM;;Av 45a-44, Bucaramanga, Santander;46;N/A;;7.5424573000;-73.2268908000
+339;TTV173;Drive;Aug 05 2025 06:19 PM;;South America, Santander;32;N/A;;7.5475983000;-73.2283811000
+338;TTV173;Drive;Aug 05 2025 06:17 PM;;Av 45a-53, Bucaramanga, Santander, Colombia;45;N/A;;7.5564776000;-73.2314963000
+337;TTV173;Drive;Aug 05 2025 06:16 PM;;Av 45a-57, Bucaramanga, Santander, Colombia;48;N/A;;7.5615798000;-73.2335175000
+336;TTV173;Drive;Aug 05 2025 06:15 PM;;Av 45a-62, Bucaramanga, Santander;28;N/A;;7.5690110000;-73.2359635000
+335;TTV173;Drive;Aug 05 2025 06:14 PM;;Av 45a-63, Bucaramanga, Santander;0;N/A;;7.5712241000;-73.2348443000
+334;TTV173;Drive;Aug 05 2025 06:14 PM;;Km 53 de la vía Bucaramanga - San Alberto, , Santander, Colombia;19;N/A;;7.5717915000;-73.2346993000
+333;TTV173;Drive;Aug 05 2025 06:12 PM;;Km 54 de la vía Bucaramanga - San Alberto, , Santander, Colombia;35;N/A;;7.5831105000;-73.2358861000
+332;TTV173;Drive;Aug 05 2025 06:10 PM;;Km 55 de la vía Bucaramanga - San Alberto, , Santander, Colombia;35;N/A;;7.5906898000;-73.2383280000
+331;TTV173;Drive;Aug 05 2025 06:09 PM;;Km 56 de la vía Bucaramanga - San Alberto, , Santander;25;N/A;;7.5951628000;-73.2399193000
+330;TTV173;Drive;Aug 05 2025 06:09 PM;;Km 56 de la vía Bucaramanga - San Alberto, , Santander;25;N/A;;7.5955645000;-73.2415083000
+329;TTV173;Drive;Aug 05 2025 06:08 PM;;Km 56 de la vía Bucaramanga - San Alberto, , Santander, Colombia;25;N/A;;7.5969325000;-73.2431168000
+328;TTV173;Drive;Aug 05 2025 06:08 PM;;Km 56 de la vía Bucaramanga - San Alberto, , Santander;25;N/A;;7.5982991000;-73.2427948000
+327;TTV173;Drive;Aug 05 2025 06:08 PM;;Km 56 de la vía Bucaramanga - San Alberto, , Santander;24;N/A;;7.5985588000;-73.2427125000
+326;TTV173;Drive;Aug 05 2025 06:07 PM;;Km 57 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;25;N/A;;7.5999943000;-73.2433486000
+325;TTV173;Drive;Aug 05 2025 06:07 PM;;Km 57 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6001523000;-73.2457321000
+324;TTV173;Drive;Aug 05 2025 06:06 PM;;Km 57 de la vía Bucaramanga - San Alberto, , Norte de Santander;16;N/A;;7.6003190000;-73.2462330000
+323;TTV173;Drive;Aug 05 2025 06:04 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;22;N/A;;7.6068558000;-73.2453501000
+322;TTV173;Drive;Aug 05 2025 06:04 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;22;N/A;;7.6070651000;-73.2453906000
+321;TTV173;Drive;Aug 05 2025 06:04 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;17;N/A;;7.6073455000;-73.2475603000
+320;TTV173;Drive;Aug 05 2025 06:03 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;17;N/A;;7.6074353000;-73.2477588000
+319;TTV173;Drive;Aug 05 2025 06:03 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;17;N/A;;7.6090985000;-73.2476815000
+318;TTV173;Drive;Aug 05 2025 06:03 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;16;N/A;;7.6099231000;-73.2478308000
+317;TTV173;Drive;Aug 05 2025 06:02 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6100696000;-73.2490031000
+316;TTV173;Drive;Aug 05 2025 06:02 PM;;Km 58 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;20;N/A;;7.6101515000;-73.2492043000
+315;TTV173;Drive;Aug 05 2025 06:01 PM;;Km 59 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6134663000;-73.2492220000
+314;TTV173;Drive;Aug 05 2025 06:01 PM;;Km 59 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;27;N/A;;7.6138018000;-73.2494250000
+313;TTV173;Drive;Aug 05 2025 05:59 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;22;N/A;;7.6201233000;-73.2490598000
+312;TTV173;Drive;Aug 05 2025 05:59 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;22;N/A;;7.6203663000;-73.2489471000
+311;TTV173;Drive;Aug 05 2025 05:59 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;24;N/A;;7.6204521000;-73.2487275000
+310;TTV173;Drive;Aug 05 2025 05:59 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6196033000;-73.2470886000
+309;TTV173;Drive;Aug 05 2025 05:59 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6196735000;-73.2468206000
+308;TTV173;Drive;Aug 05 2025 05:58 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;22;N/A;;7.6198828000;-73.2466860000
+307;TTV173;Drive;Aug 05 2025 05:57 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;20;N/A;;7.6238655000;-73.2492006000
+306;TTV173;Drive;Aug 05 2025 05:57 PM;;Km 60 de la vía Bucaramanga - San Alberto, , Norte de Santander;20;N/A;;7.6240060000;-73.2498123000
+305;TTV173;Drive;Aug 05 2025 05:56 PM;;Cachira-95, San Alberto, Cesar, Colombia;17;N/A;;7.6264718000;-73.2529646000
+304;TTV173;Drive;Aug 05 2025 05:55 PM;;Cachira-94, San Alberto, Cesar;22;N/A;;7.6273615000;-73.2527898000
+303;TTV173;Drive;Aug 05 2025 05:55 PM;;45A - Cáchira # 2 a 100, Cáchira, Norte De Santander, Colombia;27;N/A;;7.6277218000;-73.2529521000
+302;TTV173;Drive;Aug 05 2025 05:54 PM;;Av 45a-86, San Alberto, Cesar;33;N/A;;7.6290050000;-73.2617520000
+301;TTV173;Drive;Aug 05 2025 05:54 PM;;South America, Norte de Santander;33;N/A;;7.6291851000;-73.2623113000
+300;TTV173;Drive;Aug 05 2025 05:53 PM;;Km 62 de la vía Bucaramanga - San Alberto, , Norte de Santander;28;N/A;;7.6319256000;-73.2621450000
+299;TTV173;Drive;Aug 05 2025 05:53 PM;;South America, Norte de Santander;22;N/A;;7.6324570000;-73.2624053000
+298;TTV173;Travel Start;Aug 05 2025 05:53 PM;;Km 62 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;20;N/A;;7.6328136000;-73.2637466000
+297;TTV173;Travel Stop;Aug 05 2025 05:51 PM;;Av 45a-80, San Alberto, Cesar;3;N/A;;7.6325693000;-73.2646301000
+296;TTV173;Drive;Aug 05 2025 05:51 PM;;Km 63 de la vía Bucaramanga - San Alberto, , Norte de Santander;45;N/A;;7.6316151000;-73.2673001000
+295;TTV173;Combustible Subiendo;Aug 05 2025 05:51 PM;;Km 63 de la vía Bucaramanga - San Alberto, , Norte de Santander;45;N/A;;7.6316151000;-73.2673001000
+294;TTV173;Drive;Aug 05 2025 05:50 PM;;Av 45a-71, San Alberto, Cesar;37;N/A;;7.6315940000;-73.2716168000
+293;TTV173;Drive;Aug 05 2025 05:49 PM;;Av 45a-58, San Alberto, Cesar;45;N/A;;7.6342038000;-73.2799660000
+292;TTV173;Drive;Aug 05 2025 05:49 PM;;Av 45a-57, San Alberto, Cesar;43;N/A;;7.6344138000;-73.2810396000
+291;TTV173;Drive;Aug 05 2025 05:48 PM;;Av 45a-55, San Alberto, Cesar, Colombia;38;N/A;;7.6324706000;-73.2823358000
+290;TTV173;Drive;Aug 05 2025 05:48 PM;;Av 45a-55, San Alberto, Cesar, Colombia;37;N/A;;7.6321080000;-73.2827348000
+289;TTV173;Drive;Aug 05 2025 05:48 PM;;Km 65 de la vía Bucaramanga - San Alberto, , Norte de Santander;41;N/A;;7.6327210000;-73.2839430000
+288;TTV173;Drive;Aug 05 2025 05:48 PM;;Av 45a-52, San Alberto, Cesar, Colombia;38;N/A;;7.6328841000;-73.2850203000
+287;TTV173;Drive;Aug 05 2025 05:47 PM;;Av 45a-50, San Alberto, Cesar, Colombia;37;N/A;;7.6313128000;-73.2864236000
+286;TTV173;Drive;Aug 05 2025 05:46 PM;;Km 66 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;38;N/A;;7.6302698000;-73.2916941000
+285;TTV173;Drive;Aug 05 2025 05:45 PM;;El Playon - San Alberto, La Esperanza, Norte de Santander, Colombia;28;N/A;;7.6252536000;-73.2968043000
+284;TTV173;Drive;Aug 05 2025 05:45 PM;;Bucaramanga-San Alberto, La Esperanza, Norte de Santander, Colombia;27;N/A;;7.6250306000;-73.2970380000
+283;TTV173;Drive;Aug 05 2025 05:45 PM;;Km 67 de la vía Bucaramanga - San Alberto, , Norte de Santander;33;N/A;;7.6268683000;-73.2996256000
+282;TTV173;Drive;Aug 05 2025 05:45 PM;;Km 67 de la vía Bucaramanga - San Alberto, , Norte de Santander;33;N/A;;7.6269793000;-73.3001765000
+281;TTV173;Drive;Aug 05 2025 05:44 PM;;Bucaramanga-San Alberto, La Esperanza, Norte de Santander, Colombia;30;N/A;;7.6231433000;-73.3008395000
+280;TTV173;Drive;Aug 05 2025 05:44 PM;;Km 68 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;37;N/A;;7.6227305000;-73.3019140000
+279;TTV173;Drive;Aug 05 2025 05:43 PM;PLANTA ZAMUDIO;Km 68 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;28;N/A;;7.6210448000;-73.3026951000
+278;TTV173;Geofence OUT;Aug 05 2025 05:43 PM;GEOCERCA PLANTA INSUPERABLE;Km 68 de la vía Bucaramanga - San Alberto, , Norte de Santander, Colombia;28;N/A;;7.6210448000;-73.3026951000
+277;TTV173;Landmark OUT;Aug 05 2025 05:43 PM;PLANTA ZAMUDIO;67-180 4024 402 Via 40 Carrera 65 Carrera 65 Via 40;28;N/A;;7.6210448000;-73.3026951000
+276;TTV173;Parked;Aug 02 2025 02:04 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017535000;-74.7862723000
+275;TTV173;Parked;Aug 02 2025 01:56 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017795000;-74.7862725000
+274;TTV173;Parked;Aug 02 2025 01:47 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017870000;-74.7862446000
+273;TTV173;Parked;Aug 02 2025 01:39 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018038000;-74.7862833000
+272;TTV173;Parked;Aug 02 2025 01:30 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018053000;-74.7862695000
+271;TTV173;Parked;Aug 02 2025 01:22 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017986000;-74.7862948000
+270;TTV173;Parked;Aug 02 2025 01:13 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018111000;-74.7862958000
+269;TTV173;Parked;Aug 02 2025 01:05 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018051000;-74.7862523000
+268;TTV173;Parked;Aug 02 2025 12:56 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017818000;-74.7862485000
+267;TTV173;Parked;Aug 02 2025 12:48 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017815000;-74.7862610000
+266;TTV173;Parked;Aug 02 2025 12:39 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017521000;-74.7862795000
+265;TTV173;Parked;Aug 02 2025 12:31 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017340000;-74.7862660000
+264;TTV173;Parked;Aug 02 2025 12:22 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017381000;-74.7862806000
+263;TTV173;Parked;Aug 02 2025 12:13 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017396000;-74.7862780000
+262;TTV173;Parked;Aug 02 2025 12:05 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017645000;-74.7862898000
+261;TTV173;Parked;Aug 02 2025 11:56 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017783000;-74.7863251000
+260;TTV173;Parked;Aug 02 2025 11:48 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017646000;-74.7862923000
+259;TTV173;Parked;Aug 02 2025 11:35 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017588000;-74.7862463000
+258;TTV173;Parked;Aug 02 2025 11:27 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017183000;-74.7862605000
+257;TTV173;Parked;Aug 02 2025 11:18 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017775000;-74.7862831000
+256;TTV173;Parked;Aug 02 2025 11:10 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017858000;-74.7862948000
+255;TTV173;Parked;Aug 02 2025 11:01 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017588000;-74.7862808000
+254;TTV173;Parked;Aug 02 2025 10:53 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017791000;-74.7862781000
+253;TTV173;Parked;Aug 02 2025 10:44 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017858000;-74.7862638000
+252;TTV173;Parked;Aug 02 2025 10:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017365000;-74.7862765000
+251;TTV173;Parked;Aug 02 2025 10:36 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017550000;-74.7862971000
+250;TTV173;Parked;Aug 02 2025 10:27 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017793000;-74.7862715000
+249;TTV173;Parked;Aug 02 2025 10:19 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017640000;-74.7863101000
+248;TTV173;Parked;Aug 02 2025 10:10 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017466000;-74.7863055000
+247;TTV173;Parked;Aug 02 2025 10:02 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017488000;-74.7862763000
+246;TTV173;Parked;Aug 02 2025 09:53 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017406000;-74.7862688000
+245;TTV173;Parked;Aug 02 2025 09:45 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017266000;-74.7862486000
+244;TTV173;Parked;Aug 02 2025 09:36 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017196000;-74.7862765000
+243;TTV173;Parked;Aug 02 2025 09:28 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017558000;-74.7862933000
+242;TTV173;Parked;Aug 02 2025 09:19 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017410000;-74.7862768000
+241;TTV173;Parked;Aug 02 2025 09:11 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017060000;-74.7862780000
+240;TTV173;Parked;Aug 02 2025 09:02 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017343000;-74.7862831000
+239;TTV173;Parked;Aug 02 2025 08:54 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017201000;-74.7862753000
+238;TTV173;Parked;Aug 02 2025 08:45 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017238000;-74.7862621000
+237;TTV173;Parked;Aug 02 2025 08:37 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017131000;-74.7862708000
+236;TTV173;Parked;Aug 02 2025 08:28 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017178000;-74.7862861000
+235;TTV173;Parked;Aug 02 2025 08:20 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017211000;-74.7863146000
+234;TTV173;Parked;Aug 02 2025 08:11 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017053000;-74.7862845000
+233;TTV173;Parked;Aug 02 2025 08:03 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017195000;-74.7862851000
+232;TTV173;Parked;Aug 02 2025 07:54 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017573000;-74.7862966000
+231;TTV173;Parked;Aug 02 2025 07:46 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017173000;-74.7862581000
+230;TTV173;Parked;Aug 02 2025 07:37 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017008000;-74.7862778000
+229;TTV173;Parked;Aug 02 2025 07:29 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016908000;-74.7862873000
+228;TTV173;Parked;Aug 02 2025 07:20 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017206000;-74.7862553000
+227;TTV173;Parked;Aug 02 2025 07:12 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017273000;-74.7862616000
+226;TTV173;Parked;Aug 02 2025 07:03 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017098000;-74.7862571000
+225;TTV173;Parked;Aug 02 2025 06:55 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017498000;-74.7862741000
+224;TTV173;Parked;Aug 02 2025 06:46 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017185000;-74.7862451000
+223;TTV173;Parked;Aug 02 2025 06:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017561000;-74.7862840000
+222;TTV173;Parked;Aug 02 2025 06:38 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017355000;-74.7862815000
+221;TTV173;Parked;Aug 02 2025 06:29 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017166000;-74.7862628000
+220;TTV173;Parked;Aug 02 2025 06:21 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017451000;-74.7862713000
+219;TTV173;Parked;Aug 02 2025 06:12 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017253000;-74.7862828000
+218;TTV173;Parked;Aug 02 2025 06:04 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017103000;-74.7862625000
+217;TTV173;Parked;Aug 02 2025 05:55 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017160000;-74.7862811000
+216;TTV173;Parked;Aug 02 2025 05:47 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017308000;-74.7863018000
+215;TTV173;Parked;Aug 02 2025 05:38 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017073000;-74.7863085000
+214;TTV173;Parked;Aug 02 2025 05:30 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017305000;-74.7863053000
+213;TTV173;Parked;Aug 02 2025 05:21 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017480000;-74.7862873000
+212;TTV173;Parked;Aug 02 2025 05:13 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017218000;-74.7862575000
+211;TTV173;Parked;Aug 02 2025 05:04 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017140000;-74.7862573000
+210;TTV173;Parked;Aug 02 2025 04:56 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017436000;-74.7863035000
+209;TTV173;Parked;Aug 02 2025 04:47 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016908000;-74.7862666000
+208;TTV173;Parked;Aug 02 2025 04:39 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017280000;-74.7862405000
+207;TTV173;Parked;Aug 02 2025 04:30 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017461000;-74.7862881000
+206;TTV173;Parked;Aug 02 2025 04:22 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017210000;-74.7862646000
+205;TTV173;Parked;Aug 02 2025 04:13 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017535000;-74.7862576000
+204;TTV173;Parked;Aug 02 2025 04:05 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017140000;-74.7862586000
+203;TTV173;Parked;Aug 02 2025 03:56 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017345000;-74.7863056000
+202;TTV173;Parked;Aug 02 2025 03:48 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017176000;-74.7862438000
+201;TTV173;Parked;Aug 02 2025 03:39 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017205000;-74.7862511000
+200;TTV173;Parked;Aug 02 2025 03:31 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016701000;-74.7862815000
+199;TTV173;Parked;Aug 02 2025 03:22 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016856000;-74.7862525000
+198;TTV173;Parked;Aug 02 2025 03:14 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017410000;-74.7862693000
+197;TTV173;Parked;Aug 02 2025 03:05 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017116000;-74.7862578000
+196;TTV173;Parked;Aug 02 2025 02:57 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017171000;-74.7862538000
+195;TTV173;Parked;Aug 02 2025 02:48 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017210000;-74.7862595000
+194;TTV173;Parked;Aug 02 2025 02:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017233000;-74.7862373000
+193;TTV173;Parked;Aug 02 2025 02:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017050000;-74.7862328000
+192;TTV173;Parked;Aug 02 2025 02:31 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017891000;-74.7862716000
+191;TTV173;Parked;Aug 02 2025 02:23 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017120000;-74.7862611000
+190;TTV173;Parked;Aug 02 2025 02:14 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017275000;-74.7862680000
+189;TTV173;Parked;Aug 02 2025 02:06 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017340000;-74.7862493000
+188;TTV173;Parked;Aug 02 2025 01:57 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017560000;-74.7862926000
+187;TTV173;Parked;Aug 02 2025 01:49 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017218000;-74.7862930000
+186;TTV173;Parked;Aug 02 2025 01:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017793000;-74.7862975000
+185;TTV173;Parked;Aug 02 2025 01:32 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017383000;-74.7862668000
+184;TTV173;Parked;Aug 02 2025 01:23 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016973000;-74.7862590000
+183;TTV173;Parked;Aug 02 2025 01:15 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016788000;-74.7862620000
+182;TTV173;Parked;Aug 02 2025 01:06 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017350000;-74.7862493000
+181;TTV173;Parked;Aug 02 2025 12:58 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017505000;-74.7862561000
+180;TTV173;Parked;Aug 02 2025 12:49 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017003000;-74.7862146000
+179;TTV173;Parked;Aug 02 2025 12:41 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017423000;-74.7862271000
+178;TTV173;Parked;Aug 02 2025 12:32 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017435000;-74.7862971000
+177;TTV173;Parked;Aug 02 2025 12:24 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017290000;-74.7862735000
+176;TTV173;Parked;Aug 02 2025 12:15 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017423000;-74.7862736000
+175;TTV173;Parked;Aug 02 2025 12:07 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017055000;-74.7862686000
+174;TTV173;Parked;Aug 01 2025 11:58 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017205000;-74.7862685000
+173;TTV173;Parked;Aug 01 2025 11:50 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017280000;-74.7862915000
+172;TTV173;Parked;Aug 01 2025 11:41 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017136000;-74.7863268000
+171;TTV173;Parked;Aug 01 2025 11:33 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017108000;-74.7862650000
+170;TTV173;Parked;Aug 01 2025 11:24 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017316000;-74.7862641000
+169;TTV173;Parked;Aug 01 2025 11:16 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017103000;-74.7862718000
+168;TTV173;Parked;Aug 01 2025 11:07 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017198000;-74.7862560000
+167;TTV173;Parked;Aug 01 2025 10:59 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017393000;-74.7862506000
+166;TTV173;Parked;Aug 01 2025 10:50 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017696000;-74.7862690000
+165;TTV173;Parked;Aug 01 2025 10:42 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017151000;-74.7862818000
+164;TTV173;Parked;Aug 01 2025 10:40 PM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016936000;-74.7862816000
+163;TTV173;Parked;Aug 01 2025 10:33 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017841000;-74.7862905000
+162;TTV173;Parked;Aug 01 2025 10:25 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017513000;-74.7862618000
+161;TTV173;Parked;Aug 01 2025 10:16 PM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016896000;-74.7862643000
+160;TTV173;Parked;Aug 01 2025 10:08 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico, Colombia;0;N/A;;11.0016738000;-74.7863178000
+159;TTV173;Parked;Aug 01 2025 09:59 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017290000;-74.7862665000
+158;TTV173;Parked;Aug 01 2025 09:51 PM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016681000;-74.7862598000
+157;TTV173;Parked;Aug 01 2025 09:42 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017400000;-74.7862625000
+156;TTV173;Parked;Aug 01 2025 09:34 PM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016866000;-74.7862653000
+155;TTV173;Parked;Aug 01 2025 09:25 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017460000;-74.7862923000
+154;TTV173;Parked;Aug 01 2025 09:17 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017180000;-74.7862688000
+153;TTV173;Parked;Aug 01 2025 09:08 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017146000;-74.7862631000
+152;TTV173;Parked;Aug 01 2025 09:00 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017271000;-74.7862723000
+151;TTV173;Parked;Aug 01 2025 08:51 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017438000;-74.7862515000
+150;TTV173;Parked;Aug 01 2025 08:43 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017121000;-74.7863075000
+149;TTV173;Parked;Aug 01 2025 08:34 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017463000;-74.7862948000
+148;TTV173;Parked;Aug 01 2025 08:26 PM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016935000;-74.7862850000
+147;TTV173;Parked;Aug 01 2025 08:17 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017286000;-74.7862613000
+146;TTV173;Parked;Aug 01 2025 08:09 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017468000;-74.7863125000
+145;TTV173;Parked;Aug 01 2025 08:00 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017416000;-74.7862656000
+144;TTV173;Parked;Aug 01 2025 07:52 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017291000;-74.7862765000
+143;TTV173;Parked;Aug 01 2025 07:43 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017210000;-74.7862750000
+142;TTV173;Parked;Aug 01 2025 07:35 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017508000;-74.7862693000
+141;TTV173;Parked;Aug 01 2025 07:26 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017370000;-74.7862895000
+140;TTV173;Parked;Aug 01 2025 07:18 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017178000;-74.7862738000
+139;TTV173;Parked;Aug 01 2025 07:09 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017026000;-74.7863111000
+138;TTV173;Parked;Aug 01 2025 07:01 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017190000;-74.7862995000
+137;TTV173;Parked;Aug 01 2025 06:52 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017233000;-74.7862715000
+136;TTV173;Parked;Aug 01 2025 06:44 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017210000;-74.7862970000
+135;TTV173;Parked;Aug 01 2025 06:40 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017366000;-74.7862611000
+134;TTV173;Parked;Aug 01 2025 06:35 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017400000;-74.7862610000
+133;TTV173;Parked;Aug 01 2025 06:27 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017346000;-74.7862450000
+132;TTV173;Parked;Aug 01 2025 06:18 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017676000;-74.7862961000
+131;TTV173;Parked;Aug 01 2025 06:10 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017366000;-74.7862863000
+130;TTV173;Parked;Aug 01 2025 06:01 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017488000;-74.7862701000
+129;TTV173;Parked;Aug 01 2025 05:53 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017440000;-74.7862780000
+128;TTV173;Parked;Aug 01 2025 05:44 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017318000;-74.7863140000
+127;TTV173;Parked;Aug 01 2025 05:36 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017276000;-74.7862490000
+126;TTV173;Parked;Aug 01 2025 05:27 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017120000;-74.7862790000
+125;TTV173;Parked;Aug 01 2025 05:19 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017005000;-74.7862563000
+124;TTV173;Parked;Aug 01 2025 05:10 PM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017226000;-74.7863056000
+123;TTV173;Parked;Aug 01 2025 05:02 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017375000;-74.7862798000
+122;TTV173;Parked;Aug 01 2025 04:53 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017561000;-74.7862690000
+121;TTV173;Parked;Aug 01 2025 04:45 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018026000;-74.7862826000
+120;TTV173;Parked;Aug 01 2025 04:36 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017671000;-74.7862735000
+119;TTV173;Parked;Aug 01 2025 04:28 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017513000;-74.7862773000
+118;TTV173;Parked;Aug 01 2025 04:19 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017475000;-74.7862671000
+117;TTV173;Parked;Aug 01 2025 04:11 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017308000;-74.7862790000
+116;TTV173;Parked;Aug 01 2025 04:02 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017933000;-74.7862541000
+115;TTV173;Parked;Aug 01 2025 03:54 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017933000;-74.7862951000
+114;TTV173;Parked;Aug 01 2025 03:45 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017505000;-74.7862695000
+113;TTV173;Parked;Aug 01 2025 03:37 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017745000;-74.7862740000
+112;TTV173;Parked;Aug 01 2025 03:28 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017218000;-74.7862668000
+111;TTV173;Parked;Aug 01 2025 03:20 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017471000;-74.7862750000
+110;TTV173;Parked;Aug 01 2025 03:11 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017440000;-74.7862495000
+109;TTV173;Parked;Aug 01 2025 03:03 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018005000;-74.7862621000
+108;TTV173;Parked;Aug 01 2025 02:54 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017428000;-74.7862838000
+107;TTV173;Parked;Aug 01 2025 02:46 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017610000;-74.7862730000
+106;TTV173;Parked;Aug 01 2025 02:40 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017605000;-74.7862675000
+105;TTV173;Parked;Aug 01 2025 02:37 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017625000;-74.7862881000
+104;TTV173;Parked;Aug 01 2025 02:29 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017503000;-74.7862825000
+103;TTV173;Parked;Aug 01 2025 02:20 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017548000;-74.7862566000
+102;TTV173;Parked;Aug 01 2025 02:12 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017308000;-74.7862661000
+101;TTV173;Parked;Aug 01 2025 02:03 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017513000;-74.7862773000
+100;TTV173;Parked;Aug 01 2025 01:55 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017753000;-74.7862688000
+99;TTV173;Parked;Aug 01 2025 01:46 PM;PLANTA ZAMUDIO;Kr70 48-46, Barranquilla, Atlantico;0;N/A;;11.0018088000;-74.7862625000
+98;TTV173;Parked;Aug 01 2025 01:38 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017961000;-74.7862680000
+97;TTV173;Parked;Aug 01 2025 01:29 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017821000;-74.7862736000
+96;TTV173;Parked;Aug 01 2025 01:21 PM;PLANTA ZAMUDIO;Kr70 48-50, Barranquilla, Atlantico, Colombia;0;N/A;;11.0018123000;-74.7863065000
+95;TTV173;Parked;Aug 01 2025 01:12 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017896000;-74.7862543000
+94;TTV173;Parked;Aug 01 2025 01:04 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017946000;-74.7862486000
+93;TTV173;Parked;Aug 01 2025 12:55 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017755000;-74.7862780000
+92;TTV173;Parked;Aug 01 2025 12:46 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017628000;-74.7862743000
+91;TTV173;Parked;Aug 01 2025 12:34 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017246000;-74.7862791000
+90;TTV173;Parked;Aug 01 2025 12:25 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017373000;-74.7862883000
+89;TTV173;Parked;Aug 01 2025 12:17 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017111000;-74.7862873000
+88;TTV173;Parked;Aug 01 2025 12:04 PM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017618000;-74.7862986000
+87;TTV173;Parked;Aug 01 2025 11:56 AM;PLANTA ZAMUDIO;Kr70 48-50, Barranquilla, Atlantico, Colombia;0;N/A;;11.0018030000;-74.7863000000
+86;TTV173;Parked;Aug 01 2025 11:47 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017358000;-74.7863113000
+85;TTV173;Parked;Aug 01 2025 11:38 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017571000;-74.7862573000
+84;TTV173;Parked;Aug 01 2025 11:26 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017485000;-74.7862640000
+83;TTV173;Parked;Aug 01 2025 11:17 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017496000;-74.7862630000
+82;TTV173;Parked;Aug 01 2025 11:09 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017978000;-74.7862833000
+81;TTV173;Parked;Aug 01 2025 11:00 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017521000;-74.7862850000
+80;TTV173;Parked;Aug 01 2025 10:52 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017845000;-74.7862781000
+79;TTV173;Parked;Aug 01 2025 10:43 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017440000;-74.7862975000
+78;TTV173;Parked;Aug 01 2025 10:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017408000;-74.7862991000
+77;TTV173;Parked;Aug 01 2025 10:35 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017638000;-74.7862761000
+76;TTV173;Parked;Aug 01 2025 10:26 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017865000;-74.7862913000
+75;TTV173;Parked;Aug 01 2025 10:18 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017450000;-74.7862878000
+74;TTV173;Parked;Aug 01 2025 10:09 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017298000;-74.7862795000
+73;TTV173;Parked;Aug 01 2025 10:01 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017500000;-74.7862883000
+72;TTV173;Parked;Aug 01 2025 09:52 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017221000;-74.7862858000
+71;TTV173;Parked;Aug 01 2025 09:44 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017288000;-74.7862740000
+70;TTV173;Parked;Aug 01 2025 09:35 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017193000;-74.7863045000
+69;TTV173;Parked;Aug 01 2025 09:27 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017526000;-74.7862691000
+68;TTV173;Parked;Aug 01 2025 09:18 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017218000;-74.7862888000
+67;TTV173;Parked;Aug 01 2025 09:10 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017473000;-74.7862963000
+66;TTV173;Parked;Aug 01 2025 09:01 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017341000;-74.7862713000
+65;TTV173;Parked;Aug 01 2025 08:53 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017271000;-74.7862576000
+64;TTV173;Parked;Aug 01 2025 08:44 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017335000;-74.7862705000
+63;TTV173;Parked;Aug 01 2025 08:36 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017083000;-74.7862893000
+62;TTV173;Parked;Aug 01 2025 08:27 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017158000;-74.7863046000
+61;TTV173;Parked;Aug 01 2025 08:19 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017215000;-74.7862965000
+60;TTV173;Parked;Aug 01 2025 08:10 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017105000;-74.7862835000
+59;TTV173;Parked;Aug 01 2025 08:02 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017683000;-74.7862923000
+58;TTV173;Parked;Aug 01 2025 07:53 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017286000;-74.7862860000
+57;TTV173;Parked;Aug 01 2025 07:45 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017098000;-74.7863066000
+56;TTV173;Parked;Aug 01 2025 07:36 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017100000;-74.7862978000
+55;TTV173;Parked;Aug 01 2025 07:28 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017030000;-74.7862943000
+54;TTV173;Parked;Aug 01 2025 07:19 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017161000;-74.7862638000
+53;TTV173;Parked;Aug 01 2025 07:11 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017331000;-74.7862353000
+52;TTV173;Parked;Aug 01 2025 07:02 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017280000;-74.7862543000
+51;TTV173;Parked;Aug 01 2025 06:54 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017561000;-74.7862666000
+50;TTV173;Parked;Aug 01 2025 06:45 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017363000;-74.7862870000
+49;TTV173;Parked;Aug 01 2025 06:41 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017275000;-74.7863093000
+48;TTV173;Parked;Aug 01 2025 06:37 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016913000;-74.7862905000
+47;TTV173;Parked;Aug 01 2025 06:28 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017466000;-74.7862528000
+46;TTV173;Parked;Aug 01 2025 06:20 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017255000;-74.7863133000
+45;TTV173;Parked;Aug 01 2025 06:11 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017470000;-74.7863066000
+44;TTV173;Parked;Aug 01 2025 06:03 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017163000;-74.7862846000
+43;TTV173;Parked;Aug 01 2025 05:54 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017578000;-74.7863115000
+42;TTV173;Parked;Aug 01 2025 05:46 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017266000;-74.7862761000
+41;TTV173;Parked;Aug 01 2025 05:37 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017308000;-74.7863006000
+40;TTV173;Parked;Aug 01 2025 05:29 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017126000;-74.7862818000
+39;TTV173;Parked;Aug 01 2025 05:20 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017091000;-74.7862798000
+38;TTV173;Parked;Aug 01 2025 05:12 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017330000;-74.7862801000
+37;TTV173;Parked;Aug 01 2025 05:03 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017385000;-74.7862696000
+36;TTV173;Parked;Aug 01 2025 04:55 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017055000;-74.7862606000
+35;TTV173;Parked;Aug 01 2025 04:46 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017313000;-74.7862496000
+34;TTV173;Parked;Aug 01 2025 04:38 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017553000;-74.7862758000
+33;TTV173;Parked;Aug 01 2025 04:29 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017330000;-74.7862941000
+32;TTV173;Parked;Aug 01 2025 04:21 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017875000;-74.7863300000
+31;TTV173;Parked;Aug 01 2025 04:12 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017448000;-74.7862318000
+30;TTV173;Parked;Aug 01 2025 04:04 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017155000;-74.7863251000
+29;TTV173;Parked;Aug 01 2025 03:55 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017296000;-74.7862818000
+28;TTV173;Parked;Aug 01 2025 03:47 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017265000;-74.7862911000
+27;TTV173;Parked;Aug 01 2025 03:38 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016846000;-74.7862615000
+26;TTV173;Parked;Aug 01 2025 03:30 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017201000;-74.7862683000
+25;TTV173;Parked;Aug 01 2025 03:21 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017300000;-74.7862465000
+24;TTV173;Parked;Aug 01 2025 03:13 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017515000;-74.7862263000
+23;TTV173;Parked;Aug 01 2025 03:04 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017435000;-74.7862733000
+22;TTV173;Parked;Aug 01 2025 02:56 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017315000;-74.7862456000
+21;TTV173;Parked;Aug 01 2025 02:47 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017386000;-74.7862585000
+20;TTV173;Parked;Aug 01 2025 02:41 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017358000;-74.7862656000
+19;TTV173;Parked;Aug 01 2025 02:39 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017215000;-74.7862908000
+18;TTV173;Parked;Aug 01 2025 02:30 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017235000;-74.7862383000
+17;TTV173;Parked;Aug 01 2025 02:22 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017346000;-74.7862406000
+16;TTV173;Parked;Aug 01 2025 02:13 AM;PLANTA ZAMUDIO;Kr70 48-37, Barranquilla, Atlantico;0;N/A;;11.0016815000;-74.7862740000
+15;TTV173;Parked;Aug 01 2025 02:05 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017373000;-74.7862768000
+14;TTV173;Parked;Aug 01 2025 01:56 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017550000;-74.7862980000
+13;TTV173;Parked;Aug 01 2025 01:48 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017251000;-74.7862955000
+12;TTV173;Parked;Aug 01 2025 01:39 AM;PLANTA ZAMUDIO;Kr70 48-51, Barranquilla, Atlantico;0;N/A;;11.0017231000;-74.7863200000
+11;TTV173;Parked;Aug 01 2025 01:31 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017095000;-74.7862520000
+10;TTV173;Parked;Aug 01 2025 01:22 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017126000;-74.7862298000
+9;TTV173;Parked;Aug 01 2025 01:14 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017005000;-74.7862605000
+8;TTV173;Parked;Aug 01 2025 01:05 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017325000;-74.7862570000
+7;TTV173;Parked;Aug 01 2025 12:57 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017308000;-74.7862500000
+6;TTV173;Parked;Aug 01 2025 12:48 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017600000;-74.7862756000
+5;TTV173;Parked;Aug 01 2025 12:40 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017306000;-74.7862596000
+4;TTV173;Parked;Aug 01 2025 12:31 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017325000;-74.7862803000
+3;TTV173;Parked;Aug 01 2025 12:23 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017371000;-74.7862900000
+2;TTV173;Parked;Aug 01 2025 12:14 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017035000;-74.7862523000
+1;TTV173;Parked;Aug 01 2025 12:06 AM;PLANTA ZAMUDIO;Kr70 48-43, Barranquilla, Atlantico;0;N/A;;11.0017206000;-74.7862620000

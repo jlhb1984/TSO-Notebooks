@@ -1,0 +1,134 @@
+Secuencia;Unidad;Eventos;Fecha;Pt. Referencia;Dirección;Velocidad;Temperatura;Conductor;Latitud;Longitud
+133;STX820;Ignición Apagada;Aug 01 2025 11:11 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5180200000;-76.3384100000
+132;STX820;Ignición Encendida;Aug 01 2025 11:10 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5176400000;-76.3383600000
+131;STX820;Estacionado;Aug 01 2025 11:08 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5176400000;-76.3383600000
+130;STX820;Ignición Apagada;Aug 01 2025 10:58 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5176400000;-76.3383600000
+129;STX820;Entrando a Landmark;Aug 01 2025 10:55 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5172100000;-76.3386900000
+128;STX820;Inmóvil - Detenido;Aug 01 2025 10:55 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5172100000;-76.3386900000
+127;STX820;Inmóvil - Detenido;Aug 01 2025 10:53 AM;;Via Principal-42, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.5162300000;-76.3390800000
+126;STX820;Conduciendo;Aug 01 2025 10:51 AM;;Km 1 de la vía Palmira - Puerto Tejada, , Valle del Cauca;9;N/A;Fernando , Londoño;3.5152000000;-76.3412700000
+125;STX820;Inmóvil - Detenido;Aug 01 2025 10:50 AM;;Km 1 de la vía Palmira - Puerto Tejada, , Valle del Cauca, Colombia;0;N/A;Fernando , Londoño;3.5148600000;-76.3420200000
+124;STX820;Conduciendo;Aug 01 2025 10:48 AM;Sucroal Descargue.;Palmira-Candelaria;9;N/A;Fernando , Londoño;3.5133800000;-76.3417200000
+123;STX820;Saliendo de Landmark;Aug 01 2025 10:48 AM;Sucroal Descargue.;Palmira-Candelaria;9;N/A;Fernando , Londoño;3.5133800000;-76.3417200000
+122;STX820;Conduciendo;Aug 01 2025 10:48 AM;Sucroal Descargue.;Palmira-Candelaria;9;N/A;Fernando , Londoño;3.5133800000;-76.3412700000
+121;STX820;Primer Registro;Aug 01 2025 10:45 AM;Sucroal Descargue.;Palmira-Candelaria;1;N/A;Fernando , Londoño;3.5126300000;-76.3406700000
+120;STX820;Ignición Encendida;Aug 01 2025 10:45 AM;Sucroal Descargue.;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5126500000;-76.3407000000
+119;STX820;Estacionado;Aug 01 2025 10:28 AM;Sucroal Descargue.;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5126500000;-76.3407000000
+118;STX820;Ignición Apagada;Aug 01 2025 10:18 AM;Sucroal Descargue.;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5126500000;-76.3407000000
+117;STX820;Inmóvil - Detenido;Aug 01 2025 10:14 AM;Sucroal Descargue.;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5128600000;-76.3406500000
+116;STX820;Conduciendo;Aug 01 2025 10:12 AM;Sucroal Descargue.;Palmira-Candelaria;9;N/A;Fernando , Londoño;3.5134600000;-76.3408200000
+115;STX820;Entrando a Landmark;Aug 01 2025 10:12 AM;Sucroal Descargue.;Palmira-Candelaria;9;N/A;Fernando , Londoño;3.5134600000;-76.3408200000
+114;STX820;Conduciendo;Aug 01 2025 10:11 AM;;Via Principal-34, Palmira, Valle Cauca, Colombia;9;N/A;Fernando , Londoño;3.5133400000;-76.3415400000
+113;STX820;Saliendo de Landmark;Aug 01 2025 10:09 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5149600000;-76.3418000000
+112;STX820;Estacionado;Aug 01 2025 10:09 AM;Sucroal Porteria;Km 1 de la vía Palmira - Puerto Tejada, , Valle del Cauca, Colombia;0;N/A;Fernando , Londoño;3.5149600000;-76.3418000000
+111;STX820;Estacionado;Aug 01 2025 09:20 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5170300000;-76.3384600000
+110;STX820;Ignición Apagada;Aug 01 2025 09:10 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5170300000;-76.3384600000
+109;STX820;Primer Registro;Aug 01 2025 09:09 AM;Sucroal Porteria;Palmira-Candelaria;3;N/A;Fernando , Londoño;3.5171600000;-76.3385300000
+108;STX820;Ignición Encendida;Aug 01 2025 09:09 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5171500000;-76.3385500000
+107;STX820;Ignición Apagada;Aug 01 2025 08:26 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5171500000;-76.3385500000
+106;STX820;Ignición Encendida;Aug 01 2025 08:21 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5175000000;-76.3383800000
+105;STX820;Estacionado;Aug 01 2025 08:18 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5175000000;-76.3383800000
+104;STX820;Entrando a Landmark;Aug 01 2025 08:08 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5175000000;-76.3383800000
+103;STX820;Ignición Apagada;Aug 01 2025 08:08 AM;Sucroal Porteria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5175000000;-76.3383800000
+102;STX820;Ignición Encendida;Aug 01 2025 08:05 AM;;Via Principal-59, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.5182600000;-76.3380700000
+101;STX820;Saliendo de Landmark;Aug 01 2025 07:57 AM;Crucero Palmira Candelaria;Palmira-Candelaria;0;N/A;Fernando , Londoño;3.5182600000;-76.3380700000
+100;STX820;Ignición Apagada;Aug 01 2025 07:57 AM;Crucero Palmira Candelaria;Via Principal-59, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.5182600000;-76.3380700000
+99;STX820;Conduciendo;Aug 01 2025 07:55 AM;Crucero Palmira Candelaria;Palmira-Candelaria;48;N/A;Fernando , Londoño;3.5245200000;-76.3377100000
+98;STX820;Conduciendo;Aug 01 2025 07:55 AM;Crucero Palmira Candelaria;Via Principal, Palmira, Valle Cauca;48;N/A;Fernando , Londoño;3.5262500000;-76.3380700000
+97;STX820;Conduciendo;Aug 01 2025 07:55 AM;Crucero Palmira Candelaria;Av 25, Palmira, Valle Cauca;53;N/A;Fernando , Londoño;3.5255200000;-76.3391600000
+96;STX820;Entrando a Landmark;Aug 01 2025 07:55 AM;Crucero Palmira Candelaria;Palmira-Candelaria;53;N/A;Fernando , Londoño;3.5255200000;-76.3391600000
+95;STX820;Conduciendo;Aug 01 2025 07:53 AM;;Cl31 46, Palmira, Valle Cauca;56;N/A;Fernando , Londoño;3.5280600000;-76.3230100000
+94;STX820;Saliendo de Landmark;Aug 01 2025 07:47 AM;lavadero Conrrado;31-54 31-54 # 31-46 3163 312-31118 Carrera 36 Carrera 36 Carrera 36 Carrera 36 Carrera 36;0;N/A;Fernando , Londoño;3.5294500000;-76.3060100000
+93;STX820;Alerta de Inmovilidad;Aug 01 2025 07:47 AM;lavadero Conrrado;31-54 31-54 # 31-46 3163 312-31118 Carrera 36 Carrera 36 Carrera 36 Carrera 36 Carrera 36;0;N/A;Fernando , Londoño;3.5294500000;-76.3060100000
+92;STX820;Estacionado;Aug 01 2025 07:24 AM;lavadero Conrrado;31-54 31-54 # 31-46 3163 312-31118 Carrera 36 Carrera 36 Carrera 36 Carrera 36 Carrera 36;0;N/A;Fernando , Londoño;3.5296100000;-76.3063300000
+91;STX820;Entrando a Landmark;Aug 01 2025 07:14 AM;lavadero Conrrado;31-54 31-54 # 31-46 3163 312-31118 Carrera 36 Carrera 36 Carrera 36 Carrera 36 Carrera 36;0;N/A;Fernando , Londoño;3.5296100000;-76.3063300000
+90;STX820;Ignición Apagada;Aug 01 2025 07:14 AM;lavadero Conrrado;31-54 31-54 # 31-46 3163 312-31118 Carrera 36 Carrera 36 Carrera 36 Carrera 36 Carrera 36;0;N/A;Fernando , Londoño;3.5296100000;-76.3063300000
+89;STX820;Conduciendo;Aug 01 2025 07:13 AM;;Kr35 31-48, Palmira, Valle Cauca;9;N/A;Fernando , Londoño;3.5295000000;-76.3060400000
+88;STX820;Conduciendo;Aug 01 2025 07:11 AM;;Cl31 36-52, Palmira, Valle Cauca;38;N/A;Fernando , Londoño;3.5292100000;-76.3075800000
+87;STX820;Inmóvil - Detenido;Aug 01 2025 07:10 AM;;Kr41 30-72, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.5297700000;-76.3116300000
+86;STX820;Conduciendo;Aug 01 2025 07:08 AM;Crucero Palmira Candelaria;Cl31 46, Palmira, Valle Cauca;54;N/A;Fernando , Londoño;3.5285500000;-76.3208000000
+85;STX820;Saliendo de Landmark;Aug 01 2025 07:08 AM;Crucero Palmira Candelaria;Palmira-Candelaria;54;N/A;Fernando , Londoño;3.5285500000;-76.3208000000
+84;STX820;Conduciendo;Aug 01 2025 07:06 AM;Crucero Palmira Candelaria;Palmira-Candelaria;69;N/A;Fernando , Londoño;3.5243700000;-76.3379200000
+83;STX820;Entrando a Landmark;Aug 01 2025 07:06 AM;Crucero Palmira Candelaria;Palmira-Candelaria;69;N/A;Fernando , Londoño;3.5243700000;-76.3379200000
+82;STX820;En Cobertura;Aug 01 2025 07:04 AM;;Av 25, Palmira, Valle Cauca;69;N/A;Fernando , Londoño;3.5206500000;-76.3563100000
+81;STX820;Conduciendo;Aug 01 2025 07:04 AM;;Av 25, Palmira, Valle Cauca;69;N/A;Fernando , Londoño;3.5203000000;-76.3581900000
+80;STX820;Fuera de Cobertura;Aug 01 2025 07:01 AM;;Km 11 de la vía Cali - Palmira, , Valle del Cauca;72;N/A;Fernando , Londoño;3.5130000000;-76.3888600000
+79;STX820;Conduciendo;Aug 01 2025 07:00 AM;;Via Principal-18, Palmira, Valle Cauca;24;N/A;Fernando , Londoño;3.5114700000;-76.3961400000
+78;STX820;Conduciendo;Aug 01 2025 07:00 AM;;Via Principal-33, Palmira, Valle Cauca;38;N/A;Fernando , Londoño;3.5107700000;-76.3959700000
+77;STX820;Conduciendo;Aug 01 2025 06:54 AM;;Via Principal, Palmira, Valle Cauca;30;N/A;Fernando , Londoño;3.5335500000;-76.3901300000
+76;STX820;Conduciendo;Aug 01 2025 06:47 AM;Quimpac Palmira;Km 13 de la vía Cali - Yumbo - Aeropuerto, , Valle del Cauca;17;N/A;Fernando , Londoño;3.5584000000;-76.4314200000
+75;STX820;Saliendo de Landmark;Aug 01 2025 06:47 AM;Quimpac Palmira;63-97 Vía Al Aeropuerto;17;N/A;Fernando , Londoño;3.5584000000;-76.4314200000
+74;STX820;Conduciendo;Aug 01 2025 06:46 AM;Quimpac Palmira;Via Principal-76, Palmira, Valle Cauca;12;N/A;Fernando , Londoño;3.5570500000;-76.4317800000
+73;STX820;Conduciendo;Aug 01 2025 06:45 AM;Quimpac Palmira;63-97 Vía Al Aeropuerto;9;N/A;Fernando , Londoño;3.5561700000;-76.4309000000
+72;STX820;Entrando a Landmark;Aug 01 2025 06:38 AM;Quimpac Palmira;63-97 Vía Al Aeropuerto;0;N/A;Fernando , Londoño;3.5559600000;-76.4308300000
+71;STX820;Alerta de Inmovilidad;Aug 01 2025 06:38 AM;Quimpac Palmira;63-97 Vía Al Aeropuerto;0;N/A;Fernando , Londoño;3.5559600000;-76.4308300000
+70;STX820;Conduciendo;Aug 01 2025 06:18 AM;;Av 25s-02-95, Rozo, Valle Cauca;38;N/A;Fernando , Londoño;3.6150100000;-76.3999100000
+69;STX820;Conduciendo;Aug 01 2025 06:18 AM;;Via Principal-4, Palmira, Valle Cauca;40;N/A;Fernando , Londoño;3.6151700000;-76.4009200000
+68;STX820;Conduciendo;Aug 01 2025 06:17 AM;;Av 25n-02, Rozo, Valle Cauca;48;N/A;Fernando , Londoño;3.6140200000;-76.3990300000
+67;STX820;Conduciendo;Aug 01 2025 06:17 AM;;Km 23 de la vía Cali - Guacarí, , Valle del Cauca;25;N/A;Fernando , Londoño;3.6153200000;-76.3971000000
+66;STX820;Conduciendo;Aug 01 2025 06:15 AM;;Av 25n-02, Rozo, Valle Cauca;27;N/A;Fernando , Londoño;3.6150800000;-76.3910900000
+65;STX820;Conduciendo;Aug 01 2025 06:13 AM;;Av 25n-02, Rozo, Valle Cauca;9;N/A;Fernando , Londoño;3.6145300000;-76.3863400000
+64;STX820;Inmóvil - Detenido;Aug 01 2025 06:11 AM;;Av 25n-02, Rozo, Valle Cauca;0;N/A;Fernando , Londoño;3.6097300000;-76.3824500000
+63;STX820;Conduciendo;Aug 01 2025 06:09 AM;;Av 25n-02, Rozo, Valle Cauca;25;N/A;Fernando , Londoño;3.6047500000;-76.3783600000
+62;STX820;Conduciendo;Aug 01 2025 06:07 AM;Anillo V Coronado;Av 25-02-48, Rozo, Valle Cauca;53;N/A;Fernando , Londoño;3.5931000000;-76.3710300000
+61;STX820;Saliendo de Landmark;Aug 01 2025 06:07 AM;Anillo V Coronado;Rozo-Palmira;53;N/A;Fernando , Londoño;3.5931000000;-76.3710300000
+60;STX820;Conduciendo;Aug 01 2025 06:05 AM;;Palmira, Palmira, Valle Cauca;51;N/A;Fernando , Londoño;3.5883100000;-76.3566200000
+59;STX820;Conduciendo;Aug 01 2025 06:01 AM;Anillo V Coronado;Rozo-Palmira;30;N/A;Fernando , Londoño;3.5813200000;-76.3283300000
+58;STX820;Entrando a Landmark;Aug 01 2025 06:01 AM;Anillo V Coronado;Rozo-Palmira;30;N/A;Fernando , Londoño;3.5813200000;-76.3283300000
+57;STX820;Conduciendo;Aug 01 2025 05:57 AM;;Km 8 de la vía Cerrito - Puerto Tejada, , Valle del Cauca;69;N/A;Fernando , Londoño;3.6177300000;-76.3067000000
+56;STX820;Conduciendo;Aug 01 2025 05:55 AM;;Av 25-6, Palmira, Valle Cauca;75;N/A;Fernando , Londoño;3.6337300000;-76.2937700000
+55;STX820;Conduciendo;Aug 01 2025 05:52 AM;;Km 3 de la vía Cerrito - Puerto Tejada, , Valle del Cauca;59;N/A;Fernando , Londoño;3.6630900000;-76.2927500000
+54;STX820;Conduciendo;Aug 01 2025 05:50 AM;;Km 1 de la vía Cerrito - Puerto Tejada, , Valle del Cauca;59;N/A;Fernando , Londoño;3.6767400000;-76.3017300000
+53;STX820;Conduciendo;Aug 01 2025 05:47 AM;;Av 25n-8, Palmira, Valle Cauca;59;N/A;Fernando , Londoño;3.6984200000;-76.3170400000
+52;STX820;Salida de Geocerca;Aug 01 2025 05:47 AM;PEAJE EL CERRITO;Av 25n-8, Palmira, Valle Cauca;59;N/A;Fernando , Londoño;3.6984200000;-76.3170400000
+51;STX820;Entrada a Geocerca;Aug 01 2025 05:43 AM;PEAJE EL CERRITO;Av 25s, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.7135900000;-76.3194800000
+50;STX820;Inmóvil - Detenido;Aug 01 2025 05:43 AM;;Av 25s, Palmira, Valle Cauca;0;N/A;Fernando , Londoño;3.7135900000;-76.3194800000
+49;STX820;Conduciendo;Aug 01 2025 05:35 AM;;Av 25n, Guacari, Valle Cauca;62;N/A;Fernando , Londoño;3.7746400000;-76.3263800000
+48;STX820;Conduciendo;Aug 01 2025 05:28 AM;;Av 25n-63, Guacari, Valle Cauca;72;N/A;Fernando , Londoño;3.8394500000;-76.3003200000
+47;STX820;En Cobertura;Aug 01 2025 05:24 AM;;Av 25n-55, Buga, Valle Cauca;62;N/A;Fernando , Londoño;3.8696000000;-76.3046200000
+46;STX820;Conduciendo;Aug 01 2025 05:23 AM;;Km 2 de la vía Buga - Guacarí, , Valle del Cauca;64;N/A;Fernando , Londoño;3.8788800000;-76.3125300000
+45;STX820;Fuera de Cobertura;Aug 01 2025 05:22 AM;;Av 25n-14, Buga, Valle Cauca;65;N/A;Fernando , Londoño;3.8900600000;-76.3120200000
+44;STX820;Conduciendo;Aug 01 2025 05:20 AM;;Av 25n-46, Buga, Valle Cauca;64;N/A;Fernando , Londoño;3.9036500000;-76.3108200000
+43;STX820;Conduciendo;Aug 01 2025 05:18 AM;;Av 25s, Buga, Valle Cauca;65;N/A;Fernando , Londoño;3.9185300000;-76.2999700000
+42;STX820;Conduciendo;Aug 01 2025 05:16 AM;;Km 2 de la vía Buga - Tuluá, , Valle del Cauca;70;N/A;Fernando , Londoño;3.9308200000;-76.2841800000
+41;STX820;Conduciendo;Aug 01 2025 05:14 AM;;Av 25s, Tulua, Valle Cauca;64;N/A;Fernando , Londoño;3.9473000000;-76.2749800000
+40;STX820;Conduciendo;Aug 01 2025 05:12 AM;Peaje Betania;Av 25n-94, Tulua, Valle Cauca;69;N/A;Fernando , Londoño;3.9617300000;-76.2632100000
+39;STX820;Saliendo de Landmark;Aug 01 2025 05:12 AM;Peaje Betania;Av 25s, Tulua, Valle Cauca;69;N/A;Fernando , Londoño;3.9617300000;-76.2632100000
+38;STX820;Conduciendo;Aug 01 2025 05:10 AM;Peaje Betania;Av 25s, Tulua, Valle Cauca;41;N/A;Fernando , Londoño;3.9725200000;-76.2527300000
+37;STX820;Entrando a Landmark;Aug 01 2025 05:10 AM;Peaje Betania;Av 25s, Tulua, Valle Cauca;41;N/A;Fernando , Londoño;3.9725200000;-76.2527300000
+36;STX820;Conduciendo;Aug 01 2025 05:09 AM;;Av 25s, Tulua, Valle Cauca;72;N/A;Fernando , Londoño;3.9860300000;-76.2384400000
+35;STX820;Conduciendo;Aug 01 2025 05:05 AM;;Av 25n, Tulua, Valle Cauca;67;N/A;Fernando , Londoño;4.0212200000;-76.2177000000
+34;STX820;Conduciendo;Aug 01 2025 05:03 AM;;Av 25s, Tulua, Valle Cauca;72;N/A;Fernando , Londoño;4.0399200000;-76.2092900000
+33;STX820;Conduciendo;Aug 01 2025 05:01 AM;;Av 25s, Tulua, Valle Cauca;75;N/A;Fernando , Londoño;4.0557100000;-76.1961400000
+32;STX820;Conduciendo;Aug 01 2025 04:56 AM;;Av 25s, Tulua, Valle Cauca;56;N/A;Fernando , Londoño;4.0936700000;-76.1728500000
+31;STX820;Conduciendo;Aug 01 2025 04:54 AM;;Av 25s, Tulua, Valle Cauca;64;N/A;Fernando , Londoño;4.1102200000;-76.1755500000
+30;STX820;Conduciendo;Aug 01 2025 04:51 AM;;Av 25s, Tulua, Valle Cauca;65;N/A;Fernando , Londoño;4.1348400000;-76.1806400000
+29;STX820;Conduciendo;Aug 01 2025 04:49 AM;;Av 25s, Tulua, Valle Cauca;65;N/A;Fernando , Londoño;4.1545000000;-76.1779200000
+28;STX820;Conduciendo;Aug 01 2025 04:45 AM;;Km 11 de la vía Tuluá - Bugalagrande, , Valle del Cauca;56;N/A;Fernando , Londoño;4.1907200000;-76.1669900000
+27;STX820;Conduciendo;Aug 01 2025 04:44 AM;;Av 25n, Tulua, Valle Cauca;64;N/A;Fernando , Londoño;4.1943400000;-76.1591700000
+26;STX820;Conduciendo;Aug 01 2025 04:41 AM;;Av 25s, Tulua, Valle Cauca;62;N/A;Fernando , Londoño;4.2176900000;-76.1487300000
+25;STX820;Conduciendo;Aug 01 2025 04:39 AM;;Km 2 de la vía Bugalagrande - Zarzal, , Valle del Cauca;74;N/A;Fernando , Londoño;4.2314600000;-76.1344500000
+24;STX820;Conduciendo;Aug 01 2025 04:37 AM;;Buenaventura-La Paila, Bugalagrande, Valle del Cauca, Colombia;64;N/A;Fernando , Londoño;4.2490900000;-76.1225600000
+23;STX820;Conduciendo;Aug 01 2025 04:35 AM;;Via Principal-31, Tulua, Valle Cauca;57;N/A;Fernando , Londoño;4.2573800000;-76.1163600000
+22;STX820;Conduciendo;Aug 01 2025 04:33 AM;;Av 25n, Tulua, Valle Cauca;59;N/A;Fernando , Londoño;4.2694700000;-76.1030000000
+21;STX820;Conduciendo;Aug 01 2025 04:31 AM;;Av 25n, Tulua, Valle Cauca;69;N/A;Fernando , Londoño;4.2857600000;-76.0917500000
+20;STX820;Conduciendo;Aug 01 2025 04:29 AM;;Km 12 de la vía Bugalagrande - Zarzal, , Valle del Cauca;77;N/A;Fernando , Londoño;4.3010900000;-76.0766100000
+19;STX820;Conduciendo;Aug 01 2025 04:28 AM;;Km 13 de la vía Bugalagrande - Zarzal, , Valle del Cauca;65;N/A;Fernando , Londoño;4.3089600000;-76.0729400000
+18;STX820;Conduciendo;Aug 01 2025 04:26 AM;;Via Principal-51, Tulua, Valle Cauca;20;N/A;Fernando , Londoño;4.3192000000;-76.0704200000
+17;STX820;Conduciendo;Aug 01 2025 04:24 AM;;Av 25-4, Tulua, Valle Cauca;38;N/A;Fernando , Londoño;4.3268200000;-76.0666500000
+16;STX820;Conduciendo;Aug 01 2025 04:22 AM;;Av 25-54, Tulua, Valle Cauca;67;N/A;Fernando , Londoño;4.3453400000;-76.0679700000
+15;STX820;Conduciendo;Aug 01 2025 04:20 AM;;Av 25-14, Zarzal, Valle Cauca;61;N/A;Fernando , Londoño;4.3653100000;-76.0699100000
+14;STX820;Conduciendo;Aug 01 2025 04:18 AM;;Av 25-78, Zarzal, Valle Cauca;48;N/A;Fernando , Londoño;4.3800000000;-76.0713100000
+13;STX820;Conduciendo;Aug 01 2025 04:16 AM;;Cl5 5b-18, Zarzal, Valle Cauca;35;N/A;Fernando , Londoño;4.3893900000;-76.0727800000
+12;STX820;Conduciendo;Aug 01 2025 04:15 AM;;Kr11 5-75, Zarzal, Valle Cauca;12;N/A;Fernando , Londoño;4.3914000000;-76.0753400000
+11;STX820;Conduciendo;Aug 01 2025 04:13 AM;;Cl5 15-82, Zarzal, Valle Cauca;33;N/A;Fernando , Londoño;4.3946500000;-76.0816200000
+10;STX820;Conduciendo;Aug 01 2025 04:11 AM;;Roldanillo - Zarzal-75, Roldanillo, Valle Cauca;54;N/A;Fernando , Londoño;4.4022400000;-76.0961800000
+9;STX820;Conduciendo;Aug 01 2025 04:09 AM;;Roldanillo - Zarzal-59, Roldanillo, Valle Cauca;17;N/A;Fernando , Londoño;4.4072000000;-76.1052800000
+8;STX820;Conduciendo;Aug 01 2025 04:07 AM;;Roldanillo - Zarzal-39, Roldanillo, Valle Cauca;54;N/A;Fernando , Londoño;4.4109800000;-76.1181400000
+7;STX820;Conduciendo;Aug 01 2025 04:05 AM;;Kr7 0, Roldanillo, Valle Cauca, Colombia;48;N/A;Fernando , Londoño;4.4151100000;-76.1343200000
+6;STX820;Conduciendo;Aug 01 2025 04:03 AM;;Kr2 13-92, Roldanillo, Valle Cauca;17;N/A;Fernando , Londoño;4.4153000000;-76.1477500000
+5;STX820;Alerta de Inmovilidad;Aug 01 2025 04:01 AM;;Cl13n 3-78, Roldanillo, Valle Cauca, Colombia;0;N/A;Fernando , Londoño;4.4170800000;-76.1468700000
+4;STX820;Primer Registro;Aug 01 2025 03:56 AM;;Cl13n 3-75, Roldanillo, Valle Cauca, Colombia;3;N/A;Fernando , Londoño;4.4170700000;-76.1467200000
+3;STX820;Encender;Aug 01 2025 03:56 AM;;Cl13n 3-78, Roldanillo, Valle Cauca, Colombia;0;N/A;Fernando , Londoño;4.4170900000;-76.1468900000
+2;STX820;Ignición Encendida;Aug 01 2025 03:56 AM;;Cl13n 3-78, Roldanillo, Valle Cauca, Colombia;0;N/A;Fernando , Londoño;4.4170900000;-76.1468900000
+1;STX820;Encender;Aug 01 2025 03:56 AM;;Cl13n 3-78, Roldanillo, Valle Cauca, Colombia;0;N/A;Fernando , Londoño;4.4170900000;-76.1468900000

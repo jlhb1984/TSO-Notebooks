@@ -1,0 +1,27 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+26;0OFE;Parked;Sep 30 2025 10:14 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4653766000;-76.5260401000
+25;0OFE;iButton OUT;Sep 30 2025 10:04 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4653956000;-76.5260516000
+24;0OFE;Ignition OFF;Sep 30 2025 10:04 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Juan, Zambrano;3.4653956000;-76.5260516000
+23;0OFE;Idle Alert;Sep 30 2025 10:00 AM;TSO trial 19062025;Cl. 23d Nte. #4N-21, Cali, Valle del Cauca, Colombia;0;N/A;Juan, Zambrano;3.4654283000;-76.5260403000
+22;0OFE;Idle - Stop;Sep 30 2025 09:58 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Juan, Zambrano;3.4654100000;-76.5260470000
+21;0OFE;Encender;Sep 30 2025 09:56 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4654100000;-76.5260470000
+20;0OFE;iButton IN;Sep 30 2025 09:56 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4654100000;-76.5260470000
+19;0OFE;Ignition ON;Sep 30 2025 09:56 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4654100000;-76.5260470000
+18;0OFE;iButton IN;Sep 30 2025 09:55 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4654100000;-76.5260470000
+17;0OFE;iButton OUT;Sep 30 2025 09:53 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4654095000;-76.5260473000
+16;0OFE;Ignition OFF;Sep 30 2025 09:53 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4654095000;-76.5260473000
+15;0OFE;Idle - Stop;Sep 30 2025 09:52 AM;TSO trial 19062025;Cl. 23d Nte. #4N-21, Cali, Valle del Cauca, Colombia;0;N/A;Jose, Hurtado;3.4654190000;-76.5260363000
+14;0OFE;Ignition ON;Sep 30 2025 09:48 AM;TSO trial 19062025;Cl23bn 3a-62, Cali, Valle Cauca, Colombia;0;N/A;Jose, Hurtado;3.4653275000;-76.5260211000
+13;0OFE;Encender;Sep 30 2025 09:43 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4653510000;-76.5260200000
+12;0OFE;Parked;Sep 30 2025 08:54 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4653513000;-76.5260201000
+11;0OFE;PÁNICO;Sep 30 2025 08:50 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4653510000;-76.5260168000
+10;0OFE;PÁNICO;Sep 30 2025 08:50 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4653481000;-76.5260143000
+9;0OFE;iButton IN;Sep 30 2025 08:44 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4652848000;-76.5259951000
+8;0OFE;iButton OUT;Sep 30 2025 08:44 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4652848000;-76.5259950000
+7;0OFE;iButton OUT;Sep 30 2025 08:44 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4652848000;-76.5259951000
+6;0OFE;Ignition OFF;Sep 30 2025 08:44 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Jose, Hurtado;3.4652848000;-76.5259950000
+5;0OFE;Idle - Stop;Sep 30 2025 08:42 AM;TSO trial 19062025;Cl23bn 3a-62, Cali, Valle Cauca, Colombia;0;N/A;Jose, Hurtado;3.4653011000;-76.5260070000
+4;0OFE;iButton IN;Sep 30 2025 08:39 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;Juan, Zambrano;3.4653205000;-76.5260115000
+3;0OFE;iButton IN;Sep 30 2025 08:39 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4653060000;-76.5260050000
+2;0OFE;Ignition ON;Sep 30 2025 08:39 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4653060000;-76.5260050000
+1;0OFE;Encender;Sep 30 2025 08:33 AM;TSO trial 19062025;23 CN 46 46 # 3A-80 23 BN - 41 23c Norte42 23c Norte2-23c Norte72 Avenida 4 Norte Avenida 4 Norte Av;0;N/A;;3.4654130000;-76.5260410000

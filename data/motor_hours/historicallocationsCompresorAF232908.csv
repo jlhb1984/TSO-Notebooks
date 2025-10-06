@@ -1,0 +1,596 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+595;COMPRESOR-AF23;Idle Alert;Aug 28 2025 02:20 PM;;Sta rosa 191, Lima 15094, Peru;0;N/A;;-12.0294586000;-77.0411523000
+594;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 02:18 PM;;Sta rosa 191, Lima 15094, Peru;0;N/A;;-12.0294588000;-77.0411691000
+593;COMPRESOR-AF23;Travel Stop;Aug 28 2025 02:15 PM;;Sta rosa 191, Lima 15094, Peru;0;N/A;;-12.0294533000;-77.0411641000
+592;COMPRESOR-AF23;Drive;Aug 28 2025 02:14 PM;;Av. Morro de Arica 215, Rímac 15094, Peru;11;N/A;;-12.0287998000;-77.0410648000
+591;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 02:14 PM;;Av Morro De Arica, Rimac, Lima, Lima [Province], Perú;0;N/A;;-12.0284880000;-77.0412938000
+590;COMPRESOR-AF23;Drive;Aug 28 2025 02:13 PM;;Av Morro De Arica, Rimac, Lima, Lima [Province];11;N/A;;-12.0284960000;-77.0415396000
+589;COMPRESOR-AF23;Drive;Aug 28 2025 02:13 PM;;Av Morro De Arica, Rimac, Lima, Lima [Province];0;N/A;;-12.0285166000;-77.0415936000
+588;COMPRESOR-AF23;Drive;Aug 28 2025 02:12 PM;;Av Samuel Alcazar-86, Rimac, Lima, Lima [Province];14;N/A;;-12.0236698000;-77.0370726000
+587;COMPRESOR-AF23;Travel Start;Aug 28 2025 02:11 PM;;Av Alcazar Samuel, Rimac, Lima, Lima [Province];17;N/A;;-12.0267821000;-77.0335265000
+586;COMPRESOR-AF23;Travel Stop;Aug 28 2025 02:09 PM;;Av Alcazar Samuel-29, Rimac, Lima, Lima [Province];0;N/A;;-12.0272375000;-77.0330320000
+585;COMPRESOR-AF23;Travel Start;Aug 28 2025 02:08 PM;;Av Alcazar Samuel, Rimac, Lima, Lima [Province];25;N/A;;-12.0313488000;-77.0283991000
+584;COMPRESOR-AF23;Travel Stop;Aug 28 2025 02:06 PM;;Av Alcazar Samuel-23, Rimac, Lima, Lima [Province];0;N/A;;-12.0321636000;-77.0274758000
+583;COMPRESOR-AF23;Drive;Aug 28 2025 02:05 PM;;Av Alcazar Samuel-55, Rimac, Lima, Lima [Province];20;N/A;;-12.0340196000;-77.0257435000
+582;COMPRESOR-AF23;Drive;Aug 28 2025 02:05 PM;;Av Alcazar Samuel-93, Rimac, Lima, Lima [Province];12;N/A;;-12.0343576000;-77.0252650000
+581;COMPRESOR-AF23;Drive;Aug 28 2025 02:05 PM;;Av Atahualpa-41, Rimac, Lima, Lima [Province];17;N/A;;-12.0342720000;-77.0251003000
+580;COMPRESOR-AF23;Drive;Aug 28 2025 02:05 PM;;Av Atahualpa-64, Rimac, Lima, Lima [Province];17;N/A;;-12.0342145000;-77.0249915000
+579;COMPRESOR-AF23;Drive;Aug 28 2025 02:05 PM;;Av Atahualpa-61, Rimac, Lima, Lima [Province];14;N/A;;-12.0342463000;-77.0248986000
+578;COMPRESOR-AF23;Drive;Aug 28 2025 02:03 PM;;Av Madera, Rimac, Lima, Lima [Province], Perú;12;N/A;;-12.0378630000;-77.0267848000
+577;COMPRESOR-AF23;Drive;Aug 28 2025 02:03 PM;;Av Madera, Rimac, Lima, Lima [Province];14;N/A;;-12.0379736000;-77.0267538000
+576;COMPRESOR-AF23;Drive;Aug 28 2025 02:02 PM;;South America, Rímac, Lima;24;N/A;;-12.0389380000;-77.0231891000
+575;COMPRESOR-AF23;Drive;Aug 28 2025 02:00 PM;;Av 9 De Octubre-87, Rimac, Lima, Lima [Province];27;N/A;;-12.0403306000;-77.0178806000
+574;COMPRESOR-AF23;Drive;Aug 28 2025 01:58 PM;;Ovalo-53, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0321388000;-77.0121966000
+573;COMPRESOR-AF23;Drive;Aug 28 2025 01:58 PM;;Av Proceres De La Independencia-15, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-12.0320691000;-77.0120328000
+572;COMPRESOR-AF23;Drive;Aug 28 2025 01:58 PM;;Av Malecon Checa Eguiguren-55, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0316625000;-77.0115380000
+571;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:56 PM;;Av Malecon Checa Eguiguren, San Juan De Lurigancho, Lima, Lima [Province];30;N/A;;-12.0277115000;-77.0008743000
+570;COMPRESOR-AF23;Travel Stop;Aug 28 2025 01:54 PM;;Av Malecon Checa Eguiguren, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0273460000;-76.9993050000
+569;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:52 PM;;Varayos-67, San Juan De Lurigancho, Lima, Lima [Province];35;N/A;;-12.0265303000;-76.9919185000
+568;COMPRESOR-AF23;Travel Stop;Aug 28 2025 01:52 PM;;Curacas-69, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0264803000;-76.9905923000
+567;COMPRESOR-AF23;Drive;Aug 28 2025 01:50 PM;;Av Malecon Checa Eguiguren-62, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-12.0256193000;-76.9840540000
+566;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:48 PM;;Av Campoy, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0240625000;-76.9770030000
+565;COMPRESOR-AF23;Travel Stop;Aug 28 2025 01:47 PM;;Av Campoy, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0241471000;-76.9757093000
+564;COMPRESOR-AF23;Drive;Aug 28 2025 01:47 PM;;Av Campoy, San Juan De Lurigancho, Lima, Lima [Province];28;N/A;;-12.0242068000;-76.9750225000
+563;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:45 PM;;Av Campoy-7, San Juan De Lurigancho, Lima, Lima [Province];24;N/A;;-12.0233413000;-76.9653561000
+562;COMPRESOR-AF23;Travel Stop;Aug 28 2025 01:44 PM;;Av Campoy-35, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0230306000;-76.9646140000
+561;COMPRESOR-AF23;Drive;Aug 28 2025 01:44 PM;;Av Campoy-52, San Juan De Lurigancho, Lima, Lima [Province];22;N/A;;-12.0228885000;-76.9643156000
+560;COMPRESOR-AF23;Drive;Aug 28 2025 01:42 PM;;Av Campoy-35, San Juan De Lurigancho, Lima, Lima [Province];35;N/A;;-12.0204843000;-76.9559705000
+559;COMPRESOR-AF23;Drive;Aug 28 2025 01:41 PM;;Av Campoy-62, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-12.0194940000;-76.9530725000
+558;COMPRESOR-AF23;Drive;Aug 28 2025 01:40 PM;;Av Cisnes-23, Lurigancho, Lima, Lima [Province], Perú;30;N/A;;-12.0192240000;-76.9483483000
+557;COMPRESOR-AF23;Drive;Aug 28 2025 01:38 PM;;Condores-45, Lurigancho, Lima, Lima [Province], Perú;12;N/A;;-12.0192461000;-76.9378843000
+556;COMPRESOR-AF23;Drive;Aug 28 2025 01:37 PM;;Golondrinas-17, Lurigancho, Lima, Lima [Province], Perú;30;N/A;;-12.0157983000;-76.9376728000
+555;COMPRESOR-AF23;Drive;Aug 28 2025 01:36 PM;;Av Circunvalacion-6, Lurigancho, Lima, Lima [Province], Perú;20;N/A;;-12.0131188000;-76.9346233000
+554;COMPRESOR-AF23;Drive;Aug 28 2025 01:34 PM;;Av Circunvalacion-9, Lurigancho, Lima, Lima [Province];12;N/A;;-12.0103818000;-76.9299388000
+553;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:33 PM;;Av Circunvalacion-43, Lurigancho, Lima, Lima [Province];37;N/A;;-12.0087780000;-76.9307730000
+552;COMPRESOR-AF23;Travel Stop;Aug 28 2025 01:33 PM;;Av Circunvalacion-46, Lurigancho, Lima, Lima [Province], Perú;4;N/A;;-12.0060520000;-76.9310355000
+551;COMPRESOR-AF23;Drive;Aug 28 2025 01:32 PM;;Av Circunvalacion-47, Lurigancho, Lima, Lima [Province], Perú;11;N/A;;-12.0050501000;-76.9311581000
+550;COMPRESOR-AF23;Drive;Aug 28 2025 01:31 PM;;Av Las Torres-62, Lurigancho, Lima, Lima [Province];20;N/A;;-12.0037333000;-76.9277336000
+549;COMPRESOR-AF23;Drive;Aug 28 2025 01:29 PM;;Av Las Torres-77, Lurigancho, Lima, Lima [Province], Perú;28;N/A;;-12.0031861000;-76.9210735000
+548;COMPRESOR-AF23;Drive;Aug 28 2025 01:29 PM;;Av Las Torres-80, Lurigancho, Lima, Lima [Province];14;N/A;;-12.0031103000;-76.9205290000
+547;COMPRESOR-AF23;Drive;Aug 28 2025 01:28 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;11;N/A;;-12.0025878000;-76.9194190000
+546;COMPRESOR-AF23;Drive;Aug 28 2025 01:28 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0025025000;-76.9194028000
+545;COMPRESOR-AF23;Drive;Aug 28 2025 01:27 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;14;N/A;;-12.0009066000;-76.9224388000
+544;COMPRESOR-AF23;Drive;Aug 28 2025 01:25 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province];12;N/A;;-11.9982413000;-76.9271740000
+543;COMPRESOR-AF23;Drive;Aug 28 2025 01:23 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;32;N/A;;-11.9901295000;-76.9337916000
+542;COMPRESOR-AF23;Travel Start;Aug 28 2025 01:21 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;28;N/A;;-11.9852393000;-76.9381485000
+541;COMPRESOR-AF23;Idle Alert;Aug 28 2025 12:59 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9842095000;-76.9391668000
+540;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 12:57 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9842101000;-76.9391340000
+539;COMPRESOR-AF23;Travel Stop;Aug 28 2025 12:54 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9842128000;-76.9391413000
+538;COMPRESOR-AF23;Drive;Aug 28 2025 12:52 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;22;N/A;;-11.9823496000;-76.9408718000
+537;COMPRESOR-AF23;Drive;Aug 28 2025 12:52 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province];14;N/A;;-11.9807435000;-76.9416023000
+536;COMPRESOR-AF23;Travel Start;Aug 28 2025 12:51 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;20;N/A;;-11.9799671000;-76.9418288000
+535;COMPRESOR-AF23;Travel Stop;Aug 28 2025 12:51 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province];0;N/A;;-11.9793028000;-76.9423990000
+534;COMPRESOR-AF23;Travel Start;Aug 28 2025 12:50 PM;;Union Jicamarca, Lima, Peru;17;N/A;;-11.9783720000;-76.9419406000
+533;COMPRESOR-AF23;Travel Stop;Aug 28 2025 12:50 PM;;Camote Peak, Lurigancho, Lima;0;N/A;;-11.9777371000;-76.9413508000
+532;COMPRESOR-AF23;Travel Start;Aug 28 2025 12:49 PM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;11;N/A;;-11.9780361000;-76.9408000000
+531;COMPRESOR-AF23;Idle Alert;Aug 28 2025 11:52 AM;;23C6+48V, Cercado de Lima 15461, Peru;0;N/A;;-11.9796956000;-76.9395985000
+530;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 11:50 AM;;San Juan, Distrito de Lima, Peru;0;N/A;;-11.9797005000;-76.9396401000
+529;COMPRESOR-AF23;Travel Stop;Aug 28 2025 11:47 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9796748000;-76.9396285000
+528;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 11:46 AM;;Camote Peak, Lurigancho, Lima;0;N/A;;-11.9797073000;-76.9395786000
+527;COMPRESOR-AF23;Drive;Aug 28 2025 11:46 AM;;San Juan, Lima, Peru;11;N/A;;-11.9798470000;-76.9395165000
+526;COMPRESOR-AF23;Travel Start;Aug 28 2025 11:46 AM;;San Juan, Lima, Peru;12;N/A;;-11.9799186000;-76.9395553000
+525;COMPRESOR-AF23;Travel Stop;Aug 28 2025 11:44 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9801631000;-76.9403956000
+524;COMPRESOR-AF23;Drive;Aug 28 2025 11:43 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;9;N/A;;-11.9804791000;-76.9415551000
+523;COMPRESOR-AF23;Drive;Aug 28 2025 11:43 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];12;N/A;;-11.9806293000;-76.9416011000
+522;COMPRESOR-AF23;Travel Start;Aug 28 2025 11:41 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];12;N/A;;-11.9843753000;-76.9388508000
+521;COMPRESOR-AF23;Idle Alert;Aug 28 2025 10:59 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];0;N/A;;-11.9842183000;-76.9389878000
+520;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 10:57 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9842450000;-76.9391078000
+519;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:54 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];0;N/A;;-11.9834790000;-76.9397135000
+518;COMPRESOR-AF23;Drive;Aug 28 2025 10:53 AM;;5 de Agosto, Lima, Peru;24;N/A;;-11.9843765000;-76.9389066000
+517;COMPRESOR-AF23;Drive;Aug 28 2025 10:51 AM;;De Agosto, Lima, Peru;37;N/A;;-11.9907261000;-76.9333548000
+516;COMPRESOR-AF23;Drive;Aug 28 2025 10:49 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];0;N/A;;-11.9992725000;-76.9257566000
+515;COMPRESOR-AF23;Drive;Aug 28 2025 10:47 AM;;Av Las Torres, Lurigancho, Lima, Lima [Province];9;N/A;;-12.0024508000;-76.9194288000
+514;COMPRESOR-AF23;Drive;Aug 28 2025 10:47 AM;;Av Quinta, Lurigancho, Lima, Lima [Province];12;N/A;;-12.0026141000;-76.9194466000
+513;COMPRESOR-AF23;Drive;Aug 28 2025 10:46 AM;;Avenida 1, Lima, Peru;27;N/A;;-12.0031320000;-76.9216370000
+512;COMPRESOR-AF23;Drive;Aug 28 2025 10:44 AM;;Av Las Torres-62, Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0036928000;-76.9275435000
+511;COMPRESOR-AF23;Drive;Aug 28 2025 10:42 AM;;Av Circunvalacion-47, Lurigancho, Lima, Lima [Province], Perú;12;N/A;;-12.0052366000;-76.9311226000
+510;COMPRESOR-AF23;Drive;Aug 28 2025 10:41 AM;;Los Laureles, Lima, Peru;9;N/A;;-12.0071328000;-76.9309668000
+509;COMPRESOR-AF23;Drive;Aug 28 2025 10:41 AM;;Av Circunvalacion-45, Lurigancho, Lima, Lima [Province], Perú;12;N/A;;-12.0077185000;-76.9310900000
+508;COMPRESOR-AF23;Drive;Aug 28 2025 10:40 AM;;Av Circunvalacion, Lurigancho, Lima, Lima [Province];20;N/A;;-12.0102616000;-76.9298878000
+507;COMPRESOR-AF23;Drive;Aug 28 2025 10:40 AM;;Av Circunvalacion, Lurigancho, Lima, Lima [Province];9;N/A;;-12.0103520000;-76.9298373000
+506;COMPRESOR-AF23;Drive;Aug 28 2025 10:40 AM;;Av Circunvalacion, Lurigancho, Lima, Lima [Province];0;N/A;;-12.0104200000;-76.9299040000
+505;COMPRESOR-AF23;Drive;Aug 28 2025 10:38 AM;;Av Circunvalacion-15, Lurigancho, Lima, Lima [Province];27;N/A;;-12.0133265000;-76.9350690000
+504;COMPRESOR-AF23;Drive;Aug 28 2025 10:36 AM;;Condores-45, Lurigancho, Lima, Lima [Province], Perú;14;N/A;;-12.0192310000;-76.9378148000
+503;COMPRESOR-AF23;Drive;Aug 28 2025 10:34 AM;;Av Cisnes-5, Lurigancho, Lima, Lima [Province];19;N/A;;-12.0192788000;-76.9467013000
+502;COMPRESOR-AF23;Drive;Aug 28 2025 10:34 AM;;Av Tucanes, Lurigancho, Lima, Lima [Province], Perú;14;N/A;;-12.0193458000;-76.9467875000
+501;COMPRESOR-AF23;Drive;Aug 28 2025 10:34 AM;;Av Tucanes, Lurigancho, Lima, Lima [Province], Perú;17;N/A;;-12.0194603000;-76.9467973000
+500;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:34 AM;;Av Tucanes, Lurigancho, Lima, Lima [Province];17;N/A;;-12.0195570000;-76.9466928000
+499;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:32 AM;;Av Tucanes, Lurigancho, Lima, Lima [Province];4;N/A;;-12.0197086000;-76.9457628000
+498;COMPRESOR-AF23;Drive;Aug 28 2025 10:30 AM;;Av Autopista Ramiro Priale-59, El Agustino, Lima, Lima [Province];62;N/A;;-12.0224185000;-76.9583426000
+497;COMPRESOR-AF23;Drive;Aug 28 2025 10:28 AM;;Av Autopista Ramiro Priale-33, El Agustino, Lima, Lima [Province];54;N/A;;-12.0277420000;-76.9732743000
+496;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:26 AM;;Av Autopista Ramiro Priale-81, El Agustino, Lima, Lima [Province];30;N/A;;-12.0320203000;-76.9881916000
+495;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:26 AM;;Av Autopista Ramiro Priale-57, El Agustino, Lima, Lima [Province];6;N/A;;-12.0323445000;-76.9891978000
+494;COMPRESOR-AF23;Drive;Aug 28 2025 10:25 AM;;Via Principal, El Agustino, Lima, Lima [Province];30;N/A;;-12.0327788000;-76.9896395000
+493;COMPRESOR-AF23;Drive;Aug 28 2025 10:24 AM;;Av Evitamiento-58, El Agustino, Lima, Lima [Province];46;N/A;;-12.0383623000;-76.9883225000
+492;COMPRESOR-AF23;Drive;Aug 28 2025 10:22 AM;;Av Eucaliptos-18, Santa Anita, Lima, Lima [Province];53;N/A;;-12.0513095000;-76.9767506000
+491;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:20 AM;;Cl2-67, Ate Vitarte, Lima, Lima [Province];33;N/A;;-12.0658168000;-76.9711886000
+490;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:19 AM;;Av Evitamiento-30, Ate Vitarte, Lima, Lima [Province];1;N/A;;-12.0673015000;-76.9714785000
+489;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:18 AM;;Av Evitamiento Lateral-64, Ate Vitarte, Lima, Lima [Province];43;N/A;;-12.0718185000;-76.9732400000
+488;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:17 AM;;Av Evitamiento, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0732760000;-76.9738521000
+487;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:16 AM;;Av Evitamiento, Ate Vitarte, Lima, Lima [Province];14;N/A;;-12.0734815000;-76.9739418000
+486;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:14 AM;;Av Evitamiento-28, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0749805000;-76.9745751000
+485;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:13 AM;;Av Evitamiento-83, Ate Vitarte, Lima, Lima [Province];19;N/A;;-12.0752701000;-76.9746963000
+484;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:13 AM;;Av Evitamiento-68, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0760045000;-76.9749976000
+483;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:12 AM;;Av Evitamiento-43, Ate Vitarte, Lima, Lima [Province];20;N/A;;-12.0766358000;-76.9752636000
+482;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:11 AM;;Av Lateral, Surco, Lima, Lima [Province];0;N/A;;-12.0776723000;-76.9757125000
+481;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:11 AM;;Av Lateral, Surco, Lima, Lima [Province];8;N/A;;-12.0776985000;-76.9757301000
+480;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:10 AM;;Av Lateral-32, Surco, Lima, Lima [Province];0;N/A;;-12.0786098000;-76.9761930000
+479;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:09 AM;;Av Lateral-17, Surco, Lima, Lima [Province];9;N/A;;-12.0789783000;-76.9763761000
+478;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:08 AM;;Av Lateral-87, Surco, Lima, Lima [Province];0;N/A;;-12.0798363000;-76.9769405000
+477;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:07 AM;;Av Lateral-25, Surco, Lima, Lima [Province];11;N/A;;-12.0803266000;-76.9773706000
+476;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:06 AM;;Av Lateral-69, Surco, Lima, Lima [Province];0;N/A;;-12.0811316000;-76.9781448000
+475;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:05 AM;;Av Evitamiento, Ate Vitarte, Lima, Lima [Province];27;N/A;;-12.0825743000;-76.9796070000
+474;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:02 AM;;Av Evitamiento-54, Ate Vitarte, Lima, Lima [Province];3;N/A;;-12.0835448000;-76.9806056000
+473;COMPRESOR-AF23;Travel Start;Aug 28 2025 10:01 AM;;Av Evitamiento-89, Ate Vitarte, Lima, Lima [Province];25;N/A;;-12.0839510000;-76.9810623000
+472;COMPRESOR-AF23;Travel Stop;Aug 28 2025 10:00 AM;;Av Evitamiento-22, Ate Vitarte, Lima, Lima [Province];1;N/A;;-12.0849733000;-76.9820295000
+471;COMPRESOR-AF23;Drive;Aug 28 2025 10:00 AM;;Salida-81, Surco, Lima, Lima [Province], Perú;9;N/A;;-12.0853690000;-76.9821665000
+470;COMPRESOR-AF23;Drive;Aug 28 2025 09:59 AM;;Av Evitamiento-78, Ate Vitarte, Lima, Lima [Province];14;N/A;;-12.0875288000;-76.9814853000
+469;COMPRESOR-AF23;Drive;Aug 28 2025 09:57 AM;;Av Panamericana-47, Surco, Lima, Lima [Province];14;N/A;;-12.0957851000;-76.9802710000
+468;COMPRESOR-AF23;Drive;Aug 28 2025 09:55 AM;;Av Panamericana-46, Surco, Lima, Lima [Province];9;N/A;;-12.1013745000;-76.9794515000
+467;COMPRESOR-AF23;Travel Start;Aug 28 2025 09:53 AM;;Rampa-81, San Borja, Lima, Lima [Province];14;N/A;;-12.1060645000;-76.9788405000
+466;COMPRESOR-AF23;Travel Stop;Aug 28 2025 09:51 AM;;Av Panamericana-45, Surco, Lima, Lima [Province];0;N/A;;-12.1076608000;-76.9786100000
+465;COMPRESOR-AF23;Drive;Aug 28 2025 09:50 AM;;Av Panamericana-6, Surco, Lima, Lima [Province];12;N/A;;-12.1078223000;-76.9785915000
+464;COMPRESOR-AF23;Travel Start;Aug 28 2025 09:48 AM;;Av Panamericana-71, Surco, Lima, Lima [Province];12;N/A;;-12.1146721000;-76.9776345000
+463;COMPRESOR-AF23;Idle Alert;Aug 28 2025 09:47 AM;;Av Panamericana-78, Surco, Lima, Lima [Province];17;N/A;;-12.1169455000;-76.9773148000
+462;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 09:45 AM;;Salida-82, Surco, Lima, Lima [Province];4;N/A;;-12.1195331000;-76.9771443000
+461;COMPRESOR-AF23;Travel Stop;Aug 28 2025 09:42 AM;;Av Panamericana-60, Surco, Lima, Lima [Province];1;N/A;;-12.1227530000;-76.9770371000
+460;COMPRESOR-AF23;Drive;Aug 28 2025 09:42 AM;;Av Panamericana-64, Surco, Lima, Lima [Province];0;N/A;;-12.1231298000;-76.9770266000
+459;COMPRESOR-AF23;Drive;Aug 28 2025 09:40 AM;;Av Panamericana-70, Surco, Lima, Lima [Province];9;N/A;;-12.1267100000;-76.9769240000
+458;COMPRESOR-AF23;Drive;Aug 28 2025 09:38 AM;;Av Panamericana, Surco, Lima, Lima [Province];43;N/A;;-12.1309376000;-76.9781095000
+457;COMPRESOR-AF23;Drive;Aug 28 2025 09:36 AM;;Av Panamericana-54, Surco, Lima, Lima [Province];49;N/A;;-12.1454418000;-76.9818676000
+456;COMPRESOR-AF23;Drive;Aug 28 2025 09:34 AM;;Jose Santos Chocano-36, San Juan De Miraflores, Lima, Lima [Province];51;N/A;;-12.1599461000;-76.9823388000
+455;COMPRESOR-AF23;Drive;Aug 28 2025 09:32 AM;;Antabamba-58, San Juan De Miraflores, Lima, Lima [Province];53;N/A;;-12.1744605000;-76.9779281000
+454;COMPRESOR-AF23;Drive;Aug 28 2025 09:30 AM;;Av Lateral Panamericana-52, Chorrillos, Lima, Lima [Province];62;N/A;;-12.1889783000;-76.9733381000
+453;COMPRESOR-AF23;Drive;Aug 28 2025 09:29 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];59;N/A;;-12.2035061000;-76.9743026000
+452;COMPRESOR-AF23;Drive;Aug 28 2025 09:27 AM;;Av Pe-1s-65, Villa El Salvador, Lima, Lima [Province];59;N/A;;-12.2180261000;-76.9768941000
+451;COMPRESOR-AF23;Drive;Aug 28 2025 09:26 AM;;Av Pe-1s-15, Villa El Salvador, Lima, Lima [Province];69;N/A;;-12.2290295000;-76.9679886000
+450;COMPRESOR-AF23;End Speeding;Aug 28 2025 09:24 AM;;Av Pe-1s-52, Villa El Salvador, Lima, Lima [Province], Perú;67;N/A;;-12.2375715000;-76.9530756000
+449;COMPRESOR-AF23;Speed alert;Aug 28 2025 09:24 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];72;N/A;;-12.2388875000;-76.9505391000
+448;COMPRESOR-AF23;Drive;Aug 28 2025 09:23 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];70;N/A;;-12.2411165000;-76.9462415000
+447;COMPRESOR-AF23;Travel Start;Aug 28 2025 09:22 AM;;Av Pe-1s-19, Villa El Salvador, Lima, Lima [Province];38;N/A;;-12.2497011000;-76.9313101000
+446;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 09:21 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2507806000;-76.9298675000
+445;COMPRESOR-AF23;Travel Stop;Aug 28 2025 09:18 AM;;Av Carretera-47, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2513870000;-76.9290681000
+444;COMPRESOR-AF23;Travel Start;Aug 28 2025 09:17 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];9;N/A;;-12.2516498000;-76.9287405000
+443;COMPRESOR-AF23;Idle Alert;Aug 28 2025 09:10 AM;;Av Salida, Lurin, Lima, Lima [Province];14;N/A;;-12.2542468000;-76.9246826000
+442;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 09:08 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];6;N/A;;-12.2547163000;-76.9238271000
+441;COMPRESOR-AF23;Travel Stop;Aug 28 2025 09:05 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2555883000;-76.9223126000
+440;COMPRESOR-AF23;Drive;Aug 28 2025 09:04 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];17;N/A;;-12.2560760000;-76.9215610000
+439;COMPRESOR-AF23;Drive;Aug 28 2025 09:02 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;59;N/A;;-12.2650726000;-76.9071888000
+438;COMPRESOR-AF23;Drive;Aug 28 2025 09:01 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;65;N/A;;-12.2744478000;-76.8922718000
+437;COMPRESOR-AF23;Drive;Aug 28 2025 08:59 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];64;N/A;;-12.2837985000;-76.8773560000
+436;COMPRESOR-AF23;Drive;Aug 28 2025 08:57 AM;;Av Pe-1s-59, Villa El Salvador, Lima, Lima [Province];62;N/A;;-12.2931900000;-76.8624333000
+435;COMPRESOR-AF23;Drive;Aug 28 2025 08:55 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];59;N/A;;-12.3006315000;-76.8475271000
+434;COMPRESOR-AF23;Drive;Aug 28 2025 08:53 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];65;N/A;;-12.3131363000;-76.8334211000
+433;COMPRESOR-AF23;Drive;Aug 28 2025 08:51 AM;;Sur Via Libre-36, Lurin, Lima, Lima [Province];64;N/A;;-12.3276495000;-76.8236898000
+432;COMPRESOR-AF23;Drive;Aug 28 2025 08:50 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;65;N/A;;-12.3421661000;-76.8139895000
+431;COMPRESOR-AF23;Drive;Aug 28 2025 08:48 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];46;N/A;;-12.3552195000;-76.8012360000
+430;COMPRESOR-AF23;Travel Start;Aug 28 2025 08:46 AM;;Av Pe-1s-49, Punta Negra, Lima, Lima [Province], Perú;33;N/A;;-12.3656031000;-76.7902935000
+429;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 08:45 AM;;Av Pe-1s-56, Punta Negra, Lima, Lima [Province];0;N/A;;-12.3664810000;-76.7891951000
+428;COMPRESOR-AF23;Travel Stop;Aug 28 2025 08:42 AM;;Av Pe-1s-59, Punta Negra, Lima, Lima [Province], Perú;0;N/A;;-12.3667106000;-76.7889383000
+427;COMPRESOR-AF23;Drive;Aug 28 2025 08:40 AM;;Av Pe-1s-42, Punta Negra, Lima, Lima [Province];48;N/A;;-12.3745635000;-76.7811756000
+426;COMPRESOR-AF23;Drive;Aug 28 2025 08:38 AM;;Av Pe-1s-36, Punta Negra, Lima, Lima [Province], Perú;49;N/A;;-12.3853750000;-76.7699651000
+425;COMPRESOR-AF23;Drive;Aug 28 2025 08:36 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province], Perú;57;N/A;;-12.3968060000;-76.7581473000
+424;COMPRESOR-AF23;Drive;Aug 28 2025 08:35 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];67;N/A;;-12.4079465000;-76.7565905000
+423;COMPRESOR-AF23;Drive;Aug 28 2025 08:33 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];65;N/A;;-12.4224755000;-76.7539325000
+422;COMPRESOR-AF23;Drive;Aug 28 2025 08:31 AM;;Av Pe-1s-15, Punta Negra, Lima, Lima [Province];51;N/A;;-12.4369918000;-76.7553211000
+421;COMPRESOR-AF23;Drive;Aug 28 2025 08:29 AM;;Av Pe-1s-49, Punta Negra, Lima, Lima [Province], Perú;45;N/A;;-12.4504313000;-76.7553756000
+420;COMPRESOR-AF23;Drive;Aug 28 2025 08:27 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];49;N/A;;-12.4647406000;-76.7514445000
+419;COMPRESOR-AF23;Drive;Aug 28 2025 08:25 AM;;Av Pe-1s Km 59, Punta Negra, Lima, Lima [Province];45;N/A;;-12.4792456000;-76.7474291000
+418;COMPRESOR-AF23;Travel Start;Aug 28 2025 08:23 AM;;Av Pe-1s Km 59, Punta Negra, Lima, Lima [Province], Perú;12;N/A;;-12.4890216000;-76.7446938000
+417;COMPRESOR-AF23;Idle Alert;Aug 28 2025 07:39 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4925086000;-76.7437456000
+416;COMPRESOR-AF23;Idle - Stop;Aug 28 2025 07:37 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4925050000;-76.7437410000
+415;COMPRESOR-AF23;Travel Stop;Aug 28 2025 07:34 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;3;N/A;;-12.4925380000;-76.7436180000
+414;COMPRESOR-AF23;Drive;Aug 28 2025 07:32 AM;;Unnamed Road, Peru;9;N/A;;-12.4887220000;-76.7383555000
+413;COMPRESOR-AF23;Travel Start;Aug 28 2025 07:30 AM;;Unnamed Road, Chilca, Peru;12;N/A;;-12.4873346000;-76.7342823000
+412;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 06:17 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866303000;-76.7333586000
+411;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 06:04 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866075000;-76.7333406000
+410;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 02:27 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866093000;-76.7333836000
+409;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 02:12 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4865720000;-76.7333845000
+408;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 01:59 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866343000;-76.7333726000
+407;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 01:49 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866335000;-76.7333680000
+406;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 01:34 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866326000;-76.7333670000
+405;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 01:17 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866296000;-76.7333705000
+404;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 01:00 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866631000;-76.7333781000
+403;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 12:49 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866108000;-76.7333791000
+402;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 12:34 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866163000;-76.7333915000
+401;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 12:20 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4865811000;-76.7333621000
+400;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 12:09 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866253000;-76.7333748000
+399;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 11:59 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4865776000;-76.7333705000
+398;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 11:42 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866073000;-76.7333738000
+397;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 11:24 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4866231000;-76.7333733000
+396;COMPRESOR-AF23;Idle Alert;Aug 27 2025 08:27 AM;;Unnamed Road, Peru;0;N/A;;-12.4837476000;-76.7359978000
+395;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 08:25 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4837023000;-76.7360135000
+394;COMPRESOR-AF23;Travel Stop;Aug 27 2025 08:22 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4838853000;-76.7359333000
+393;COMPRESOR-AF23;Drive;Aug 27 2025 08:20 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;12;N/A;;-12.4869313000;-76.7349253000
+392;COMPRESOR-AF23;Drive;Aug 27 2025 08:19 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;11;N/A;;-12.4875008000;-76.7347763000
+391;COMPRESOR-AF23;Drive;Aug 27 2025 08:18 AM;;Unnamed Road, Chilca, Peru;14;N/A;;-12.4885955000;-76.7380973000
+390;COMPRESOR-AF23;Travel Start;Aug 27 2025 08:16 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;14;N/A;;-12.4925345000;-76.7435493000
+389;COMPRESOR-AF23;Travel Stop;Aug 27 2025 08:14 AM;;Av Pe-1s Km 62, Punta Negra, Lima, Lima [Province], Perú;0;N/A;;-12.4920163000;-76.7442413000
+388;COMPRESOR-AF23;End Speeding;Aug 27 2025 08:13 AM;;Av Pe-1s Km 62, Punta Negra, Lima, Lima [Province];62;N/A;;-12.4868020000;-76.7456008000
+387;COMPRESOR-AF23;Drive;Aug 27 2025 08:12 AM;;Av Pe-1s Km 59, Punta Negra, Lima, Lima [Province];78;N/A;;-12.4777345000;-76.7480873000
+386;COMPRESOR-AF23;Speed alert;Aug 27 2025 08:11 AM;;Rampa-34, Pucusana, Lima, Lima [Province], Perú;82;N/A;;-12.4631961000;-76.7520348000
+385;COMPRESOR-AF23;End Speeding;Aug 27 2025 08:10 AM;;Av Pe-1s-6, Punta Negra, Lima, Lima [Province], Perú;64;N/A;;-12.4544280000;-76.7543578000
+384;COMPRESOR-AF23;Drive;Aug 27 2025 08:09 AM;;Av Pe-1s-69, Punta Negra, Lima, Lima [Province];83;N/A;;-12.4445303000;-76.7569728000
+383;COMPRESOR-AF23;Speed alert;Aug 27 2025 08:08 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];78;N/A;;-12.4300250000;-76.7535183000
+382;COMPRESOR-AF23;Drive;Aug 27 2025 08:08 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];57;N/A;;-12.4268418000;-76.7536306000
+381;COMPRESOR-AF23;Drive;Aug 27 2025 08:06 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];51;N/A;;-12.4123166000;-76.7559858000
+380;COMPRESOR-AF23;End Speeding;Aug 27 2025 08:05 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];69;N/A;;-12.3978013000;-76.7574361000
+379;COMPRESOR-AF23;Drive;Aug 27 2025 08:04 AM;;Av Pe-1s-4, Punta Negra, Lima, Lima [Province], Perú;70;N/A;;-12.3967835000;-76.7583198000
+378;COMPRESOR-AF23;Drive;Aug 27 2025 08:03 AM;;Av Pe-1s-31, Punta Negra, Lima, Lima [Province];75;N/A;;-12.3823865000;-76.7732493000
+377;COMPRESOR-AF23;Speed alert;Aug 27 2025 08:01 AM;;Av Pe-1s-56, Punta Negra, Lima, Lima [Province];75;N/A;;-12.3679803000;-76.7881720000
+376;COMPRESOR-AF23;End Speeding;Aug 27 2025 08:01 AM;;Av Pe-1s-30, Punta Negra, Lima, Lima [Province];70;N/A;;-12.3660306000;-76.7901936000
+375;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:59 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];74;N/A;;-12.3538845000;-76.8027868000
+374;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:59 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];65;N/A;;-12.3515713000;-76.8051616000
+373;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:58 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];83;N/A;;-12.3420570000;-76.8141870000
+372;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:58 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;65;N/A;;-12.3395080000;-76.8158923000
+371;COMPRESOR-AF23;Drive;Aug 27 2025 07:57 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.3356861000;-76.8184423000
+370;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:56 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;72;N/A;;-12.3211508000;-76.8281490000
+369;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:55 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];62;N/A;;-12.3120095000;-76.8342906000
+368;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:53 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.3002541000;-76.8485726000
+367;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:52 AM;;Av Pe-1s-68, Villa El Salvador, Lima, Lima [Province];67;N/A;;-12.2982310000;-76.8531228000
+366;COMPRESOR-AF23;Drive;Aug 27 2025 07:52 AM;;Via Principal, Lurin, Lima, Lima [Province], Perú;69;N/A;;-12.2976885000;-76.8544101000
+365;COMPRESOR-AF23;Drive;Aug 27 2025 07:51 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];83;N/A;;-12.2890560000;-76.8693476000
+364;COMPRESOR-AF23;Drive;Aug 27 2025 07:50 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;83;N/A;;-12.2796598000;-76.8842713000
+363;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:48 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.2702305000;-76.8992136000
+362;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:47 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;62;N/A;;-12.2660530000;-76.9059401000
+361;COMPRESOR-AF23;Drive;Aug 27 2025 07:47 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.2639983000;-76.9092053000
+360;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:46 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.2547201000;-76.9241430000
+359;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:45 AM;;Av Pe-1s-35, Villa El Salvador, Lima, Lima [Province];62;N/A;;-12.2491341000;-76.9323075000
+358;COMPRESOR-AF23;Drive;Aug 27 2025 07:44 AM;;Av Carretera, Villa El Salvador, Lima, Lima [Province];80;N/A;;-12.2436996000;-76.9416646000
+357;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:42 AM;;Av Pe-1s-8, Villa El Salvador, Lima, Lima [Province];75;N/A;;-12.2359063000;-76.9566030000
+356;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:42 AM;;Av Pe-1s-92, Villa El Salvador, Lima, Lima [Province];65;N/A;;-12.2338471000;-76.9606533000
+355;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:42 AM;;Av Pe-1s-86, Villa El Salvador, Lima, Lima [Province];74;N/A;;-12.2328378000;-76.9625715000
+354;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 07:41 AM;;Av Pe-1s-12, Villa El Salvador, Lima, Lima [Province];49;N/A;;-12.2290178000;-76.9682538000
+353;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:41 AM;;Av Pe-1s-12, Villa El Salvador, Lima, Lima [Province];49;N/A;;-12.2290178000;-76.9682538000
+352;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:38 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2275178000;-76.9698408000
+351;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:37 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];65;N/A;;-12.2239576000;-76.9732211000
+350;COMPRESOR-AF23;Drive;Aug 27 2025 07:36 AM;;Av Pe-1s-67, Villa El Salvador, Lima, Lima [Province];77;N/A;;-12.2201410000;-76.9765988000
+349;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:35 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;75;N/A;;-12.2056286000;-76.9748121000
+348;COMPRESOR-AF23;Drive;Aug 27 2025 07:34 AM;;Av Lateral Panamericana-34, Chorrillos, Lima, Lima [Province], Perú;64;N/A;;-12.1928608000;-76.9726298000
+347;COMPRESOR-AF23;Drive;Aug 27 2025 07:32 AM;;Av Lateral Panamericana-13, Chorrillos, Lima, Lima [Province];61;N/A;;-12.1783443000;-76.9768375000
+346;COMPRESOR-AF23;Drive;Aug 27 2025 07:30 AM;;Av Panamericana-29, San Juan De Miraflores, Lima, Lima [Province];25;N/A;;-12.1674478000;-76.9802196000
+345;COMPRESOR-AF23;Drive;Aug 27 2025 07:28 AM;;Av Los Alamos, San Juan De Miraflores, Lima, Lima [Province];25;N/A;;-12.1598778000;-76.9824496000
+344;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:26 AM;;Av Panamericana-33, Surco, Lima, Lima [Province];9;N/A;;-12.1545506000;-76.9838486000
+343;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:25 AM;;Av Panamericana-72, Surco, Lima, Lima [Province];4;N/A;;-12.1533126000;-76.9838920000
+342;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:24 AM;;Av Panamericana-53, Surco, Lima, Lima [Province];20;N/A;;-12.1518518000;-76.9837491000
+341;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:24 AM;;Lateral-32, Surco, Lima, Lima [Province];0;N/A;;-12.1507346000;-76.9835266000
+340;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:23 AM;;Lateral-65, Surco, Lima, Lima [Province];17;N/A;;-12.1504853000;-76.9834445000
+339;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:23 AM;;Av Tomas Marsano-66, Surco, Lima, Lima [Province];3;N/A;;-12.1495285000;-76.9831386000
+338;COMPRESOR-AF23;Drive;Aug 27 2025 07:22 AM;;Av Panamericana-88, Surco, Lima, Lima [Province];62;N/A;;-12.1461001000;-76.9820536000
+337;COMPRESOR-AF23;Drive;Aug 27 2025 07:20 AM;;Av Panamericana-52, Surco, Lima, Lima [Province];62;N/A;;-12.1315938000;-76.9784386000
+336;COMPRESOR-AF23;End Speeding;Aug 27 2025 07:19 AM;;Av Panamericana-60, Surco, Lima, Lima [Province];62;N/A;;-12.1170550000;-76.9773850000
+335;COMPRESOR-AF23;Speed alert;Aug 27 2025 07:18 AM;;Alonso De Molina-71, Surco, Lima, Lima [Province];74;N/A;;-12.1144750000;-76.9777268000
+334;COMPRESOR-AF23;Drive;Aug 27 2025 07:18 AM;;Av Panamericana-43, Surco, Lima, Lima [Province];75;N/A;;-12.1137150000;-76.9778285000
+333;COMPRESOR-AF23;Drive;Aug 27 2025 07:16 AM;;Av Panamericana-83, Surco, Lima, Lima [Province];54;N/A;;-12.0992023000;-76.9798035000
+332;COMPRESOR-AF23;Drive;Aug 27 2025 07:14 AM;;Salida-68, Ate Vitarte, Lima, Lima [Province];49;N/A;;-12.0856350000;-76.9822915000
+331;COMPRESOR-AF23;Drive;Aug 27 2025 07:14 AM;;Av Evitamiento-71, Ate Vitarte, Lima, Lima [Province];43;N/A;;-12.0833711000;-76.9807355000
+330;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:12 AM;;Av Evitamiento Lateral-79, Ate Vitarte, Lima, Lima [Province];49;N/A;;-12.0707806000;-76.9730635000
+329;COMPRESOR-AF23;Idle - Stop;Aug 27 2025 07:10 AM;;Av Evitamiento-74, Ate Vitarte, Lima, Lima [Province];3;N/A;;-12.0688241000;-76.9724181000
+328;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:07 AM;;Av Evitamiento-51, Ate Vitarte, Lima, Lima [Province];1;N/A;;-12.0680886000;-76.9721910000
+327;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:07 AM;;Salida-75, Ate Vitarte, Lima, Lima [Province];8;N/A;;-12.0676925000;-76.9720538000
+326;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:05 AM;;Av Evitamiento-73, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0665106000;-76.9717061000
+325;COMPRESOR-AF23;Travel Start;Aug 27 2025 07:05 AM;;Via Principal-36, Ate Vitarte, Lima, Lima [Province];25;N/A;;-12.0660611000;-76.9715403000
+324;COMPRESOR-AF23;Travel Stop;Aug 27 2025 07:04 AM;;Av Evitamiento-25, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0652033000;-76.9714555000
+323;COMPRESOR-AF23;Drive;Aug 27 2025 07:02 AM;;Av Evitamiento-17, El Agustino, Lima, Lima [Province];32;N/A;;-12.0576516000;-76.9737738000
+322;COMPRESOR-AF23;Drive;Aug 27 2025 07:00 AM;;Av Robles-59, Santa Anita, Lima, Lima [Province];48;N/A;;-12.0489685000;-76.9793470000
+321;COMPRESOR-AF23;Drive;Aug 27 2025 06:58 AM;;Av 1 De Mayo-47, Lima (cercado), Lima, Lima [Province];54;N/A;;-12.0357526000;-76.9892360000
+320;COMPRESOR-AF23;Drive;Aug 27 2025 06:57 AM;;Av Evitamiento-37, El Agustino, Lima, Lima [Province];62;N/A;;-12.0294765000;-76.9955166000
+319;COMPRESOR-AF23;Travel Start;Aug 27 2025 06:56 AM;;Av Evitamiento-40, El Agustino, Lima, Lima [Province], Perú;12;N/A;;-12.0304730000;-77.0014663000
+318;COMPRESOR-AF23;Travel Stop;Aug 27 2025 06:56 AM;;Av Lateral, El Agustino, Lima, Lima [Province];4;N/A;;-12.0308725000;-77.0025185000
+317;COMPRESOR-AF23;Drive;Aug 27 2025 06:54 AM;;Av Evitamiento, El Agustino, Lima, Lima [Province];67;N/A;;-12.0332733000;-77.0076201000
+316;COMPRESOR-AF23;Drive;Aug 27 2025 06:52 AM;;Av Evitamiento-71, San Martin De Porres, Lima, Lima [Province];37;N/A;;-12.0430206000;-77.0225415000
+315;COMPRESOR-AF23;Drive;Aug 27 2025 06:50 AM;;Av Evitamiento-77, San Martin De Porres, Lima, Lima [Province];32;N/A;;-12.0416746000;-77.0324510000
+314;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Av Evitamiento-55, San Martin De Porres, Lima, Lima [Province];11;N/A;;-12.0365708000;-77.0440713000
+313;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Av Evitamiento-69, San Martin De Porres, Lima, Lima [Province];22;N/A;;-12.0365460000;-77.0446388000
+312;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Av Via Estadio-34, San Martin De Porres, Lima, Lima [Province];25;N/A;;-12.0367208000;-77.0447923000
+311;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Av Via Estadio-27, San Martin De Porres, Lima, Lima [Province], Perú;28;N/A;;-12.0370036000;-77.0447355000
+310;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Salida-18, San Martin De Porres, Lima, Lima [Province];28;N/A;;-12.0373138000;-77.0442171000
+309;COMPRESOR-AF23;Drive;Aug 27 2025 06:48 AM;;Av Lateral-76, San Martin De Porres, Lima, Lima [Province];17;N/A;;-12.0372091000;-77.0438666000
+308;COMPRESOR-AF23;Travel Start;Aug 27 2025 06:47 AM;;Av Lateral-93, San Martin De Porres, Lima, Lima [Province];28;N/A;;-12.0349643000;-77.0438640000
+307;COMPRESOR-AF23;Travel Stop;Aug 27 2025 06:45 AM;;Av Caqueta-71, San Martin De Porres, Lima, Lima [Province], Perú;0;N/A;;-12.0327573000;-77.0440346000
+306;COMPRESOR-AF23;Drive;Aug 27 2025 06:43 AM;;Av Caqueta-13, San Martin De Porres, Lima, Lima [Province];17;N/A;;-12.0306588000;-77.0442015000
+305;COMPRESOR-AF23;Drive;Aug 27 2025 06:43 AM;;Av Proceres, San Martin De Porres, Lima, Lima [Province];12;N/A;;-12.0305468000;-77.0441620000
+304;COMPRESOR-AF23;Drive;Aug 27 2025 06:43 AM;;Av Piñonate, Rimac, Lima, Lima [Province];16;N/A;;-12.0306131000;-77.0437450000
+303;COMPRESOR-AF23;Travel Start;Aug 27 2025 06:43 AM;;Av Piñonate, Rimac, Lima, Lima [Province];27;N/A;;-12.0303038000;-77.0433101000
+302;COMPRESOR-AF23;Travel Stop;Aug 27 2025 06:42 AM;;Av Morro De Arica, Rimac, Lima, Lima [Province];0;N/A;;-12.0294473000;-77.0425101000
+301;COMPRESOR-AF23;Travel Start;Aug 27 2025 06:42 AM;;Av Morro De Arica, Rimac, Lima, Lima [Province];22;N/A;;-12.0292320000;-77.0423088000
+300;COMPRESOR-AF23;Idle Alert;Aug 26 2025 08:58 PM;;Santa rosa, Lima 15094, Peru;0;N/A;;-12.0294073000;-77.0412545000
+299;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:56 PM;;Santa rosa, Lima 15094, Peru;0;N/A;;-12.0294328000;-77.0412480000
+298;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:53 PM;;Av Morro De Arica, Rimac, Lima, Lima [Province];0;N/A;;-12.0284098000;-77.0415790000
+297;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:52 PM;;Av Francisco Pizarro, Rimac, Lima, Lima [Province];14;N/A;;-12.0298100000;-77.0428783000
+296;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:51 PM;;Av Francisco Pizarro-91, Rimac, Lima, Lima [Province];0;N/A;;-12.0304430000;-77.0423981000
+295;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:50 PM;;Av Francisco Pizarro-35, Rimac, Lima, Lima [Province];35;N/A;;-12.0326361000;-77.0400483000
+294;COMPRESOR-AF23;Idle Alert;Aug 26 2025 08:46 PM;;Av Francisco Pizarro-24, Rimac, Lima, Lima [Province];0;N/A;;-12.0335336000;-77.0388121000
+293;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:44 PM;;Av Francisco Pizarro-24, Rimac, Lima, Lima [Province];0;N/A;;-12.0335420000;-77.0388136000
+292;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:41 PM;;Av Felipe Arencibia-85, Rimac, Lima, Lima [Province];0;N/A;;-12.0335918000;-77.0387973000
+291;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:41 PM;;Av Francisco Pizarro-62, Rimac, Lima, Lima [Province];8;N/A;;-12.0340863000;-77.0383063000
+290;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:40 PM;;Av Francisco Pizarro-42, Rimac, Lima, Lima [Province], Perú;0;N/A;;-12.0346961000;-77.0375805000
+289;COMPRESOR-AF23;Drive;Aug 26 2025 08:37 PM;;Av Francisco Pizarro, Rimac, Lima, Lima [Province], Perú;20;N/A;;-12.0387760000;-77.0323963000
+288;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:36 PM;;Av Tacna-83, Lima (cercado), Lima, Lima [Province];19;N/A;;-12.0427115000;-77.0349960000
+287;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:35 PM;;Av Callao-39, Lima (cercado), Lima, Lima [Province], Perú;0;N/A;;-12.0432591000;-77.0358561000
+286;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:32 PM;;Chancay-92, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0429710000;-77.0363663000
+285;COMPRESOR-AF23;Drive;Aug 26 2025 08:31 PM;;Cañete-96, Lima (cercado), Lima, Lima [Province];12;N/A;;-12.0423581000;-77.0374320000
+284;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:30 PM;;Cañete-56, Lima (cercado), Lima, Lima [Province], Perú;22;N/A;;-12.0446575000;-77.0390556000
+283;COMPRESOR-AF23;Idle Alert;Aug 26 2025 08:21 PM;;Angaraes-70, Lima (cercado), Lima, Lima [Province];3;N/A;;-12.0457046000;-77.0411015000
+282;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:19 PM;;Angaraes-70, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0457100000;-77.0411330000
+281;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:16 PM;;South America, La Victoria, Lima;0;N/A;;-12.0458623000;-77.0412186000
+280;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:16 PM;;Angaraes-12, Lima (cercado), Lima, Lima [Province];12;N/A;;-12.0461870000;-77.0415376000
+279;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:14 PM;;Plaza 2 De Mayo-55, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0464943000;-77.0423535000
+278;COMPRESOR-AF23;Drive;Aug 26 2025 08:14 PM;;Plaza 2 De Mayo-90, Lima (cercado), Lima, Lima [Province];9;N/A;;-12.0467785000;-77.0426708000
+277;COMPRESOR-AF23;Drive;Aug 26 2025 08:13 PM;;Av Oscar R Benavides-88, Lima (cercado), Lima, Lima [Province];14;N/A;;-12.0466121000;-77.0453810000
+276;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:12 PM;;Ascope-75, Lima (cercado), Lima, Lima [Province], Perú;14;N/A;;-12.0449876000;-77.0457206000
+275;COMPRESOR-AF23;Idle Alert;Aug 26 2025 08:11 PM;;Ascope-38, Lima (cercado), Lima, Lima [Province];24;N/A;;-12.0444635000;-77.0457768000
+274;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:09 PM;;Av Republica Argentina-16, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0439733000;-77.0459591000
+273;COMPRESOR-AF23;Travel Stop;Aug 26 2025 08:06 PM;;Av Republica Argentina-63, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0440156000;-77.0465968000
+272;COMPRESOR-AF23;Travel Start;Aug 26 2025 08:06 PM;;Av Republica Argentina-71, Lima (cercado), Lima, Lima [Province];6;N/A;;-12.0439990000;-77.0467870000
+271;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 08:00 PM;;Av Republica Argentina-16, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0441321000;-77.0486710000
+270;COMPRESOR-AF23;Idle Alert;Aug 26 2025 07:31 PM;;Av Republica Argentina-80, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0442563000;-77.0500018000
+269;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 07:29 PM;;Av Republica Argentina-76, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0442896000;-77.0502315000
+268;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:26 PM;;Av Republica Argentina-76, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0442816000;-77.0502621000
+267;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:26 PM;;Av Republica Argentina-72, Lima (cercado), Lima, Lima [Province];16;N/A;;-12.0442943000;-77.0504900000
+266;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:25 PM;;Av Republica Argentina-70, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0442708000;-77.0513256000
+265;COMPRESOR-AF23;Drive;Aug 26 2025 07:24 PM;;Av Republica Argentina-27, Lima (cercado), Lima, Lima [Province];20;N/A;;-12.0443476000;-77.0527491000
+264;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:22 PM;;Av Republica Argentina-39, Lima (cercado), Lima, Lima [Province];22;N/A;;-12.0451083000;-77.0604598000
+263;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:21 PM;;Av Republica Argentina-84, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0452253000;-77.0614165000
+262;COMPRESOR-AF23;Drive;Aug 26 2025 07:21 PM;;Av Republica Argentina-23, Lima (cercado), Lima, Lima [Province];20;N/A;;-12.0453138000;-77.0624856000
+261;COMPRESOR-AF23;Drive;Aug 26 2025 07:19 PM;;Av Republica Argentina-92, Lima (cercado), Lima, Lima [Province];24;N/A;;-12.0458526000;-77.0686111000
+260;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:17 PM;;Av Republica Argentina, Lima (cercado), Lima, Lima [Province];22;N/A;;-12.0464986000;-77.0761530000
+259;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:15 PM;;Av Republica Argentina-24, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0465890000;-77.0774053000
+258;COMPRESOR-AF23;Drive;Aug 26 2025 07:15 PM;;Av Republica Argentina-52, Lima (cercado), Lima, Lima [Province];24;N/A;;-12.0466638000;-77.0782836000
+257;COMPRESOR-AF23;Drive;Aug 26 2025 07:13 PM;;Av Republica Argentina, Carmen De La Legua, Callao, Callao;19;N/A;;-12.0473095000;-77.0857283000
+256;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:12 PM;;Av Enrique Meiggs, Callao, Callao, Callao;12;N/A;;-12.0475401000;-77.0873995000
+255;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:11 PM;;Av Enrique Meiggs, Callao, Callao, Callao;0;N/A;;-12.0483101000;-77.0873761000
+254;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:11 PM;;Av Enrique Meiggs, Callao, Callao, Callao;12;N/A;;-12.0485235000;-77.0873406000
+253;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:09 PM;;Av Enrique Meiggs-58, Callao, Callao, Callao;0;N/A;;-12.0494846000;-77.0871081000
+252;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:08 PM;;Av Enrique Meiggs, Callao, Callao, Callao;16;N/A;;-12.0507005000;-77.0865076000
+251;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:07 PM;;Av Oscar R Benavides, Callao, Callao, Callao;0;N/A;;-12.0512378000;-77.0860620000
+250;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:06 PM;;Av Oscar R Benavides, Callao, Callao, Callao;11;N/A;;-12.0506728000;-77.0829645000
+249;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 05:22 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492415000;-77.0824925000
+248;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 04:45 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492691000;-77.0824993000
+247;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 04:33 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492113000;-77.0825873000
+246;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 03:52 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492465000;-77.0824585000
+245;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 03:38 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492628000;-77.0824993000
+244;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 03:25 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492338000;-77.0825298000
+243;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 03:13 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492615000;-77.0824915000
+242;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 03:03 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492883000;-77.0824766000
+241;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 02:07 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492758000;-77.0825496000
+240;COMPRESOR-AF23;Idle Alert;Aug 26 2025 12:54 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0492905000;-77.0824968000
+239;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 12:52 PM;;20 De Diciembre, Callao 07006, Peru;0;N/A;;-12.0493525000;-77.0824415000
+238;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:49 PM;;Av Oscar R Benavides, Callao, Callao, Callao;0;N/A;;-12.0506038000;-77.0821596000
+237;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:48 PM;;Av Oscar R Benavides, Callao, Callao, Callao;28;N/A;;-12.0499733000;-77.0785891000
+236;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:46 PM;;Av Oscar R Benavides, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0498163000;-77.0777583000
+235;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:45 PM;;Pasaje Colonial-81, Lima (cercado), Lima, Lima [Province];32;N/A;;-12.0493856000;-77.0729315000
+234;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:44 PM;;Av Oscar R Benavides, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0492721000;-77.0717438000
+233;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:42 PM;;Av Oscar R Benavides, Lima (cercado), Lima, Lima [Province];40;N/A;;-12.0486583000;-77.0656743000
+232;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:41 PM;;Av Oscar R Benavides-46, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0485213000;-77.0643390000
+231;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:40 PM;;Av Oscar R Benavides, Lima (cercado), Lima, Lima [Province];41;N/A;;-12.0481331000;-77.0605621000
+230;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:39 PM;;Av Oscar R Benavides-28, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0480020000;-77.0590338000
+229;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:39 PM;;Av Oscar R Benavides-45, Lima (cercado), Lima, Lima [Province];30;N/A;;-12.0480058000;-77.0587516000
+228;COMPRESOR-AF23;Idle Alert;Aug 26 2025 12:34 PM;;Av Oscar R Benavides-86, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0477040000;-77.0574936000
+227;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 12:32 PM;;Av Oscar R Benavides-86, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0477060000;-77.0574773000
+226;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:29 PM;;Av Oscar R Benavides-83, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0478030000;-77.0574121000
+225;COMPRESOR-AF23;Drive;Aug 26 2025 12:29 PM;;Av Oscar R Benavides-95, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0477420000;-77.0572775000
+224;COMPRESOR-AF23;Geofence IN;Aug 26 2025 12:29 PM;SEDE GASPAR;Av Oscar R Benavides-95, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0477420000;-77.0572775000
+223;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:28 PM;;Av Oscar R Benavides-69, Lima (cercado), Lima, Lima [Province];33;N/A;;-12.0471951000;-77.0511255000
+222;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 12:28 PM;;Av Oscar R Benavides-78, Lima (cercado), Lima, Lima [Province];32;N/A;;-12.0471865000;-77.0510373000
+221;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:25 PM;;Av Ramon Carcamo, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0481770000;-77.0505886000
+220;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:24 PM;;Av Ramon Carcamo, Lima (cercado), Lima, Lima [Province];27;N/A;;-12.0486615000;-77.0505103000
+219;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:23 PM;;Av Zorritos-13, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0496706000;-77.0501500000
+218;COMPRESOR-AF23;Drive;Aug 26 2025 12:22 PM;;Av Zorritos-17, Lima (cercado), Lima, Lima [Province], Perú;19;N/A;;-12.0503603000;-77.0468313000
+217;COMPRESOR-AF23;Drive;Aug 26 2025 12:21 PM;;Av Miguel Baquero-12, Lima (cercado), Lima, Lima [Province];17;N/A;;-12.0484193000;-77.0448020000
+216;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:21 PM;;Huarochiri-88, Lima (cercado), Lima, Lima [Province];38;N/A;;-12.0482565000;-77.0440463000
+215;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:20 PM;;Av Alfonso Ugarte-9, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0484670000;-77.0424866000
+214;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:18 PM;;Av Alfonso Ugarte-43, Lima (cercado), Lima, Lima [Province];20;N/A;;-12.0520935000;-77.0421686000
+213;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:18 PM;;Av Alfonso Ugarte, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0532898000;-77.0420668000
+212;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:17 PM;;Av Alfonso Ugarte, Lima (cercado), Lima, Lima [Province];35;N/A;;-12.0558046000;-77.0418818000
+211;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:17 PM;;Av Alfonso Ugarte, Lima (cercado), Lima, Lima [Province];6;N/A;;-12.0570083000;-77.0417800000
+210;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:16 PM;;Av Alfonso Ugarte, Lima (cercado), Lima, Lima [Province];19;N/A;;-12.0574531000;-77.0417371000
+209;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:13 PM;;Av Alfonso Ugarte-37, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0591768000;-77.0416176000
+208;COMPRESOR-AF23;Drive;Aug 26 2025 12:13 PM;;Av Alfonso Ugarte-85, Breña, Lima, Lima [Province];16;N/A;;-12.0596311000;-77.0416056000
+207;COMPRESOR-AF23;Drive;Aug 26 2025 12:13 PM;;Bolognesi-75, Lima (cercado), Lima, Lima [Province];12;N/A;;-12.0598223000;-77.0413785000
+206;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:12 PM;;Bolognesi-37, Lima (cercado), Lima, Lima [Province];9;N/A;;-12.0601055000;-77.0411785000
+205;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:11 PM;;Av Guzman Blanco-77, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0609915000;-77.0411843000
+204;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:11 PM;;Huancayo-93, Lima (cercado), Lima, Lima [Province];30;N/A;;-12.0622091000;-77.0404836000
+203;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:10 PM;;Av Guzman Blanco-41, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0632443000;-77.0399045000
+202;COMPRESOR-AF23;Drive;Aug 26 2025 12:10 PM;;Av Guzman Blanco-11, Lima (cercado), Lima, Lima [Province], Perú;17;N/A;;-12.0643378000;-77.0392926000
+201;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:09 PM;;Av Washington-12, Lima (cercado), Lima, Lima [Province];14;N/A;;-12.0643728000;-77.0387181000
+200;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:09 PM;;Av 28 De Julio, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0643091000;-77.0380451000
+199;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:09 PM;;Av 28 De Julio, Lima (cercado), Lima, Lima [Province];12;N/A;;-12.0642941000;-77.0378776000
+198;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 12:08 PM;;Av 28 De Julio, Lima (cercado), Lima, Lima [Province];4;N/A;;-12.0642011000;-77.0370863000
+197;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:05 PM;;Av Petit Thouars-33, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0650496000;-77.0361816000
+196;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:04 PM;;Av Petit Thouars-51, Lima (cercado), Lima, Lima [Province];28;N/A;;-12.0690568000;-77.0356463000
+195;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:03 PM;;Av Petit Thouars-71, Lima (cercado), Lima, Lima [Province], Perú;0;N/A;;-12.0702883000;-77.0353723000
+194;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:02 PM;;Av Petit Thouars-95, Lima (cercado), Lima, Lima [Province];32;N/A;;-12.0765473000;-77.0344880000
+193;COMPRESOR-AF23;Travel Stop;Aug 26 2025 12:01 PM;;Av Petit Thouars-21, Lima (cercado), Lima, Lima [Province];0;N/A;;-12.0777900000;-77.0342715000
+192;COMPRESOR-AF23;Travel Start;Aug 26 2025 12:00 PM;;Av Petit Thouars-41, Lima (cercado), Lima, Lima [Province];25;N/A;;-12.0791375000;-77.0341168000
+191;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:58 AM;;Av Bartolome Herrera-5, Lince, Lima, Lima [Province];0;N/A;;-12.0812040000;-77.0337588000
+190;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:58 AM;;Av Petit Thouars-60, Lince, Lima, Lima [Province];17;N/A;;-12.0816116000;-77.0337335000
+189;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:56 AM;;Av Jose Pardo De Zela-62, Lince, Lima, Lima [Province];0;N/A;;-12.0833056000;-77.0332588000
+188;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:55 AM;;Av Jose Pardo De Zela-64, Lince, Lima, Lima [Province];32;N/A;;-12.0829083000;-77.0302325000
+187;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:54 AM;;Av Jose Pardo De Zela, Lince, Lima, Lima [Province];0;N/A;;-12.0827348000;-77.0290615000
+186;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:53 AM;;Av Paseo De La Republica-56, Lima (cercado), Lima, Lima [Province];19;N/A;;-12.0823880000;-77.0267661000
+185;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:51 AM;;Av Canada-70, La Victoria, Lima, Lima [Province];0;N/A;;-12.0821720000;-77.0257823000
+184;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:49 AM;;Av Canada-26, La Victoria, Lima, Lima [Province];25;N/A;;-12.0813006000;-77.0214413000
+183;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:49 AM;;Carmelino-59, La Victoria, Lima, Lima [Province];0;N/A;;-12.0811500000;-77.0205175000
+182;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:48 AM;;Av Canada, La Victoria, Lima, Lima [Province];17;N/A;;-12.0812601000;-77.0187225000
+181;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:47 AM;;Av Canada, La Victoria, Lima, Lima [Province];0;N/A;;-12.0814613000;-77.0180606000
+180;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:46 AM;;Av Canada-79, La Victoria, Lima, Lima [Province];43;N/A;;-12.0829716000;-77.0147296000
+179;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:46 AM;;Av Canada-74, La Victoria, Lima, Lima [Province];0;N/A;;-12.0835951000;-77.0133465000
+178;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:45 AM;;Av Canada-98, La Victoria, Lima, Lima [Province];33;N/A;;-12.0846918000;-77.0088871000
+177;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:44 AM;;Av Canada-92, La Victoria, Lima, Lima [Province];0;N/A;;-12.0845201000;-77.0076505000
+176;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:43 AM;;Av Canada-17, La Victoria, Lima, Lima [Province];35;N/A;;-12.0840813000;-77.0046371000
+175;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:42 AM;;Av Canada, San Luis, Lima, Lima [Province];0;N/A;;-12.0838681000;-77.0032208000
+174;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:41 AM;;Av Canada-64, San Borja, Lima, Lima [Province];49;N/A;;-12.0831156000;-76.9986735000
+173;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:39 AM;;Av San Luis-49, San Borja, Lima, Lima [Province], Perú;3;N/A;;-12.0840836000;-76.9969976000
+172;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:38 AM;;Av San Luis-56, San Borja, Lima, Lima [Province];30;N/A;;-12.0854421000;-76.9968153000
+171;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:36 AM;;Av San Luis-18, San Borja, Lima, Lima [Province];0;N/A;;-12.0875023000;-76.9965390000
+170;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:36 AM;;Av San Luis-19, San Borja, Lima, Lima [Province];17;N/A;;-12.0876075000;-76.9965046000
+169;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 11:35 AM;;Av San Luis-93, San Borja, Lima, Lima [Province];0;N/A;;-12.0886920000;-76.9963581000
+168;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:32 AM;;Av San Luis-5, San Borja, Lima, Lima [Province];0;N/A;;-12.0898726000;-76.9961931000
+167;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:31 AM;;Av San Luis-90, San Borja, Lima, Lima [Province];6;N/A;;-12.0900206000;-76.9961788000
+166;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:30 AM;;Av San Luis-38, San Borja, Lima, Lima [Province];0;N/A;;-12.0908216000;-76.9960583000
+165;COMPRESOR-AF23;Drive;Aug 26 2025 11:29 AM;;Av San Luis, San Borja, Lima, Lima [Province];17;N/A;;-12.0932131000;-76.9956540000
+164;COMPRESOR-AF23;Drive;Aug 26 2025 11:27 AM;;Av Lopez De Ayala-9, San Borja, Lima, Lima [Province];17;N/A;;-12.0961726000;-76.9914826000
+163;COMPRESOR-AF23;Drive;Aug 26 2025 11:27 AM;;Utrillo-19, San Borja, Lima, Lima [Province];12;N/A;;-12.0966861000;-76.9915941000
+162;COMPRESOR-AF23;Drive;Aug 26 2025 11:26 AM;;El Greco-91, San Borja, Lima, Lima [Province], Perú;17;N/A;;-12.0971785000;-76.9898963000
+161;COMPRESOR-AF23;Drive;Aug 26 2025 11:26 AM;;Bottger-44, San Borja, Lima, Lima [Province];20;N/A;;-12.0992766000;-76.9897611000
+160;COMPRESOR-AF23;Drive;Aug 26 2025 11:26 AM;;Bottger-16, San Borja, Lima, Lima [Province], Perú;14;N/A;;-12.0994083000;-76.9897785000
+159;COMPRESOR-AF23;Drive;Aug 26 2025 11:26 AM;;Juan Gris-97, San Borja, Lima, Lima [Province], Perú;12;N/A;;-12.0991981000;-76.9902005000
+158;COMPRESOR-AF23;Drive;Aug 26 2025 11:24 AM;;Av San Borja Sur-95, San Borja, Lima, Lima [Province];9;N/A;;-12.1013378000;-76.9921028000
+157;COMPRESOR-AF23;Drive;Aug 26 2025 11:24 AM;;Av San Borja Sur, San Borja, Lima, Lima [Province];16;N/A;;-12.1006853000;-76.9936955000
+156;COMPRESOR-AF23;Drive;Aug 26 2025 11:24 AM;;Av San Borja Sur, San Borja, Lima, Lima [Province];12;N/A;;-12.1007003000;-76.9937756000
+155;COMPRESOR-AF23;Drive;Aug 26 2025 11:23 AM;;Av Bosovich, San Borja, Lima, Lima [Province];14;N/A;;-12.1020135000;-76.9937228000
+154;COMPRESOR-AF23;Drive;Aug 26 2025 11:23 AM;;Av San Luis-92, San Borja, Lima, Lima [Province];9;N/A;;-12.1022443000;-76.9942940000
+153;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:22 AM;;Av San Luis-63, San Borja, Lima, Lima [Province];35;N/A;;-12.1069346000;-76.9922160000
+152;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:20 AM;;Av San Luis, San Borja, Lima, Lima [Province];0;N/A;;-12.1086045000;-76.9926683000
+151;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:19 AM;;Av Paseo Del Bosque, San Borja, Lima, Lima [Province];30;N/A;;-12.1104160000;-76.9933760000
+150;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:18 AM;;Av Caminos Del Inca, Surco, Lima, Lima [Province];0;N/A;;-12.1117260000;-76.9934168000
+149;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:17 AM;;Av Monterrey, Surco, Lima, Lima [Province];27;N/A;;-12.1130260000;-76.9925948000
+148;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:15 AM;;Av Caminos Del Inca-38, Surco, Lima, Lima [Province];0;N/A;;-12.1150845000;-76.9912070000
+147;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:14 AM;;Av Caminos Del Inca, Surco, Lima, Lima [Province];41;N/A;;-12.1176208000;-76.9895675000
+146;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:13 AM;;Av Caminos Del Inca-15, Surco, Lima, Lima [Province];0;N/A;;-12.1188193000;-76.9887986000
+145;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:12 AM;;Av Caminos Del Inca-4, Surco, Lima, Lima [Province];32;N/A;;-12.1205283000;-76.9879636000
+144;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:11 AM;;Av Caminos Del Inca-96, Surco, Lima, Lima [Province];1;N/A;;-12.1214890000;-76.9872358000
+143;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:11 AM;;Av Caminos Del Inca-82, Surco, Lima, Lima [Province];27;N/A;;-12.1224063000;-76.9862833000
+142;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:10 AM;;Av Caminos Del Inca-24, Surco, Lima, Lima [Province];0;N/A;;-12.1232883000;-76.9852635000
+141;COMPRESOR-AF23;Drive;Aug 26 2025 11:08 AM;;Av Caminos Del Inca-11, Surco, Lima, Lima [Province];9;N/A;;-12.1275911000;-76.9813983000
+140;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:08 AM;;Av Caminos Del Inca-73, Surco, Lima, Lima [Province];41;N/A;;-12.1286011000;-76.9813713000
+139;COMPRESOR-AF23;Idle Alert;Aug 26 2025 11:08 AM;;Av Caminos Del Inca-22, Surco, Lima, Lima [Province];6;N/A;;-12.1299588000;-76.9818570000
+138;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 11:06 AM;;Av Caminos Del Inca-54, Surco, Lima, Lima [Province];0;N/A;;-12.1302448000;-76.9819990000
+137;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:03 AM;;Mercaderes-8, Surco, Lima, Lima [Province];0;N/A;;-12.1313313000;-76.9824091000
+136;COMPRESOR-AF23;Travel Start;Aug 26 2025 11:02 AM;;Av Caminos Del Inca-11, Surco, Lima, Lima [Province];24;N/A;;-12.1332463000;-76.9831043000
+135;COMPRESOR-AF23;Travel Stop;Aug 26 2025 11:01 AM;;Av Caminos Del Inca-74, Surco, Lima, Lima [Province];0;N/A;;-12.1342398000;-76.9834505000
+134;COMPRESOR-AF23;Drive;Aug 26 2025 11:00 AM;;Av Caminos Del Inca, Surco, Lima, Lima [Province];19;N/A;;-12.1363131000;-76.9839721000
+133;COMPRESOR-AF23;Drive;Aug 26 2025 10:58 AM;;Av Caminos Del Inca-22, Surco, Lima, Lima [Province], Perú;0;N/A;;-12.1437951000;-76.9851701000
+132;COMPRESOR-AF23;Drive;Aug 26 2025 10:57 AM;;Av Caminos Del Inca-10, Surco, Lima, Lima [Province], Perú;9;N/A;;-12.1472806000;-76.9857418000
+131;COMPRESOR-AF23;Drive;Aug 26 2025 10:56 AM;;Loma De Las Amarilis-6, Surco, Lima, Lima [Province], Perú;12;N/A;;-12.1475900000;-76.9849418000
+130;COMPRESOR-AF23;Drive;Aug 26 2025 10:56 AM;;Loma De Las Amarilis-29, Surco, Lima, Lima [Province], Perú;9;N/A;;-12.1476188000;-76.9848916000
+129;COMPRESOR-AF23;Drive;Aug 26 2025 10:56 AM;;Av Tomas Marsano-11, Surco, Lima, Lima [Province];12;N/A;;-12.1481730000;-76.9850978000
+128;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:54 AM;;Av Tomas Marsano-71, Surco, Lima, Lima [Province];6;N/A;;-12.1490018000;-76.9841140000
+127;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:53 AM;;Av Tomas Marsano-97, Surco, Lima, Lima [Province];0;N/A;;-12.1493430000;-76.9834581000
+126;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:52 AM;;Av Tomas Marsano-76, Surco, Lima, Lima [Province];14;N/A;;-12.1499265000;-76.9819128000
+125;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 10:51 AM;;Av Entrada-61, San Juan De Miraflores, Lima, Lima [Province];3;N/A;;-12.1493708000;-76.9815365000
+124;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:48 AM;;Av Tomas Marsano-80, Surco, Lima, Lima [Province];0;N/A;;-12.1498433000;-76.9830003000
+123;COMPRESOR-AF23;Drive;Aug 26 2025 10:46 AM;;Entrada-7, San Juan De Miraflores, Lima, Lima [Province];24;N/A;;-12.1549348000;-76.9834791000
+122;COMPRESOR-AF23;Drive;Aug 26 2025 10:45 AM;;Cltalara-15, San Juan De Miraflores, Lima, Lima [Province];0;N/A;;-12.1569803000;-76.9813615000
+121;COMPRESOR-AF23;Drive;Aug 26 2025 10:44 AM;;Av Pedro Miotta-35, San Juan De Miraflores, Lima, Lima [Province];43;N/A;;-12.1587338000;-76.9800595000
+120;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:42 AM;;Av Pedro Miotta, San Juan De Miraflores, Lima, Lima [Province];12;N/A;;-12.1666971000;-76.9781761000
+119;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:41 AM;;Av Pedro Miotta-25, San Juan De Miraflores, Lima, Lima [Province];0;N/A;;-12.1674051000;-76.9779970000
+118;COMPRESOR-AF23;Drive;Aug 26 2025 10:40 AM;;Av Pedro Miotta-57, San Juan De Miraflores, Lima, Lima [Province], Perú;25;N/A;;-12.1688018000;-76.9776246000
+117;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:38 AM;;Av Pedro Miotta-56, San Juan De Miraflores, Lima, Lima [Province], Perú;9;N/A;;-12.1749058000;-76.9760233000
+116;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 10:37 AM;;Av Pedro Miotta-84, San Juan De Miraflores, Lima, Lima [Province], Perú;0;N/A;;-12.1758833000;-76.9757286000
+115;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:34 AM;;Av Pedro Miotta 525, Distrito de Lima 15842, Peru;1;N/A;;-12.1775591000;-76.9753523000
+114;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:32 AM;;Av Lateral Panamericana-48, Chorrillos, Lima, Lima [Province];33;N/A;;-12.1871285000;-76.9728476000
+113;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:31 AM;;Av Pedro Miotta, San Juan De Miraflores, Lima, Lima [Province];0;N/A;;-12.1881733000;-76.9725968000
+112;COMPRESOR-AF23;Drive;Aug 26 2025 10:30 AM;;Av Pedro Miotta, San Juan De Miraflores, Lima, Lima [Province];28;N/A;;-12.1905836000;-76.9721365000
+111;COMPRESOR-AF23;Drive;Aug 26 2025 10:28 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];12;N/A;;-12.1971488000;-76.9729046000
+110;COMPRESOR-AF23;Drive;Aug 26 2025 10:26 AM;;Av Sur Via Libre-57, Villa El Salvador, Lima, Lima [Province];11;N/A;;-12.2056966000;-76.9745121000
+109;COMPRESOR-AF23;Drive;Aug 26 2025 10:24 AM;;Av Sur Via Libre, Villa El Salvador, Lima, Lima [Province];38;N/A;;-12.2166306000;-76.9765003000
+108;COMPRESOR-AF23;Drive;Aug 26 2025 10:24 AM;;Av Sur Via Libre-73, Villa El Salvador, Lima, Lima [Province];40;N/A;;-12.2179393000;-76.9758478000
+107;COMPRESOR-AF23;Drive;Aug 26 2025 10:24 AM;;Rampa-60, Chorrillos, Lima, Lima [Province];32;N/A;;-12.2204236000;-76.9757326000
+106;COMPRESOR-AF23;Drive;Aug 26 2025 10:23 AM;;Av Sur Via Libre, Villa El Salvador, Lima, Lima [Province];43;N/A;;-12.2246695000;-76.9720595000
+105;COMPRESOR-AF23;Drive;Aug 26 2025 10:21 AM;;Av Pe-1s-29, Villa El Salvador, Lima, Lima [Province];45;N/A;;-12.2330346000;-76.9615625000
+104;COMPRESOR-AF23;Drive;Aug 26 2025 10:19 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];67;N/A;;-12.2394521000;-76.9491373000
+103;COMPRESOR-AF23;Drive;Aug 26 2025 10:17 AM;;Av Carretera, Villa El Salvador, Lima, Lima [Province];46;N/A;;-12.2456476000;-76.9370645000
+102;COMPRESOR-AF23;Drive;Aug 26 2025 10:15 AM;;Av Carretera-93, Villa El Salvador, Lima, Lima [Province];53;N/A;;-12.2525350000;-76.9272170000
+101;COMPRESOR-AF23;Drive;Aug 26 2025 10:13 AM;;Antigua Panamericana Sur-55, Lurin, Lima, Lima [Province];33;N/A;;-12.2546610000;-76.9165413000
+100;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:11 AM;;Antigua Panamericana Sur-5, Lurin, Lima, Lima [Province];35;N/A;;-12.2543126000;-76.9048933000
+99;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:10 AM;;Antigua Panamericana Sur-4, Lurin, Lima, Lima [Province];0;N/A;;-12.2540201000;-76.9036915000
+98;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:08 AM;;Antigua Panamericana Sur-51, Lurin, Lima, Lima [Province];12;N/A;;-12.2533508000;-76.9008538000
+97;COMPRESOR-AF23;Travel Stop;Aug 26 2025 10:07 AM;;Antigua Panamericana Sur-65, Lurin, Lima, Lima [Province];0;N/A;;-12.2531553000;-76.9000226000
+96;COMPRESOR-AF23;Travel Start;Aug 26 2025 10:05 AM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];12;N/A;;-12.2526793000;-76.8948273000
+95;COMPRESOR-AF23;Idle Alert;Aug 26 2025 10:04 AM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];0;N/A;;-12.2529700000;-76.8937216000
+94;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 10:02 AM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];1;N/A;;-12.2533491000;-76.8924716000
+93;COMPRESOR-AF23;Travel Stop;Aug 26 2025 09:59 AM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];0;N/A;;-12.2539400000;-76.8916388000
+92;COMPRESOR-AF23;Travel Start;Aug 26 2025 09:57 AM;;Antigua Panamericana Sur-54, Lurin, Lima, Lima [Province];41;N/A;;-12.2598746000;-76.8850948000
+91;COMPRESOR-AF23;Travel Stop;Aug 26 2025 09:56 AM;;Av Manuel Valle-76, Lurin, Lima, Lima [Province];4;N/A;;-12.2608561000;-76.8838940000
+90;COMPRESOR-AF23;Travel Start;Aug 26 2025 09:56 AM;;Antigua Panamericana Sur-14, Lurin, Lima, Lima [Province];35;N/A;;-12.2628860000;-76.8821588000
+89;COMPRESOR-AF23;Travel Stop;Aug 26 2025 09:55 AM;;Antigua Panamericana Sur-21, Lurin, Lima, Lima [Province];0;N/A;;-12.2638791000;-76.8815193000
+88;COMPRESOR-AF23;Drive;Aug 26 2025 09:53 AM;;Antigua Panamericana Sur-28, Lurin, Lima, Lima [Province], Perú;9;N/A;;-12.2661950000;-76.8833253000
+87;COMPRESOR-AF23;Travel Start;Aug 26 2025 09:51 AM;;Av Grifo, Lurin, Lima, Lima [Province], Perú;9;N/A;;-12.2702733000;-76.8861991000
+86;COMPRESOR-AF23;Idle Alert;Aug 26 2025 07:18 AM;;Av Grifo, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2707340000;-76.8871518000
+85;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 07:16 AM;;Av Grifo, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2707968000;-76.8871690000
+84;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:13 AM;;Av Grifo, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2712248000;-76.8868325000
+83;COMPRESOR-AF23;Drive;Aug 26 2025 07:13 AM;;Av Grifo, Lurin, Lima, Lima [Province], Perú;12;N/A;;-12.2715080000;-76.8870453000
+82;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:12 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;12;N/A;;-12.2734096000;-76.8849140000
+81;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:11 AM;;Unnamed Road, Lima, Peru;0;N/A;;-12.2739076000;-76.8841276000
+80;COMPRESOR-AF23;Drive;Aug 26 2025 07:09 AM;;Av Ferreyros, Lurin, Lima, Lima [Province], Perú;16;N/A;;-12.2758473000;-76.8816101000
+79;COMPRESOR-AF23;Travel Start;Aug 26 2025 07:07 AM;;Av Puente San Pedro, Lurin, Lima, Lima [Province];11;N/A;;-12.2793980000;-76.8772135000
+78;COMPRESOR-AF23;Travel Stop;Aug 26 2025 07:06 AM;;Av Puente San Pedro, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2798746000;-76.8766250000
+77;COMPRESOR-AF23;Drive;Aug 26 2025 07:05 AM;;Av Puente San Pedro, Lurin, Lima, Lima [Province];0;N/A;;-12.2801510000;-76.8763613000
+76;COMPRESOR-AF23;Drive;Aug 26 2025 07:05 AM;;Av Puente San Pedro, Lurin, Lima, Lima [Province], Perú;25;N/A;;-12.2810380000;-76.8769175000
+75;COMPRESOR-AF23;Drive;Aug 26 2025 07:04 AM;;Av Puente San Pedro-61, Lurin, Lima, Lima [Province];25;N/A;;-12.2831806000;-76.8780595000
+74;COMPRESOR-AF23;End Speeding;Aug 26 2025 07:04 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];59;N/A;;-12.2843535000;-76.8764740000
+73;COMPRESOR-AF23;Drive;Aug 26 2025 07:03 AM;;Av Jardines De La Paz, Lurin, Lima, Lima [Province];75;N/A;;-12.2885905000;-76.8697268000
+72;COMPRESOR-AF23;Speed alert;Aug 26 2025 07:02 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;75;N/A;;-12.2973891000;-76.8547910000
+71;COMPRESOR-AF23;Drive;Aug 26 2025 07:01 AM;;Via Principal, Lurin, Lima, Lima [Province];70;N/A;;-12.2994663000;-76.8501415000
+70;COMPRESOR-AF23;Drive;Aug 26 2025 07:00 AM;;Sur Via Libre, Lurin, Lima, Lima [Province];64;N/A;;-12.3103481000;-76.8352405000
+69;COMPRESOR-AF23;Drive;Aug 26 2025 06:58 AM;;Sur Via Libre-53, Lurin, Lima, Lima [Province];59;N/A;;-12.3248613000;-76.8255588000
+68;COMPRESOR-AF23;Drive;Aug 26 2025 06:56 AM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];61;N/A;;-12.3393676000;-76.8158690000
+67;COMPRESOR-AF23;Drive;Aug 26 2025 06:54 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];57;N/A;;-12.3538868000;-76.8025953000
+66;COMPRESOR-AF23;Travel Start;Aug 26 2025 06:52 AM;;Av Pe-1s-49, Punta Negra, Lima, Lima [Province], Perú;40;N/A;;-12.3656180000;-76.7902010000
+65;COMPRESOR-AF23;Travel Stop;Aug 26 2025 06:51 AM;;Av Pe-1s-56, Punta Negra, Lima, Lima [Province];0;N/A;;-12.3664828000;-76.7891956000
+64;COMPRESOR-AF23;End Speeding;Aug 26 2025 06:50 AM;;Av Pe-1s-76, Punta Negra, Lima, Lima [Province];65;N/A;;-12.3694915000;-76.7864431000
+63;COMPRESOR-AF23;Speed alert;Aug 26 2025 06:50 AM;;Av Pe-1s-25, Punta Negra, Lima, Lima [Province];70;N/A;;-12.3725185000;-76.7833081000
+62;COMPRESOR-AF23;End Speeding;Aug 26 2025 06:48 AM;;Av Pe-1s-60, Punta Negra, Lima, Lima [Province], Perú;69;N/A;;-12.3819981000;-76.7734888000
+61;COMPRESOR-AF23;Speed alert;Aug 26 2025 06:48 AM;;Av Pe-1s-48, Punta Negra, Lima, Lima [Province];72;N/A;;-12.3836368000;-76.7717828000
+60;COMPRESOR-AF23;End Speeding;Aug 26 2025 06:47 AM;;Av Pe-1s-19, Punta Negra, Lima, Lima [Province], Perú;65;N/A;;-12.3944103000;-76.7606090000
+59;COMPRESOR-AF23;Speed alert;Aug 26 2025 06:47 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];70;N/A;;-12.3959146000;-76.7590468000
+58;COMPRESOR-AF23;End Speeding;Aug 26 2025 06:46 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];67;N/A;;-12.3987470000;-76.7568433000
+57;COMPRESOR-AF23;Speed alert;Aug 26 2025 06:45 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];72;N/A;;-12.4126656000;-76.7558340000
+56;COMPRESOR-AF23;End Speeding;Aug 26 2025 06:45 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];67;N/A;;-12.4151610000;-76.7552578000
+55;COMPRESOR-AF23;Speed alert;Aug 26 2025 06:44 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];75;N/A;;-12.4232425000;-76.7538378000
+54;COMPRESOR-AF23;Drive;Aug 26 2025 06:44 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];59;N/A;;-12.4274688000;-76.7534871000
+53;COMPRESOR-AF23;Drive;Aug 26 2025 06:42 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province];45;N/A;;-12.4420035000;-76.7567406000
+52;COMPRESOR-AF23;Drive;Aug 26 2025 06:40 AM;;Av Pe-1s-50, Punta Negra, Lima, Lima [Province];22;N/A;;-12.4553630000;-76.7535630000
+51;COMPRESOR-AF23;Drive;Aug 26 2025 06:38 AM;;Av Pe-1s, Punta Negra, Lima, Lima [Province], Perú;54;N/A;;-12.4634890000;-76.7517741000
+50;COMPRESOR-AF23;Drive;Aug 26 2025 06:36 AM;;Av Pe-1s Km 59, Punta Negra, Lima, Lima [Province];62;N/A;;-12.4780210000;-76.7477885000
+49;COMPRESOR-AF23;Drive;Aug 26 2025 06:35 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4925341000;-76.7437223000
+48;COMPRESOR-AF23;Drive;Aug 26 2025 06:33 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;20;N/A;;-12.4899203000;-76.7398558000
+47;COMPRESOR-AF23;Drive;Aug 26 2025 06:31 AM;;Unnamed Road, Chilca, Peru;17;N/A;;-12.4876165000;-76.7350178000
+46;COMPRESOR-AF23;Drive;Aug 26 2025 06:31 AM;;Unnamed Road, Chilca, Peru;9;N/A;;-12.4871443000;-76.7337478000
+45;COMPRESOR-AF23;Travel Start;Aug 26 2025 06:30 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;11;N/A;;-12.4868333000;-76.7338085000
+44;COMPRESOR-AF23;Idle - Stop;Aug 26 2025 06:29 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4864400000;-76.7334505000
+43;COMPRESOR-AF23;Travel Stop;Aug 26 2025 06:26 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4864491000;-76.7334511000
+42;COMPRESOR-AF23;Drive;Aug 26 2025 06:26 AM;;Unnamed Road, Chilca, Peru;9;N/A;;-12.4863840000;-76.7331823000
+41;COMPRESOR-AF23;Travel Start;Aug 26 2025 06:26 AM;;South America, Lima;12;N/A;;-12.4866566000;-76.7330371000
+40;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 06:53 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867788000;-76.7325858000
+39;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 06:45 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867733000;-76.7325868000
+38;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 06:35 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867790000;-76.7325748000
+37;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 06:25 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867763000;-76.7325750000
+36;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 06:12 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867763000;-76.7325936000
+35;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 03:23 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867981000;-76.7326050000
+34;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 03:12 PM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4868036000;-76.7326128000
+33;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 03:02 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867998000;-76.7326175000
+32;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 02:50 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867876000;-76.7326005000
+31;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 02:38 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867905000;-76.7326206000
+30;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 02:23 PM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4868063000;-76.7325968000
+29;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 02:08 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867835000;-76.7326000000
+28;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 01:53 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867905000;-76.7325953000
+27;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 01:38 PM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4868148000;-76.7326156000
+26;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 01:23 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867835000;-76.7325920000
+25;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 01:10 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867893000;-76.7326091000
+24;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 12:58 PM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867718000;-76.7325986000
+23;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 12:42 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867678000;-76.7326168000
+22;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 12:27 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867563000;-76.7326025000
+21;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 12:10 PM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867618000;-76.7326163000
+20;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 11:55 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867701000;-76.7326175000
+19;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 11:38 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867893000;-76.7326091000
+18;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 11:25 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867708000;-76.7326258000
+17;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 11:00 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867840000;-76.7326103000
+16;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 09:58 AM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867641000;-76.7325890000
+15;COMPRESOR-AF23;Idle Alert;Aug 25 2025 09:37 AM;;G778+6PW, AV 15 de enero, Chilca 15870, Peru;0;N/A;;-12.4867756000;-76.7326076000
+14;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 09:35 AM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867628000;-76.7325465000
+13;COMPRESOR-AF23;Travel Stop;Aug 25 2025 09:32 AM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4867638000;-76.7325566000
+12;COMPRESOR-AF23;Drive;Aug 25 2025 09:30 AM;;Unnamed Road, Chilca, Peru;9;N/A;;-12.4874176000;-76.7345211000
+11;COMPRESOR-AF23;Travel Start;Aug 25 2025 09:28 AM;;Unnamed Road, Peru;6;N/A;;-12.4883163000;-76.7373123000
+10;COMPRESOR-AF23;Idle Alert;Aug 25 2025 09:10 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4887575000;-76.7382420000
+9;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 09:08 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4887555000;-76.7382356000
+8;COMPRESOR-AF23;Travel Stop;Aug 25 2025 09:05 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4887726000;-76.7382240000
+7;COMPRESOR-AF23;Travel Start;Aug 25 2025 09:05 AM;;Via Principal Km 62, Chilca, Lima, Lima [Province], Perú;8;N/A;;-12.4891421000;-76.7380576000
+6;COMPRESOR-AF23;Idle Alert;Aug 25 2025 08:30 AM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4887460000;-76.7366996000
+5;COMPRESOR-AF23;Idle - Stop;Aug 25 2025 08:28 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4887440000;-76.7367121000
+4;COMPRESOR-AF23;Travel Stop;Aug 25 2025 08:25 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;0;N/A;;-12.4887471000;-76.7367041000
+3;COMPRESOR-AF23;Drive;Aug 25 2025 08:25 AM;;Unnamed Road, Chilca, Peru;9;N/A;;-12.4884576000;-76.7367440000
+2;COMPRESOR-AF23;Drive;Aug 25 2025 08:25 AM;;Unnamed Road, Chilca, Peru;0;N/A;;-12.4882180000;-76.7367851000
+1;COMPRESOR-AF23;Travel Start;Aug 25 2025 08:23 AM;;Via Principal, Chilca, Lima, Lima [Province], Perú;8;N/A;;-12.4873636000;-76.7343081000

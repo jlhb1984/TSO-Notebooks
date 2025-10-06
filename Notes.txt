@@ -1,0 +1,17 @@
+To import Excel .csv files:
+trial=pd.read_csv('/home/jlhb1984/py-projects/data/fuel_troubles/Tickets.csv', sep=';',encoding='latin1')
+trial.info()
+To fill null values:
+gtu922['Address'].fillna('Empty',inplace=True)
+~
+If I need work with VidFleets, I must keep only message column. After delete the others, I must order
+by columns and save as csv file.
+lrv4c716.rename(columns={'ï»¿Name': 'Driver',
+                   'EventDate': 'Unit',
+                   'EventDate_1':'Log in',
+                   'Status':'Address',
+                   'MilesDriven':'Log out',
+                   'Address ':'Address landmark',
+                   },
+          inplace=True)
+result_rows = pd.concat([df1, df2])

@@ -1,0 +1,195 @@
+﻿GroupName,UnitName,StartTime,MovingTimeSecs,MilesDriven,MaxSpeed,StopTime,textbox43,StopLengthSecs,ContactName,textbox45,textbox54,textbox28,textbox29,textbox30,textbox32,MovingTimeSecs_1,MilesDriven_1,MaxSpeed_1,StopLengthSecs_1
+,Unit: FJO660,9/06/2025 12:00 a.m.,00h:00m:00s,"0,00",1,9/06/2025 6:10:2.m.,Parked/Idle,06h:18m:44s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 6:21 a.m.,00h:00m:00s,"0,00",0,9/06/2025 6:21:4.m.,Parked/Idle,00h:00m:00s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 6:23 a.m.,00h:01m:06s,"0,00",13,9/06/2025 6:25:0.m.,Idle,00h:16m:34s,"9VW7+8H, Ibagué, Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 6:41 a.m.,00h:02m:53s,"0,00",9,9/06/2025 6:44:3.m.,Idle,00h:01m:07s,"Av 40, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 6:45 a.m.,00h:13m:51s,"0,00",45,9/06/2025 6:59:2.m.,Idle,00h:00m:21s,"Via Principal-21, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 6:59 a.m.,00h:03m:13s,"0,00",25,9/06/2025 7:03:0.m.,Idle,00h:00m:47s,"Carrera 3 #1-2, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 7:03 a.m.,00h:01m:48s,"0,00",13,9/06/2025 7:05:3.m.,Idle,00h:00m:37s,"Mz A Casa 8, Gualandayes, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 7:06 a.m.,00h:09m:19s,"0,00",5,9/06/2025 7:15:3.m.,Ign Off,01h:17m:25s,"Caã‘averal, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 8:24 a.m.,00h:00m:00s,"0,00",0,9/06/2025 8:24:5.m.,Parked/Idle,00h:00m:00s,"Caã‘averal, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 8:25 a.m.,00h:00m:51s,"0,00",6,9/06/2025 8:26:4.m.,Ign Off,00h:09m:31s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 8:35 a.m.,00h:00m:00s,"0,00",0,9/06/2025 8:35:4.m.,Parked/Idle,00h:00m:00s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 8:38 a.m.,00h:06m:12s,"0,00",18,9/06/2025 8:44:2.m.,Idle,00h:56m:11s,"Av Ambala-25, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 9:40 a.m.,00h:31m:27s,"0,00",22,9/06/2025 10:11:5.m.,Ign Off,00h:24m:29s,"Cra. 14, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 10:13 a.m.,00h:00m:00s,"0,00",0,9/06/2025 10:14:3.m.,Parked/Idle,00h:42m:17s,"Unnamed Road, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 10:56 a.m.,00h:00m:00s,"0,00",0,9/06/2025 10:56:5.m.,Parked/Idle,00h:19m:39s,"Cl113 14-54, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:19 a.m.,00h:03m:45s,"0,00",10,9/06/2025 11:23:1.m.,Idle,00h:00m:03s,"Carrera 13, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:23 a.m.,00h:00m:30s,"0,00",7,9/06/2025 11:23:4.m.,Ign Off,00h:04m:51s,"Cl120-43, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:28 a.m.,00h:00m:00s,"0,00",0,9/06/2025 11:28:3.m.,Parked/Idle,00h:00m:00s,"Cl120-43, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:29 a.m.,00h:02m:08s,"0,00",8,9/06/2025 11:32:0.m.,Idle,00h:00m:54s,"Via Principal-75, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:33 a.m.,00h:01m:25s,"0,00",17,9/06/2025 11:34:2.m.,Idle,00h:01m:13s,"Via Principal-54, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:35 a.m.,00h:16m:01s,"0,00",19,9/06/2025 11:51:3.m.,Ign Off,00h:14m:38s,"Kr5 99-16, Ibague, Tolima, COLOMBIA",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 11:53 a.m.,00h:00m:00s,"0,00",0,9/06/2025 11:53:1.m.,Parked/Idle,01h:01m:10s,"South America, Tolima",TOL,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 12:54 p.m.,00h:00m:00s,"0,00",0,9/06/2025 12:54:2.m.,Parked/Idle,00h:00m:00s,"South America, Tolima",TOL,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 12:56 p.m.,00h:04m:01s,"0,00",22,9/06/2025 1:00:1.m.,Idle,00h:00m:36s,"Cl110-87, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:00 p.m.,00h:01m:01s,"0,00",18,9/06/2025 1:01:5.m.,Idle,00h:01m:59s,"Kr8, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:03 p.m.,00h:04m:00s,"0,00",21,9/06/2025 1:07:4.m.,Idle,00h:01m:04s,"Cl74-79, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:08 p.m.,00h:00m:53s,"0,00",22,9/06/2025 1:09:4.m.,Idle,00h:00m:33s,"Av Mirolindo 2-37, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:10 p.m.,00h:01m:24s,"0,00",11,9/06/2025 1:11:4.m.,Idle,00h:00m:26s,"Av Mirolindo-85, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:12 p.m.,00h:00m:28s,"0,00",11,9/06/2025 1:12:3.m.,Idle,00h:00m:08s,"Av. Pedro Tafur, Ibagué, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:12 p.m.,00h:03m:49s,"0,00",11,9/06/2025 1:16:3.m.,Idle,00h:00m:29s,"Via Principal, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:17 p.m.,00h:01m:45s,"0,00",25,9/06/2025 1:18:4.m.,Idle,00h:08m:29s,"Via Principal-75, Ibague, Tolima, Colombia",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:27 p.m.,00h:00m:21s,"0,00",6,9/06/2025 1:27:3.m.,Idle,00h:01m:19s,"Via Principal-72, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:28 p.m.,00h:07m:38s,"0,00",24,9/06/2025 1:36:3.m.,Idle,00h:00m:22s,"Av Via Bogota-75, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:36 p.m.,00h:01m:45s,"0,00",29,9/06/2025 1:38:4.m.,Idle,00h:00m:29s,"Av Via Bogota 118-13, Ibague, Tolima",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,9/06/2025 1:39 p.m.,00h:16m:00s,"0,00",28,9/06/2025 1:55:1.m.,Ign Off,16h:24m:14s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 5:59 a.m.,00h:00m:00s,"0,00",0,10/06/2025 6:21:1.m.,Parked/Idle,01h:11m:13s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 7:13 a.m.,00h:00m:00s,"0,00",0,10/06/2025 7:13:2.m.,Parked/Idle,00h:00m:00s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 7:14 a.m.,00h:02m:03s,"0,00",10,10/06/2025 7:16:3.m.,Idle,00h:07m:32s,"Km 9 de la vía Buenos Aires - Picalena, , Tolima, Colombia",Tolima,110003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 7:24 a.m.,00h:16m:53s,"0,00",40,10/06/2025 7:40:5.m.,Idle,00h:00m:59s,"Cra. 14, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 7:41 a.m.,00h:03m:24s,"0,00",23,10/06/2025 7:45:2.m.,Idle,00h:00m:48s,"Avenida Ambalá, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 7:46 a.m.,00h:04m:39s,"0,00",8,10/06/2025 7:50:4.m.,Ign Off,00h:52m:55s,"Cl 4 ####3-68, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 8:41 a.m.,00h:00m:00s,"0,00",0,10/06/2025 8:41:4.m.,Parked/Idle,00h:00m:33s,"Cl. 97 A #6-48, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 8:45 a.m.,00h:04m:27s,"0,00",9,10/06/2025 8:49:4.m.,Ign Off,00h:11m:43s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 9:00 a.m.,00h:00m:00s,"0,00",0,10/06/2025 9:00:5.m.,Parked/Idle,00h:59m:33s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 10:00 a.m.,00h:00m:00s,"0,00",0,10/06/2025 10:00:2.m.,Parked/Idle,00h:03m:24s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 10:06 a.m.,00h:05m:45s,"0,00",25,10/06/2025 10:12:3.m.,Idle,00h:00m:55s,"Kr5, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 10:13 a.m.,00h:01m:41s,"0,00",16,10/06/2025 10:15:1.m.,Idle,00h:01m:06s,"Cra. 5, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 10:16 a.m.,00h:00m:37s,"0,00",6,10/06/2025 10:16:5.m.,Idle,00h:02m:19s,"Kr8, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 10:19 a.m.,00h:05m:40s,"0,00",4,10/06/2025 10:24:5.m.,Ign Off,02h:35m:22s,"Cra. 5ª A #36, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 12:54 p.m.,00h:00m:00s,"0,00",0,10/06/2025 12:54:5.m.,Parked/Idle,00h:06m:39s,"Cra. 5A #36, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:04 p.m.,00h:01m:34s,"0,00",13,10/06/2025 1:06:1.m.,Idle,00h:00m:23s,"Cra. 5, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:06 p.m.,00h:02m:10s,"0,00",19,10/06/2025 1:08:4.m.,Idle,00h:00m:28s,"Kr8-46, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:09 p.m.,00h:01m:03s,"0,00",11,10/06/2025 1:10:1.m.,Idle,00h:03m:40s,"Kr8, Ibague, Tolima, Colombia",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:13 p.m.,00h:00m:21s,"0,00",4,10/06/2025 1:14:1.m.,Idle,00h:13m:07s,"Cra. 8, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:27 p.m.,00h:11m:48s,"0,00",33,10/06/2025 1:39:1.m.,Idle,00h:00m:30s,"Av 40, Ibague, Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:39 p.m.,00h:10m:14s,"0,00",22,10/06/2025 1:49:5.m.,Ign Off,00h:07m:34s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,10/06/2025 1:50 p.m.,00h:00m:00s,"0,00",4,10/06/2025 1:50:1.m.,Parked/Idle,17h:04m:03s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 6:54 a.m.,00h:00m:00s,"0,00",0,11/06/2025 6:56:5.m.,Parked/Idle,00h:24m:58s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 7:21 a.m.,00h:00m:00s,"0,00",0,11/06/2025 7:21:5.m.,Parked/Idle,00h:12m:29s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 7:37 a.m.,00h:01m:34s,"0,00",11,11/06/2025 7:38:5.m.,Idle,00h:04m:41s,"9VW7+8H, Ibagué, Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 7:43 a.m.,00h:03m:38s,"0,00",14,11/06/2025 7:47:1.m.,Idle,00h:00m:13s,"Av 40, Ibague, Tolima, Colombia",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 7:47 a.m.,00h:11m:19s,"0,00",45,11/06/2025 7:58:4.m.,Idle,00h:00m:57s,"Kr8, Ibague, Tolima, Colombia",Tol,730007,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 7:59 a.m.,00h:18m:38s,"0,00",28,11/06/2025 8:18:2.m.,Idle,00h:01m:00s,"Carrera 9 #19-2 a 19-144, Ibagué, Ibagué, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 8:19 a.m.,00h:09m:58s,"0,00",11,11/06/2025 8:29:2.m.,Idle,00h:00m:38s,"FQ79+28 Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 8:29 a.m.,00h:00m:39s,"0,00",8,11/06/2025 8:30:3.m.,Idle,00h:00m:37s,"FQ79+MC Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 8:31 a.m.,00h:01m:29s,"0,00",6,11/06/2025 8:32:4.m.,Idle,00h:04m:03s,"FQ89+5W Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 8:36 a.m.,00h:12m:58s,"0,00",5,11/06/2025 8:49:4.m.,Ign Off,00h:13m:05s,"FQ9C+GH Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 8:50 a.m.,00h:00m:00s,"0,00",0,11/06/2025 8:51:0.m.,Parked/Idle,00h:50m:45s,"FQ9C+WX, Ibagué, Ibague, Tolima, Colombia",Tolima,730019,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 9:41 a.m.,00h:00m:00s,"0,00",0,11/06/2025 9:42:1.m.,Parked/Idle,06h:02m:42s,"FQ9C+WX, Ibagué, Ibague, Tolima, Colombia",Tolima,730019,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 3:44 p.m.,00h:00m:00s,"0,00",0,11/06/2025 3:44:5.m.,Parked/Idle,00h:13m:19s,"FQ9C+WX, Ibagué, Ibague, Tolima, Colombia",Tolima,730019,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:01 p.m.,00h:00m:23s,"0,00",8,11/06/2025 4:01:3.m.,Idle,00h:01m:05s,"FQ69+J6 Ibague, Tolima, Colombia",Tolima,730019,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:02 p.m.,00h:00m:14s,"0,00",8,11/06/2025 4:02:5.m.,Idle,00h:00m:32s,"FQ69+87 Ibague, Tolima, Colombia",Tolima,730019,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:03 p.m.,00h:07m:20s,"0,00",14,11/06/2025 4:10:4.m.,Ign Off,00h:17m:06s,"Cl16a 10-17, Ibague, Tolima, Colombia",TOL,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:27 p.m.,00h:00m:00s,"0,00",0,11/06/2025 4:27:5.m.,Parked/Idle,00h:00m:00s,"Cl16a 10-17, Ibague, Tolima, Colombia",TOL,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:28 p.m.,00h:02m:45s,"0,00",13,11/06/2025 4:31:1.m.,Idle,00h:00m:33s,"Cl19 6-38, Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:31 p.m.,00h:00m:37s,"0,00",10,11/06/2025 4:32:2.m.,Idle,00h:00m:34s,"Cl19 4-28, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:32 p.m.,00h:00m:31s,"0,00",15,11/06/2025 4:33:3.m.,Idle,00h:01m:47s,"Cl19 3-35, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:35 p.m.,00h:00m:33s,"0,00",19,11/06/2025 4:35:5.m.,Idle,00h:00m:22s,"Glorieta-14, Ibague, Tolima, COLOMBIA",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:36 p.m.,00h:01m:10s,"0,00",9,11/06/2025 4:37:2.m.,Idle,00h:00m:32s,"Kr1as 17d-97, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:37 p.m.,00h:19m:50s,"0,00",40,11/06/2025 4:57:4.m.,Idle,00h:00m:41s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,11/06/2025 4:58 p.m.,04h:28m:08s,"0,00",8,11/06/2025 9:26:3.m.,Idle/Ign Off,11h:25m:20s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 8:07 a.m.,00h:00m:00s,"0,00",0,12/06/2025 8:07:1.m.,Parked/Idle,00h:08m:57s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 8:19 a.m.,00h:02m:40s,"0,00",11,12/06/2025 8:21:4.m.,Idle,00h:05m:55s,"Km 9 de la vía Buenos Aires - Picalena, , Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 8:27 a.m.,00h:15m:27s,"0,00",42,12/06/2025 8:43:1.m.,Idle,00h:00m:41s,"Via Principal-38, Ibague, Tolima",Tol,110003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 8:43 a.m.,00h:05m:34s,"0,00",26,12/06/2025 8:49:2.m.,Idle,02h:01m:24s,"Cañaveral, Ibagué, Ibagué, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 10:50 a.m.,00h:01m:48s,"0,00",20,12/06/2025 10:52:3.m.,Idle,00h:00m:29s,"Glorieta-16, Ibague, Tolima, Colombia",Tolima,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 10:53 a.m.,00h:02m:49s,"0,00",22,12/06/2025 10:55:5.m.,Idle,00h:00m:51s,"Cl77 9-63, Ibague, Tolima",Tol,730002,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 10:56 a.m.,00h:00m:24s,"0,00",11,12/06/2025 10:57:1.m.,Idle,00h:01m:54s,"Cl77 8a-84, Ibague, Tolima, Colombia",Tol,730002,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 10:59 a.m.,00h:00m:19s,"0,00",6,12/06/2025 10:59:2.m.,Idle,00h:00m:04s,"Cl. 71 #6a-2 a 6a-38, Ibagué, Ibagué, Tolima, Colombia",Tolima,730002,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 10:59 a.m.,00h:00m:41s,"0,00",8,12/06/2025 11:00:0.m.,Idle,00h:01m:28s,"Cra. 5 #71-2, Ibagué, Ibagué, Tolima, Colombia",Tolima,730002,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 11:01 a.m.,00h:00m:25s,"0,00",27,12/06/2025 11:02:0.m.,Idle,00h:24m:37s,"Kr5 76-24, Ibague, Tolima, Colombia",TOL,730002,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 11:26 a.m.,00h:09m:38s,"0,00",24,12/06/2025 11:36:1.m.,Idle,00h:01m:23s,"Kr2 113a-47, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 11:37 a.m.,00h:22m:20s,"0,00",8,12/06/2025 12:00:0.m.,Ign Off,01h:53m:02s,"Cl119 2-47, Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:31 p.m.,00h:00m:00s,"0,00",0,12/06/2025 1:31:4.m.,Parked/Idle,00h:00m:00s,"Cl119 2-47, Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:33 p.m.,00h:05m:59s,"0,00",12,12/06/2025 1:39:4.m.,Idle,00h:01m:43s,"Cl99 4b-84, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:41 p.m.,00h:00m:40s,"0,00",26,12/06/2025 1:42:1.m.,Idle,00h:00m:50s,"Kr5-11, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:43 p.m.,00h:02m:38s,"0,00",25,12/06/2025 1:45:3.m.,Idle,00h:00m:41s,"Av Jordan 71-30, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:46 p.m.,00h:00m:21s,"0,00",5,12/06/2025 1:46:4.m.,Idle,00h:01m:16s,"Av Jordan-60, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:47 p.m.,00h:00m:48s,"0,00",22,12/06/2025 1:48:4.m.,Idle,00h:00m:43s,"Av Jordan-81, Ibague, Tolima",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:49 p.m.,00h:01m:43s,"0,00",19,12/06/2025 1:51:1.m.,Idle,00h:01m:28s,"Av Jordan-14, Ibague, Tolima, Colombia",Tol,730004,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:52 p.m.,00h:03m:44s,"0,00",22,12/06/2025 1:56:2.m.,Idle,00h:00m:25s,"Carrera 5 #42-1 a 42-111, Ibagué, Ibagué, Tolima, Colombia",Tolima,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:56 p.m.,00h:01m:15s,"0,00",18,12/06/2025 1:58:0.m.,Idle,00h:00m:50s,"Kr5 37-33, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 1:58 p.m.,00h:01m:50s,"0,00",28,12/06/2025 2:00:4.m.,Idle,00h:00m:42s,"Kr5 25-51, Ibague, Tolima, Colombia",TOL,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:01 p.m.,00h:01m:20s,"0,00",19,12/06/2025 2:02:4.m.,Idle,00h:20m:30s,"Kr5 21-26, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:23 p.m.,00h:00m:38s,"0,00",21,12/06/2025 2:23:5.m.,Idle,00h:00m:02s,"Carrera 6 # 17-2 a 17-100, Ibagué, Tolima, Colombia",Tolima,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:23 p.m.,00h:00m:29s,"0,00",11,12/06/2025 2:24:2.m.,Idle,00h:00m:35s,"Carrera 6 # 18-1 a 18-99, Ibagué, Tolima, Colombia",Tolima,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:24 p.m.,00h:01m:23s,"0,00",17,12/06/2025 2:26:2.m.,Idle,00h:00m:47s,"Cl19 3-31, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:27 p.m.,00h:02m:37s,"0,00",8,12/06/2025 2:29:4.m.,Ign Off,00h:05m:40s,"Cl18 3-6, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 2:33 p.m.,00h:00m:00s,"0,00",0,12/06/2025 2:38:3.m.,Parked/Idle,00h:54m:56s,"Cl18 2a-70, Ibague, Tolima, Colombia",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:30 p.m.,00h:00m:00s,"0,00",0,12/06/2025 3:30:5.m.,Parked/Idle,00h:00m:00s,"Cl18 2a-50, Ibague, Tolima, Colombia",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:31 p.m.,00h:01m:07s,"0,00",18,12/06/2025 3:32:5.m.,Idle,00h:00m:44s,"Cl19 3a-43, Ibague, Tolima, Colombia",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:33 p.m.,00h:01m:06s,"0,00",14,12/06/2025 3:34:4.m.,Idle,00h:00m:47s,"Kr5 20-60, Ibague, Tolima, Colombia",Tolima,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:35 p.m.,00h:00m:31s,"0,00",18,12/06/2025 3:36:0.m.,Idle,00h:00m:25s,"Kr5 22-58, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:36 p.m.,00h:00m:31s,"0,00",18,12/06/2025 3:37:0.m.,Idle,00h:00m:41s,"Kr5 24-63, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:37 p.m.,00h:02m:38s,"0,00",21,12/06/2025 3:40:2.m.,Idle,00h:13m:46s,"Kr5 32-80, Ibague, Tolima",Tol,730001,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:54 p.m.,00h:00m:47s,"0,00",8,12/06/2025 3:54:5.m.,Idle,00h:01m:09s,"Kr5 36-25, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:56 p.m.,00h:01m:35s,"0,00",9,12/06/2025 3:57:3.m.,Idle,00h:00m:38s,"Kr5 41a-34, Ibague, Tolima, Colombia",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 3:58 p.m.,00h:04m:25s,"0,00",21,12/06/2025 4:02:4.m.,Idle,00h:01m:10s,"Av Jordan-78, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:03 p.m.,00h:01m:55s,"0,00",21,12/06/2025 4:05:4.m.,Idle,00h:00m:45s,"Av Jordan-44, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:06 p.m.,00h:04m:05s,"0,00",21,12/06/2025 4:10:3.m.,Idle,00h:00m:56s,"Kr5 85-34, Ibague, Tolima",Tol,730006,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:11 p.m.,00h:09m:22s,"0,00",27,12/06/2025 4:20:5.m.,Idle,00h:00m:57s,"Km 3 de la vía Santa Rita - Ibague, , Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:21 p.m.,00h:09m:21s,"0,00",28,12/06/2025 4:31:1.m.,Idle,00h:20m:58s,"Km 10 de la vía Buenos Aires - Picalena, , Tolima",Tol,730003,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:52 p.m.,00h:02m:44s,"0,00",19,12/06/2025 4:54:5.m.,Idle,00h:04m:20s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,12/06/2025 4:59 p.m.,00h:01m:26s,"0,00",27,12/06/2025 5:00:4.m.,Ign Off,13h:20m:34s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 6:03 a.m.,00h:00m:00s,"0,00",0,13/06/2025 6:03:3.m.,Parked/Idle,01h:15m:23s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:19 a.m.,00h:00m:00s,"0,00",0,13/06/2025 7:20:0.m.,Parked/Idle,00h:12m:01s,"617(SEDE PRINCIPAL)
+Carrera 19A Sur ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:32 a.m.,00h:00m:00s,"0,00",0,13/06/2025 7:32:0.m.,Parked/Idle,00h:01m:42s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:36 a.m.,00h:06m:25s,"0,00",22,13/06/2025 7:43:1.m.,Idle,00h:00m:02s,"Km 1 de la vía Picalena - Santa Rita, , Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:43 a.m.,00h:00m:37s,"0,00",7,13/06/2025 7:43:5.m.,Idle,00h:01m:54s,"Km 1 de la vía Picalena - Santa Rita, , Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:45 a.m.,00h:00m:22s,"0,00",9,13/06/2025 7:46:0.m.,Idle,00h:00m:07s,"Km 1 de la vía Picalena - Santa Rita, , Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 7:46 a.m.,00h:07m:22s,"0,00",21,13/06/2025 7:53:3.m.,Idle,00h:11m:58s,"Km 9 de la vía Buenos Aires - Picalena, , Tolima, Colombia",Tol,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:05 a.m.,00h:36m:40s,"0,00",43,13/06/2025 8:42:1.m.,Idle,00h:00m:38s,"Km 28 de la vía Ibague - Cajamarca, , Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:42 a.m.,00h:00m:38s,"0,00",9,13/06/2025 8:43:3.m.,Idle,00h:00m:16s,"CM7C+GH Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:43 a.m.,00h:00m:33s,"0,00",12,13/06/2025 8:44:2.m.,Idle,00h:00m:07s,"CM8C+3R Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:44 a.m.,00h:00m:28s,"0,00",8,13/06/2025 8:44:5.m.,Idle,00h:00m:55s,"CM7C+XF Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:45 a.m.,00h:00m:23s,"0,00",9,13/06/2025 8:46:1.m.,Idle,00h:00m:04s,"CM8C+7G Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:46 a.m.,00h:00m:39s,"0,00",11,13/06/2025 8:46:5.m.,Idle,00h:00m:43s,"CM7C+V3 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:47 a.m.,00h:01m:00s,"0,00",12,13/06/2025 8:48:4.m.,Idle,00h:00m:56s,"CM89+42 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 8:49 a.m.,00h:08m:01s,"0,00",10,13/06/2025 8:57:3.m.,Ign Off,00h:18m:25s,"CMCF+R2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 9:15 a.m.,00h:00m:00s,"0,00",0,13/06/2025 9:15:2.m.,Parked/Idle,00h:00m:09s,"CMCF+V2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 9:15 a.m.,00h:00m:00s,"0,00",0,13/06/2025 9:15:4.m.,Parked/Idle,01h:48m:57s,"CMCF+V2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:04 a.m.,00h:00m:00s,"0,00",0,13/06/2025 11:04:4.m.,Parked/Idle,00h:00m:00s,"CMCF+V2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:05 a.m.,00h:00m:36s,"0,00",6,13/06/2025 11:06:1.m.,Idle,00h:00m:17s,"CMCC+XM Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:06 a.m.,00h:01m:05s,"0,00",6,13/06/2025 11:07:3.m.,Idle,00h:01m:53s,"CMCC+W4 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:09 a.m.,00h:00m:49s,"0,00",6,13/06/2025 11:10:1.m.,Idle,00h:03m:39s,"CMC9+F9 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:13 a.m.,00h:00m:40s,"0,00",6,13/06/2025 11:14:3.m.,Idle,00h:00m:11s,"CMC9+RV Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:14 a.m.,00h:03m:48s,"0,00",6,13/06/2025 11:18:3.m.,Ign Off,00h:38m:06s,"CMCC+X8 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:53 a.m.,00h:00m:00s,"0,00",0,13/06/2025 11:53:4.m.,Parked/Idle,00h:00m:00s,"CMCC+X5 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:54 a.m.,00h:00m:39s,"0,00",8,13/06/2025 11:55:1.m.,Idle,00h:00m:29s,"CMCC+XR Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:55 a.m.,00h:00m:34s,"0,00",8,13/06/2025 11:56:1.m.,Idle,00h:00m:15s,"CMCF+V2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:56 a.m.,00h:00m:10s,"0,00",7,13/06/2025 11:56:3.m.,Idle,00h:00m:07s,"CMCC+PQ Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:56 a.m.,00h:00m:30s,"0,00",8,13/06/2025 11:57:1.m.,Idle,00h:00m:41s,"CMCF+P5 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:57 a.m.,00h:00m:09s,"0,00",8,13/06/2025 11:58:0.m.,Idle,00h:01m:21s,"CMCF+VJ Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:59 a.m.,00h:00m:14s,"0,00",9,13/06/2025 11:59:4.m.,Idle,00h:00m:13s,"CMCF+F9 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 11:59 a.m.,00h:06m:00s,"0,00",11,13/06/2025 12:05:5.m.,Idle,00h:00m:02s,"CM79+R2 Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:05 p.m.,00h:04m:52s,"0,00",9,13/06/2025 12:10:4.m.,Idle,00h:00m:05s,"CM7C+FG Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:10 p.m.,00h:00m:25s,"0,00",6,13/06/2025 12:11:1.m.,Idle,00h:00m:13s,"CM7C+MQ Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:11 p.m.,00h:00m:26s,"0,00",6,13/06/2025 12:11:5.m.,Idle,00h:00m:05s,"CM7C+FQ Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:12 p.m.,00h:00m:44s,"0,00",6,13/06/2025 12:12:4.m.,Idle,00h:00m:18s,"CM7C+6M Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:13 p.m.,00h:12m:24s,"0,00",29,13/06/2025 12:25:2.m.,Idle,00h:00m:31s,"Av 40, Ibague, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:25 p.m.,00h:20m:26s,"0,00",41,13/06/2025 12:46:2.m.,Idle,00h:01m:59s,"Rovira-26, Ibague, Tolima",Tol,730009,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:48 p.m.,00h:03m:23s,"0,00",21,13/06/2025 12:51:4.m.,Idle,00h:02m:02s,"9R5G+3P Ibague, Tolima, Colombia",Tolima,730009,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 12:53 p.m.,00h:05m:21s,"0,00",10,13/06/2025 12:59:0.m.,Ign Off,00h:11m:18s,"9R3H+Q5 Ibague, Tolima, Colombia",Tolima,730009,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 1:06 p.m.,00h:00m:00s,"0,00",0,13/06/2025 1:06:3.m.,Parked/Idle,00h:54m:36s,"Rovira, Ibague, Tolima, Colombia",Tolima,730009,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 2:01 p.m.,00h:00m:00s,"0,00",0,13/06/2025 2:01:0.m.,Parked/Idle,00h:00m:00s,"Rovira, Ibague, Tolima, Colombia",Tolima,730009,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 2:01 p.m.,00h:20m:30s,"0,00",31,13/06/2025 2:22:1.m.,Idle,00h:01m:34s,"Av 40, Ibague, Tolima",Tol,730008,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 2:23 p.m.,00h:02m:18s,"0,00",6,13/06/2025 2:26:0.m.,Idle,01h:20m:59s,"Av 40, Ibague, Tolima, Colombia",Tol,730008,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 3:47 p.m.,00h:02m:59s,"0,00",26,13/06/2025 3:50:0.m.,Idle,00h:00m:28s,"Av Via Bogota 117-33, Ibague, Tolima",Tol,730008,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 3:50 p.m.,00h:03m:17s,"0,00",26,13/06/2025 3:53:4.m.,Idle,00h:00m:18s,"Av 40, Ibague, Tolima",Tol,730008,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 3:54 p.m.,00h:01m:59s,"0,00",10,13/06/2025 3:56:0.m.,Idle,00h:00m:35s,"40TL, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 3:56 p.m.,00h:00m:51s,"0,00",6,13/06/2025 3:57:3.m.,Ign Off,00h:08m:57s,"Unnamed Road, Ibagué, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 4:06 p.m.,00h:00m:00s,"0,00",0,13/06/2025 4:06:1.m.,Parked/Idle,00h:35m:01s,"Unnamed Road, Ibagué, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 4:41 p.m.,00h:00m:00s,"0,00",0,13/06/2025 4:41:1.m.,Parked/Idle,00h:00m:00s,"Unnamed Road, Ibagué, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 4:42 p.m.,00h:01m:12s,"0,00",7,13/06/2025 4:43:2.m.,Idle,00h:01m:43s,"40TL, Ibagué, Tolima, Colombia",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+,Unit: FJO660,13/06/2025 4:45 p.m.,00h:09m:03s,"0,00",18,13/06/2025 4:54:1.m.,Ign Off,00h:05m:43s,"BODEGA PRINCIPAL IBAGUE
+Avenida Picaleña ",Tolima,730005,14h:29m:12s,"0,00",45,100h:41m:03s,14h:29m:12s,"0,00",45,100h:41m:03s
+

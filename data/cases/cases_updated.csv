@@ -1,0 +1,16 @@
+TicketID;Subject;Encargado;Date Opened;Reuniones;Detalles;JIRA
+TS000160636;INTEGRACION PLATAFORMA PX CON ERP;;;;;
+TS000159323;Migracion Modulo de Mantenimiento a Ignition (Cloud);Freddy;;;;https://gpstrackit.atlassian.net/browse/TSO-3533
+TS000151929;Solicitud de Creacion de Paquetes para Venta de PX en LATAM;Freddy;07 Apr 2025 8:14 AM;Pendiente;Reunión suspendida, consultar de nuevo con Harold y Freddy;
+TS000158203;SOLICITUD INTEGRACION PLATAFORMA PRIMAX;Freddy;31 Jul 2025 5:35 PM;;Consultar con Dan Ocampo;
+TS000158202;SOLICITUD INTEGRACION PLATAFORMA PRIMAX;Freddy;31 Jul 2025 5:31 PM;;Consultar con Dan Ocampo;
+TS000157185;Cliente requiere  integracion de APIS CON SU ERP;Freddy;10 Jul 2025 2:59 PM;;Consultar con Freddy, según reunión 15-07-2025, caso de Paola;
+TS000156737;Solicitud de integración con sistema empresarial de Corporación de transportes Bonilla Nano;Freddy;03 Jul 2025 12:09 PM;13/08/2025;Bonansa;
+TS000156629;Migracion a PX Santa Anita.;Freddy;02 Jul 2025 9:08 AM;;Consultar a Ana Guerrero;
+TS000158824;Retransmisión por  API, Beton Decken;Freddy;8/13/2025 3:06:46 PM;;El cliente no asistió, envié mail 25082025;
+TS000158948;metodos de consumo de api rest - SERVICIOS AEROPORTUARIOS ANDINOS SA;Freddy;8/15/2025 10:14:02 AM;;Consultar a Freddy y agendar reunión;
+TS000158824;Retransmisión por  API;Freddy;8/13/2025 3:06:46 PM;;;
+TS000159471;INTEGRACION PLATAFORMA CEMEX;Freddy;26 Aug 2025 11:31 AM;;;
+TS000159520;Integración - Sistema TMS / Tottus / EXACTA;Jose Hidalgo;;;;
+TS000157662;Novedad de conexión en Avansat TMS.;;;;;
+TS000157022;CLIENTE INDICA QUE TIENE 3 UNIDADES Q NO SINCRONIZAN EN LA PLATAFORMA CLOUDFLEET;;;;;

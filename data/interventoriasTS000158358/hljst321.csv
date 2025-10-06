@@ -1,0 +1,44 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+43;JST321;Parked;Aug 04 2025 11:23 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740104675;-74.5777893066
+42;JST321;Parked;Aug 04 2025 10:23 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740104675;-74.5777893066
+41;JST321;Parked;Aug 04 2025 09:23 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740104675;-74.5777893066
+40;JST321;Ignition OFF;Aug 04 2025 08:23 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9740104675;-74.5777893066
+39;JST321;Drive;Aug 04 2025 08:23 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;9;N/A;;5.9740166664;-74.5777587891
+38;JST321;Idle - Stop;Aug 04 2025 08:22 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;6;N/A;;5.9732336998;-74.5780487061
+37;JST321;Drive;Aug 04 2025 08:21 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;14;N/A;;5.9723348618;-74.5748596191
+36;JST321;Idle - Stop;Aug 04 2025 08:20 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;4;N/A;;5.9718594551;-74.5748367310
+35;JST321;Idle - Stop;Aug 04 2025 08:19 PM;;Cra. 5 #30-48, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9717955589;-74.5748825073
+34;JST321;Ignition ON;Aug 04 2025 08:18 PM;;Cra. 5 #30-48, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9717955589;-74.5748825073
+33;JST321;Parked;Aug 04 2025 07:58 PM;;Cra. 5 #30-48, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9717955589;-74.5748825073
+32;JST321;Ignition OFF;Aug 04 2025 06:58 PM;;Cra. 5 #30-48, Puerto Boyacá, Boyacá, Colombia;0;N/A;;5.9717955589;-74.5748825073
+31;JST321;Idle - Stop;Aug 04 2025 06:57 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;6;N/A;;5.9718413353;-74.5748291016
+30;JST321;Idle - Stop;Aug 04 2025 06:57 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;4;N/A;;5.9722051620;-74.5747451782
+29;JST321;Drive;Aug 04 2025 06:57 PM;;Carrera 5, Puerto Boyacá, Boyacá, Colombia;19;N/A;;5.9722948074;-74.5749969482
+28;JST321;Idle - Stop;Aug 04 2025 06:56 PM;;Carrera 5, Puerto Boyacá, Boyacá, Colombia;6;N/A;;5.9728980064;-74.5776290894
+27;JST321;Drive;Aug 04 2025 06:55 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá;19;N/A;;5.9740729332;-74.5772399902
+26;JST321;Idle - Stop;Aug 04 2025 06:55 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;8;N/A;;5.9743533134;-74.5771560669
+25;JST321;Drive;Aug 04 2025 06:55 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;9;N/A;;5.9744386673;-74.5775299072
+24;JST321;Ignition ON;Aug 04 2025 06:54 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+23;JST321;Ignition OFF;Aug 04 2025 05:56 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+22;JST321;Idle - Stop;Aug 04 2025 05:56 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+21;JST321;Idle - Stop;Aug 04 2025 05:55 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+20;JST321;Idle - Stop;Aug 04 2025 05:54 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+19;JST321;Ignition ON;Aug 04 2025 05:53 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+18;JST321;Parked;Aug 04 2025 05:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+17;JST321;Parked;Aug 04 2025 04:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+16;JST321;Parked;Aug 04 2025 03:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+15;JST321;Parked;Aug 04 2025 02:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+14;JST321;Parked;Aug 04 2025 01:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+13;JST321;Parked;Aug 04 2025 12:28 PM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+12;JST321;Parked;Aug 04 2025 11:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+11;JST321;Parked;Aug 04 2025 10:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+10;JST321;Parked;Aug 04 2025 09:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+9;JST321;Parked;Aug 04 2025 08:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+8;JST321;Parked;Aug 04 2025 07:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+7;JST321;Parked;Aug 04 2025 06:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+6;JST321;Parked;Aug 04 2025 05:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+5;JST321;Parked;Aug 04 2025 04:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+4;JST321;Parked;Aug 04 2025 03:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+3;JST321;Parked;Aug 04 2025 02:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+2;JST321;Parked;Aug 04 2025 01:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185
+1;JST321;Parked;Aug 04 2025 12:28 AM;;Km 63 de la vía Puerto Salgar - Puerto Boyaca, , Boyacá, Colombia;0;N/A;;5.9739437103;-74.5777664185

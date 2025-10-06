@@ -1,0 +1,226 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+225;DGZ415;Parked;Jun 24 2025 09:27 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502670000;-75.1748270000
+224;DGZ415;Parked;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502670000;-75.1748270000
+223;DGZ415;Towing/Drifting?;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502670000;-75.1748270000
+222;DGZ415;Ignition OFF;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502670000;-75.1748270000
+221;DGZ415;Idle - Stop;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502670000;-75.1748270000
+220;DGZ415;Idle - Stop;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502550000;-75.1748530000
+219;DGZ415;Idle - Stop;Jun 24 2025 09:26 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5502120000;-75.1748800000
+218;DGZ415;Idle - Stop;Jun 24 2025 09:25 AM;;HR2G+43 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5502080000;-75.1747710000
+217;DGZ415;Idle - Stop;Jun 24 2025 09:24 AM;;67R6HR2G+4H;0;N/A;;6.5503670000;-75.1735750000
+216;DGZ415;Idle - Stop;Jun 24 2025 09:24 AM;;HR2G+5J Santo Domingo, Antioquia, Colombia;0;N/A;;6.5504000000;-75.1734620000
+215;DGZ415;Idle - Stop;Jun 24 2025 09:24 AM;;South America, Antioquia;0;N/A;;6.5503830000;-75.1733870000
+214;DGZ415;Idle - Stop;Jun 24 2025 09:23 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5501520000;-75.1730840000
+213;DGZ415;Idle - Stop;Jun 24 2025 09:23 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5501520000;-75.1730840000
+212;DGZ415;Idle - Stop;Jun 24 2025 09:23 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;0;N/A;;6.5501520000;-75.1730840000
+211;DGZ415;Idle - Stop;Jun 24 2025 09:22 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia;0;N/A;;6.5500620000;-75.1729850000
+210;DGZ415;Drive;Jun 24 2025 09:22 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia;12;N/A;;6.5499910000;-75.1729530000
+209;DGZ415;Drive;Jun 24 2025 09:22 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia;30;N/A;;6.5495810000;-75.1735970000
+208;DGZ415;Drive;Jun 24 2025 09:21 AM;;Km 31 de la vía Barbosa - Puerto Berrio, , Antioquia;28;N/A;;6.5493920000;-75.1767020000
+207;DGZ415;Drive;Jun 24 2025 09:21 AM;;Av 62, Barbosa, Antioquia;12;N/A;;6.5493630000;-75.1770710000
+206;DGZ415;Idle - Stop;Jun 24 2025 09:21 AM;;GRXF+R5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5495440000;-75.1771100000
+205;DGZ415;Idle - Stop;Jun 24 2025 09:21 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5498430000;-75.1770290000
+204;DGZ415;End Speeding;Jun 24 2025 09:20 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;6;N/A;;6.5499610000;-75.1767350000
+203;DGZ415;Idle - Stop;Jun 24 2025 09:20 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499610000;-75.1767350000
+202;DGZ415;Idle - Stop;Jun 24 2025 09:20 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499690000;-75.1766290000
+201;DGZ415;Idle - Stop;Jun 24 2025 09:20 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+200;DGZ415;Ignition ON;Jun 24 2025 09:20 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+199;DGZ415;Parked;Jun 24 2025 09:00 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+198;DGZ415;Parked;Jun 24 2025 08:00 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+197;DGZ415;Parked;Jun 24 2025 07:59 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+196;DGZ415;Towing/Drifting?;Jun 24 2025 07:59 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+195;DGZ415;Ignition OFF;Jun 24 2025 07:59 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499530000;-75.1766860000
+194;DGZ415;Idle - Stop;Jun 24 2025 07:59 AM;;GRXF+X8 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499520000;-75.1767450000
+193;DGZ415;Idle - Stop;Jun 24 2025 07:59 AM;;GRXF+X6 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499380000;-75.1768120000
+192;DGZ415;Idle - Stop;Jun 24 2025 07:59 AM;;GRXF+X5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499170000;-75.1771070000
+191;DGZ415;Idle - Stop;Jun 24 2025 07:58 AM;;GRXF+X6 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5499110000;-75.1769920000
+190;DGZ415;Idle - Stop;Jun 24 2025 07:58 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+189;DGZ415;Idle - Stop;Jun 24 2025 07:58 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+188;DGZ415;Ignition ON;Jun 24 2025 07:58 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+187;DGZ415;Parked;Jun 24 2025 07:20 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+186;DGZ415;Parked;Jun 24 2025 07:20 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+185;DGZ415;Ignition OFF;Jun 24 2025 07:20 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+184;DGZ415;Idle - Stop;Jun 24 2025 07:19 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+183;DGZ415;Idle - Stop;Jun 24 2025 07:19 AM;;GRXF+W5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5497800000;-75.1771120000
+182;DGZ415;Idle - Stop;Jun 24 2025 07:18 AM;;GRXF+R5 Santo Domingo, Antioquia, Colombia;0;N/A;;6.5495950000;-75.1771080000
+181;DGZ415;Idle - Stop;Jun 24 2025 07:18 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.5493840000;-75.1771830000
+180;DGZ415;Drive;Jun 24 2025 07:17 AM;;Av 62, Barbosa, Antioquia, Colombia;19;N/A;;6.5492860000;-75.1774340000
+179;DGZ415;Drive;Jun 24 2025 07:17 AM;;I-62, Santo Domingo, Antioquia, Colombia;17;N/A;;6.5492290000;-75.1781120000
+178;DGZ415;Drive;Jun 24 2025 07:16 AM;;Av 62, Barbosa, Antioquia, Colombia;20;N/A;;6.5488150000;-75.1783580000
+177;DGZ415;Drive;Jun 24 2025 07:16 AM;;Av 62, Barbosa, Antioquia, Colombia;33;N/A;;6.5486900000;-75.1791680000
+176;DGZ415;Drive;Jun 24 2025 07:15 AM;;Av 62, Barbosa, Antioquia, Colombia;75;N/A;;6.5483970000;-75.1881910000
+175;DGZ415;Drive;Jun 24 2025 07:14 AM;;Av 62, Barbosa, Antioquia, Colombia;65;N/A;;6.5496320000;-75.1978610000
+174;DGZ415;Drive;Jun 24 2025 07:13 AM;;Km 27 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;67;N/A;;6.5521330000;-75.2074810000
+173;DGZ415;Drive;Jun 24 2025 07:12 AM;;GQXM+58 Don Matías, Antioquia, Colombia;82;N/A;;6.5478690000;-75.2167880000
+172;DGZ415;Drive;Jun 24 2025 07:11 AM;;GQXC+JW Don Matías, Antioquia, Colombia;72;N/A;;6.5490190000;-75.2277520000
+171;DGZ415;Drive;Jun 24 2025 07:11 AM;;Km 23 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;61;N/A;;6.5490450000;-75.2302420000
+170;DGZ415;Drive;Jun 24 2025 07:10 AM;;Km 23 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;70;N/A;;6.5433240000;-75.2351370000
+169;DGZ415;Drive;Jun 24 2025 07:10 AM;;GQV7+5R Don Matías, Antioquia, Colombia;67;N/A;;6.5429270000;-75.2354960000
+168;DGZ415;Drive;Jun 24 2025 07:10 AM;;GQQ7+58 Don Matías, Antioquia, Colombia;78;N/A;;6.5379560000;-75.2366380000
+167;DGZ415;Drive;Jun 24 2025 07:09 AM;;GQM6+M6 Don Matías, Antioquia, Colombia;67;N/A;;6.5342410000;-75.2394720000
+166;DGZ415;Drive;Jun 24 2025 07:09 AM;;GQJ4+46 Santo Domingo, Antioquia, Colombia;59;N/A;;6.5303360000;-75.2444360000
+165;DGZ415;Drive;Jun 24 2025 07:08 AM;;GQH3+4V Santo Domingo, Antioquia, Colombia;51;N/A;;6.5278370000;-75.2453040000
+164;DGZ415;Drive;Jun 24 2025 07:08 AM;;GQG3+JX Santo Domingo, Antioquia, Colombia;59;N/A;;6.5265370000;-75.2451200000
+163;DGZ415;Drive;Jun 24 2025 07:08 AM;;Av 62, Barbosa, Antioquia, Colombia;67;N/A;;6.5241730000;-75.2474240000
+162;DGZ415;Drive;Jun 24 2025 07:07 AM;;Av 62, Barbosa, Antioquia, Colombia;61;N/A;;6.5205130000;-75.2502010000
+161;DGZ415;Drive;Jun 24 2025 07:07 AM;;GP9X+MR Santo Domingo, Antioquia, Colombia;59;N/A;;6.5191070000;-75.2504660000
+160;DGZ415;Drive;Jun 24 2025 07:06 AM;;GP7V+MP Santo Domingo, Antioquia, Colombia;61;N/A;;6.5141560000;-75.2557620000
+159;DGZ415;Drive;Jun 24 2025 07:06 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;51;N/A;;6.5116910000;-75.2594550000
+158;DGZ415;Drive;Jun 24 2025 07:05 AM;;I-62, Barbosa, Antioquia, Colombia;62;N/A;;6.5088320000;-75.2601080000
+157;DGZ415;Drive;Jun 24 2025 07:05 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;49;N/A;;6.5076440000;-75.2605930000
+156;DGZ415;Drive;Jun 24 2025 07:05 AM;;South America, Antioquia;54;N/A;;6.5068990000;-75.2615200000
+155;DGZ415;Drive;Jun 24 2025 07:04 AM;;Av 62, Barbosa, Antioquia, Colombia;53;N/A;;6.5006830000;-75.2641750000
+154;DGZ415;Drive;Jun 24 2025 07:03 AM;;I-62, Barbosa, Antioquia, Colombia;59;N/A;;6.4928730000;-75.2677100000
+153;DGZ415;Drive;Jun 24 2025 07:02 AM;;Av 62, Barbosa, Antioquia, Colombia;57;N/A;;6.4857590000;-75.2730840000
+152;DGZ415;Drive;Jun 24 2025 07:02 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;59;N/A;;6.4816220000;-75.2747590000
+151;DGZ415;Drive;Jun 24 2025 07:01 AM;;South America, Antioquia;53;N/A;;6.4788070000;-75.2781260000
+150;DGZ415;Drive;Jun 24 2025 07:00 AM;;Av 62, Barbosa, Antioquia;46;N/A;;6.4764660000;-75.2849340000
+149;DGZ415;Drive;Jun 24 2025 07:00 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;49;N/A;;6.4758830000;-75.2853930000
+148;DGZ415;Drive;Jun 24 2025 06:59 AM;;Av 62, Barbosa, Antioquia, Colombia;12;N/A;;6.4708850000;-75.2878380000
+147;DGZ415;Idle - Stop;Jun 24 2025 06:59 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+146;DGZ415;Idle - Stop;Jun 24 2025 06:59 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+145;DGZ415;Idle - Stop;Jun 24 2025 06:59 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+144;DGZ415;Idle - Stop;Jun 24 2025 06:58 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+143;DGZ415;Idle - Stop;Jun 24 2025 06:57 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+142;DGZ415;Idle - Stop;Jun 24 2025 06:56 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+141;DGZ415;Idle - Stop;Jun 24 2025 06:55 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+140;DGZ415;Idle - Stop;Jun 24 2025 06:54 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705680000;-75.2873360000
+139;DGZ415;Idle - Stop;Jun 24 2025 06:53 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4706070000;-75.2873650000
+138;DGZ415;Idle - Stop;Jun 24 2025 06:53 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4707720000;-75.2877100000
+137;DGZ415;Idle - Stop;Jun 24 2025 06:53 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4707330000;-75.2878200000
+136;DGZ415;Idle - Stop;Jun 24 2025 06:53 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4706380000;-75.2878420000
+135;DGZ415;Idle - Stop;Jun 24 2025 06:52 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4706380000;-75.2878420000
+134;DGZ415;Idle - Stop;Jun 24 2025 06:52 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4706380000;-75.2878420000
+133;DGZ415;Idle - Stop;Jun 24 2025 06:51 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705690000;-75.2878740000
+132;DGZ415;Idle - Stop;Jun 24 2025 06:51 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705690000;-75.2878740000
+131;DGZ415;Idle - Stop;Jun 24 2025 06:51 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705690000;-75.2878740000
+130;DGZ415;Idle - Stop;Jun 24 2025 06:50 AM;;Av 62, Barbosa, Antioquia, Colombia;0;N/A;;6.4705690000;-75.2878740000
+129;DGZ415;Drive;Jun 24 2025 06:49 AM;;Km 8 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;51;N/A;;6.4668940000;-75.2906120000
+128;DGZ415;Drive;Jun 24 2025 06:48 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;61;N/A;;6.4616590000;-75.2973230000
+127;DGZ415;Drive;Jun 24 2025 06:48 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;51;N/A;;6.4602760000;-75.2989100000
+126;DGZ415;Drive;Jun 24 2025 06:48 AM;;South America, Barbosa, Antioquia;56;N/A;;6.4599180000;-75.3013300000
+125;DGZ415;Drive;Jun 24 2025 06:47 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;59;N/A;;6.4586900000;-75.3049890000
+124;DGZ415;Drive;Jun 24 2025 06:46 AM;;Barbosa-Puerto Berrío, Barbosa, Antioquia, Colombia;57;N/A;;6.4549320000;-75.3121170000
+123;DGZ415;Drive;Jun 24 2025 06:46 AM;;I-62 # 2 a 86, Barbosa, Antioquia, Colombia;57;N/A;;6.4545370000;-75.3129210000
+122;DGZ415;Drive;Jun 24 2025 06:45 AM;;South America, Barbosa, Antioquia;49;N/A;;6.4550900000;-75.3212760000
+121;DGZ415;Drive;Jun 24 2025 06:45 AM;;Km 4 de la vía Barbosa - Puerto Berrio, , Antioquia, Colombia;59;N/A;;6.4555920000;-75.3233060000
+120;DGZ415;Drive;Jun 24 2025 06:44 AM;;Kr17 23-51, Barbosa, Antioquia;57;N/A;;6.4512870000;-75.3279750000
+119;DGZ415;Drive;Jun 24 2025 06:43 AM;;Kr22 23-59, Barbosa, Antioquia, Colombia;59;N/A;;6.4463500000;-75.3355600000
+118;DGZ415;Drive;Jun 24 2025 06:43 AM;;Cl13 23-59, Barbosa, Antioquia, Colombia;54;N/A;;6.4447800000;-75.3377220000
+117;DGZ415;Drive;Jun 24 2025 06:42 AM;;Kr23 11-49, Barbosa, Antioquia, Colombia;57;N/A;;6.4390370000;-75.3380140000
+116;DGZ415;Drive;Jun 24 2025 06:42 AM;;I-62 # 1 a 99, Barbosa, Antioquia, Colombia;54;N/A;;6.4353250000;-75.3411670000
+115;DGZ415;Drive;Jun 24 2025 06:41 AM;;Av 62-41, Barbosa, Antioquia;51;N/A;;6.4352490000;-75.3442700000
+114;DGZ415;Drive;Jun 24 2025 06:41 AM;;Av 62-38, Barbosa, Antioquia;54;N/A;;6.4352610000;-75.3450770000
+113;DGZ415;Drive;Jun 24 2025 06:41 AM;;Parcelacion Mercurio, Barbosa, Antioquia, Colombia;53;N/A;;6.4325940000;-75.3478900000
+112;DGZ415;Drive;Jun 24 2025 06:40 AM;;Via Principal-15, Barbosa, Antioquia;51;N/A;;6.4319700000;-75.3501520000
+111;DGZ415;Drive;Jun 24 2025 06:40 AM;;I-62 # 2 a 100, Barbosa, Antioquia, Colombia;49;N/A;;6.4316570000;-75.3508280000
+110;DGZ415;Drive;Jun 24 2025 06:39 AM;;I-62 # 2 a 100, Barbosa, Antioquia, Colombia;57;N/A;;6.4274670000;-75.3564200000
+109;DGZ415;Drive;Jun 24 2025 06:39 AM;;Km 3 de la vía Barbosa - Girardota, , Antioquia;57;N/A;;6.4273230000;-75.3576740000
+108;DGZ415;Drive;Jun 24 2025 06:39 AM;;Via Principal-47, Barbosa, Antioquia, COLOMBIA;53;N/A;;6.4276120000;-75.3592480000
+107;DGZ415;Drive;Jun 24 2025 06:39 AM;;I-62 # 2 a 100, Barbosa, Antioquia, Colombia;57;N/A;;6.4266520000;-75.3599570000
+106;DGZ415;Drive;Jun 24 2025 06:38 AM;;I-62 # 2 a 100, Barbosa, Antioquia, Colombia;61;N/A;;6.4224170000;-75.3638650000
+105;DGZ415;Drive;Jun 24 2025 06:37 AM;;Via Principal, Girardota, Antioquia;48;N/A;;6.4189670000;-75.3705480000
+104;DGZ415;Drive;Jun 24 2025 06:37 AM;;I-62 # 22 a 100, Barbosa, Antioquia, Colombia;51;N/A;;6.4185250000;-75.3711690000
+103;DGZ415;Drive;Jun 24 2025 06:36 AM;;Via Principal, Girardota, Antioquia;54;N/A;;6.4174500000;-75.3783640000
+102;DGZ415;Drive;Jun 24 2025 06:36 AM;;Via Principal, Girardota, Antioquia;46;N/A;;6.4178350000;-75.3795210000
+101;DGZ415;Drive;Jun 24 2025 06:36 AM;;Via Principal, Girardota, Antioquia;51;N/A;;6.4178680000;-75.3813010000
+100;DGZ415;Drive;Jun 24 2025 06:35 AM;;Av 25-61, Girardota, Antioquia, Colombia;51;N/A;;6.4180200000;-75.3835730000
+99;DGZ415;Drive;Jun 24 2025 06:35 AM;;I-25 # 1 a 99, Barbosa, Antioquia, Colombia;57;N/A;;6.4177080000;-75.3859150000
+98;DGZ415;Drive;Jun 24 2025 06:35 AM;;Km 9 de la vía Barbosa - Girardota, , Antioquia, Colombia;51;N/A;;6.4162220000;-75.3894220000
+97;DGZ415;Drive;Jun 24 2025 06:34 AM;;Via Principal-44, Girardota, Antioquia;46;N/A;;6.4162690000;-75.3939030000
+96;DGZ415;Drive;Jun 24 2025 06:33 AM;;Av 25-35, Girardota, Antioquia;46;N/A;;6.4163490000;-75.3994880000
+95;DGZ415;Drive;Jun 24 2025 06:33 AM;;Av 25-43, Girardota, Antioquia, Colombia;46;N/A;;6.4163880000;-75.4015560000
+94;DGZ415;Drive;Jun 24 2025 06:32 AM;;I-25 # 2 a 100, Barbosa, Antioquia, Colombia;57;N/A;;6.4129910000;-75.4095660000
+93;DGZ415;Drive;Jun 24 2025 06:31 AM;;Av 25-73, Girardota, Antioquia;54;N/A;;6.4106540000;-75.4178120000
+92;DGZ415;Drive;Jun 24 2025 06:30 AM;;Av 25-38, Girardota, Antioquia;51;N/A;;6.4087050000;-75.4232250000
+91;DGZ415;Drive;Jun 24 2025 06:30 AM;;Hatillo-Girardota, Girardota, Antioquia, Colombia;38;N/A;;6.4071720000;-75.4248670000
+90;DGZ415;Idle - Stop;Jun 24 2025 06:30 AM;;Av 25-4, Girardota, Antioquia;0;N/A;;6.4047030000;-75.4272630000
+89;DGZ415;Idle - Stop;Jun 24 2025 06:30 AM;;Hatillo-Girardota, Girardota, Antioquia, Colombia;0;N/A;;6.4046940000;-75.4272710000
+88;DGZ415;Idle - Stop;Jun 24 2025 06:29 AM;;Hatillo-Girardota, Girardota, Antioquia, Colombia;0;N/A;;6.4046940000;-75.4272710000
+87;DGZ415;Idle - Stop;Jun 24 2025 06:29 AM;;Hatillo-Girardota, Girardota, Antioquia, Colombia;0;N/A;;6.4046940000;-75.4272710000
+86;DGZ415;Idle - Stop;Jun 24 2025 06:28 AM;;Hatillo-Girardota, Girardota, Antioquia, Colombia;0;N/A;;6.4046940000;-75.4272710000
+85;DGZ415;Drive;Jun 24 2025 06:27 AM;;Av 25, Girardota, Antioquia;40;N/A;;6.4033760000;-75.4287020000
+84;DGZ415;Idle - Stop;Jun 24 2025 06:26 AM;;Av 25-89, Girardota, Antioquia;0;N/A;;6.3994750000;-75.4329900000
+83;DGZ415;Drive;Jun 24 2025 06:25 AM;;Av 25-74, Girardota, Antioquia;74;N/A;;6.3960380000;-75.4377920000
+82;DGZ415;Drive;Jun 24 2025 06:24 AM;;Av 25-49, Girardota, Antioquia;28;N/A;;6.3926340000;-75.4439390000
+81;DGZ415;Idle - Stop;Jun 24 2025 06:24 AM;;South America, Girardota, Antioquia;0;N/A;;6.3921960000;-75.4442650000
+80;DGZ415;Idle - Stop;Jun 24 2025 06:24 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918550000;-75.4443380000
+79;DGZ415;Idle - Stop;Jun 24 2025 06:23 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918470000;-75.4443590000
+78;DGZ415;Ignition ON;Jun 24 2025 06:23 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+77;DGZ415;Idle - Stop;Jun 24 2025 06:23 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+76;DGZ415;Parked;Jun 24 2025 06:19 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+75;DGZ415;Parked;Jun 24 2025 06:18 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+74;DGZ415;Towing/Drifting?;Jun 24 2025 06:18 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+73;DGZ415;Ignition OFF;Jun 24 2025 06:18 AM;;Av 25, Girardota, Antioquia, Colombia;0;N/A;;6.3918670000;-75.4443320000
+72;DGZ415;Drive;Jun 24 2025 06:18 AM;;Av 25, Girardota, Antioquia, Colombia;14;N/A;;6.3917680000;-75.4445850000
+71;DGZ415;Drive;Jun 24 2025 06:17 AM;;Av 25, Girardota, Antioquia;22;N/A;;6.3905390000;-75.4460170000
+70;DGZ415;Drive;Jun 24 2025 06:17 AM;LA HERRERIA - PAULANDIA ANT;Av 25, Girardota, Antioquia;70;N/A;;6.3893270000;-75.4474510000
+69;DGZ415;Landmark OUT;Jun 24 2025 06:17 AM;LA HERRERIA - PAULANDIA ANT;Autopista Norte;70;N/A;;6.3893270000;-75.4474510000
+68;DGZ415;Drive;Jun 24 2025 06:16 AM;;Via Principal-50, Girardota, Antioquia;65;N/A;;6.3844880000;-75.4562290000
+67;DGZ415;Drive;Jun 24 2025 06:15 AM;;Av 25-88, Girardota, Antioquia;67;N/A;;6.3840660000;-75.4608750000
+66;DGZ415;Drive;Jun 24 2025 06:15 AM;;Av 25-52, Girardota, Antioquia;57;N/A;;6.3833820000;-75.4664890000
+65;DGZ415;Drive;Jun 24 2025 06:14 AM;;Av 25-44, Girardota, Antioquia;70;N/A;;6.3814480000;-75.4758370000
+64;DGZ415;Drive;Jun 24 2025 06:13 AM;;Av 25-4, Girardota, Antioquia, Colombia;67;N/A;;6.3764660000;-75.4839950000
+63;DGZ415;Drive;Jun 24 2025 06:12 AM;;Av 25-67, Copacabana, Antioquia, Colombia;72;N/A;;6.3729740000;-75.4882820000
+62;DGZ415;Drive;Jun 24 2025 06:12 AM;;Via Principal-6, Copacabana, Antioquia;69;N/A;;6.3703030000;-75.4897420000
+61;DGZ415;Drive;Jun 24 2025 06:12 AM;;Via Principal-23, Copacabana, Antioquia;54;N/A;;6.3689160000;-75.4901680000
+60;DGZ415;Drive;Jun 24 2025 06:11 AM;;Autopista Norte, Copacabana, Antioquia, Colombia;41;N/A;;6.3663910000;-75.4914530000
+59;DGZ415;Drive;Jun 24 2025 06:11 AM;;Av 25-64, Copacabana, Antioquia, Colombia;56;N/A;;6.3647870000;-75.4923650000
+58;DGZ415;Drive;Jun 24 2025 06:11 AM;;Av 25-31, Copacabana, Antioquia, Colombia;49;N/A;;6.3623740000;-75.4936660000
+57;DGZ415;Drive;Jun 24 2025 06:10 AM;LA HERRERIA - PAULANDIA ANT;Autopista Norte;59;N/A;;6.3566880000;-75.5004970000
+56;DGZ415;Landmark IN;Jun 24 2025 06:10 AM;LA HERRERIA - PAULANDIA ANT;Autopista Norte;59;N/A;;6.3566880000;-75.5004970000
+55;DGZ415;Drive;Jun 24 2025 06:09 AM;;Av 25, Copacabana, Antioquia;61;N/A;;6.3516220000;-75.5069650000
+54;DGZ415;Drive;Jun 24 2025 06:08 AM;;Av 25-81, Copacabana, Antioquia;38;N/A;;6.3505270000;-75.5094240000
+53;DGZ415;Drive;Jun 24 2025 06:08 AM;;Av 25-33, Copacabana, Antioquia;38;N/A;;6.3505310000;-75.5102690000
+52;DGZ415;Drive;Jun 24 2025 06:08 AM;;Av 25-72, Copacabana, Antioquia;33;N/A;;6.3501480000;-75.5131940000
+51;DGZ415;Drive;Jun 24 2025 06:07 AM;;Av 25, Bello, Antioquia;30;N/A;;6.3484650000;-75.5191240000
+50;DGZ415;Drive;Jun 24 2025 06:06 AM;;Av 25, Bello, Antioquia;46;N/A;;6.3454280000;-75.5238460000
+49;DGZ415;Drive;Jun 24 2025 06:05 AM;;Av 25-63, Bello, Antioquia;46;N/A;;6.3446390000;-75.5288980000
+48;DGZ415;Drive;Jun 24 2025 06:04 AM;;Av 25-68, Bello, Antioquia;41;N/A;;6.3419950000;-75.5345290000
+47;DGZ415;Drive;Jun 24 2025 06:03 AM;;Av 25-88, Bello, Antioquia;32;N/A;;6.3392280000;-75.5389330000
+46;DGZ415;Idle - Stop;Jun 24 2025 06:02 AM;;Av 25-4, Bello, Antioquia, Colombia;0;N/A;;6.3380790000;-75.5425810000
+45;DGZ415;Idle - Stop;Jun 24 2025 06:02 AM;;Av 25-4, Bello, Antioquia, Colombia;0;N/A;;6.3380790000;-75.5425810000
+44;DGZ415;Idle - Stop;Jun 24 2025 06:01 AM;;Av 25-4, Bello, Antioquia, Colombia;0;N/A;;6.3380790000;-75.5425810000
+43;DGZ415;Idle - Stop;Jun 24 2025 06:00 AM;;Av 25-4, Bello, Antioquia, Colombia;0;N/A;;6.3380790000;-75.5425810000
+42;DGZ415;Idle - Stop;Jun 24 2025 06:00 AM;;Av 25-4, Bello, Antioquia, Colombia;0;N/A;;6.3380720000;-75.5426000000
+41;DGZ415;Drive;Jun 24 2025 05:59 AM;;Glorieta-59, Bello, Antioquia;27;N/A;;6.3372490000;-75.5442580000
+40;DGZ415;Drive;Jun 24 2025 05:59 AM;;Glorieta-78, Bello, Antioquia;14;N/A;;6.3374250000;-75.5448860000
+39;DGZ415;Drive;Jun 24 2025 05:59 AM;;Glorieta-36, Bello, Antioquia;12;N/A;;6.3376390000;-75.5450270000
+38;DGZ415;Drive;Jun 24 2025 05:59 AM;;Glorieta-18, Bello, Antioquia;20;N/A;;6.3381490000;-75.5445270000
+37;DGZ415;Idle - Stop;Jun 24 2025 05:59 AM;;Av Autonorte-57, Bello, Antioquia;0;N/A;;6.3383370000;-75.5434620000
+36;DGZ415;Idle - Stop;Jun 24 2025 05:58 AM;;Av Autonorte-57, Bello, Antioquia;0;N/A;;6.3383370000;-75.5434620000
+35;DGZ415;Idle - Stop;Jun 24 2025 05:57 AM;;Av 25-18, Bello, Antioquia;0;N/A;;6.3383620000;-75.5432780000
+34;DGZ415;Idle - Stop;Jun 24 2025 05:57 AM;;Av 25-18, Bello, Antioquia;4;N/A;;6.3383620000;-75.5432360000
+33;DGZ415;Idle - Stop;Jun 24 2025 05:56 AM;;Av 25-39, Bello, Antioquia;0;N/A;;6.3385570000;-75.5422590000
+32;DGZ415;Drive;Jun 24 2025 05:55 AM;;Av Autonorte-78, Bello, Antioquia;20;N/A;;6.3391010000;-75.5407710000
+31;DGZ415;Idle - Stop;Jun 24 2025 05:55 AM;;Av Autonorte-89, Bello, Antioquia;0;N/A;;6.3391680000;-75.5406450000
+30;DGZ415;Drive;Jun 24 2025 05:54 AM;;Dg55, Bello, Antioquia;12;N/A;;6.3410140000;-75.5411080000
+29;DGZ415;Drive;Jun 24 2025 05:54 AM;;Dg57, Bello, Antioquia;27;N/A;;6.3420660000;-75.5413810000
+28;DGZ415;Idle - Stop;Jun 24 2025 05:54 AM;;Dg57, Bello, Antioquia;0;N/A;;6.3421670000;-75.5416550000
+27;DGZ415;Drive;Jun 24 2025 05:53 AM;;Diagonal 57 # 1 a 99, Bello, Antioquia, Colombia;28;N/A;;6.3412760000;-75.5449750000
+26;DGZ415;Drive;Jun 24 2025 05:52 AM;;Dg57 40-11, Bello, Antioquia;11;N/A;;6.3406920000;-75.5472940000
+25;DGZ415;Drive;Jun 24 2025 05:51 AM;;Dg57 42-78, Bello, Antioquia;25;N/A;;6.3403800000;-75.5497210000
+24;DGZ415;Drive;Jun 24 2025 05:51 AM;;Dg57 42-90, Bello, Antioquia, Colombia;12;N/A;;6.3404040000;-75.5500810000
+23;DGZ415;Idle - Stop;Jun 24 2025 05:51 AM;;Kr43 57-14, Bello, Antioquia;0;N/A;;6.3404590000;-75.5501380000
+22;DGZ415;Drive;Jun 24 2025 05:50 AM;;Carrera 43 # 58-2 a 58-100, Bello, Antioquia, Colombia;20;N/A;;6.3416460000;-75.5501360000
+21;DGZ415;Idle - Stop;Jun 24 2025 05:50 AM;;Diagonal 59 #42-2 a 42-196, Bello, Bello, Antioquia, Colombia;0;N/A;;6.3418560000;-75.5492680000
+20;DGZ415;Idle - Stop;Jun 24 2025 05:50 AM;;South America, Bello, Antioquia;0;N/A;;6.3419400000;-75.5491860000
+19;DGZ415;Idle - Stop;Jun 24 2025 05:49 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+18;DGZ415;Idle - Stop;Jun 24 2025 05:48 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+17;DGZ415;Idle - Stop;Jun 24 2025 05:48 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+16;DGZ415;Idle - Stop;Jun 24 2025 05:47 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+15;DGZ415;Idle - Stop;Jun 24 2025 05:46 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+14;DGZ415;Idle - Stop;Jun 24 2025 05:45 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+13;DGZ415;Idle - Stop;Jun 24 2025 05:44 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+12;DGZ415;Idle - Stop;Jun 24 2025 05:43 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+11;DGZ415;Idle - Stop;Jun 24 2025 05:43 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+10;DGZ415;Idle - Stop;Jun 24 2025 05:42 AM;;Dg59 42-33, Bello, Antioquia, Colombia;0;N/A;;6.3420160000;-75.5490500000
+9;DGZ415;Idle - Stop;Jun 24 2025 05:42 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+8;DGZ415;Idle - Stop;Jun 24 2025 05:41 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+7;DGZ415;Ignition ON;Jun 24 2025 05:41 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+6;DGZ415;Parked;Jun 24 2025 05:07 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+5;DGZ415;Parked;Jun 24 2025 04:07 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+4;DGZ415;Parked;Jun 24 2025 03:07 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+3;DGZ415;Parked;Jun 24 2025 02:07 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+2;DGZ415;Parked;Jun 24 2025 01:07 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000
+1;DGZ415;Parked;Jun 24 2025 12:06 AM;;Kr42 59-39, Bello, Antioquia;0;N/A;;6.3421520000;-75.5486420000

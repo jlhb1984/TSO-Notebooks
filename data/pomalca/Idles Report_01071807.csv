@@ -1,0 +1,1028 @@
+﻿textbox12,textbox16,EventTime,Address,EndLandmark,textbox25,Driver,textbox20
+Jefaturas,Unidad: M8E-890/ADM.PG,3/07/2025 8:42:52 a.m.,"58P4+5Q Rinconazo, Peru",,00:05:02, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,4/07/2025 5:18:44 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:41, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,4/07/2025 10:03:17 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:07:37, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,5/07/2025 6:14:18 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:08:01, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,5/07/2025 11:08:18 a.m.,"7GGW+G3 Pampa Grande, Peru",,00:05:12, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,6/07/2025 7:00:18 a.m.,"6CCJ+M3 Collique Alto, Peru",,00:33:02, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,7/07/2025 6:25:32 a.m.,"101, Pampa Grande 14620, Peru",,00:07:36, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,7/07/2025 11:53:11 p.m.,"7GRR+XQ Cuculi, Peru",campo de prueba,00:44:25, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,8/07/2025 1:32:05 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:11:36, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,8/07/2025 11:07:57 p.m.,"7G7H+QP Pampa Grande, Peru",,00:06:46, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,8/07/2025 11:25:53 p.m.,"7GRX+W8 Cuculi, Peru",campo de prueba,00:09:57, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,8/07/2025 11:44:58 p.m.,"8H25+49, Tablazo 14620, Peru",,00:05:39, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 12:05:51 a.m.,"7GJV+2X Cuculi, Peru",,00:06:41, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 12:33:04 a.m.,"6GQ2+37 Pampa Grande, Peru",,00:07:09, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 1:30:12 a.m.,"7G3C+F9X, Av. Tupac Amaru, Pampa Grande 14620, Peru",,00:18:05, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 11:13:58 p.m.,"7G7H+PP Pampa Grande, Peru",,00:08:40, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 11:32:07 p.m.,"7GHV+98 Pampa Grande, Peru",,00:05:12, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,9/07/2025 11:38:34 p.m.,"7GJW+22 Cuculi, Peru",,00:07:36, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 12:37:42 a.m.,"6FRX+35 Pampa Grande, Peru",,00:06:37, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 1:20:10 a.m.,"7G3C+F9X, Av. Tupac Amaru, Pampa Grande 14620, Peru",,00:13:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 4:34:04 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:14:26, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 9:58:17 a.m.,"LA-116, 14620, Peru",,00:06:42, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 3:04:48 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:08:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 10:58:20 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:06:45, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 11:24:03 p.m.,"7GJW+22 Cuculi, Peru",,00:05:40, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 11:30:58 p.m.,"7GHV+96 Pampa Grande, Peru",,00:08:46, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,10/07/2025 11:53:18 p.m.,"8H25+49, Tablazo 14620, Peru",,00:05:02, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 12:33:22 a.m.,"6FRX+35 Pampa Grande, Peru",,00:05:18, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 1:09:33 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:09:17, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 5:59:55 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:58, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 8:36:49 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:26, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 11:43:52 p.m.,"7G7H+PP Pampa Grande, Peru",,00:05:01, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,11/07/2025 11:57:08 p.m.,"7GHV+C7 Pampa Grande, Peru",,00:12:04, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 12:10:23 a.m.,"7GJW+22 Cuculi, Peru",,00:05:43, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 12:27:21 a.m.,"7G9F+QF Pampa Grande, Peru",,00:06:58, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 12:45:17 a.m.,"7G44+4M Pampa Grande, Peru",,00:06:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 12:58:34 a.m.,"6FRX+35 Pampa Grande, Peru",,00:06:00, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 1:05:07 a.m.,"6FRW+9J Pampa Grande, Peru",,00:09:43, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 1:29:26 a.m.,"LA-116, Peru",,00:05:37, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 2:22:54 a.m.,"7G8G+WG Pampa Grande, Peru",,00:06:26, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 2:46:36 a.m.,"7G3C+F9X, Av. Tupac Amaru, Pampa Grande 14620, Peru",,00:09:43, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 8:44:54 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:15:53, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,12/07/2025 9:25:39 a.m.,"7GHW+GW Cuculi, Peru",,00:06:20, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 7:44:37 a.m.,"LA-116, 14630, Peru",,00:06:42, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 8:18:29 a.m.,"Av La-111-48, Zaña, Chiclayo, Lambayeque, Perú",,00:09:44, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 9:53:11 a.m.,"58MW+F5 Saltur, Peru",,00:08:43, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 10:44:37 a.m.,"5CR3+44 Sipán, Peru",,00:05:55, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 12:00:48 p.m.,"6C7G+XH Pucalá, Peru",,00:05:28, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,13/07/2025 12:01:33 p.m.,"6C7G+XH Pucalá, Peru",,00:05:29, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 4:58:52 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:12:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 6:17:31 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:31, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 3:30:38 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,01:32:54, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 7:23:19 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:07:32, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 10:42:15 p.m.,"7HX2+874, 14620, Peru",campo de prueba,00:05:04, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 11:29:21 p.m.,"7GHV+C7 Pampa Grande, Peru",,00:05:07, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,14/07/2025 11:44:00 p.m.,"LA-116, 14620, Peru",,00:05:01, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 12:17:25 a.m.,"6FMV+Q6 Pacherrez, Peru",,00:06:58, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 5:51:23 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:07:02, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 6:52:18 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:07:58, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 9:18:48 a.m.,"7GFQ+VR Pampa Grande, Peru",,00:09:51, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 9:51:57 a.m.,"6GJ4+CJ Pampa Grande, Peru",,00:06:35, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 10:15:59 a.m.,"6FG4+G5 Pacherrez, Peru",,00:15:16, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 10:37:02 a.m.,"6CCX+CQ Pacherrez, Peru",,00:11:15, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,15/07/2025 11:11:06 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:07:55, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 12:23:39 a.m.,"7GHV+C7 Pampa Grande, Peru",,00:05:36, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 4:33:55 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:10:25, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 6:27:17 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:11:42, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 7:17:21 a.m.,"Av Via Haca Rajada Sipan-86, Pomalca, Chiclayo, Lambayeque, Perú",,00:10:07, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 8:06:31 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:09:13, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 8:32:01 a.m.,"Av Bolognesi-79, Chiclayo, Chiclayo, Lambayeque",,00:05:45, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 6:49:00 p.m.,"Av Lora Y Lora-64, Chiclayo, Chiclayo, Lambayeque",,00:07:00, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 7:00:02 p.m.,"Av Manuel Maria Izaga-83, Chiclayo, Chiclayo, Lambayeque",,00:05:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 7:05:49 p.m.,"7 De Enero-24, Chiclayo, Chiclayo, Lambayeque, Perú",,00:06:37, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,16/07/2025 7:44:08 p.m.,"Gamer SJ Park, Leoncio Prado 135, Pomalca 14006, Peru",,00:06:10, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,17/07/2025 12:28:36 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:08:15, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,17/07/2025 11:30:41 p.m.,"7HX4+PV Tablazo, Peru",,00:06:07, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,18/07/2025 4:29:07 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:07, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,18/07/2025 9:25:13 a.m.,"66HH+G7 Pomalca, Peru",,00:16:28, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,18/07/2025 10:05:15 a.m.,"Av La-111-26, Zaña, Chiclayo, Lambayeque, Perú",,00:05:47, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Jefaturas,Unidad: M8E-890/ADM.PG,18/07/2025 11:44:45 a.m.,"6FF9+V4 Pacherrez, Peru",,00:09:59, ,# Stops: 80 - Max: 01:32:54 - Min: 00:05:01 - Total Stops: 12:58:30
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 8:05:13 a.m.,"Judá 297, Urb Miraflores Etapa 2, Chiclayo 14006, Peru",,00:05:59, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 9:52:06 a.m.,"58MR+HC La Punta, Peru",,00:08:51, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 10:04:50 a.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:05:35, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 10:17:51 a.m.,"58H7+7X Rinconazo, Peru",,01:40:05, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 2:07:17 p.m.,"Sipan-98, Zaña, Chiclayo, Lambayeque, Perú",,00:05:54, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,1/07/2025 3:11:35 p.m.,"5CH5+36 Sipán, Peru",,00:10:45, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,2/07/2025 7:35:32 a.m.,"59XG+GJ Saltur, Peru",,00:09:44, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,2/07/2025 2:56:48 p.m.,"58MM+MHV, La Punta 14600, Peru",,00:08:18, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,2/07/2025 3:32:35 p.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:12:51, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 7:43:26 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:05:17, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 8:32:00 a.m.,"58PG+C2 Rinconazo, Peru",,00:22:09, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 9:27:16 a.m.,"58C7+95 Rinconazo, Peru",,00:12:10, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 11:44:52 a.m.,"58JW+M5 Saltur, Peru",,00:07:55, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 3:27:25 p.m.,"5CG5+H6 Sipán, Peru",,00:14:21, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 4:32:54 p.m.,"692G+49 Saltur, Peru",,00:09:02, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,3/07/2025 9:07:53 p.m.,"59Q5+6RX, Av. Pomalca, Saltur 14710, Peru",,00:05:18, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,4/07/2025 12:25:59 a.m.,"6C76+X6 Pucalá, Peru",,00:08:25, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,4/07/2025 11:41:45 a.m.,"59XG+GJ Saltur, Peru",,01:37:20, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,4/07/2025 8:53:25 p.m.,"5CH5+36 Sipán, Peru",,00:07:03, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,4/07/2025 10:55:48 p.m.,"58H5+C8 Rinconazo, Peru",,00:06:32, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,5/07/2025 11:31:50 a.m.,"Av La-111-4, Zaña, Chiclayo, Lambayeque, Perú",,00:31:21, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,5/07/2025 10:15:12 p.m.,"58H7+7X Rinconazo, Peru",,00:09:38, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,6/07/2025 8:58:14 a.m.,"59QX+83 Sipán, Peru",,00:06:51, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,6/07/2025 10:30:27 a.m.,"Av La-111-61, Zaña, Chiclayo, Lambayeque, Perú",,00:10:32, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,6/07/2025 11:25:08 a.m.,"58FG+5W La Punta, Peru",,00:07:28, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,6/07/2025 2:52:34 p.m.,"59FM+4F Saltur, Peru",,00:13:23, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,6/07/2025 4:40:46 p.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:10:54, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 7:24:22 a.m.,"58HW+R6 Saltur, Peru",,00:09:24, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 7:53:22 a.m.,"58CG+XP La Punta, Peru",,00:20:21, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 8:27:57 a.m.,"58JG+8W La Punta, Peru",,00:09:27, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 10:22:25 a.m.,"59X2+48 Saltur, Peru",,00:27:20, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 2:18:31 p.m.,"58QP+QF La Punta, Peru",,00:06:07, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 2:24:44 p.m.,"Av La-111-53, Zaña, Chiclayo, Lambayeque, Perú",,00:16:30, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 2:41:18 p.m.,"58QP+QF La Punta, Peru",,00:11:21, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,7/07/2025 2:53:41 p.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:05:25, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,8/07/2025 7:44:11 a.m.,"Av La-111-30, Zaña, Chiclayo, Lambayeque, Perú",,00:05:04, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,8/07/2025 7:11:44 p.m.,"6C76+X6 Pucalá, Peru",,00:06:00, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,8/07/2025 9:27:17 p.m.,"58VQ+96 La Punta, Peru",,00:10:29, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,9/07/2025 6:51:12 a.m.,"59Q5+6RX, Av. Pomalca, Saltur 14710, Peru",,00:20:39, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,9/07/2025 9:36:31 a.m.,"5895+93 Rinconazo, Peru",,00:14:45, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,9/07/2025 9:49:22 a.m.,"58CF+6G La Punta, Peru",,00:07:37, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,9/07/2025 4:15:14 p.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:11:39, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,9/07/2025 10:19:41 p.m.,"Av La-111-61, Zaña, Chiclayo, Lambayeque, Perú",,00:39:16, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,10/07/2025 9:22:57 a.m.,"Av La-111-76, Zaña, Chiclayo, Lambayeque, Perú",,00:59:07, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,10/07/2025 9:02:57 p.m.,"59RW+2Q9, Jr. Los Andes, Sipan 14710, Peru",,00:07:00, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,12/07/2025 7:42:04 a.m.,"58H8+9P Rinconazo, Peru",,00:05:18, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,12/07/2025 8:24:42 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:06:33, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,12/07/2025 8:43:05 a.m.,"Av. 24 de Junio 172, Chiclayo 14002, Peru",,00:05:08, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,12/07/2025 9:59:26 a.m.,"6C75+V9 Pucalá, Peru",,00:05:23, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,12/07/2025 12:28:57 p.m.,"La-811 LA-811,0, Saña, Chiclayo, Lambayeque, Perú",,00:14:25, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,13/07/2025 8:29:02 a.m.,"Av. 24 de Junio 136, Saltur 14710, Peru",,00:06:20, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,13/07/2025 11:16:41 p.m.,"Av Via Huaca Rajada-69, Chongoyape, Chiclayo, Lambayeque, Perú",,00:06:01, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,14/07/2025 8:46:12 a.m.,"58C2+9W Rinconazo, Peru",,00:06:31, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,14/07/2025 10:02:27 a.m.,"Juan Velasco Alvarado 3, Saltur 14710, Peru",,00:05:03, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,14/07/2025 10:30:57 a.m.,"Juan Velasco Alvarado 3, Saltur 14710, Peru",,00:08:47, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,14/07/2025 4:58:57 p.m.,"59XG+GJ Saltur, Peru",,00:09:38, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,14/07/2025 6:36:59 p.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:09:09, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,15/07/2025 6:49:28 p.m.,"58VQ+8G La Punta, Peru",,00:10:49, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,15/07/2025 7:43:01 p.m.,"58FV+88 Saltur, Peru",,00:05:01, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,16/07/2025 1:34:28 p.m.,"695P+53 Pucalá, Peru",,01:40:32, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,16/07/2025 10:01:09 p.m.,"58H6+8M Rinconazo, Peru",,00:06:00, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,18/07/2025 6:46:00 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:06:48, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,18/07/2025 9:08:11 a.m.,"58VQ+8G La Punta, Peru",,00:11:59, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 2587-1K/S. SALTUR,18/07/2025 10:09:33 a.m.,"5896+J2 Rinconazo, Peru",,00:12:49, ,# Stops: 64 - Max: 01:40:32 - Min: 00:05:01 - Total Stops: 16:23:26
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,1/07/2025 7:23:11 a.m.,"Av, Juan Manuel Iturregui Nº 04, Pomalca 14006, Peru",,00:05:10, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,3/07/2025 6:12:16 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:33, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,3/07/2025 9:19:06 a.m.,"67W9+8H El Combo, Peru",,01:12:56, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,3/07/2025 10:55:08 a.m.,"66MM+GH El Chorro, Peru",,00:05:16, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,3/07/2025 11:42:05 a.m.,"Alfonso Ugarte 36, Pomalca 14006, Peru",,00:21:55, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,3/07/2025 12:38:54 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:26, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 6:08:53 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:27, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 9:07:40 a.m.,"LA-763 / Suneño, Santeño 14600, Peru",,00:09:16, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 12:14:44 p.m.,"66PP+62Q, El Chorro 14000, Peru",,00:12:26, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 2:28:38 p.m.,"66PP+62Q, El Chorro 14000, Peru",,00:14:00, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 2:53:05 p.m.,"67P5+VV El Combo, Peru",,00:11:23, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,4/07/2025 6:53:22 p.m.,"Cafetal Cafetal 4, Chiclayo 14009, Peru",,00:08:07, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,5/07/2025 6:06:45 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:30, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,6/07/2025 6:14:25 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:21:47, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,6/07/2025 7:20:16 a.m.,"66J8+RVM Ex Vivero Park, Pomalca 14006, Peru",,00:09:14, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,6/07/2025 2:03:10 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:05, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,6/07/2025 3:45:40 p.m.,"669V+9C Pomalca, Peru",,00:10:39, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,7/07/2025 5:59:17 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:26:44, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,7/07/2025 6:33:31 a.m.,"667G+9G, Collud 14000, Peru",,00:11:10, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,7/07/2025 7:55:11 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:39, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,7/07/2025 8:04:41 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:10:48, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,7/07/2025 7:13:00 p.m.,"66PP+62Q, El Chorro 14000, Peru",,00:05:11, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 6:33:51 a.m.,"Pe-6a-26, Tuman, Chiclayo, Lambayeque, Perú",,00:08:06, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 6:59:47 a.m.,"667G+9G, Collud 14000, Peru",,00:12:21, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 8:45:12 a.m.,"674Q+44 La Calerita, Peru",,00:37:50, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 10:27:47 a.m.,"Unnamed Road, Peru",,00:14:59, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 10:56:48 a.m.,"667G+9G, Collud 14000, Peru",,00:14:29, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 2:52:52 p.m.,"672P+PQ La Calerita, Peru",,00:24:46, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,8/07/2025 5:54:04 p.m.,"672P+QR La Calerita, Peru",,00:17:21, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 6:42:28 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:25, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 7:04:48 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:05:05, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 7:10:19 a.m.,"674Q+9C La Calerita, Peru",,01:04:22, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 8:44:57 a.m.,"674P+3W La Calerita, Peru",,00:14:02, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 11:38:54 a.m.,"674Q+4C La Calerita, Peru",,01:33:02, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 1:38:14 p.m.,"66GR+7F Pomalca, Peru",,00:05:22, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 2:51:24 p.m.,"6666+VQ San Antonio, Peru",,00:21:11, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 3:26:02 p.m.,"668R+9P Collud, Peru",,00:54:44, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,9/07/2025 8:29:36 p.m.,"66PP+62Q, El Chorro 14000, Peru",,00:13:19, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 4:59:08 a.m.,"67CP+J2 El Triunfo, Peru",,00:06:14, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 6:04:41 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:51, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 9:42:35 a.m.,"674Q+4C La Calerita, Peru",,00:12:01, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 10:11:34 a.m.,"Ramón Castilla 150, Pomalca 14006, Peru",,00:07:51, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 10:43:09 a.m.,"674Q+49 La Calerita, Peru",,00:13:28, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 10:59:37 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:09:37, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 11:13:03 a.m.,"674Q+49 La Calerita, Peru",,00:13:44, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 12:27:51 p.m.,"Unnamed Road, Peru",,00:09:11, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 12:41:01 p.m.,"667G+9G, Collud 14000, Peru",,00:05:16, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 1:11:52 p.m.,"674Q+49 La Calerita, Peru",,01:21:24, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,10/07/2025 6:34:55 p.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:07:37, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 6:00:05 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:13:49, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 6:57:57 a.m.,"559H+C9 Chosica Del Norte, Peru",,00:07:09, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 7:16:05 a.m.,"Via Principal-18, Monsefu, Chiclayo, Lambayeque",,00:09:03, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 8:24:47 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:46, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 11:12:02 a.m.,"56QR+PH Ventarron, Peru",,00:05:44, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 4:48:58 p.m.,"6666+RQ San Antonio, Peru",,00:07:19, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,11/07/2025 9:35:15 p.m.,"56PR+FC Ventarron, Peru",,00:17:18, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,12/07/2025 6:17:11 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:32, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,12/07/2025 10:30:02 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:09:20, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,12/07/2025 10:47:42 a.m.,"669V+W7 Pomalca, Peru",,00:18:21, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,12/07/2025 12:32:52 p.m.,"667G+9G, Collud 14000, Peru",,00:43:23, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,13/07/2025 6:08:07 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:08, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,13/07/2025 6:32:36 a.m.,"67CM+JX El Triunfo, Peru",,00:09:24, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,13/07/2025 7:47:08 a.m.,"665C+PJ Collud, Peru",,00:21:02, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,13/07/2025 4:26:30 p.m.,"674H+3G Casa de Madera, Peru",,00:20:58, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,14/07/2025 6:04:59 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:34, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,14/07/2025 8:11:32 a.m.,"559P+5R Villa Saúl, Peru",,00:06:21, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,14/07/2025 8:45:19 a.m.,"6A, 14830, Peru",,00:18:00, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,14/07/2025 5:07:45 p.m.,"Pe-6a-32, Tuman, Chiclayo, Lambayeque, Perú",,00:05:32, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,14/07/2025 5:08:05 p.m.,"Pe-6a-42, Tuman, Chiclayo, Lambayeque, Perú",,00:11:48, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,15/07/2025 10:48:20 a.m.,"56PR+FC Ventarron, Peru",,00:10:14, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,15/07/2025 11:15:42 a.m.,"674R+4H Anexo El Milagro, Peru",,00:05:22, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,15/07/2025 4:13:23 p.m.,"La-805 LA-805,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:00, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,15/07/2025 5:17:46 p.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:55, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 6:00:42 a.m.,"673Q+P5 La Calerita, Peru",,00:07:38, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 9:09:27 a.m.,"Pe-6a-53, Tuman, Chiclayo, Lambayeque",,00:07:12, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 9:40:39 a.m.,"67HR+M4 El Triunfo, Peru",,00:06:23, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 10:50:00 a.m.,"67W9+8Q El Combo, Peru",,01:22:40, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 2:19:28 p.m.,"66PP+62Q, El Chorro 14000, Peru",,00:14:39, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 6:19:22 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:55, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,16/07/2025 6:45:24 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:26, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,17/07/2025 6:39:47 a.m.,"67H9+MC El Combo, Peru",,00:06:18, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,17/07/2025 7:10:02 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:06, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,17/07/2025 11:17:15 a.m.,"Av Pe-1n, Monsefu, Chiclayo, Lambayeque, Perú",,00:13:28, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,17/07/2025 3:49:50 p.m.,"LA-763 / Suneño, Santeño 14600, Peru",,00:08:34, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,18/07/2025 9:40:40 a.m.,"LA-763 / Suneño, Santeño 14600, Peru",,00:09:39, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3191-CK/S. POMAL,18/07/2025 11:52:35 a.m.,"668R+6J Collud, Peru",,00:07:24, ,# Stops: 86 - Max: 01:33:02 - Min: 00:05:05 - Total Stops: 22:24:44
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,1/07/2025 1:58:32 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:10:28, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,2/07/2025 9:44:14 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:06:00, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,2/07/2025 10:44:13 a.m.,"57R7+63 Casa de Madera, Peru",,01:11:22, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,2/07/2025 4:15:44 p.m.,"Ramón Castilla 150, Pomalca 14006, Peru",,00:06:16, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,2/07/2025 4:53:38 p.m.,"66FM+RX Pomalca, Peru",,00:08:35, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,2/07/2025 5:14:30 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:27, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,3/07/2025 6:08:04 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:00, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,3/07/2025 5:53:29 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:10:02, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,4/07/2025 5:55:29 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:11, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,4/07/2025 12:45:37 p.m.,"Alfonso Ugarte 73, Pomalca 14006, Peru",,00:07:00, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 6:02:53 a.m.,"Pe-6a-45, Tuman, Chiclayo, Lambayeque, Perú",,00:07:48, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 8:02:33 a.m.,"Pe-6a-26, Tuman, Chiclayo, Lambayeque, Perú",,00:11:28, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 8:57:33 a.m.,"LA-752 / Callupe, Peru",,00:38:12, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 9:52:37 a.m.,"LA-763 / Suneño, Santeño 14600, Peru",,00:05:16, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 11:39:15 a.m.,"674Q+9C Anexo El Milagro, Peru",,00:09:17, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 1:55:28 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:05:57, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 3:08:26 p.m.,"673P+CH La Calerita, Peru",,00:05:55, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,7/07/2025 3:16:36 p.m.,"LA-116, 14000, Peru",,00:08:15, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,10/07/2025 2:06:17 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:13:46, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,10/07/2025 6:40:36 p.m.,"673P+3W La Calerita, Peru",,00:18:01, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 5:42:53 a.m.,"674Q+7C La Calerita, Peru",,00:54:15, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 7:46:21 a.m.,"673P+3W La Calerita, Peru",,00:22:37, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 7:59:08 a.m.,"673P+3W La Calerita, Peru",,04:34:04, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 1:11:36 p.m.,"A.h San Borja, manzana L, Pomalca 14006, Peru",,00:10:05, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 2:50:44 p.m.,"673P+3W La Calerita, Peru",,01:18:38, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 5:29:30 p.m.,"673Q+22 La Calerita, Peru",,00:08:10, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,11/07/2025 5:51:44 p.m.,"673P+3W La Calerita, Peru",,00:20:28, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,12/07/2025 6:16:19 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:28, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,12/07/2025 2:39:59 p.m.,"67H3+9X El Combo, Peru",,00:10:52, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 6:21:37 a.m.,"674Q+49 La Calerita, Peru",,00:05:27, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 6:27:38 a.m.,"674Q+47 La Calerita, Peru",,00:17:11, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 6:44:53 a.m.,"673Q+R6 La Calerita, Peru",,00:06:07, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 6:55:29 a.m.,"673P+6J La Calerita, Peru",,00:08:11, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 7:27:55 a.m.,"672P+GP La Calerita, Peru",,00:06:03, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 9:29:38 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:05:04, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 10:43:01 a.m.,"672P+HP La Calerita, Peru",,00:28:10, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 10:46:14 a.m.,"672P+HQ La Calerita, Peru",,00:07:58, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 11:20:37 a.m.,"672P+HP La Calerita, Peru",,00:31:37, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 11:58:59 a.m.,"672P+HP La Calerita, Peru",,01:42:10, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 1:45:15 p.m.,"LA-116, 14000, Peru",,01:01:06, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 2:47:05 p.m.,"673Q+X7 La Calerita, Peru",,00:57:38, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 4:14:04 p.m.,"673P+6F La Calerita, Peru",,00:49:33, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,13/07/2025 5:06:26 p.m.,"673Q+M4 La Calerita, Peru",,00:08:24, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,14/07/2025 1:50:44 p.m.,"673Q+73 La Calerita, Peru",,02:40:48, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,14/07/2025 5:22:11 p.m.,"674Q+28 La Calerita, Peru",,00:15:13, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,15/07/2025 11:55:47 a.m.,"672P+HP La Calerita, Peru",,00:17:19, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,15/07/2025 3:51:23 p.m.,"672P+GP La Calerita, Peru",,00:15:45, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,15/07/2025 4:19:14 p.m.,"672P+HP La Calerita, Peru",,00:50:15, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,15/07/2025 5:47:27 p.m.,"673Q+M4 La Calerita, Peru",,00:35:24, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,16/07/2025 7:27:46 p.m.,"668R+7M Collud, Peru",,00:14:46, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,16/07/2025 7:44:05 p.m.,"668R+7M Collud, Peru",,00:10:48, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,16/07/2025 8:00:26 p.m.,"667G+9G, Collud 14000, Peru",,00:14:15, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,16/07/2025 9:31:50 p.m.,"South America, Lambayeque",,00:10:00, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,16/07/2025 10:02:49 p.m.,"668R+6J Collud, Peru",,01:28:00, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,17/07/2025 12:21:53 a.m.,"15001, Pomalca 14006, Peru",,00:10:16, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,17/07/2025 5:06:02 a.m.,"15001, Pomalca 14006, Peru",,00:15:07, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,17/07/2025 6:06:58 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:14, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3195-CK/S. POMAL,18/07/2025 5:53:21 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:46, ,# Stops: 58 - Max: 04:34:04 - Min: 00:05:04 - Total Stops: 26:56:28
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 6:31:14 a.m.,"6A, 14000, Peru",,00:08:42, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 6:53:05 a.m.,"Via Principal, Monsefu, Chiclayo, Lambayeque, Perú",,00:05:36, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 11:31:26 a.m.,"66G6+36 Pomalca, Peru",,00:15:46, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 1:07:21 p.m.,"6A, 14000, Peru",,00:35:05, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 2:30:02 p.m.,"6637+9H Collud, Peru",,01:03:36, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 3:55:58 p.m.,"558P+HM Villa Saúl, Peru",,00:38:33, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,2/07/2025 4:50:17 p.m.,"6627+65 Collud, Peru",,00:37:33, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,3/07/2025 5:57:35 p.m.,"PE-6A 34, Pomalca 14006, Peru",,00:12:37, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,3/07/2025 8:12:59 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,01:00:55, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,3/07/2025 9:22:18 p.m.,"667G+9G, Collud 14000, Peru",,00:07:24, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,3/07/2025 11:08:38 p.m.,"663Q+4V Ventarron, Peru",,00:17:22, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,4/07/2025 5:52:26 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:15:01, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,5/07/2025 6:13:07 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:18, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,6/07/2025 6:16:11 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:10, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,6/07/2025 6:17:37 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:12, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,6/07/2025 9:29:57 a.m.,"677P+QX El Triunfo, Peru",,00:15:08, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,7/07/2025 5:58:53 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:12:36, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,7/07/2025 12:19:11 p.m.,"Pe-6a, Tuman, Chiclayo, Lambayeque, Perú",,00:07:03, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,7/07/2025 12:30:15 p.m.,"66JC+XMP, Pomalca 14006, Peru",,00:06:10, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,7/07/2025 2:01:12 p.m.,"673P+2M La Calerita, Peru",,00:05:29, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,7/07/2025 2:08:33 p.m.,"673P+FV La Calerita, Peru",,00:06:22, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,8/07/2025 6:54:20 a.m.,"674Q+69 La Calerita, Peru",,01:19:09, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,8/07/2025 10:44:09 a.m.,"La-805 LA-805,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:59, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,8/07/2025 4:40:51 p.m.,"24 de Junio, Pomalca, Peru",,00:05:08, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,9/07/2025 10:58:31 a.m.,"674P+3W La Calerita, Peru",,00:37:31, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,10/07/2025 6:08:14 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:12:03, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,10/07/2025 6:59:27 a.m.,"6683+69 Chiclayo, Peru",,00:09:14, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,10/07/2025 7:09:27 a.m.,"6683+4R Chiclayo, Peru",,00:05:14, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,10/07/2025 8:09:25 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,01:05:26, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,11/07/2025 6:14:05 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:14, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,11/07/2025 2:23:54 p.m.,"Pe-6a-19, Tuman, Chiclayo, Lambayeque, Perú",,00:12:11, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,12/07/2025 6:04:32 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:23, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,12/07/2025 10:15:33 a.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,00:08:49, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,13/07/2025 9:54:55 a.m.,"Paraguay 176, Pomalca 14006, Peru",,00:09:46, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,13/07/2025 12:42:08 p.m.,"Paraguay 176, Pomalca 14006, Peru",,00:08:39, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,13/07/2025 12:57:12 p.m.,"66MJ+8JJ, 14006, Peru",,00:05:04, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,14/07/2025 5:57:15 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:13:35, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,14/07/2025 9:38:44 a.m.,"15001, Pomalca 14006, Peru",,01:21:52, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,14/07/2025 11:42:50 a.m.,"66WH+RX El Chorro, Peru",,00:25:43, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,14/07/2025 12:41:57 p.m.,"66J8+RVM Ex Vivero Park, Pomalca 14006, Peru",,00:07:04, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,14/07/2025 12:58:44 p.m.,"66MJ+8JJ, 14006, Peru",,00:05:10, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,15/07/2025 12:47:56 p.m.,"24 de Junio 105, Pomalca 14006, Peru",,00:06:33, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,16/07/2025 5:56:48 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:30, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,16/07/2025 6:42:06 a.m.,"56MP+RP Ventarron, Peru",,00:10:27, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,16/07/2025 11:35:04 a.m.,"669R+6V Pomalca, Peru",,00:48:50, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,16/07/2025 4:55:03 p.m.,"Pe-6a-73, Tuman, Chiclayo, Lambayeque, Perú",,00:06:38, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,17/07/2025 9:07:16 a.m.,"672P+83 La Calerita, Peru",,00:07:30, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,17/07/2025 12:15:11 p.m.,"57W7+79 Casa de Madera, Peru",,00:08:30, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,17/07/2025 1:39:26 p.m.,"674R+4J Anexo El Milagro, Peru",,00:11:57, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,17/07/2025 5:15:00 p.m.,"672P+44 La Calerita, Peru",,00:32:43, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 3860-CK/S. POMAL,18/07/2025 6:05:10 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:18, ,# Stops: 51 - Max: 01:21:52 - Min: 00:05:04 - Total Stops: 15:57:48
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 6:01:28 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:01, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 6:53:21 a.m.,"55MQ+JX Chiclayo, Peru",,00:08:59, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 11:31:37 a.m.,"66G6+36 Pomalca, Peru",,00:28:01, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 2:58:47 p.m.,"PE-6A 01, Pomalca 14006, Peru",,00:05:49, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 5:30:33 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:00, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,2/07/2025 8:25:14 p.m.,"667G+9G, Collud 14000, Peru",,00:05:24, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 6:06:55 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:52, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 6:17:26 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:03, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 6:57:26 a.m.,"55VX+X5 Chiclayo, Peru",,00:05:46, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 8:32:58 a.m.,"6637+7G Collud, Peru",,00:05:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 8:56:35 a.m.,"55CW+MW Alican Bajo, Peru",,00:20:34, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 9:35:24 a.m.,"552J+62 Reque, Peru",,00:05:06, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 11:34:01 a.m.,"56HC+6C Siete Techos, Peru",,00:12:06, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 11:47:01 a.m.,"56GG+Q2 Siete Techos, Peru",,00:06:36, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 12:34:58 p.m.,"Alfonso Ugarte 73, Pomalca 14006, Peru",,00:05:13, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 6:28:48 p.m.,"668R+7M Collud, Peru",,00:09:42, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 7:18:26 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:05:01, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 7:30:16 p.m.,"67HR+P5 El Triunfo, Peru",,00:10:24, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 7:58:02 p.m.,"Via Sipan LA-116,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:04, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,3/07/2025 9:30:08 p.m.,"67HR+P5 El Triunfo, Peru",,07:39:55, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 6:00:09 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:18, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 6:06:27 a.m.,"Pe-6a-26, Tuman, Chiclayo, Lambayeque, Perú",,00:06:34, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 8:37:53 a.m.,"558M+W6 Chosica Del Norte, Peru",,01:30:45, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 11:37:43 a.m.,"56MP+VQ Ventarron, Peru",,00:05:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 6:40:00 p.m.,"67HR+P5 El Triunfo, Peru",,00:20:01, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 7:52:02 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:06:00, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 8:08:02 p.m.,"Via Sipan LA-116,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 9:12:35 p.m.,"56VR+V82, Ventarron 14000, Peru",,00:18:21, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 9:32:35 p.m.,"56XR+98 Ventarron, Peru",,00:40:40, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,4/07/2025 10:35:06 p.m.,"LA-752 / Callupe, Peru",,06:31:38, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,5/07/2025 5:26:39 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:54, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,5/07/2025 5:58:45 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,5/07/2025 6:05:59 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:38, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,5/07/2025 6:39:27 a.m.,"55WR+78 Chiclayo, Peru",,00:06:17, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,5/07/2025 2:46:54 p.m.,"55QR+QC Chiclayo, Peru",,00:09:08, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 6:07:46 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:25, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 6:26:45 a.m.,"674Q+59 La Calerita, Peru",,00:27:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 7:00:58 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:37:18, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 8:27:33 a.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:07, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 8:33:17 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:17, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 8:42:53 a.m.,"Pje. Martir Jose Olaya 128, Pomalca 14006, Peru",,00:05:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 9:10:54 a.m.,"67HP+GC El Triunfo, Peru",,00:06:26, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 9:17:22 a.m.,"67HR+P4 El Triunfo, Peru",,00:38:52, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 10:48:01 a.m.,"673P+VQ La Calerita, Peru",,00:57:27, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 11:49:27 a.m.,"673Q+V6 La Calerita, Peru",,01:06:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 1:13:17 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:02, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 2:54:16 p.m.,"Pje. Martir Jose Olaya 128, Pomalca 14006, Peru",,00:19:20, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,8/07/2025 3:38:58 p.m.,"LA-752 / Callupe, Peru",,01:22:44, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 5:47:10 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:22:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 6:33:29 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:08:31, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 6:46:34 a.m.,"LA-752 / Callupe, Peru",,00:16:41, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 7:49:45 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:44, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 8:15:56 a.m.,"663C+7M Collud, Peru",,00:58:36, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 9:41:54 a.m.,"LA-752 / Callupe, Peru",,01:28:11, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 11:54:41 a.m.,"Via Sipan LA-116,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:11:21, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 1:21:00 p.m.,"674Q+4C La Calerita, Peru",,01:41:58, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 3:11:17 p.m.,"67HR+P5 El Triunfo, Peru",,01:02:26, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 4:22:32 p.m.,"67G3+C2 El Chorro, Peru",,00:49:14, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,9/07/2025 5:25:32 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:12, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 5:57:45 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:12:57, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 6:31:48 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,01:14:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 9:18:41 a.m.,"66JR+MM El Chorro, Peru",,00:09:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 9:49:18 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:57:25, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 12:03:25 p.m.,"LA-752 / Callupe, Peru",,00:17:34, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 2:17:47 p.m.,"67CP+J2 El Triunfo, Peru",,02:09:02, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,10/07/2025 5:29:36 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:19, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,11/07/2025 6:02:51 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,01:37:08, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,11/07/2025 9:54:52 a.m.,"67HR+J3 El Triunfo, Peru",,00:06:54, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,11/07/2025 1:25:17 p.m.,"67CP+J2 El Triunfo, Peru",,00:26:20, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,11/07/2025 5:39:25 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:22:13, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 5:49:29 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:20, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 6:49:54 a.m.,"LA-752 / Callupe, Peru",,00:06:43, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 7:21:11 a.m.,"66MJ+8JJ, 14006, Peru",,00:09:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 11:48:40 a.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,01:19:43, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 12:19:14 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:56, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 12:43:40 p.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,00:05:04, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 12:52:54 p.m.,"Prolongación Tres Marias y Vilma Chavesta #100, Pomalca 14006, Peru",,01:18:36, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 3:25:16 p.m.,"67G3+C2 El Chorro, Peru",,01:07:35, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 4:35:55 p.m.,"66HW+J8 El Chorro, Peru",,00:23:58, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,12/07/2025 5:13:18 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:10:02, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 5:43:20 a.m.,"674Q+49 La Calerita, Peru",,00:18:35, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 7:02:33 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:24:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 7:47:07 a.m.,"665C+VP Collud, Peru",,00:20:06, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 8:44:16 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:36:34, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 9:26:05 a.m.,"Pe-6a-45, Tuman, Chiclayo, Lambayeque, Perú",,00:08:33, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 10:02:49 a.m.,"672P+HP La Calerita, Peru",,00:09:19, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 10:23:26 a.m.,"67HR+P5 El Triunfo, Peru",,01:23:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 12:08:13 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:45:15, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 12:54:55 p.m.,"Via Sipan LA-116,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:33, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 2:10:25 p.m.,"66HJ+RJG, Chiclayo 14006, Peru",,00:06:53, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 2:32:28 p.m.,"67HR+P5 El Triunfo, Peru",,02:16:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 4:58:35 p.m.,"6776+J2 Casa de Madera, Peru",,00:29:25, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,13/07/2025 5:40:08 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:29, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 6:22:18 a.m.,"Pe-6a-45, Tuman, Chiclayo, Lambayeque",,00:05:35, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 6:57:44 a.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,00:15:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 10:15:45 a.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,00:07:37, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 10:31:40 a.m.,"Alfonso Ugarte 70, Pomalca 14006, Peru",,00:24:30, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 11:39:38 a.m.,"LA-766, 14000, Peru",,00:08:00, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 12:00:14 p.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:17:51, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 12:19:49 p.m.,"66HJ+RJG, Chiclayo 14006, Peru",,00:09:03, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 12:58:22 p.m.,"66MJ+596, LA-765, Pomalca 14006, Peru",,00:05:09, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,14/07/2025 6:43:22 p.m.,"674Q+7C La Calerita, Peru",,00:35:44, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,15/07/2025 5:38:27 a.m.,"673Q+M5 La Calerita, Peru",,00:06:20, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 6:31:11 a.m.,"Pe-6a Km 20, Tuman, Chiclayo, Lambayeque",,00:17:44, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 8:03:29 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:59, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 9:49:53 a.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:05:23, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 2:43:17 p.m.,"Alfonso Ugarte 114, Pomalca 14006, Peru",,00:06:05, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 6:08:47 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:19:42, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 7:15:08 p.m.,"668R+7M Collud, Peru",,00:40:55, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 8:10:12 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:12:42, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 10:18:21 p.m.,"Jorge Chávez 121, Pomalca 14006, Peru",,00:13:27, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,16/07/2025 10:30:22 p.m.,"668R+7M Collud, Peru",,01:00:26, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 12:13:24 a.m.,"15001, Pomalca 14006, Peru",,04:52:04, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 5:31:58 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:11:45, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 6:01:18 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:33, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 6:20:42 a.m.,"South America, Chiclayo, Lambayeque",,00:06:31, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 6:34:56 a.m.,"66P4+5H Pomalca, Peru",,00:06:51, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 6:58:59 a.m.,"Alfonso Ugarte 70, Pomalca 14006, Peru",,00:05:01, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 8:42:54 a.m.,"763H+MW Invernillo, Peru",,00:09:00, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 9:08:13 a.m.,"66QQ+FQ El Chorro, Peru",,01:04:34, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 10:25:02 a.m.,"67VF+R2 El Combo, Peru",,00:05:12, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 10:56:56 a.m.,"Via Principal, Monsefu, Chiclayo, Lambayeque, Perú",,00:17:32, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 11:16:54 a.m.,"55FP+V4 Chiclayo, Peru",,00:28:40, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,17/07/2025 12:06:55 p.m.,"Alfonso Ugarte 70, Pomalca 14006, Peru",,00:17:14, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,18/07/2025 6:44:39 a.m.,"66P4+5H Pomalca, Peru",,00:05:27, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: 4305-CK/S. POMAL,18/07/2025 8:52:45 a.m.,"66MF+R5G, Hipólito Unanue, Pomalca 14006, Peru",,00:34:18, ,# Stops: 126 - Max: 07:39:55 - Min: 00:05:01 - Total Stops: 68:02:07
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,3/07/2025 11:14:25 a.m.,"692V+JC Sipán, Peru",,00:20:40, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,4/07/2025 9:37:03 a.m.,"59Q5+6RX, Av. Pomalca, Saltur 14710, Peru",,00:06:59, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,5/07/2025 9:15:18 a.m.,"Augusto B. Leguía, Peru",,00:18:14, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,6/07/2025 7:31:35 p.m.,"58PG+C3 Rinconazo, Peru",,00:06:00, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,6/07/2025 10:26:51 p.m.,"59XG+GJ Saltur, Peru",,00:35:54, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,8/07/2025 11:29:40 a.m.,"6C85+FG Pucalá, Peru",,00:06:44, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,12/07/2025 7:04:04 a.m.,"59GM+C3 Saltur, Peru",,00:22:01, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,13/07/2025 9:34:20 a.m.,"5CF5+24 Sipán, Peru",,00:05:03, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,16/07/2025 8:20:50 a.m.,"66HH+87 Pomalca, Peru",,00:20:34, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,16/07/2025 3:25:35 p.m.,"58VQ+9J La Punta, Peru",,00:06:48, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,16/07/2025 8:34:47 p.m.,"5CF5+33 Sipán, Peru",,00:06:57, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,17/07/2025 8:13:25 a.m.,"59Q5+6RX, Av. Pomalca, Saltur 14710, Peru",,00:07:01, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,17/07/2025 9:04:03 a.m.,"La-825 LA-825,0, Saña, Chiclayo, Lambayeque, Perú",,00:09:09, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,17/07/2025 2:21:11 p.m.,"5CH6+44 Sipán, Peru",,00:46:55, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Motos Seguridad,Unidad: M2-1737/S. SALTUR,17/07/2025 8:34:13 p.m.,"59RW+2Q9, Jr. Los Andes, Sipan 14710, Peru",,00:05:06, ,# Stops: 15 - Max: 00:46:55 - Min: 00:05:03 - Total Stops: 03:44:05
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 5:26:01 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:20, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 9:10:09 a.m.,"57W7+X2 Casa de Madera, Peru",,00:10:23, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 9:28:32 a.m.,"6726+M5 Casa de Madera, Peru",,00:07:26, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 11:09:09 a.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:06:29, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 12:13:12 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:43, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 4:43:53 p.m.,"Av Saenz Peña-11, Chiclayo, Chiclayo, Lambayeque",,00:06:31, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 6:39:23 p.m.,"6627+C6 Collud, Peru",,00:22:08, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 7:16:37 p.m.,"66MM+X7 El Chorro, Peru",,00:07:01, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 7:27:58 p.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:06:09, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,1/07/2025 7:41:08 p.m.,"La-806 LA-806,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:08, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 8:23:57 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:15:55, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 10:20:44 a.m.,"66XQ+RG El Chorro, Peru",,00:10:54, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 10:51:38 a.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:25:26, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 11:35:16 a.m.,"PE-6A 34, Pomalca 14006, Peru",,00:05:07, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 12:15:51 p.m.,"66PC+Q84, Pomalca 14006, Peru",,00:13:24, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 12:36:26 p.m.,"09 de Octubre, Pomalca, Peru",,00:07:27, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 3:13:12 p.m.,"66P4+84Q, Chiclayo 14006, Peru",,00:37:08, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 9:35:18 p.m.,"67FQ+3P El Triunfo, Peru",,00:14:49, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 9:43:46 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:06:38, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 9:57:15 p.m.,"67HR+J3 El Triunfo, Peru",,00:05:20, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 10:06:22 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:09:04, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,2/07/2025 10:50:15 p.m.,"663Q+5R Ventarron, Peru",,00:06:26, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 12:26:07 a.m.,"15001, Pomalca 14006, Peru",,00:10:33, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 5:02:12 a.m.,"Pe-6a-13, Tuman, Chiclayo, Lambayeque",,00:18:39, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 11:55:33 a.m.,"Pje. Martir Jose Olaya 128, Pomalca 14006, Peru",,01:03:55, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 2:03:32 p.m.,"66F9+626, San Antonio 14000, Peru",,00:07:49, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 2:31:21 p.m.,"66P3+9QM, Pomalca 14006, Peru",,00:20:27, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 3:26:56 p.m.,"66XQ+RG El Chorro, Peru",,00:15:04, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 3:53:58 p.m.,"7727+J7 San José, Peru",,00:25:41, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 6:17:19 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:29, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,3/07/2025 10:17:01 p.m.,"8443+C2V, Lambayeque 14013, Peru",,00:05:59, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,4/07/2025 7:17:57 a.m.,"Av Evitamiento Chiclayo, Pimentel, Chiclayo, Lambayeque, Perú",,00:09:46, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,4/07/2025 3:39:29 p.m.,"7G29+8G2, Pampa Grande 14620, Peru",,00:05:13, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,4/07/2025 4:47:38 p.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:08:02, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,4/07/2025 10:30:25 p.m.,"Carr Sipan, Peru",,00:05:39, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,5/07/2025 4:55:06 a.m.,"66FR+3G Pomalca, Peru",,00:09:45, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,5/07/2025 5:24:05 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:12, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,5/07/2025 7:42:40 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:33, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,5/07/2025 8:49:39 a.m.,"66HH+77 Pomalca, Peru",,00:08:56, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,5/07/2025 7:26:50 p.m.,"67M8+MJ El Combo, Peru",,00:05:12, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,6/07/2025 4:54:00 a.m.,"66FR+3G Pomalca, Peru",,00:10:34, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,6/07/2025 5:56:01 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:20, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,6/07/2025 8:14:35 a.m.,"Via Principal-54, Chiclayo, Chiclayo, Lambayeque, Perú",,00:09:26, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,6/07/2025 6:10:13 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:16:08, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,6/07/2025 10:29:00 p.m.,"Av Via Haca Rajada Sipan-54, Pomalca, Chiclayo, Lambayeque, Perú",,00:13:26, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 9:11:08 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:07:08, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 9:27:06 a.m.,"Pe-6a, Tuman, Chiclayo, Lambayeque, Perú",,00:21:43, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 10:07:38 a.m.,"66P4+84Q, Chiclayo 14006, Peru",,00:25:56, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 10:35:05 a.m.,"66Q4+WP Pomalca, Peru",,00:18:21, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 11:02:22 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:15:19, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 3:03:04 p.m.,"5CP2+CH Sipán, Peru",,00:25:17, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 4:22:22 p.m.,"5CR2+GJ Sipán, Peru",,00:52:48, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 4:22:28 p.m.,"5CR2+GJ Sipán, Peru",,00:24:05, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 4:58:42 p.m.,"Av La-111-30, Zaña, Chiclayo, Lambayeque, Perú",,00:11:15, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,7/07/2025 5:28:28 p.m.,"Pe-6a-16, Tuman, Chiclayo, Lambayeque, Perú",,00:52:48, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 4:23:06 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:58, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 9:52:48 a.m.,"6627+75 Collud, Peru",,00:08:27, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 10:02:10 a.m.,"6637+9G Collud, Peru",,00:05:40, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 10:08:34 a.m.,"6626+CH Chiclayo, Peru",,00:08:14, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 10:29:45 a.m.,"Pe-6a PE-6A,, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:42, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 10:57:49 a.m.,"Pe-6a-32, Tuman, Chiclayo, Lambayeque, Perú",,00:06:52, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 11:17:31 a.m.,"Pe-6a-19, Tuman, Chiclayo, Lambayeque, Perú",,00:08:05, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 11:48:05 a.m.,"673Q+V6 La Calerita, Peru",,00:31:06, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 3:54:52 p.m.,"674R+4H Anexo El Milagro, Peru",,00:08:52, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 4:52:16 p.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:34, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 9:46:58 p.m.,"LA-116, 14620, Peru",campo de prueba,00:07:42, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,8/07/2025 10:04:26 p.m.,"7HX3+7R Tablazo, Peru",campo de prueba,00:07:44, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,9/07/2025 5:55:45 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:31, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,9/07/2025 10:53:41 a.m.,"La-113, Zaña, Chiclayo, Lambayeque",,00:07:41, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,9/07/2025 4:13:42 p.m.,"674R+4H Anexo El Milagro, Peru",,00:05:22, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,9/07/2025 10:26:16 p.m.,"7G7H+QM Pampa Grande, Peru",,00:07:33, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,9/07/2025 10:47:23 p.m.,"7GHV+96 Pampa Grande, Peru",,00:05:38, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,10/07/2025 12:22:23 p.m.,"668G+2R3, Collud 14000, Peru",,00:05:03, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,10/07/2025 5:00:03 p.m.,"674R+4H Anexo El Milagro, Peru",,00:18:23, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,11/07/2025 6:03:43 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:27, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,11/07/2025 11:26:06 a.m.,"South America, Chiclayo, Lambayeque",,00:26:48, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,11/07/2025 11:49:51 a.m.,"South America, Chiclayo, Lambayeque",,00:11:48, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,11/07/2025 4:21:49 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:35, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,12/07/2025 5:55:38 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:13, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,12/07/2025 6:20:55 p.m.,"Pe-6a-19, Tuman, Chiclayo, Lambayeque, Perú",,00:07:22, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,12/07/2025 9:19:04 p.m.,"LA-752 / Callupe, Peru",,00:06:57, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,12/07/2025 10:23:02 p.m.,"56RR+R5 Ventarron, Peru",,00:05:46, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,12/07/2025 11:50:38 p.m.,"Lima 719, Pomalca 14006, Peru",,00:05:05, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 10:36:40 a.m.,"Perez Justo-48, Lambayeque, Lambayeque, Lambayeque, Perú",,00:09:04, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 11:44:04 a.m.,"Via Principal-68, Chiclayo, Chiclayo, Lambayeque, Perú",,00:15:58, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 12:53:38 p.m.,"Cafetal Cafetal 4, Chiclayo 14009, Peru",,00:08:46, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 6:27:03 p.m.,"Pe-6a-22, Tuman, Chiclayo, Lambayeque",,00:10:12, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 6:45:55 p.m.,"South America, Chiclayo, Lambayeque",,00:05:02, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 9:49:31 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:05:39, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 10:25:42 p.m.,"668R+7M Collud, Peru",,00:12:06, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,13/07/2025 10:47:37 p.m.,"56XR+97 Ventarron, Peru",,00:05:50, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 5:02:06 a.m.,"Pe-6a-16, Tuman, Chiclayo, Lambayeque, Perú",,00:16:31, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 10:23:12 a.m.,"Av Aguirre Elias-65, Chiclayo, Chiclayo, Lambayeque, Perú",,00:10:28, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 9:48:10 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:05:56, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 10:06:06 p.m.,"674R+4H Anexo El Milagro, Peru",,00:15:31, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 10:34:07 p.m.,"668R+7M Collud, Peru",,00:05:32, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,14/07/2025 10:45:55 p.m.,"663Q+5R Ventarron, Peru",,00:09:50, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 12:02:09 a.m.,"Alfonso Ugarte 45, Pomalca 14006, Peru",,00:10:55, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 5:35:30 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:29, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 9:37:30 a.m.,"Alfonso Ugarte 36, Pomalca 14006, Peru",,00:13:17, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 10:54:30 a.m.,"674Q+9H Anexo El Milagro, Peru",,00:05:42, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 2:25:12 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:28, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,15/07/2025 4:10:13 p.m.,"Proceres-7, Jose Leonardo Ortiz, Chiclayo, Lambayeque, Perú",,00:12:59, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 12:10:32 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:12:55, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 4:48:17 a.m.,"15001, Pomalca 14006, Peru",,00:07:54, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 6:40:39 a.m.,"Unnamed Road, Peru",,00:19:16, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 11:43:24 a.m.,"Av Manuel Maria Izaga, Chiclayo, Chiclayo, Lambayeque",,00:10:29, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 12:08:20 p.m.,"Plaza De Armas-91, Chiclayo, Chiclayo, Lambayeque",,00:12:07, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 1:11:52 p.m.,"Av Leonardo Ortiz, Chiclayo, Chiclayo, Lambayeque",,00:47:04, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 3:24:18 p.m.,"67M8+XM El Combo, Peru",,00:06:54, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 7:44:24 p.m.,"668R+7M Collud, Peru",,00:05:30, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,16/07/2025 10:28:04 p.m.,"668R+7M Collud, Peru",,00:08:17, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 12:05:43 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:28, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 4:46:36 a.m.,"15001, Pomalca 14006, Peru",,00:05:38, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 6:11:18 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:34, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 3:01:01 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:09:30, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 3:58:03 p.m.,"7G3C+H42, Pasaje Atahualpa, Pampa Grande 14620, Peru",,00:05:12, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 4:44:08 p.m.,"Av Via Haca Rajada Sipan-34, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:59, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 7:10:12 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:11:28, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 7:22:20 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:07:33, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 8:01:53 p.m.,"Via Sipan LA-116,0, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:40, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 10:12:23 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:06:24, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 10:29:14 p.m.,"674R+4J Anexo El Milagro, Peru",,00:09:48, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,17/07/2025 10:51:09 p.m.,"668R+7M Collud, Peru",,00:12:18, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPH-767/SEGURIDAD,18/07/2025 5:08:07 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:08:29, ,# Stops: 125 - Max: 01:03:55 - Min: 00:05:02 - Total Stops: 24:42:14
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 8:45:53 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:13:42, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 10:05:04 a.m.,"Pe-6a-37, Tuman, Chiclayo, Lambayeque",,00:08:11, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 12:00:25 p.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:05:01, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 12:14:51 p.m.,"673C+6PH, Casa de Madera 14000, Peru",,00:05:20, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 1:01:08 p.m.,"Santa Ines, Chiclayo, Peru",,00:21:14, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 1:31:48 p.m.,"Av Lora Y Lora-86, Pimentel, Chiclayo, Lambayeque",,00:20:06, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 1:56:52 p.m.,"Av Augusto Leguia-89, Pimentel, Chiclayo, Lambayeque, Perú",,00:07:50, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,1/07/2025 3:11:28 p.m.,"8472+X3 Lambayeque, Peru",,00:11:26, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 12:02:16 p.m.,"66JF+RJJ, Pomalca 14006, Peru",,00:08:43, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 12:12:50 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:41, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 2:35:16 p.m.,"Ramón Castilla 114, Pomalca 14006, Peru",,00:05:21, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 5:03:18 p.m.,"Pe-6a-16, Tuman, Chiclayo, Lambayeque, Perú",,00:07:26, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 6:22:43 p.m.,"6627+J7 Collud, Peru",,00:08:33, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,2/07/2025 6:54:13 p.m.,"6627+J7 Collud, Peru",,00:19:04, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,3/07/2025 4:59:12 a.m.,"6637+CG Collud, Peru",,00:08:45, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,3/07/2025 10:34:18 a.m.,"Av Salaverry, Chiclayo, Chiclayo, Lambayeque, Perú",,00:08:57, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,4/07/2025 6:02:23 p.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:07:53, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,4/07/2025 6:27:00 p.m.,"66P3+9QM, Pomalca 14006, Peru",,00:06:26, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,4/07/2025 11:07:09 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:04, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,4/07/2025 11:17:31 p.m.,"15001, Pomalca 14006, Peru",,00:06:53, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,5/07/2025 4:41:44 a.m.,"15001, Pomalca 14006, Peru",,00:06:32, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,5/07/2025 8:20:48 p.m.,"59VX+GC Sipán, Peru",,00:11:16, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,6/07/2025 7:19:44 p.m.,"66MM+GP El Chorro, Peru",,00:06:25, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,6/07/2025 9:06:05 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:06:56, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,6/07/2025 9:54:01 p.m.,"668R+6J Collud, Peru",,00:08:20, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,7/07/2025 10:08:42 a.m.,"Av Via Haca Rajada Sipan-81, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:02, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,7/07/2025 6:50:38 p.m.,"66P3+9QM, Pomalca 14006, Peru",,00:05:34, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 6:10:11 a.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:06:17, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 6:39:10 a.m.,"67FQ+2Q El Triunfo, Peru",,00:07:13, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 6:53:06 a.m.,"67H9+MC El Combo, Peru",,00:05:11, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 9:06:49 a.m.,"6A, 14000, Peru",,00:07:05, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 1:59:33 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:57, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,8/07/2025 9:09:23 p.m.,"Pedro Diez Canseco 279, Chiclayo, Peru",,00:20:59, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 5:47:57 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:07, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 8:05:51 a.m.,"Pe-6a-36, Tuman, Chiclayo, Lambayeque, Perú",,00:17:17, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 6:20:47 p.m.,"Pe-6a, Tuman, Chiclayo, Lambayeque, Perú",,00:05:32, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 6:36:28 p.m.,"66P3+9QM, Pomalca 14006, Peru",,00:06:33, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 7:44:00 p.m.,"Pje. Martir Jose Olaya 128, Pomalca 14006, Peru",,00:07:54, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,9/07/2025 8:15:27 p.m.,"Alfonso Ugarte-81, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:39, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 6:11:12 a.m.,"674Q+9C La Calerita, Peru",,00:07:17, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 7:15:24 a.m.,"Ramón Castilla 755, Pomalca 14006, Peru",,00:05:11, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 8:15:56 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:17:35, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 8:45:19 a.m.,"55WQ+25 Chiclayo, Peru",,00:06:04, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 10:19:21 a.m.,"66P4+5H Pomalca, Peru",,00:07:24, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 8:22:22 p.m.,"Av Evitamiento Chiclayo, Pimentel, Chiclayo, Lambayeque, Perú",,00:05:09, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,10/07/2025 11:02:18 p.m.,"668R+7M Collud, Peru",,00:11:59, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 7:35:48 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:20, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 1:57:51 p.m.,"Av Bolognesi-79, Chiclayo, Chiclayo, Lambayeque",,00:05:40, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 2:13:10 p.m.,"Arenales-86, Chiclayo, Chiclayo, Lambayeque",,00:07:40, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 2:35:01 p.m.,"Arenales-72, Chiclayo, Chiclayo, Lambayeque, Perú",,00:14:00, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 6:18:29 p.m.,"PE-6A, Pomalca, Peru",,00:05:11, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 7:28:33 p.m.,"Leoncio Prado-85, Chiclayo, Chiclayo, Lambayeque",,00:05:20, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,11/07/2025 10:06:20 p.m.,"56HP+P3 Calera II, Peru",,00:12:43, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,12/07/2025 8:13:07 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:16:43, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,12/07/2025 1:38:44 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:38:40, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,13/07/2025 8:42:17 a.m.,"672P+HP La Calerita, Peru",,00:06:08, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,13/07/2025 10:22:19 a.m.,"57R7+C8 Casa de Madera, Peru",,01:14:06, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,13/07/2025 3:19:11 p.m.,"56MQ+Q6 Ventarron, Peru",,00:13:04, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 9:11:23 a.m.,"Mz 4 Lt 5 Las Palmeras, Las Palmeras 14000, Peru",,00:05:05, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 10:40:17 a.m.,"Pe-6a-13, Tuman, Chiclayo, Lambayeque",,00:09:59, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 10:50:55 a.m.,"Av. Los Ceibos Mza 115 Lote 07, Pomalca 14006, Peru",,00:05:59, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 1:49:48 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:12:44, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 2:31:23 p.m.,"Cafetal Cafetal 4, Chiclayo 14009, Peru",,00:05:48, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,14/07/2025 2:48:28 p.m.,"56MP+QQ Ventarron, Peru",,01:02:17, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 6:28:16 a.m.,"South America, Chiclayo, Lambayeque",,00:06:29, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 9:58:17 a.m.,"Prolongación Tres Marias y Vilma Chavesta #100, Pomalca 14006, Peru",,00:06:22, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 10:56:26 a.m.,"56PP+JQ Ventarron, Peru",,00:05:43, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 12:03:48 p.m.,"674R+4H Anexo El Milagro, Peru",,00:12:28, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 2:25:23 p.m.,"Ramón Castilla 114, Pomalca 14006, Peru",,00:10:01, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 7:38:10 p.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:05:38, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 8:01:32 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:21, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,15/07/2025 8:12:58 p.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:53, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 12:22:31 a.m.,"668R+49 Collud, Peru",,00:39:34, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 4:40:05 a.m.,"674Q+9C La Calerita, Peru",,00:09:42, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 5:28:53 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:50, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 8:19:21 a.m.,"Pe-6a-16, Tuman, Chiclayo, Lambayeque, Perú",,00:10:38, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 9:50:14 a.m.,"LA-752 / Callupe, Peru",,00:05:27, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 10:38:35 a.m.,"6637+CG Collud, Peru",,00:05:46, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 10:50:43 a.m.,"6637+9G Collud, Peru",,00:19:08, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 11:18:34 a.m.,"09 de Octubre, Pomalca, Peru",,00:16:01, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 12:07:03 p.m.,"7843+CR6, Tumán 14601, Peru",,00:05:08, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 1:54:32 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:05, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,16/07/2025 6:35:49 p.m.,"66J9+F5M san juan, Pomalca 14006, Peru",,00:09:07, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,17/07/2025 4:12:33 a.m.,"57XM+VV La Calerita, Peru",,00:07:40, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,17/07/2025 5:25:12 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:08:22, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,17/07/2025 9:07:07 a.m.,"555J+VJ Chosica Del Norte, Peru",,00:06:20, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,17/07/2025 10:06:52 a.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:09:46, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,17/07/2025 11:04:01 a.m.,"59Q5+6RX, Av. Pomalca, Saltur 14710, Peru",,00:11:34, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,18/07/2025 6:03:31 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:20:10, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,18/07/2025 9:56:08 a.m.,"672P+G7 La Calerita, Peru",,00:18:47, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BPI-733/SEGURIDAD,18/07/2025 10:45:31 a.m.,"PE-6A 34, Pomalca 14006, Peru",,00:11:10, ,# Stops: 91 - Max: 01:14:06 - Min: 00:05:01 - Total Stops: 16:50:41
+Seguridad,Unidad: BVO-945/SEGURIDAD,1/07/2025 4:59:12 a.m.,"6627+J8 Collud, Peru",,00:18:47, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,1/07/2025 5:37:19 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:13:01, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,1/07/2025 8:42:09 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:11:21, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,1/07/2025 9:43:52 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:11:47, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 5:12:57 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:34, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 6:33:59 a.m.,"57R5+RF Calera II, Peru",,00:09:36, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 4:52:45 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:29, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 8:35:04 p.m.,"6637+9G Collud, Peru",,00:11:57, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 9:20:18 p.m.,"Chiclayo 258, Pomalca 14006, Peru",,00:06:34, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 9:33:41 p.m.,"15001, Pomalca 14006, Peru",,00:11:47, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 9:53:13 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:30, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 10:35:43 p.m.,"Carretera Sipan, Peru",,00:13:02, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,2/07/2025 10:49:58 p.m.,"6746+98 Casa de Madera, Peru",,00:07:57, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 2:15:18 a.m.,"LA-763 / Suneño, Santeño 14600, Peru",,00:10:55, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 3:16:11 a.m.,"Pe-6a PE-6A,, Pomalca, Chiclayo, Lambayeque, Perú",,00:09:53, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 4:20:36 a.m.,"Unnamed Road, Peru",,00:10:36, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 7:01:21 a.m.,"677R+V4 El Triunfo, Peru",,00:07:31, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 8:12:36 a.m.,"Ramón Castilla 755, Pomalca 14006, Peru",,00:09:53, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 11:23:12 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:17:23, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 12:03:00 p.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:07:40, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 7:29:18 p.m.,"6A, 14000, Peru",,00:06:27, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 8:55:10 p.m.,"Pe-6a-32, Tuman, Chiclayo, Lambayeque, Perú",,00:05:03, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 9:05:14 p.m.,"65GW+W49, Chiclayo 14006, Peru",,00:05:32, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,3/07/2025 11:43:38 p.m.,"663Q+5R Ventarron, Peru",,00:06:13, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 12:08:09 a.m.,"Via Principal-12, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:30, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 2:34:00 a.m.,"15001, Pomalca 14006, Peru",,00:08:06, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 6:47:28 a.m.,"56HC+86 Siete Techos, Peru",,00:06:11, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 7:14:19 a.m.,"Av Via Haca Rajada Sipan-86, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:24, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 9:12:37 a.m.,"553F+4P Reque, Peru",,00:06:49, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 6:26:36 p.m.,"LA-766, 14000, Peru",,00:05:01, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,4/07/2025 6:41:28 p.m.,"66RR+6X El Chorro, Peru",,00:06:47, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 3:11:16 a.m.,"6627+75 Collud, Peru",,00:05:08, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 3:41:18 a.m.,"LA-766, 14000, Peru",,00:05:18, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 4:33:29 a.m.,"668J+53X, Collud 14000, Peru",,00:17:43, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 5:31:20 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:38, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 6:19:20 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:08, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 6:51:35 a.m.,"Av Evitamiento Chiclayo, Pimentel, Chiclayo, Lambayeque, Perú",,00:10:29, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 8:04:26 a.m.,"Ramón Castilla 126, Pomalca 14006, Peru",,00:05:49, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 8:33:30 a.m.,"Av Via Haca Rajada Sipan-80, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:16, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 10:28:35 a.m.,"67HC+XF El Combo, Peru",,00:27:25, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 10:58:01 a.m.,"LA-752 / Callupe, Peru",,00:13:32, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,5/07/2025 4:44:00 p.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:05:28, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 5:05:28 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:25:42, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 6:29:35 a.m.,"Jorge Chávez 168, Pomalca 14006, Peru",,00:07:58, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 6:53:43 a.m.,"Carr Sipan, Peru",,00:05:34, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 7:57:20 a.m.,"6A 3, 14830, Peru",,00:11:15, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 8:09:32 a.m.,"Via Principal-15, Monsefu, Chiclayo, Lambayeque, Perú",,00:12:40, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 9:45:20 a.m.,"762M+P3 El Chorro, Peru",,00:06:59, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 10:05:21 a.m.,"66QP+RW El Chorro, Peru",,00:06:13, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 10:15:31 a.m.,"66RV+62 El Chorro, Peru",,00:12:14, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 1:12:39 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:28, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 2:07:12 p.m.,"Ramón Castilla 755, Pomalca 14006, Peru",,00:10:15, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 2:42:16 p.m.,"Carretera Sipan, Peru",,00:08:12, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 4:49:01 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:17, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 6:07:52 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:13:21, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 7:06:38 p.m.,"66MP+2R El Chorro, Peru",,00:06:24, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,6/07/2025 7:49:23 p.m.,"668R+7M Collud, Peru",,00:05:30, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 5:36:54 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 7:02:24 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:07:16, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 7:54:25 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:50, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 9:14:32 a.m.,"55MQ+65 Chiclayo, Peru",,00:14:04, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 9:49:48 a.m.,"558M+W7 Chosica Del Norte, Peru",,00:06:10, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 10:06:24 a.m.,"Via Principal-18, Monsefu, Chiclayo, Lambayeque",,00:09:04, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 10:51:25 a.m.,"56P8+PG San Pablo, Peru",,00:06:32, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 12:40:25 p.m.,"Independencia 640, San Antonio 14000, Peru",,00:06:48, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 2:44:20 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:13:56, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 3:01:34 p.m.,"Pe-6a-71, Tuman, Chiclayo, Lambayeque",,00:11:13, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 3:16:00 p.m.,"Carretera Sipan, Peru",,00:06:01, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 3:47:04 p.m.,"673Q+F3 La Calerita, Peru",,00:20:39, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 4:07:30 p.m.,"673Q+F3 La Calerita, Peru",,00:06:37, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 5:27:46 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:39:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 7:20:41 p.m.,"668M+VG Collud, Peru",,00:10:43, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,7/07/2025 9:09:14 p.m.,"Via Principal-5, Monsefu, Chiclayo, Lambayeque",,00:07:09, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 5:06:39 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:17:46, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 6:06:29 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 7:16:57 a.m.,"66HJ+RJG, Chiclayo 14006, Peru",,00:05:03, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 10:36:23 a.m.,"Via Principal-18, Monsefu, Chiclayo, Lambayeque",,00:08:16, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 11:19:20 a.m.,"Ramón Castilla 755, Pomalca 14006, Peru",,00:08:53, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 12:40:36 p.m.,"Independencia 640, San Antonio 14000, Peru",,00:07:55, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 1:00:48 p.m.,"Pe-6a-45, Tuman, Chiclayo, Lambayeque, Perú",,00:07:38, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 2:10:25 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:17:24, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 4:18:16 p.m.,"674Q+9C La Calerita, Peru",,00:09:11, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,8/07/2025 6:38:31 p.m.,"LA-752 / Callupe, Peru",,00:09:25, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 5:08:18 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:06:41, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 5:54:26 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:05, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 6:12:02 a.m.,"Pe-6a-19, Tuman, Chiclayo, Lambayeque, Perú",,00:07:46, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 6:51:05 a.m.,"66RV+62 El Chorro, Peru",,00:46:29, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 8:03:10 a.m.,"Pe-6a-72, Tuman, Chiclayo, Lambayeque",,00:08:28, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 8:37:04 a.m.,"6A, 14000, Peru",,00:05:17, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 9:46:09 a.m.,"South America, Lambayeque",,00:08:59, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 10:05:04 a.m.,"Via Principal, Pucala, Chiclayo, Lambayeque, Perú",,00:05:06, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 12:50:53 p.m.,"Independencia 640, San Antonio 14000, Peru",,00:08:31, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 2:19:03 p.m.,"Av La-111, Zaña, Chiclayo, Lambayeque, Perú",,00:07:14, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 2:41:37 p.m.,"68J9+V4 Santeño, Peru",,00:05:37, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 3:17:53 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:08:41, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,9/07/2025 6:40:23 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:07:13, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 5:02:46 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque",,00:06:15, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 6:36:02 a.m.,"La-102 Km 5, Ferreñafe, Ferreñafe, Lambayeque, Perú",,00:07:19, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 7:13:39 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:12, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 8:18:13 a.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:09:05, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 8:27:26 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:10:31, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 12:56:30 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:10, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 2:10:51 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:10:58, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 2:27:03 p.m.,"Ramón Castilla 755, Pomalca 14006, Peru",,00:05:23, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 2:37:03 p.m.,"Pedro Ruiz Gallo 2, Pomalca 14006, Peru",,00:10:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 3:44:47 p.m.,"66PH+HJC, Chiclayo 14006, Peru",,00:05:09, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 3:55:10 p.m.,"Alfonso Ugarte 196, Pomalca 14006, Peru",,00:07:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 4:28:20 p.m.,"6768+77 Casa de Madera, Peru",,00:07:27, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 5:11:02 p.m.,"Pe-6a-36, Tuman, Chiclayo, Lambayeque, Perú",,00:05:16, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,10/07/2025 8:48:34 p.m.,"66XW+QFQ, 14000, Peru",,00:07:16, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 5:06:19 a.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:06:44, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 7:13:42 a.m.,"66PG+JF Pomalca, Peru",,00:05:19, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 1:50:14 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:09:26, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 2:30:22 p.m.,"Via Principal-39, Pomalca, Chiclayo, Lambayeque",,00:12:43, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 2:53:39 p.m.,"65MW+4V Chiclayo, Peru",,00:10:54, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 3:51:01 p.m.,"67X4+3J San José, Peru",,00:09:11, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,11/07/2025 6:41:15 p.m.,"673Q+W7 La Calerita, Peru",,00:19:58, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 5:05:18 a.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:08:09, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 10:53:22 a.m.,"66JH+FCR, Pomalca 14006, Peru",,00:15:37, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 1:55:08 p.m.,"Via Principal-54, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:46, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 2:39:04 p.m.,"Pizarro-39, Chiclayo, Chiclayo, Lambayeque, Perú",,00:09:14, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 3:13:59 p.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:05:03, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 3:53:41 p.m.,"66JH+8XQ, Pomalca 14006, Peru",,00:05:42, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 4:04:13 p.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:05:05, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 5:15:00 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:06:11, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,12/07/2025 10:39:30 p.m.,"663C+2V Collud, Peru",,00:07:15, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 5:02:39 a.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:05:40, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 6:07:21 a.m.,"674Q+9C La Calerita, Peru",,00:08:31, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 6:10:23 a.m.,"674Q+38 La Calerita, Peru",,00:05:22, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 7:16:13 a.m.,"56X6+MX Collud, Peru",,00:05:41, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 8:56:27 a.m.,"669H+V4 Collud, Peru",,00:06:24, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 10:24:30 a.m.,"55VM+WX Chiclayo, Peru",,00:08:31, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,13/07/2025 11:33:52 a.m.,"Av Panamericana, Chiclayo, Chiclayo, Lambayeque",,00:24:02, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,14/07/2025 6:04:44 a.m.,"673Q+R6 La Calerita, Peru",,00:20:25, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,14/07/2025 4:44:03 p.m.,"663C+7M Collud, Peru",,00:07:24, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,14/07/2025 5:12:25 p.m.,"Av Via Haca Rajada Sipan-81, Pomalca, Chiclayo, Lambayeque, Perú",,00:11:36, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,14/07/2025 5:36:18 p.m.,"Av. Los Ceibos Mza 115 Lote 07, Pomalca 14006, Peru",,00:09:20, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,14/07/2025 6:13:45 p.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:08:59, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 7:24:22 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:26, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 8:35:47 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:07:07, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 11:59:32 a.m.,"Pe-6a-33, Tuman, Chiclayo, Lambayeque, Perú",,00:14:09, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 12:36:52 p.m.,"66M7+GFW, San Martín, Pomalca 14006, Peru",,00:05:10, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 12:49:04 p.m.,"Av Via Haca Rajada Sipan-78, Pomalca, Chiclayo, Lambayeque, Perú",,00:12:03, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 1:02:34 p.m.,"Pe-6a-44, Tuman, Chiclayo, Lambayeque, Perú",,00:31:19, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 1:59:03 p.m.,"Av Manuel Maria Izaga, Chiclayo, Chiclayo, Lambayeque",,00:10:34, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,15/07/2025 2:31:15 p.m.,"Av Salaverry-4, Chiclayo, Chiclayo, Lambayeque",,00:21:25, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,17/07/2025 10:00:24 a.m.,"Av. Los Ceibos Mza 115 Lote 07, Pomalca 14006, Peru",,00:14:12, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,17/07/2025 10:57:59 a.m.,"558P+V4 Villa Saúl, Peru",,00:05:50, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,17/07/2025 11:04:28 a.m.,"6A, 14830, Peru",,00:10:53, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,17/07/2025 10:21:01 p.m.,"664Q+MC Ventarron, Peru",,00:05:09, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,18/07/2025 4:21:48 a.m.,"67X4+3J San José, Peru",,00:32:00, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,18/07/2025 6:07:04 a.m.,"Av. Los Ceibos 01 Miraflores, Pomalca 14006, Peru",,00:05:52, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BVO-945/SEGURIDAD,18/07/2025 9:11:23 a.m.,"Alfonso Ugarte 70, Pomalca 14006, Peru",,00:14:06, ,# Stops: 153 - Max: 00:46:29 - Min: 00:05:01 - Total Stops: 25:03:00
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 5:21:14 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:14:39, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 8:37:20 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:05:43, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 11:06:34 a.m.,"South America, Lambayeque",,00:10:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 11:22:15 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque, Perú",,00:15:05, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 1:44:53 p.m.,"Pinglo-21, Chiclayo, Chiclayo, Lambayeque",,00:39:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 4:29:29 p.m.,"6477+398 Santa Fe Park, Chiclayo 14012, Peru",,00:10:24, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 5:27:51 p.m.,"66H8+87 Pomalca, Peru",,00:08:02, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 5:34:17 p.m.,"PE-6A 34, Pomalca 14006, Peru",,00:06:00, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 6:29:40 p.m.,"Av Grau, Chiclayo, Chiclayo, Lambayeque, Perú",,00:08:02, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 6:38:02 p.m.,"Av Luis Gonzales, Chiclayo, Chiclayo, Lambayeque",,00:05:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,1/07/2025 6:43:52 p.m.,"Juan Cuglievan-93, Chiclayo, Chiclayo, Lambayeque",,00:08:06, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 5:26:21 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:13:08, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 6:19:21 a.m.,"Pje. 11 46, Lambayeque 14000, Peru",,00:06:23, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 7:18:26 a.m.,"6A, San Antonio 14000, Peru",,00:10:48, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 8:36:07 a.m.,"Ramón Castilla 150, Pomalca 14006, Peru",,00:05:57, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 9:24:04 a.m.,"Av Jose Balta, Chiclayo, Chiclayo, Lambayeque",,00:20:51, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 9:47:01 a.m.,"Av Jose Balta-51, Chiclayo, Chiclayo, Lambayeque",,00:26:55, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 10:48:39 a.m.,"Pe-6a-42, Tuman, Chiclayo, Lambayeque, Perú",,00:15:11, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 11:20:41 a.m.,"Av Leonardo Ortiz, Chiclayo, Chiclayo, Lambayeque",,00:06:47, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 11:29:38 a.m.,"Juan Cuglievan-90, Chiclayo, Chiclayo, Lambayeque",,00:12:03, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 11:44:34 a.m.,"Plaza De Armas-17, Chiclayo, Chiclayo, Lambayeque",,00:10:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 12:00:30 p.m.,"Av Aguirre Elias-83, Chiclayo, Chiclayo, Lambayeque",,00:21:27, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 12:27:34 p.m.,"Av Lora Y Lora, Chiclayo, Chiclayo, Lambayeque",,00:26:39, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 3:48:55 p.m.,"Ramón Castilla 150, Pomalca 14006, Peru",,00:09:31, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 4:18:42 p.m.,"Av Bolognesi-87, Chiclayo, Chiclayo, Lambayeque",,00:06:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 5:12:38 p.m.,"Av Balta Jose-57, Chiclayo, Chiclayo, Lambayeque",,00:06:43, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 5:21:16 p.m.,"Pinglo-7, Chiclayo, Chiclayo, Lambayeque, Perú",,00:06:17, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 5:27:45 p.m.,"Alfredo Lapoint 1227, Chiclayo 14001, Peru",,00:20:40, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 6:35:17 p.m.,"Av Jose Balta-28, Chiclayo, Chiclayo, Lambayeque, Perú",,00:17:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 7:03:15 p.m.,"Av Francisco Cuneo Salazar, Chiclayo, Chiclayo, Lambayeque",,00:07:34, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 7:23:08 p.m.,"Prolongación Florida 739, Chiclayo, Peru",,00:10:25, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 7:35:40 p.m.,"Av Libertad-51, Chiclayo, Chiclayo, Lambayeque, Perú",,00:06:07, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 8:51:23 p.m.,"66GF+JW Pomalca, Peru",,00:07:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,2/07/2025 9:05:42 p.m.,"664G+8X Collud, Peru",,00:05:20, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 5:30:54 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:07:48, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 6:12:26 a.m.,"Pje. 11 46, Lambayeque 14000, Peru",,00:34:42, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 8:16:13 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:15:44, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 11:30:14 a.m.,"Pe-06-59, Pimentel, Chiclayo, Lambayeque",,00:09:03, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 2:27:13 p.m.,"Pe-6a-13, Tuman, Chiclayo, Lambayeque",,00:10:37, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 4:25:40 p.m.,"7 De Enero-83, Chiclayo, Chiclayo, Lambayeque",,00:29:38, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 4:56:41 p.m.,"Leoncio Prado-95, Chiclayo, Chiclayo, Lambayeque",,00:23:26, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 5:48:17 p.m.,"6A, San Antonio 14000, Peru",,00:15:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 6:44:10 p.m.,"Av Libertad-66, Chiclayo, Chiclayo, Lambayeque",,00:10:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 7:07:57 p.m.,"Pe-06 Km 9, Pimentel, Chiclayo, Lambayeque",,00:34:23, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,3/07/2025 8:13:58 p.m.,"Av Bolognesi-52, Chiclayo, Chiclayo, Lambayeque, Perú",,00:11:32, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 6:27:49 a.m.,"Pje. 11 46, Lambayeque 14000, Peru",,00:10:52, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 1:58:53 p.m.,"Prolongación Florida 739, Chiclayo, Peru",,00:38:52, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 2:21:37 p.m.,"Av Via Haca Rajada Sipan-10, Pomalca, Chiclayo, Lambayeque, Perú",,00:17:34, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 5:24:56 p.m.,"Sipan, Zaña, Chiclayo, Lambayeque, Perú",,00:05:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 6:25:28 p.m.,"Av Mariscal Nieto-66, Chiclayo, Chiclayo, Lambayeque",,00:05:06, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 6:40:03 p.m.,"Arizola, Chiclayo, Chiclayo, Lambayeque",,00:05:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,4/07/2025 7:16:34 p.m.,"Pe-6a, Tuman, Chiclayo, Lambayeque",,00:05:23, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 5:03:21 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:41:09, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 6:20:30 a.m.,"Pe-06, Pimentel, Chiclayo, Lambayeque, Perú",,00:29:21, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 9:08:45 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,01:16:29, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 1:31:20 p.m.,"Av Chavez Jorge, Chiclayo, Chiclayo, Lambayeque",,00:05:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 2:22:36 p.m.,"Pe-06-62, Pimentel, Chiclayo, Lambayeque",,00:05:04, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 7:51:50 p.m.,"Florida-10, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:13, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,5/07/2025 8:20:39 p.m.,"Pje. 11 46, Lambayeque 14000, Peru",,01:04:09, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 5:27:07 a.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:26:37, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 8:16:08 a.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:14:46, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 9:21:12 a.m.,"Pe-6a Km 20, Tuman, Chiclayo, Lambayeque",,00:08:46, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 10:15:29 a.m.,"674R+6G Anexo El Milagro, Peru",,00:09:04, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 11:15:08 a.m.,"Av Via Haca Rajada Sipan-81, Pomalca, Chiclayo, Lambayeque",,00:28:15, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 4:13:17 p.m.,"6A, San Antonio 14000, Peru",,00:09:18, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,6/07/2025 5:16:17 p.m.,"Via Principal-58, Pomalca, Chiclayo, Lambayeque, Perú",,00:27:57, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 10:55:36 a.m.,"Av Grau-28, Chiclayo, Chiclayo, Lambayeque",,00:06:12, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 11:27:03 a.m.,"Pe-6a-31, Tuman, Chiclayo, Lambayeque, Perú",,00:06:01, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 11:33:27 a.m.,"PE-6A 34, Pomalca 14006, Peru",,00:08:37, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 12:02:16 p.m.,"673Q+W7 La Calerita, Peru",,00:09:06, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 1:23:07 p.m.,"673Q+X7 La Calerita, Peru",,00:18:41, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 1:54:31 p.m.,"PE-6A 34, Pomalca 14006, Peru",,00:09:43, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 3:54:10 p.m.,"Av Grau, Chiclayo, Chiclayo, Lambayeque",,00:07:58, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 4:09:35 p.m.,"Florida-79, Chiclayo, Chiclayo, Lambayeque",,00:44:14, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 6:53:21 p.m.,"Pe-6a-13, Tuman, Chiclayo, Lambayeque",,00:07:24, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 7:34:19 p.m.,"674Q+9C La Calerita, Peru",,00:08:35, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 8:12:58 p.m.,"Florida-13, Chiclayo, Chiclayo, Lambayeque",,00:07:01, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 10:16:33 p.m.,"Pe-6a-16, Tuman, Chiclayo, Lambayeque, Perú",,00:08:23, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 11:10:55 p.m.,"Av Luis Gonzales, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:04, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,7/07/2025 11:19:14 p.m.,"Av Jose Balta, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:05, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 12:35:52 a.m.,"674R+6G Anexo El Milagro, Peru",,00:06:27, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 5:30:10 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:26:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 6:27:03 a.m.,"South America, Pimentel, Lambayeque",,00:07:05, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 10:03:23 a.m.,"Pe-6a-70, Tuman, Chiclayo, Lambayeque",,00:10:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 12:12:22 p.m.,"PE-6A, Pomalca, Peru",,00:09:03, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 12:25:08 p.m.,"Av Via Haca Rajada Sipan-78, Pomalca, Chiclayo, Lambayeque, Perú",,00:06:02, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 6:16:17 p.m.,"Prolongación Florida 739, Chiclayo, Peru",,00:53:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 7:26:42 p.m.,"Via Principal-69, Pimentel, Chiclayo, Lambayeque",,00:05:54, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,8/07/2025 8:24:13 p.m.,"Av Mariscal Nieto-34, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:58, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 7:58:06 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:07:25, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 8:43:06 a.m.,"Av Chiclayo-81, Pimentel, Chiclayo, Lambayeque, Perú",,00:05:36, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 12:52:51 p.m.,"743M+R48, José Leonardo Ortiz 14013, Peru",,00:07:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 2:12:39 p.m.,"Humboldt-92, Chiclayo, Chiclayo, Lambayeque, Perú",,00:23:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 7:53:23 p.m.,"Pe-6a-89, Tuman, Chiclayo, Lambayeque",,00:06:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 10:28:49 p.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:16:58, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,9/07/2025 11:35:33 p.m.,"674R+6G Anexo El Milagro, Peru",,00:06:04, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 1:18:51 a.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:30:47, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 5:37:15 a.m.,"Pe-6a-37, Tuman, Chiclayo, Lambayeque",,00:13:12, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 9:48:28 a.m.,"Av Lora Y Lora-12, Chiclayo, Chiclayo, Lambayeque",,00:09:50, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 10:13:53 a.m.,"Via Principal-88, Chiclayo, Chiclayo, Lambayeque, Perú",,00:22:50, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 10:42:48 a.m.,"Av Dumont-55, Chiclayo, Chiclayo, Lambayeque",,00:15:03, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 11:23:05 a.m.,"Capirona-20, Chiclayo, Chiclayo, Lambayeque, Perú",,00:19:22, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 12:01:14 p.m.,"Capirona-20, Chiclayo, Chiclayo, Lambayeque, Perú",,00:11:57, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 12:25:54 p.m.,"Plaza De Armas-17, Chiclayo, Chiclayo, Lambayeque",,00:20:36, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 5:29:29 p.m.,"Pe-6a-38, Tuman, Chiclayo, Lambayeque, Perú",,00:07:15, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 5:59:18 p.m.,"Av Chavez Jorge-23, Chiclayo, Chiclayo, Lambayeque",,00:08:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 6:15:05 p.m.,"Av Haya De La Torre-51, Chiclayo, Chiclayo, Lambayeque",,00:06:20, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 6:27:20 p.m.,"Florida-79, Chiclayo, Chiclayo, Lambayeque",,00:10:34, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 6:44:07 p.m.,"Av La Libertad-45, Chiclayo, Chiclayo, Lambayeque",,00:12:46, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 9:38:08 p.m.,"Pe-6a-89, Tuman, Chiclayo, Lambayeque",,00:06:55, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 10:58:31 p.m.,"67H3+F7 El Chorro, Peru",,00:09:37, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 11:23:01 p.m.,"LA-752 / Callupe, Peru",,00:10:29, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,10/07/2025 11:45:03 p.m.,"674Q+MF Anexo El Milagro, Peru",,00:09:00, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 5:28:11 a.m.,"Pe-6a-37, Tuman, Chiclayo, Lambayeque",,00:24:49, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 5:31:55 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:05:05, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 7:27:05 a.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:06:49, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 11:57:21 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:09:20, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 2:42:55 p.m.,"Av Luis Gonzales-55, Chiclayo, Chiclayo, Lambayeque",,00:06:18, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 4:13:59 p.m.,"Union-40, Chiclayo, Chiclayo, Lambayeque, Perú",,00:06:48, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 4:48:32 p.m.,"6477+398 Santa Fe Park, Chiclayo 14012, Peru",,00:06:12, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 7:01:37 p.m.,"Av Aguirre Elias-36, Chiclayo, Chiclayo, Lambayeque",,00:19:59, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 7:59:33 p.m.,"Av Bolognesi, Chiclayo, Chiclayo, Lambayeque",,00:09:08, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 9:11:28 p.m.,"Pe-6a-89, Tuman, Chiclayo, Lambayeque",,00:09:19, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,11/07/2025 11:38:30 p.m.,"674R+6G Anexo El Milagro, Peru",,00:06:38, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,12/07/2025 12:46:08 a.m.,"Arequipa Norte-18, Chiclayo, Chiclayo, Lambayeque",,00:06:39, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,12/07/2025 5:15:06 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:20:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,12/07/2025 1:42:49 p.m.,"Av. Angamos 858, Chiclayo 14001, Peru",,00:07:29, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,13/07/2025 6:35:29 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:19:59, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,13/07/2025 7:09:12 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:09:05, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,13/07/2025 10:24:03 a.m.,"7HX2+874, 14620, Peru",campo de prueba,00:05:11, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,13/07/2025 10:30:34 a.m.,"7HX3+7R Tablazo, Peru",campo de prueba,00:08:12, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,13/07/2025 3:28:00 p.m.,"Acceso a El Triunfo, El Triunfo, Peru",,00:27:08, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 5:25:42 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:08:40, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 6:20:38 a.m.,"Pje. 11 37, 14000, Peru",,00:09:35, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 3:55:25 p.m.,"Av Bolognesi-92, Chiclayo, Chiclayo, Lambayeque",,00:06:21, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 4:13:15 p.m.,"Av Saenz Peña-79, Chiclayo, Chiclayo, Lambayeque",,00:11:20, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 6:08:43 p.m.,"Plaza De Armas-91, Chiclayo, Chiclayo, Lambayeque",,00:15:47, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 6:30:52 p.m.,"Florida-58, Chiclayo, Chiclayo, Lambayeque, Perú",,00:05:16, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,14/07/2025 10:52:03 p.m.,"674R+4H Anexo El Milagro, Peru",,00:06:33, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 4:50:27 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:42:56, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 6:08:21 a.m.,"Unnamed Road, Peru",,00:38:02, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 7:24:30 a.m.,"Pe-6a-83, Tuman, Chiclayo, Lambayeque",,00:08:51, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 10:39:42 a.m.,"66JH+FCR, Pomalca 14006, Peru",,00:08:17, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 12:13:06 p.m.,"De Leon Cleza-84, Chiclayo, Chiclayo, Lambayeque, Perú",,00:08:10, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 12:34:31 p.m.,"Av Luis Gonzales-66, Chiclayo, Chiclayo, Lambayeque",,00:06:14, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 12:41:52 p.m.,"Juan Cuglievan-18, Chiclayo, Chiclayo, Lambayeque",,00:13:37, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 12:56:21 p.m.,"Arica-83, Chiclayo, Chiclayo, Lambayeque",,00:24:34, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 3:31:21 p.m.,"Av Basadre, Chiclayo, Chiclayo, Lambayeque",,00:05:39, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 3:39:22 p.m.,"Florida-78, Chiclayo, Chiclayo, Lambayeque",,00:06:51, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 3:59:14 p.m.,"Av Aguirre Elias-31, Chiclayo, Chiclayo, Lambayeque",,00:09:04, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 4:29:49 p.m.,"Av Via Haca Rajada Sipan-4, Pomalca, Chiclayo, Lambayeque",,00:07:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 5:07:18 p.m.,"Pe-6a-28, Tuman, Chiclayo, Lambayeque, Perú",,00:05:52, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,15/07/2025 6:07:46 p.m.,"Las Casuarinas 168, Chiclayo, Peru",,00:07:51, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 5:40:52 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:12:57, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 9:13:07 a.m.,"Av Chavez Jorge, Chiclayo, Chiclayo, Lambayeque",,00:08:52, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 9:47:46 a.m.,"Av Grau-21, Chiclayo, Chiclayo, Lambayeque, Perú",,00:06:48, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 3:13:59 p.m.,"Las Casuarinas 140, Chiclayo 14008, Peru",,00:26:54, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 4:47:09 p.m.,"PE-6A 1-B, Pomalca 14006, Peru",,00:15:31, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 6:14:11 p.m.,"Av Basadre-7, Chiclayo, Chiclayo, Lambayeque",,00:15:33, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 6:33:57 p.m.,"Florida-13, Chiclayo, Chiclayo, Lambayeque",,00:16:01, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,16/07/2025 7:20:13 p.m.,"Pimentel, Peru",,00:05:44, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 5:23:57 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:16:02, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 6:19:44 a.m.,"Pje. 11 37, 14000, Peru",,00:10:36, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 11:35:28 a.m.,"Ramón Castilla 114, Pomalca 14006, Peru",,00:07:55, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 1:15:52 p.m.,"Via Principal-58, Pomalca, Chiclayo, Lambayeque, Perú",,00:18:03, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 2:59:35 p.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:15:53, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 3:39:20 p.m.,"Florida-79, Chiclayo, Chiclayo, Lambayeque",,00:06:29, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 3:48:22 p.m.,"Av Jose Balta, Chiclayo, Chiclayo, Lambayeque",,00:08:56, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 4:02:27 p.m.,"Alfredo Lapoint-71, Chiclayo, Chiclayo, Lambayeque, Perú",,00:19:31, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 7:03:22 p.m.,"Pe-06, Pimentel, Chiclayo, Lambayeque, Perú",,00:08:30, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 7:16:52 p.m.,"Pe-06, Pimentel, Chiclayo, Lambayeque",,00:11:13, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,17/07/2025 11:21:09 p.m.,"674R+4H Anexo El Milagro, Peru",,00:13:12, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,18/07/2025 5:01:58 a.m.,"Pe-6a-39, Tuman, Chiclayo, Lambayeque, Perú",,00:17:41, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,18/07/2025 6:31:13 a.m.,"53HR+XJ Pimentel, Peru",,00:11:40, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,18/07/2025 9:25:12 a.m.,"Av. Gral. Jose de San Martin 270, Pomalca 14006, Peru",,00:24:46, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,18/07/2025 11:16:39 a.m.,"55MQ+57 Chiclayo, Peru",,00:05:23, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+Seguridad,Unidad: BXC-911/SEGURIDAD ,18/07/2025 11:34:20 a.m.,"Via Principal, Pomalca, Chiclayo, Lambayeque",,00:11:16, ,# Stops: 177 - Max: 01:16:29 - Min: 00:05:04 - Total Stops: 40:24:38
+

@@ -1,0 +1,150 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+149;F3H-841;POWER UP;Jun 10 2025 03:02 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2702170000;-76.8872260000
+148;F3H-841;Ignition OFF;Jun 10 2025 03:00 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2702171000;-76.8872263000
+147;F3H-841;Ignition ON;Jun 10 2025 03:00 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2702160000;-76.8872265000
+146;F3H-841;Ignition OFF;Jun 10 2025 03:00 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2702156000;-76.8872346000
+145;F3H-841;Idle Alert;Jun 10 2025 03:00 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2702153000;-76.8872390000
+144;F3H-841;Idle - Stop;Jun 10 2025 02:58 PM;;Parcela 10366 ex fundó Santa Rosa, Lurín 15823, Peru;0;N/A;;-12.2704895000;-76.8872498000
+143;F3H-841;Idle - Stop;Jun 10 2025 02:55 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;0;N/A;;-12.2711395000;-76.8868313000
+142;F3H-841;Travel Stop;Jun 10 2025 02:55 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;1;N/A;;-12.2711405000;-76.8867720000
+141;F3H-841;Drive;Jun 10 2025 02:53 PM;;Antigua Panamericana Sur-39, Lurin, Lima, Lima [Province], Perú;19;N/A;;-12.2695785000;-76.8856588000
+140;F3H-841;Travel Start;Jun 10 2025 02:51 PM;;Antigua Panamericana Sur-28, Lurin, Lima, Lima [Province];12;N/A;;-12.2659970000;-76.8831540000
+139;F3H-841;Travel Stop;Jun 10 2025 02:51 PM;;Antigua Panamericana Sur-25, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2652643000;-76.8825950000
+138;F3H-841;Travel Start;Jun 10 2025 02:50 PM;;Antigua Panamericana Sur-24, Lurin, Lima, Lima [Province];9;N/A;;-12.2650345000;-76.8824016000
+137;F3H-841;Travel Stop;Jun 10 2025 02:49 PM;;Antigua Panamericana Sur-21, Lurin, Lima, Lima [Province];3;N/A;;-12.2637750000;-76.8813376000
+136;F3H-841;Idle - Stop;Jun 10 2025 02:49 PM;;Antigua Panamericana Sur-23, Lurin, Lima, Lima [Province];6;N/A;;-12.2639351000;-76.8812026000
+135;F3H-841;Drive;Jun 10 2025 02:48 PM;;Antigua Panamericana Sur-35, Lurin, Lima, Lima [Province];38;N/A;;-12.2653771000;-76.8799451000
+134;F3H-841;Travel Start;Jun 10 2025 02:46 PM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];19;N/A;;-12.2734953000;-76.8728645000
+133;F3H-841;Travel Stop;Jun 10 2025 02:46 PM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];0;N/A;;-12.2741373000;-76.8723683000
+132;F3H-841;Travel Start;Jun 10 2025 02:45 PM;;Antigua Panamericana Sur-47, Lurin, Lima, Lima [Province];6;N/A;;-12.2741520000;-76.8724740000
+131;F3H-841;Travel Stop;Jun 10 2025 02:45 PM;;Av Puente San Pedro-71, Lurin, Lima, Lima [Province];6;N/A;;-12.2746235000;-76.8728978000
+130;F3H-841;Travel Start;Jun 10 2025 02:44 PM;;Av Puente San Pedro-43, Lurin, Lima, Lima [Province];14;N/A;;-12.2752183000;-76.8732808000
+129;F3H-841;Travel Stop;Jun 10 2025 02:44 PM;;Av Puente San Pedro-4, Lurin, Lima, Lima [Province];6;N/A;;-12.2759886000;-76.8737556000
+128;F3H-841;Travel Start;Jun 10 2025 02:43 PM;;Calle MONASTERIO, Lima, Peru;27;N/A;;-12.2752380000;-76.8746583000
+127;F3H-841;Travel Stop;Jun 10 2025 02:43 PM;;Av Puente San Pedro-44, Lurin, Lima, Lima [Province];3;N/A;;-12.2743455000;-76.8757528000
+126;F3H-841;Idle - Stop;Jun 10 2025 02:43 PM;;Av Puente San Pedro-44, Lurin, Lima, Lima [Province];4;N/A;;-12.2743076000;-76.8757916000
+125;F3H-841;Travel Start;Jun 10 2025 02:42 PM;;Antigua Panamericana Sur-69, Lurin, Lima, Lima [Province];24;N/A;;-12.2720758000;-76.8783451000
+124;F3H-841;Idle - Stop;Jun 10 2025 02:41 PM;;Antigua Panamericana Sur-63, Lurin, Lima, Lima [Province], Perú;0;N/A;;-12.2713500000;-76.8792440000
+123;F3H-841;Travel Stop;Jun 10 2025 02:38 PM;;Calle MONASTERIO, Lima, Peru;0;N/A;;-12.2712663000;-76.8792521000
+122;F3H-841;Travel Start;Jun 10 2025 02:37 PM;;Antigua Panamericana Sur-73, Lurin, Lima, Lima [Province];30;N/A;;-12.2726451000;-76.8776816000
+121;F3H-841;Drive;Jun 10 2025 02:37 PM;;Antigua Panamericana Sur-74, Lurin, Lima, Lima [Province];32;N/A;;-12.2727661000;-76.8775466000
+120;F3H-841;Travel Stop;Jun 10 2025 02:36 PM;;Antigua Panamericana Sur, Lurin, Lima, Lima [Province];1;N/A;;-12.2735056000;-76.8767185000
+119;F3H-841;Travel Start;Jun 10 2025 02:36 PM;;Antigua Panamericana Sur-50, Lurin, Lima, Lima [Province];17;N/A;;-12.2741578000;-76.8760128000
+118;F3H-841;Travel Stop;Jun 10 2025 02:35 PM;;Av Puente San Pedro-39, Lurin, Lima, Lima [Province];1;N/A;;-12.2749010000;-76.8751275000
+117;F3H-841;Travel Start;Jun 10 2025 02:34 PM;;Calle MONASTERIO, Lima, Peru;20;N/A;;-12.2753868000;-76.8746075000
+116;F3H-841;Travel Stop;Jun 10 2025 02:34 PM;;Av Puente San Pedro-5, Lurin, Lima, Lima [Province];4;N/A;;-12.2760143000;-76.8738158000
+115;F3H-841;Drive;Jun 10 2025 02:33 PM;;Av Puente San Pedro, Lurin, Lima, Lima [Province];30;N/A;;-12.2770731000;-76.8743741000
+114;F3H-841;Drive;Jun 10 2025 02:31 PM;;Via Principal-43, Lurin, Lima, Lima [Province], Perú;17;N/A;;-12.2852050000;-76.8795333000
+113;F3H-841;Drive;Jun 10 2025 02:31 PM;;Av Puente San Pedro-45, Lurin, Lima, Lima [Province];14;N/A;;-12.2852840000;-76.8796171000
+112;F3H-841;Drive;Jun 10 2025 02:31 PM;;Av Puente San Pedro-55, Lurin, Lima, Lima [Province], Perú;16;N/A;;-12.2852775000;-76.8797195000
+111;F3H-841;Drive;Jun 10 2025 02:31 PM;;Av Puente San Pedro-33, Lurin, Lima, Lima [Province];30;N/A;;-12.2838928000;-76.8791056000
+110;F3H-841;Drive;Jun 10 2025 02:31 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];22;N/A;;-12.2833690000;-76.8788890000
+109;F3H-841;End Speeding;Jun 10 2025 02:30 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;57;N/A;;-12.2806905000;-76.8826096000
+108;F3H-841;Speed alert;Jun 10 2025 02:29 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];72;N/A;;-12.2750468000;-76.8915716000
+107;F3H-841;End Speeding;Jun 10 2025 02:28 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];67;N/A;;-12.2717993000;-76.8967368000
+106;F3H-841;Drive;Jun 10 2025 02:28 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];64;N/A;;-12.2715208000;-76.8971791000
+105;F3H-841;Drive;Jun 10 2025 02:27 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;80;N/A;;-12.2621408000;-76.9120998000
+104;F3H-841;Speed alert;Jun 10 2025 02:26 PM;;Av Grifo, Lurin, Lima, Lima [Province];72;N/A;;-12.2530560000;-76.9270366000
+103;F3H-841;End Speeding;Jun 10 2025 02:25 PM;;Av Pe-1s-35, Villa El Salvador, Lima, Lima [Province];62;N/A;;-12.2490761000;-76.9323453000
+102;F3H-841;Drive;Jun 10 2025 02:25 PM;;Av Pe-1s-58, Villa El Salvador, Lima, Lima [Province];74;N/A;;-12.2480318000;-76.9337090000
+101;F3H-841;Drive;Jun 10 2025 02:24 PM;;Av Carretera, Villa El Salvador, Lima, Lima [Province];83;N/A;;-12.2436633000;-76.9416475000
+100;F3H-841;Speed alert;Jun 10 2025 02:23 PM;;Av Pe-1s-11, Villa El Salvador, Lima, Lima [Province];74;N/A;;-12.2359333000;-76.9565601000
+99;F3H-841;Travel Start;Jun 10 2025 02:21 PM;;Av Pe-1s-34, Villa El Salvador, Lima, Lima [Province];33;N/A;;-12.2305790000;-76.9667398000
+98;F3H-841;Travel Stop;Jun 10 2025 02:20 PM;;Av Pe-1s-22, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2298246000;-76.9676651000
+97;F3H-841;Travel Start;Jun 10 2025 02:19 PM;;Av Pe-1s-7, Villa El Salvador, Lima, Lima [Province];25;N/A;;-12.2287598000;-76.9686378000
+96;F3H-841;Idle - Stop;Jun 10 2025 02:19 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2279796000;-76.9693933000
+95;F3H-841;Travel Stop;Jun 10 2025 02:17 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];0;N/A;;-12.2277446000;-76.9696198000
+94;F3H-841;Drive;Jun 10 2025 02:15 PM;;Av Pe-1s-91, Villa El Salvador, Lima, Lima [Province];69;N/A;;-12.2208760000;-76.9762181000
+93;F3H-841;End Speeding;Jun 10 2025 02:15 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province], Perú;67;N/A;;-12.2112988000;-76.9758783000
+92;F3H-841;Speed alert;Jun 10 2025 02:14 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];70;N/A;;-12.2057810000;-76.9748625000
+91;F3H-841;End Speeding;Jun 10 2025 02:13 PM;;Av Pe-1s, Villa El Salvador, Lima, Lima [Province];67;N/A;;-12.1982215000;-76.9734726000
+90;F3H-841;Speed alert;Jun 10 2025 02:13 PM;;Girasoles-86, San Juan De Miraflores, Lima, Lima [Province];72;N/A;;-12.1948576000;-76.9728213000
+89;F3H-841;Drive;Jun 10 2025 02:13 PM;;Av Panamericana-34, San Juan De Miraflores, Lima, Lima [Province];69;N/A;;-12.1920320000;-76.9726811000
+88;F3H-841;Drive;Jun 10 2025 02:12 PM;;Av Lateral Panamericana, Chorrillos, Lima, Lima [Province];67;N/A;;-12.1860996000;-76.9743798000
+87;F3H-841;Drive;Jun 10 2025 02:10 PM;;Av Panamericana-53, San Juan De Miraflores, Lima, Lima [Province];49;N/A;;-12.1715895000;-76.9790023000
+86;F3H-841;Drive;Jun 10 2025 02:08 PM;;Av Panamericana-54, San Juan De Miraflores, Lima, Lima [Province];41;N/A;;-12.1570758000;-76.9832871000
+85;F3H-841;Drive;Jun 10 2025 02:07 PM;;Lateral-20, Surco, Lima, Lima [Province];61;N/A;;-12.1467445000;-76.9822300000
+84;F3H-841;Drive;Jun 10 2025 02:06 PM;;Av Panamericana-49, Surco, Lima, Lima [Province], Perú;57;N/A;;-12.1438593000;-76.9816690000
+83;F3H-841;Drive;Jun 10 2025 02:05 PM;;Salida-33, Surco, Lima, Lima [Province];54;N/A;;-12.1293393000;-76.9775378000
+82;F3H-841;Drive;Jun 10 2025 02:03 PM;;Av Panamericana-32, Surco, Lima, Lima [Province];65;N/A;;-12.1148346000;-76.9776698000
+81;F3H-841;Drive;Jun 10 2025 02:01 PM;;Av Panamericana-4, Surco, Lima, Lima [Province];51;N/A;;-12.1003180000;-76.9797268000
+80;F3H-841;Drive;Jun 10 2025 02:01 PM;;Jiron Paseo Del Bosque-26, San Borja, Lima, Lima [Province];61;N/A;;-12.0941335000;-76.9805576000
+79;F3H-841;Drive;Jun 10 2025 02:00 PM;;Av Evitamiento-16, Ate Vitarte, Lima, Lima [Province];43;N/A;;-12.0857853000;-76.9823371000
+78;F3H-841;Drive;Jun 10 2025 01:59 PM;;Av Evitamiento, Ate Vitarte, Lima, Lima [Province];53;N/A;;-12.0803678000;-76.9776146000
+77;F3H-841;Travel Start;Jun 10 2025 01:57 PM;;Av Evitamiento-68, Ate Vitarte, Lima, Lima [Province];17;N/A;;-12.0692973000;-76.9725203000
+76;F3H-841;Idle - Stop;Jun 10 2025 01:55 PM;;Av Evitamiento-49, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0683171000;-76.9720971000
+75;F3H-841;Idle - Stop;Jun 10 2025 01:55 PM;;Salida-73, Ate Vitarte, Lima, Lima [Province];1;N/A;;-12.0682225000;-76.9720651000
+74;F3H-841;Travel Stop;Jun 10 2025 01:52 PM;;Av Evitamiento-21, Ate Vitarte, Lima, Lima [Province];0;N/A;;-12.0675131000;-76.9718850000
+73;F3H-841;Drive;Jun 10 2025 01:51 PM;;Av Nicolas Ayllon-32, Ate Vitarte, Lima, Lima [Province];46;N/A;;-12.0583225000;-76.9735231000
+72;F3H-841;Drive;Jun 10 2025 01:49 PM;;Av 1 De Mayo-65, El Agustino, Lima, Lima [Province];62;N/A;;-12.0457131000;-76.9830941000
+71;F3H-841;Drive;Jun 10 2025 01:49 PM;;Av 1 De Mayo-30, El Agustino, Lima, Lima [Province];61;N/A;;-12.0447700000;-76.9841913000
+70;F3H-841;Drive;Jun 10 2025 01:47 PM;;Av Evitamiento-67, El Agustino, Lima, Lima [Province];30;N/A;;-12.0319620000;-76.9920091000
+69;F3H-841;Drive;Jun 10 2025 01:46 PM;;Av Evitamiento-26, El Agustino, Lima, Lima [Province];27;N/A;;-12.0317483000;-76.9925143000
+68;F3H-841;Drive;Jun 10 2025 01:46 PM;;Rampa-31, El Agustino, Lima, Lima [Province];30;N/A;;-12.0319503000;-76.9928941000
+67;F3H-841;Drive;Jun 10 2025 01:46 PM;;Av 1 De Mayo-56, Lima (cercado), Lima, Lima [Province];30;N/A;;-12.0324096000;-76.9930395000
+66;F3H-841;Drive;Jun 10 2025 01:46 PM;;Av 1 De Mayo, Lima (cercado), Lima, Lima [Province];28;N/A;;-12.0328071000;-76.9927973000
+65;F3H-841;Drive;Jun 10 2025 01:46 PM;;Rampa-18, El Agustino, Lima, Lima [Province];30;N/A;;-12.0327623000;-76.9918475000
+64;F3H-841;End Speeding;Jun 10 2025 01:44 PM;;Av Autopista Ramiro Priale-59, El Agustino, Lima, Lima [Province];67;N/A;;-12.0292481000;-76.9789065000
+63;F3H-841;Speed alert;Jun 10 2025 01:44 PM;;Av Autopista Ramiro Priale-45, El Agustino, Lima, Lima [Province];72;N/A;;-12.0283886000;-76.9757261000
+62;F3H-841;Drive;Jun 10 2025 01:43 PM;;Av Autopista Ramiro Priale-48, El Agustino, Lima, Lima [Province];41;N/A;;-12.0260953000;-76.9688170000
+61;F3H-841;Drive;Jun 10 2025 01:42 PM;;Via Principal-52, San Juan De Lurigancho, Lima, Lima [Province];67;N/A;;-12.0241551000;-76.9633940000
+60;F3H-841;Travel Start;Jun 10 2025 01:40 PM;;Av Autopista Ramiro Priale-5, El Agustino, Lima, Lima [Province];48;N/A;;-12.0196291000;-76.9484755000
+59;F3H-841;Travel Stop;Jun 10 2025 01:40 PM;;Av Tucanes, Lurigancho, Lima, Lima [Province];1;N/A;;-12.0195658000;-76.9469661000
+58;F3H-841;Drive;Jun 10 2025 01:40 PM;;Av Tucanes, Lurigancho, Lima, Lima [Province];0;N/A;;-12.0193161000;-76.9469351000
+57;F3H-841;Drive;Jun 10 2025 01:38 PM;;Av Cisnes-80, Lurigancho, Lima, Lima [Province];25;N/A;;-12.0191985000;-76.9513766000
+56;F3H-841;Drive;Jun 10 2025 01:37 PM;;Av Campoy-4, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0199715000;-76.9535628000
+55;F3H-841;Drive;Jun 10 2025 01:37 PM;;Av Campoy-22, San Juan De Lurigancho, Lima, Lima [Province];20;N/A;;-12.0205200000;-76.9548458000
+54;F3H-841;Travel Start;Jun 10 2025 01:35 PM;;Av Campoy-39, San Juan De Lurigancho, Lima, Lima [Province];19;N/A;;-12.0211960000;-76.9599470000
+53;F3H-841;Travel Stop;Jun 10 2025 01:34 PM;;Av Campoy-44, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0218131000;-76.9614370000
+52;F3H-841;Travel Start;Jun 10 2025 01:33 PM;;Av Campoy-47, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-12.0230258000;-76.9643696000
+51;F3H-841;Travel Stop;Jun 10 2025 01:31 PM;;Av Campoy-7, San Juan De Lurigancho, Lima, Lima [Province];3;N/A;;-12.0231073000;-76.9650708000
+50;F3H-841;Drive;Jun 10 2025 01:31 PM;;Av Campoy-39, San Juan De Lurigancho, Lima, Lima [Province];22;N/A;;-12.0229260000;-76.9645895000
+49;F3H-841;Geofence OUT;Jun 10 2025 01:31 PM;SEDE CAMPOY;Av Campoy-52, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0228281000;-76.9643466000
+48;F3H-841;Travel Start;Jun 10 2025 01:31 PM;;Av Campoy-52, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0228281000;-76.9643466000
+47;F3H-841;Idle Alert;Jun 10 2025 01:29 PM;;Cl7-67, San Juan De Lurigancho, Lima, Lima [Province], Perú;1;N/A;;-12.0214418000;-76.9631453000
+46;F3H-841;Idle - Stop;Jun 10 2025 01:27 PM;;Cl7-65, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0213543000;-76.9628848000
+45;F3H-841;Idle - Stop;Jun 10 2025 01:25 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212446000;-76.9629375000
+44;F3H-841;Ignition ON;Jun 10 2025 01:24 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212400000;-76.9629551000
+43;F3H-841;Ignition OFF;Jun 10 2025 01:23 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212495000;-76.9629528000
+42;F3H-841;Ignition ON;Jun 10 2025 01:23 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212503000;-76.9629573000
+41;F3H-841;Parked;Jun 10 2025 01:19 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212848000;-76.9629406000
+40;F3H-841;Parked;Jun 10 2025 01:13 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212891000;-76.9629138000
+39;F3H-841;Parked;Jun 10 2025 01:07 PM;;Cl7-65, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0213211000;-76.9629580000
+38;F3H-841;Parked;Jun 10 2025 01:01 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212851000;-76.9629533000
+37;F3H-841;Parked;Jun 10 2025 12:55 PM;;Cl7-65, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0213285000;-76.9629736000
+36;F3H-841;Parked;Jun 10 2025 12:51 PM;;Cl7-65, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0213110000;-76.9629756000
+35;F3H-841;Parked;Jun 10 2025 12:49 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212218000;-76.9629360000
+34;F3H-841;Parked;Jun 10 2025 12:43 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212650000;-76.9629301000
+33;F3H-841;Ignition OFF;Jun 10 2025 12:41 PM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212436000;-76.9629455000
+32;F3H-841;Idle - Stop;Jun 10 2025 12:37 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211063000;-76.9629801000
+31;F3H-841;Idle - Stop;Jun 10 2025 12:31 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211090000;-76.9629306000
+30;F3H-841;Idle Alert;Jun 10 2025 12:29 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211333000;-76.9629451000
+29;F3H-841;Idle - Stop;Jun 10 2025 12:27 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211295000;-76.9629423000
+28;F3H-841;Idle - Stop;Jun 10 2025 12:25 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210611000;-76.9629620000
+27;F3H-841;Ignition ON;Jun 10 2025 12:24 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210688000;-76.9629603000
+26;F3H-841;Parked;Jun 10 2025 12:19 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210366000;-76.9629756000
+25;F3H-841;Parked;Jun 10 2025 12:13 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210820000;-76.9630156000
+24;F3H-841;Parked;Jun 10 2025 12:07 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210841000;-76.9629785000
+23;F3H-841;Parked;Jun 10 2025 12:01 PM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210181000;-76.9629300000
+22;F3H-841;Parked;Jun 10 2025 11:55 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210581000;-76.9629798000
+21;F3H-841;Parked;Jun 10 2025 11:49 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210831000;-76.9629851000
+20;F3H-841;Parked;Jun 10 2025 11:47 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210388000;-76.9629573000
+19;F3H-841;Parked;Jun 10 2025 11:43 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210433000;-76.9629871000
+18;F3H-841;Parked;Jun 10 2025 11:37 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210788000;-76.9629410000
+17;F3H-841;Ignition OFF;Jun 10 2025 11:37 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210788000;-76.9629443000
+16;F3H-841;Ignition ON;Jun 10 2025 11:36 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210698000;-76.9629508000
+15;F3H-841;Ignition OFF;Jun 10 2025 11:36 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210700000;-76.9629610000
+14;F3H-841;Idle - Stop;Jun 10 2025 11:31 AM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212795000;-76.9629035000
+13;F3H-841;Idle - Stop;Jun 10 2025 11:25 AM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212926000;-76.9629045000
+12;F3H-841;Idle - Stop;Jun 10 2025 11:19 AM;;Cl7-65, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0213036000;-76.9628906000
+11;F3H-841;Idle - Stop;Jun 10 2025 11:13 AM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212991000;-76.9628821000
+10;F3H-841;Idle Alert;Jun 10 2025 11:12 AM;;Cl7-60, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-12.0212963000;-76.9628740000
+9;F3H-841;Idle - Stop;Jun 10 2025 11:10 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211025000;-76.9629418000
+8;F3H-841;Ignition ON;Jun 10 2025 11:08 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210940000;-76.9629800000
+7;F3H-841;POWER UP;Jun 10 2025 11:07 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210940000;-76.9629800000
+6;F3H-841;Idle - Stop;Jun 09 2025 08:01 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0210935000;-76.9629800000
+5;F3H-841;Idle Alert;Jun 09 2025 08:01 AM;;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211011000;-76.9630058000
+4;F3H-841;Landmark OUT;Jun 09 2025 07:59 AM;QUAVII AVANCE;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211456000;-76.9630133000
+3;F3H-841;Idle - Stop;Jun 09 2025 07:59 AM;QUAVII AVANCE;C. 7 10, Lima 15457, Peru;0;N/A;;-12.0211456000;-76.9630133000
+2;F3H-841;Ignition ON;Jun 09 2025 07:56 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000
+1;F3H-841;POWER UP;Jun 09 2025 07:56 AM;;Gulf of Guinea;0;N/A;;0.0000000000;0.0000000000

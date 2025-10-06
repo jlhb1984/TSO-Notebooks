@@ -1,0 +1,93 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+92;PE6068L243641;Ignition ON;Aug 15 2025 02:39 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273390000;-76.9897050000
+91;PE6068L243641;POWER UP;Aug 15 2025 02:39 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273390000;-76.9897050000
+90;PE6068L243641;Idle Alert;Aug 13 2025 02:11 AM;;;0;N/A;;-12.0273390000;-76.9897050000
+89;PE6068L243641;Idle - Stop;Aug 13 2025 02:09 AM;;;0;N/A;;-12.0273390000;-76.9897050000
+88;PE6068L243641;Ignition ON;Aug 13 2025 02:06 AM;;;0;N/A;;-12.0273390000;-76.9897050000
+87;PE6068L243641;POWER UP;Aug 13 2025 02:06 AM;;;0;N/A;;-12.0273390000;-76.9897050000
+86;PE6068L243641;Idle - Stop;Aug 12 2025 04:20 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273393000;-76.9897050000
+85;PE6068L243641;Idle - Stop;Aug 12 2025 04:14 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273338000;-76.9896960000
+84;PE6068L243641;Idle - Stop;Aug 12 2025 04:08 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273440000;-76.9896700000
+83;PE6068L243641;Idle - Stop;Aug 12 2025 04:02 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273523000;-76.9896655000
+82;PE6068L243641;Idle - Stop;Aug 12 2025 03:56 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273531000;-76.9896881000
+81;PE6068L243641;Idle - Stop;Aug 12 2025 03:50 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273686000;-76.9897140000
+80;PE6068L243641;Idle - Stop;Aug 12 2025 03:44 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273648000;-76.9897013000
+79;PE6068L243641;Idle - Stop;Aug 12 2025 03:38 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273260000;-76.9896963000
+78;PE6068L243641;Idle - Stop;Aug 12 2025 03:32 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273376000;-76.9896825000
+77;PE6068L243641;Idle - Stop;Aug 12 2025 03:26 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273256000;-76.9896860000
+76;PE6068L243641;Idle - Stop;Aug 12 2025 03:20 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273293000;-76.9896881000
+75;PE6068L243641;Idle - Stop;Aug 12 2025 03:14 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273075000;-76.9896860000
+74;PE6068L243641;Idle - Stop;Aug 12 2025 03:08 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273420000;-76.9896625000
+73;PE6068L243641;Idle - Stop;Aug 12 2025 03:01 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273168000;-76.9896800000
+72;PE6068L243641;Idle - Stop;Aug 12 2025 02:55 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273195000;-76.9896735000
+71;PE6068L243641;Idle - Stop;Aug 12 2025 02:49 PM;;Jerico 101, El Agustino 15006, Peru;0;N/A;;-12.0272968000;-76.9896483000
+70;PE6068L243641;Idle - Stop;Aug 12 2025 02:43 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273301000;-76.9896778000
+69;PE6068L243641;Idle - Stop;Aug 12 2025 02:37 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273331000;-76.9896908000
+68;PE6068L243641;Idle - Stop;Aug 12 2025 02:31 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273356000;-76.9896526000
+67;PE6068L243641;Idle - Stop;Aug 12 2025 02:25 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273371000;-76.9896481000
+66;PE6068L243641;Idle - Stop;Aug 12 2025 02:19 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273665000;-76.9896180000
+65;PE6068L243641;Idle - Stop;Aug 12 2025 02:13 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273263000;-76.9896590000
+64;PE6068L243641;Idle - Stop;Aug 12 2025 02:07 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273128000;-76.9896746000
+63;PE6068L243641;Idle - Stop;Aug 12 2025 02:01 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273173000;-76.9896660000
+62;PE6068L243641;Idle - Stop;Aug 12 2025 01:55 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273283000;-76.9896815000
+61;PE6068L243641;Idle - Stop;Aug 12 2025 01:49 PM;;Av Malecon La Amistad-56, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273823000;-76.9897051000
+60;PE6068L243641;Idle - Stop;Aug 12 2025 01:43 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273268000;-76.9896531000
+59;PE6068L243641;Idle - Stop;Aug 12 2025 01:37 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273071000;-76.9896851000
+58;PE6068L243641;Idle - Stop;Aug 12 2025 01:31 PM;;Jerico 101, El Agustino 15006, Peru;0;N/A;;-12.0272875000;-76.9897015000
+57;PE6068L243641;Idle - Stop;Aug 12 2025 01:25 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273246000;-76.9896766000
+56;PE6068L243641;Idle - Stop;Aug 12 2025 01:19 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273008000;-76.9896845000
+55;PE6068L243641;Idle - Stop;Aug 12 2025 01:13 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273203000;-76.9896561000
+54;PE6068L243641;Idle - Stop;Aug 12 2025 01:07 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273205000;-76.9896980000
+53;PE6068L243641;Idle - Stop;Aug 12 2025 01:01 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273266000;-76.9896660000
+52;PE6068L243641;Idle - Stop;Aug 12 2025 12:55 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273130000;-76.9896606000
+51;PE6068L243641;Idle - Stop;Aug 12 2025 12:49 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273490000;-76.9896701000
+50;PE6068L243641;Idle - Stop;Aug 12 2025 12:43 PM;;Jerico 101, El Agustino 15006, Peru;0;N/A;;-12.0272895000;-76.9896495000
+49;PE6068L243641;Idle - Stop;Aug 12 2025 12:37 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273038000;-76.9896671000
+48;PE6068L243641;Idle - Stop;Aug 12 2025 12:31 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273085000;-76.9896430000
+47;PE6068L243641;Idle Alert;Aug 12 2025 12:07 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0274040000;-76.9896591000
+46;PE6068L243641;Idle - Stop;Aug 12 2025 12:05 PM;;Av Malecon La Amistad-54, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273995000;-76.9896380000
+45;PE6068L243641;Travel Stop;Aug 12 2025 12:02 PM;;Av Malecon La Amistad-57, El Agustino, Lima, Lima [Province], Perú;0;N/A;;-12.0273736000;-76.9901386000
+44;PE6068L243641;Drive;Aug 12 2025 12:01 PM;;Av Malecon Checa Eguiguren, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-12.0273068000;-76.9911736000
+43;PE6068L243641;Drive;Aug 12 2025 12:01 PM;;Av Malecon Checa Eguiguren, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0272665000;-76.9913065000
+42;PE6068L243641;Travel Start;Aug 12 2025 12:00 PM;;Av Las Lomas, San Juan De Lurigancho, Lima, Lima [Province];8;N/A;;-12.0269461000;-76.9913430000
+41;PE6068L243641;Travel Stop;Aug 12 2025 11:59 AM;;Av Las Lomas-52, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0257655000;-76.9913743000
+40;PE6068L243641;Travel Start;Aug 12 2025 11:57 AM;;Av Cajamarquilla, San Juan De Lurigancho, Lima, Lima [Province];14;N/A;;-12.0223188000;-76.9914311000
+39;PE6068L243641;Travel Stop;Aug 12 2025 11:56 AM;;Av Las Lomas, San Juan De Lurigancho, Lima, Lima [Province];6;N/A;;-12.0216383000;-76.9911408000
+38;PE6068L243641;Drive;Aug 12 2025 11:55 AM;;Av Las Lomas, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-12.0207993000;-76.9907960000
+37;PE6068L243641;Drive;Aug 12 2025 11:54 AM;;Av Las Lomas, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-12.0179186000;-76.9901131000
+36;PE6068L243641;Drive;Aug 12 2025 11:53 AM;;Av Lurigancho, San Juan De Lurigancho, Lima, Lima [Province];11;N/A;;-12.0168488000;-76.9950813000
+35;PE6068L243641;Drive;Aug 12 2025 11:53 AM;;Av Lurigancho-39, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-12.0167991000;-76.9951515000
+34;PE6068L243641;Drive;Aug 12 2025 11:52 AM;;Av Lurigancho-42, San Juan De Lurigancho, Lima, Lima [Province];11;N/A;;-12.0166698000;-76.9945646000
+33;PE6068L243641;Drive;Aug 12 2025 11:52 AM;;Av Lurigancho, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-12.0166626000;-76.9944491000
+32;PE6068L243641;Travel Start;Aug 12 2025 11:52 AM;;Av Lurigancho, San Juan De Lurigancho, Lima, Lima [Province];11;N/A;;-12.0156453000;-76.9944243000
+31;PE6068L243641;Travel Stop;Aug 12 2025 11:51 AM;;Av Lima, San Juan De Lurigancho, Lima, Lima [Province];4;N/A;;-12.0145716000;-76.9944511000
+30;PE6068L243641;Drive;Aug 12 2025 11:50 AM;;Av Lima, San Juan De Lurigancho, Lima, Lima [Province];14;N/A;;-12.0129325000;-76.9944950000
+29;PE6068L243641;Drive;Aug 12 2025 11:50 AM;;Av Lima, San Juan De Lurigancho, Lima, Lima [Province];17;N/A;;-12.0126901000;-76.9960991000
+28;PE6068L243641;Drive;Aug 12 2025 11:48 AM;;Av Santa Rosa, San Juan De Lurigancho, Lima, Lima [Province];14;N/A;;-12.0052900000;-76.9980728000
+27;PE6068L243641;Drive;Aug 12 2025 11:46 AM;;Av Santa Rosa, San Juan De Lurigancho, Lima, Lima [Province];20;N/A;;-11.9986546000;-77.0005501000
+26;PE6068L243641;Drive;Aug 12 2025 11:44 AM;;Av Santa Rosa, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-11.9922933000;-77.0006085000
+25;PE6068L243641;Drive;Aug 12 2025 11:43 AM;;Av Santa Rosa, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-11.9921563000;-77.0005793000
+24;PE6068L243641;Drive;Aug 12 2025 11:43 AM;;Av Jorge Basadre-73, San Juan De Lurigancho, Lima, Lima [Province], Perú;17;N/A;;-11.9909438000;-77.0032973000
+23;PE6068L243641;Drive;Aug 12 2025 11:43 AM;;Piedra Luna-4, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-11.9908333000;-77.0034266000
+22;PE6068L243641;Drive;Aug 12 2025 11:41 AM;;Av Sol-80, San Juan De Lurigancho, Lima, Lima [Province];12;N/A;;-11.9864740000;-77.0017791000
+21;PE6068L243641;Idle - Stop;Aug 12 2025 11:40 AM;;Cl. Los Duraznos-24, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-11.9861011000;-77.0008060000
+20;PE6068L243641;Drive;Aug 12 2025 11:40 AM;;Cl. Los Duraznos-51, San Juan De Lurigancho, Lima, Lima [Province];0;N/A;;-11.9860043000;-77.0007360000
+19;PE6068L243641;Travel Start;Aug 12 2025 11:38 AM;;Cl. Los Duraznos-39, San Juan De Lurigancho, Lima, Lima [Province];9;N/A;;-11.9831771000;-77.0022706000
+18;PE6068L243641;Idle - Stop;Aug 12 2025 08:33 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824166000;-77.0036495000
+17;PE6068L243641;Idle - Stop;Aug 12 2025 08:27 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823935000;-77.0036158000
+16;PE6068L243641;Idle - Stop;Aug 12 2025 08:21 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824450000;-77.0036326000
+15;PE6068L243641;Idle - Stop;Aug 12 2025 08:15 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823980000;-77.0036306000
+14;PE6068L243641;Idle - Stop;Aug 12 2025 08:09 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824200000;-77.0036273000
+13;PE6068L243641;Idle - Stop;Aug 12 2025 08:03 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824413000;-77.0036090000
+12;PE6068L243641;Idle - Stop;Aug 12 2025 07:57 AM;;Cl. Los Duraznos-88, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824776000;-77.0035996000
+11;PE6068L243641;Idle - Stop;Aug 12 2025 07:51 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823743000;-77.0036313000
+10;PE6068L243641;Fuel Dropping;Aug 12 2025 07:45 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823628000;-77.0036490000
+9;PE6068L243641;Idle - Stop;Aug 12 2025 07:45 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823628000;-77.0036490000
+8;PE6068L243641;Idle Alert;Aug 12 2025 07:44 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9823816000;-77.0036435000
+7;PE6068L243641;Idle - Stop;Aug 12 2025 07:42 AM;;Cl. Los Duraznos-86, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824188000;-77.0036178000
+6;PE6068L243641;Ignition ON;Aug 12 2025 07:40 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
+5;PE6068L243641;Ignition ON;Aug 12 2025 07:40 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
+4;PE6068L243641;POWER UP;Aug 12 2025 07:40 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
+3;PE6068L243641;POWER UP;Aug 12 2025 07:40 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
+2;PE6068L243641;Ignition ON;Aug 12 2025 07:39 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
+1;PE6068L243641;POWER UP;Aug 12 2025 07:39 AM;;Cl. Los Duraznos-82, San Juan De Lurigancho, Lima, Lima [Province], Perú;0;N/A;;-11.9824460000;-77.0037410000
