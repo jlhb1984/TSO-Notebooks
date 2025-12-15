@@ -1,0 +1,173 @@
+Sequence;Unit;Events;Date;Landmark;Address;Speed;Temperature;Driver;Latitude;Longitude
+172;HITACHI 4848;Parked;Oct 30 2025 12:19 PM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+171;HITACHI 4848;Parked;Oct 30 2025 11:19 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+170;HITACHI 4848;Ignition OFF;Oct 30 2025 11:19 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+169;HITACHI 4848;Idle - Stop;Oct 30 2025 11:18 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+168;HITACHI 4848;Idle - Stop;Oct 30 2025 11:17 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+167;HITACHI 4848;Idle - Stop;Oct 30 2025 11:16 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+166;HITACHI 4848;Idle - Stop;Oct 30 2025 11:15 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+165;HITACHI 4848;Idle - Stop;Oct 30 2025 11:14 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+164;HITACHI 4848;Idle - Stop;Oct 30 2025 11:13 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+163;HITACHI 4848;Idle - Stop;Oct 30 2025 11:12 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+162;HITACHI 4848;Idle - Stop;Oct 30 2025 11:11 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320950000
+161;HITACHI 4848;Idle - Stop;Oct 30 2025 11:10 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789570000;-74.5321010000
+160;HITACHI 4848;Idle - Stop;Oct 30 2025 11:09 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789430000;-74.5321120000
+159;HITACHI 4848;Idle - Stop;Oct 30 2025 11:08 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789430000;-74.5321120000
+158;HITACHI 4848;Idle - Stop;Oct 30 2025 11:07 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789430000;-74.5321120000
+157;HITACHI 4848;Idle - Stop;Oct 30 2025 11:06 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789430000;-74.5321120000
+156;HITACHI 4848;Idle - Stop;Oct 30 2025 11:05 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789400000;-74.5321160000
+155;HITACHI 4848;Idle - Stop;Oct 30 2025 11:04 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789400000;-74.5321160000
+154;HITACHI 4848;Idle - Stop;Oct 30 2025 11:04 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789580000;-74.5321120000
+153;HITACHI 4848;Idle - Stop;Oct 30 2025 11:03 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789610000;-74.5321100000
+152;HITACHI 4848;Idle - Stop;Oct 30 2025 11:02 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789470000;-74.5321110000
+151;HITACHI 4848;Idle - Stop;Oct 30 2025 11:01 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789470000;-74.5321110000
+150;HITACHI 4848;Idle - Stop;Oct 30 2025 11:01 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789400000;-74.5321170000
+149;HITACHI 4848;Idle - Stop;Oct 30 2025 11:00 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789170000;-74.5321310000
+148;HITACHI 4848;Idle - Stop;Oct 30 2025 10:59 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789140000;-74.5321230000
+147;HITACHI 4848;Idle - Stop;Oct 30 2025 10:58 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789100000;-74.5321230000
+146;HITACHI 4848;Idle - Stop;Oct 30 2025 10:57 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789160000;-74.5321180000
+145;HITACHI 4848;Idle - Stop;Oct 30 2025 10:56 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789130000;-74.5321190000
+144;HITACHI 4848;Idle - Stop;Oct 30 2025 10:56 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788830000;-74.5321330000
+143;HITACHI 4848;Idle - Stop;Oct 30 2025 10:55 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788440000;-74.5321430000
+142;HITACHI 4848;Idle - Stop;Oct 30 2025 10:54 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788190000;-74.5321550000
+141;HITACHI 4848;Idle - Stop;Oct 30 2025 10:54 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787550000;-74.5321680000
+140;HITACHI 4848;Idle - Stop;Oct 30 2025 10:53 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787550000;-74.5321680000
+139;HITACHI 4848;Idle - Stop;Oct 30 2025 10:52 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787550000;-74.5321680000
+138;HITACHI 4848;Idle - Stop;Oct 30 2025 10:50 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787610000;-74.5321770000
+137;HITACHI 4848;Idle - Stop;Oct 30 2025 10:49 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787730000;-74.5321570000
+136;HITACHI 4848;Idle - Stop;Oct 30 2025 10:49 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787670000;-74.5321630000
+135;HITACHI 4848;Idle - Stop;Oct 30 2025 10:48 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787630000;-74.5321620000
+134;HITACHI 4848;Idle - Stop;Oct 30 2025 10:47 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787630000;-74.5321620000
+133;HITACHI 4848;Idle - Stop;Oct 30 2025 10:46 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788190000;-74.5321520000
+132;HITACHI 4848;Idle - Stop;Oct 30 2025 10:45 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789020000;-74.5321220000
+131;HITACHI 4848;Idle - Stop;Oct 30 2025 10:44 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789210000;-74.5321190000
+130;HITACHI 4848;Idle - Stop;Oct 30 2025 10:44 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789500000;-74.5321110000
+129;HITACHI 4848;Idle - Stop;Oct 30 2025 10:43 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789470000;-74.5321180000
+128;HITACHI 4848;Idle - Stop;Oct 30 2025 10:43 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789270000;-74.5321240000
+127;HITACHI 4848;Idle - Stop;Oct 30 2025 10:42 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788480000;-74.5321620000
+126;HITACHI 4848;Idle - Stop;Oct 30 2025 10:42 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788610000;-74.5321430000
+125;HITACHI 4848;Idle - Stop;Oct 30 2025 10:41 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787910000;-74.5321710000
+124;HITACHI 4848;Idle - Stop;Oct 30 2025 10:40 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787590000;-74.5321740000
+123;HITACHI 4848;Idle - Stop;Oct 30 2025 10:39 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787660000;-74.5321800000
+122;HITACHI 4848;Idle - Stop;Oct 30 2025 10:38 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+121;HITACHI 4848;Idle - Stop;Oct 30 2025 10:37 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+120;HITACHI 4848;Idle - Stop;Oct 30 2025 10:36 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+119;HITACHI 4848;Idle - Stop;Oct 30 2025 10:35 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+118;HITACHI 4848;Idle - Stop;Oct 30 2025 10:34 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+117;HITACHI 4848;Idle - Stop;Oct 30 2025 10:33 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+116;HITACHI 4848;Idle - Stop;Oct 30 2025 10:32 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+115;HITACHI 4848;Idle - Stop;Oct 30 2025 10:31 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+114;HITACHI 4848;Idle - Stop;Oct 30 2025 10:30 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787640000;-74.5321740000
+113;HITACHI 4848;Idle - Stop;Oct 30 2025 10:29 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789840000;-74.5320740000
+112;HITACHI 4848;Idle - Stop;Oct 30 2025 10:28 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789760000;-74.5320640000
+111;HITACHI 4848;Idle - Stop;Oct 30 2025 10:27 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789710000;-74.5320690000
+110;HITACHI 4848;Idle - Stop;Oct 30 2025 10:27 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789780000;-74.5320690000
+109;HITACHI 4848;Idle - Stop;Oct 30 2025 10:26 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789820000;-74.5320650000
+108;HITACHI 4848;Idle - Stop;Oct 30 2025 10:25 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789660000;-74.5320890000
+107;HITACHI 4848;Idle - Stop;Oct 30 2025 10:24 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789550000;-74.5321000000
+106;HITACHI 4848;Idle - Stop;Oct 30 2025 10:23 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789160000;-74.5321210000
+105;HITACHI 4848;Idle - Stop;Oct 30 2025 10:22 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789160000;-74.5321210000
+104;HITACHI 4848;Idle - Stop;Oct 30 2025 10:21 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789160000;-74.5321210000
+103;HITACHI 4848;Idle - Stop;Oct 30 2025 10:20 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788810000;-74.5321400000
+102;HITACHI 4848;Idle - Stop;Oct 30 2025 10:19 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788540000;-74.5321420000
+101;HITACHI 4848;Idle - Stop;Oct 30 2025 10:18 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788540000;-74.5321420000
+100;HITACHI 4848;Idle - Stop;Oct 30 2025 10:17 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788540000;-74.5321420000
+99;HITACHI 4848;Idle - Stop;Oct 30 2025 10:16 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788550000;-74.5321390000
+98;HITACHI 4848;Idle - Stop;Oct 30 2025 10:15 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788590000;-74.5321400000
+97;HITACHI 4848;Idle - Stop;Oct 30 2025 10:14 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788390000;-74.5321440000
+96;HITACHI 4848;Idle - Stop;Oct 30 2025 10:14 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788380000;-74.5321420000
+95;HITACHI 4848;Idle - Stop;Oct 30 2025 10:13 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788060000;-74.5321480000
+94;HITACHI 4848;Idle - Stop;Oct 30 2025 10:12 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787650000;-74.5321530000
+93;HITACHI 4848;Idle - Stop;Oct 30 2025 10:11 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787650000;-74.5321530000
+92;HITACHI 4848;Idle - Stop;Oct 30 2025 10:10 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787490000;-74.5321670000
+91;HITACHI 4848;Idle - Stop;Oct 30 2025 10:09 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787490000;-74.5321670000
+90;HITACHI 4848;Idle - Stop;Oct 30 2025 10:08 AM;;Cl. 6 # 7-37, Icononzo, Tolima, Colombia;0;N/A;;4.1787470000;-74.5321660000
+89;HITACHI 4848;Idle - Stop;Oct 30 2025 10:07 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788260000;-74.5321410000
+88;HITACHI 4848;Idle - Stop;Oct 30 2025 10:07 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+87;HITACHI 4848;Idle - Stop;Oct 30 2025 10:06 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+86;HITACHI 4848;Idle - Stop;Oct 30 2025 10:05 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+85;HITACHI 4848;Idle - Stop;Oct 30 2025 10:04 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+84;HITACHI 4848;Idle - Stop;Oct 30 2025 10:03 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+83;HITACHI 4848;Idle - Stop;Oct 30 2025 10:02 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+82;HITACHI 4848;Idle - Stop;Oct 30 2025 10:01 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+81;HITACHI 4848;Idle - Stop;Oct 30 2025 10:00 AM;;Cra. 7 #7-05, Icononzo, Tolima, Colombia;0;N/A;;4.1788670000;-74.5321250000
+80;HITACHI 4848;Idle - Stop;Oct 30 2025 09:59 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789150000;-74.5321180000
+79;HITACHI 4848;Idle - Stop;Oct 30 2025 09:58 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789150000;-74.5321180000
+78;HITACHI 4848;Idle - Stop;Oct 30 2025 09:57 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789150000;-74.5321180000
+77;HITACHI 4848;Idle - Stop;Oct 30 2025 09:56 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789150000;-74.5321180000
+76;HITACHI 4848;Idle - Stop;Oct 30 2025 09:55 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789460000;-74.5321070000
+75;HITACHI 4848;Idle - Stop;Oct 30 2025 09:54 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789700000;-74.5321010000
+74;HITACHI 4848;Idle - Stop;Oct 30 2025 09:53 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789700000;-74.5321010000
+73;HITACHI 4848;Idle - Stop;Oct 30 2025 09:52 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790330000;-74.5320860000
+72;HITACHI 4848;Idle - Stop;Oct 30 2025 09:51 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790330000;-74.5320860000
+71;HITACHI 4848;Idle - Stop;Oct 30 2025 09:50 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790360000;-74.5320820000
+70;HITACHI 4848;Idle - Stop;Oct 30 2025 09:49 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790380000;-74.5320690000
+69;HITACHI 4848;Idle - Stop;Oct 30 2025 09:48 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790380000;-74.5320690000
+68;HITACHI 4848;Idle - Stop;Oct 30 2025 09:48 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790170000;-74.5320600000
+67;HITACHI 4848;Idle - Stop;Oct 30 2025 09:48 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790140000;-74.5320600000
+66;HITACHI 4848;Idle - Stop;Oct 30 2025 09:47 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790040000;-74.5320480000
+65;HITACHI 4848;Idle - Stop;Oct 30 2025 09:47 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789980000;-74.5320440000
+64;HITACHI 4848;Idle - Stop;Oct 30 2025 09:46 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790110000;-74.5320280000
+63;HITACHI 4848;Idle - Stop;Oct 30 2025 09:45 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790100000;-74.5320240000
+62;HITACHI 4848;Idle - Stop;Oct 30 2025 09:45 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790060000;-74.5320200000
+61;HITACHI 4848;Idle - Stop;Oct 30 2025 09:44 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789880000;-74.5320360000
+60;HITACHI 4848;Idle - Stop;Oct 30 2025 09:43 AM;;Cl. 6 # 7-65, Icononzo, Tolima, Colombia;0;N/A;;4.1789990000;-74.5320390000
+59;HITACHI 4848;Idle - Stop;Oct 30 2025 09:43 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790190000;-74.5320400000
+58;HITACHI 4848;Idle - Stop;Oct 30 2025 09:42 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+57;HITACHI 4848;Idle - Stop;Oct 30 2025 09:41 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+56;HITACHI 4848;Idle - Stop;Oct 30 2025 09:40 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+55;HITACHI 4848;Idle - Stop;Oct 30 2025 09:39 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+54;HITACHI 4848;Idle - Stop;Oct 30 2025 09:38 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+53;HITACHI 4848;Idle - Stop;Oct 30 2025 09:37 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+52;HITACHI 4848;Idle - Stop;Oct 30 2025 09:36 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+51;HITACHI 4848;Idle - Stop;Oct 30 2025 09:35 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+50;HITACHI 4848;Idle - Stop;Oct 30 2025 09:34 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790310000;-74.5320190000
+49;HITACHI 4848;Idle - Stop;Oct 30 2025 09:33 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1790730000;-74.5319630000
+48;HITACHI 4848;Idle - Stop;Oct 30 2025 09:32 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791150000;-74.5319360000
+47;HITACHI 4848;Idle - Stop;Oct 30 2025 09:31 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791150000;-74.5319360000
+46;HITACHI 4848;Idle - Stop;Oct 30 2025 09:30 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791150000;-74.5319360000
+45;HITACHI 4848;Idle - Stop;Oct 30 2025 09:29 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+44;HITACHI 4848;Idle - Stop;Oct 30 2025 09:28 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+43;HITACHI 4848;Idle - Stop;Oct 30 2025 09:27 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+42;HITACHI 4848;Idle - Stop;Oct 30 2025 09:26 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+41;HITACHI 4848;Idle - Stop;Oct 30 2025 09:25 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+40;HITACHI 4848;Idle - Stop;Oct 30 2025 09:24 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+39;HITACHI 4848;Idle - Stop;Oct 30 2025 09:23 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+38;HITACHI 4848;Idle - Stop;Oct 30 2025 09:22 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+37;HITACHI 4848;Idle - Stop;Oct 30 2025 09:21 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+36;HITACHI 4848;Idle - Stop;Oct 30 2025 09:20 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+35;HITACHI 4848;Idle - Stop;Oct 30 2025 09:19 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+34;HITACHI 4848;Idle - Stop;Oct 30 2025 09:18 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+33;HITACHI 4848;Idle - Stop;Oct 30 2025 09:17 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+32;HITACHI 4848;Idle - Stop;Oct 30 2025 09:16 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+31;HITACHI 4848;Idle - Stop;Oct 30 2025 09:15 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+30;HITACHI 4848;Idle - Stop;Oct 30 2025 09:14 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+29;HITACHI 4848;Idle - Stop;Oct 30 2025 09:13 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+28;HITACHI 4848;Idle - Stop;Oct 30 2025 09:12 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+27;HITACHI 4848;Idle - Stop;Oct 30 2025 09:11 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+26;HITACHI 4848;Idle - Stop;Oct 30 2025 09:10 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+25;HITACHI 4848;Idle - Stop;Oct 30 2025 09:09 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+24;HITACHI 4848;Idle - Stop;Oct 30 2025 09:08 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+23;HITACHI 4848;Idle - Stop;Oct 30 2025 09:07 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+22;HITACHI 4848;Idle - Stop;Oct 30 2025 09:06 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+21;HITACHI 4848;Idle - Stop;Oct 30 2025 09:05 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+20;HITACHI 4848;Idle - Stop;Oct 30 2025 09:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791550000;-74.5319160000
+19;HITACHI 4848;Idle - Stop;Oct 30 2025 09:03 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+18;HITACHI 4848;Idle - Stop;Oct 30 2025 09:02 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+17;HITACHI 4848;Idle - Stop;Oct 30 2025 09:01 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+16;HITACHI 4848;Idle - Stop;Oct 30 2025 09:00 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+15;HITACHI 4848;Idle - Stop;Oct 30 2025 08:59 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+14;HITACHI 4848;Idle - Stop;Oct 30 2025 08:58 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+13;HITACHI 4848;Idle - Stop;Oct 30 2025 08:57 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+12;HITACHI 4848;Idle - Stop;Oct 30 2025 08:56 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+11;HITACHI 4848;Idle - Stop;Oct 30 2025 08:55 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1791650000;-74.5318740000
+10;HITACHI 4848;Ignition ON;Oct 30 2025 08:54 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+9;HITACHI 4848;Parked;Oct 30 2025 08:05 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+8;HITACHI 4848;Parked;Oct 30 2025 07:05 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+7;HITACHI 4848;Parked;Oct 30 2025 06:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+6;HITACHI 4848;Parked;Oct 30 2025 05:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+5;HITACHI 4848;Parked;Oct 30 2025 04:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+4;HITACHI 4848;Parked;Oct 30 2025 03:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+3;HITACHI 4848;Parked;Oct 30 2025 02:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+2;HITACHI 4848;Parked;Oct 30 2025 01:04 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000
+1;HITACHI 4848;Parked;Oct 30 2025 12:03 AM;;Cl. 6 # 7-73, Icononzo, Tolima, Colombia;0;N/A;;4.1792480000;-74.5319820000

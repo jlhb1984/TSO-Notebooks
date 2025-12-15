@@ -15,3 +15,15 @@ lrv4c716.rename(columns={'ï»¿Name': 'Driver',
                    },
           inplace=True)
 result_rows = pd.concat([df1, df2])
+Delete a column:
+cameras_to_report.drop('Unnamed: 0',axis=1,inplace=True)
+cameras_to_report
+df.rename(columns={'old_name_1': 'new_name_1', 'old_name_2': 'new_name_2'}, inplace=True)
+
+vec_aux=[]
+for i in range(0,14578):
+    aux=ubd.iloc[i,14].replace(',','.')
+    vec_aux.append(float(aux))
+ubd['Dec_Monthly_fee']=vec_aux
+
+ubd.info()

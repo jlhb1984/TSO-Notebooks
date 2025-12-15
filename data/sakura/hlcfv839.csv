@@ -1,0 +1,651 @@
+Secuencia;Unidad;Eventos;Fecha;Pt. Referencia;Dirección;Velocidad;Temperatura;Conductor;Latitud;Longitud
+650;CFV-839;Ignición Apagada;Oct 16 2025 11:21 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1031045914;-81.0729751587
+649;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:20 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1031045914;-81.0729751587
+648;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:19 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1031045914;-81.0729751587
+647;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:18 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1031045914;-81.0729751587
+646;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:17 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1031045914;-81.0729751587
+645;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:15 PM;;Carr Interoceánica Nte, Paita, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1031832695;-81.0727767944
+644;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:15 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1030802727;-81.0726242065
+643;CFV-839;Conduciendo;Oct 16 2025 11:13 PM;;Av Pe-02, Paita, Paita, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1012029648;-81.0718002319
+642;CFV-839;Conduciendo;Oct 16 2025 11:13 PM;;Av Pe-02, Paita, Paita, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1010622978;-81.0718078613
+641;CFV-839;Conduciendo;Oct 16 2025 11:12 PM;;Av Pe-02, Paita, Paita, Piura;65;N/A;Jorge Luis, Avila Ojeda;-5.0970182419;-81.0795898438
+640;CFV-839;Conduciendo;Oct 16 2025 11:11 PM;;Av Pe-02-10, Paita, Paita, Piura;51;N/A;Jorge Luis, Avila Ojeda;-5.0928707123;-81.0876846313
+639;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:10 PM;;Av Pe-02-40, Paita, Paita, Piura;6;N/A;Jorge Luis, Avila Ojeda;-5.0907959938;-81.0917968750
+638;CFV-839;Conduciendo;Oct 16 2025 11:09 PM;;Av Pe-02-64, Paita, Paita, Piura, Perú;27;N/A;Jorge Luis, Avila Ojeda;-5.0891118050;-81.0951614380
+637;CFV-839;Conduciendo;Oct 16 2025 11:08 PM;;Av Pe-02-15, Paita, Paita, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.0884118080;-81.0965347290
+636;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:07 PM;;Av Pe-02-82, Paita, Paita, Piura;6;N/A;Jorge Luis, Avila Ojeda;-5.0878090858;-81.0983505249
+635;CFV-839;Conduciendo;Oct 16 2025 11:06 PM;;Via Principal, Paita, Paita, Piura;22;N/A;Jorge Luis, Avila Ojeda;-5.0872883797;-81.1011276245
+634;CFV-839;Conduciendo;Oct 16 2025 11:05 PM;;Pi-102, Paita, Paita, Piura;17;N/A;Jorge Luis, Avila Ojeda;-5.0845069885;-81.1007537842
+633;CFV-839;Conduciendo;Oct 16 2025 11:04 PM;;Pi-102, Paita, Paita, Piura, Perú;19;N/A;Jorge Luis, Avila Ojeda;-5.0834360123;-81.1011352539
+632;CFV-839;Conduciendo;Oct 16 2025 11:04 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.0832915306;-81.1018142700
+631;CFV-839;Saliendo de Landmark;Oct 16 2025 11:04 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;19;N/A;Jorge Luis, Avila Ojeda;-5.0832915306;-81.1018142700
+630;CFV-839;Conduciendo;Oct 16 2025 11:03 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.0846233368;-81.1044692993
+629;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:02 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0854439735;-81.1054687500
+628;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:00 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0850987434;-81.1065597534
+627;CFV-839;Conduciendo;Oct 16 2025 11:00 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;11;N/A;Jorge Luis, Avila Ojeda;-5.0849213600;-81.1067657471
+626;CFV-839;Conduciendo;Oct 16 2025 10:58 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;12;N/A;Jorge Luis, Avila Ojeda;-5.0843138695;-81.1058425903
+625;CFV-839;Conduciendo;Oct 16 2025 10:58 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;11;N/A;Jorge Luis, Avila Ojeda;-5.0826706886;-81.1066818237
+624;CFV-839;Conduciendo;Oct 16 2025 10:58 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;12;N/A;Jorge Luis, Avila Ojeda;-5.0825624466;-81.1067123413
+623;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:57 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;0;N/A;Jorge Luis, Avila Ojeda;-5.0822024345;-81.1061172485
+622;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:56 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;0;N/A;Jorge Luis, Avila Ojeda;-5.0822024345;-81.1061172485
+621;CFV-839;Ignición Encendida;Oct 16 2025 10:55 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;0;N/A;Jorge Luis, Avila Ojeda;-5.0822024345;-81.1061172485
+620;CFV-839;Ignición Apagada;Oct 16 2025 10:34 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;0;N/A;Jorge Luis, Avila Ojeda;-5.0822024345;-81.1061172485
+619;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:34 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;0;N/A;Jorge Luis, Avila Ojeda;-5.0822024345;-81.1061172485
+618;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:33 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0813126564;-81.1046142578
+617;CFV-839;Entrando a Landmark;Oct 16 2025 10:33 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;8;N/A;Jorge Luis, Avila Ojeda;-5.0812931061;-81.1045303345
+616;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:33 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;8;N/A;Jorge Luis, Avila Ojeda;-5.0812931061;-81.1045303345
+615;CFV-839;Conduciendo;Oct 16 2025 10:32 PM;;Via Principal, Paita, Paita, Piura, Perú;16;N/A;Jorge Luis, Avila Ojeda;-5.0827226639;-81.1035766602
+614;CFV-839;Conduciendo;Oct 16 2025 10:32 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;14;N/A;Jorge Luis, Avila Ojeda;-5.0829391479;-81.1034927368
+613;CFV-839;Saliendo de Landmark;Oct 16 2025 10:32 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;14;N/A;Jorge Luis, Avila Ojeda;-5.0829391479;-81.1034927368
+612;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:31 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0843753815;-81.1056518555
+611;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:30 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0846519470;-81.1063995361
+610;CFV-839;Conduciendo;Oct 16 2025 10:30 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.0848174095;-81.1064910889
+609;CFV-839;Conduciendo;Oct 16 2025 10:29 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;11;N/A;Jorge Luis, Avila Ojeda;-5.0853776932;-81.1060180664
+608;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:29 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0853233337;-81.1055984497
+607;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:28 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0852613449;-81.1053466797
+606;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:27 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0851955414;-81.1051101685
+605;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:26 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0849714279;-81.1050567627
+604;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:25 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847606659;-81.1048202515
+603;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:24 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0847606659;-81.1048202515
+602;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:23 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0844902992;-81.1042938232
+601;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:22 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0843963623;-81.1042098999
+600;CFV-839;Entrando a Landmark;Oct 16 2025 10:21 PM;TPE - MUELLE PUERTO NUEVO;940 Jiron Junin;4;N/A;Jorge Luis, Avila Ojeda;-5.0843830109;-81.1041793823
+599;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:21 PM;TPE - MUELLE PUERTO NUEVO;Via Principal, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0843830109;-81.1041793823
+598;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:20 PM;;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0841984749;-81.1039123535
+597;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:19 PM;;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0841984749;-81.1039123535
+596;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:18 PM;;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0840783119;-81.1036529541
+595;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:17 PM;;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0839033127;-81.1032257080
+594;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:16 PM;;Via Principal, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0839033127;-81.1032257080
+593;CFV-839;Conduciendo;Oct 16 2025 10:14 PM;;Via Principal, Paita, Paita, Piura;17;N/A;Jorge Luis, Avila Ojeda;-5.0831990242;-81.1018981934
+592;CFV-839;Conduciendo;Oct 16 2025 10:14 PM;;Pi-102, Paita, Paita, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.0833868980;-81.1011276245
+591;CFV-839;Conduciendo;Oct 16 2025 10:14 PM;;Pi-102, Paita, Paita, Piura;16;N/A;Jorge Luis, Avila Ojeda;-5.0839805603;-81.1007308960
+590;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:13 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847463608;-81.1007080078
+589;CFV-839;Ignición Encendida;Oct 16 2025 10:12 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847463608;-81.1007080078
+588;CFV-839;Ignición Apagada;Oct 16 2025 09:32 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847463608;-81.1007080078
+587;CFV-839;Ignición Encendida;Oct 16 2025 09:31 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847463608;-81.1007080078
+586;CFV-839;Ignición Apagada;Oct 16 2025 09:12 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0847463608;-81.1007080078
+585;CFV-839;Ignición Encendida;Oct 16 2025 09:12 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0850062370;-81.1007385254
+584;CFV-839;Ignición Apagada;Oct 16 2025 09:09 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0850062370;-81.1007385254
+583;CFV-839;Ignición Encendida;Oct 16 2025 09:09 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0850062370;-81.1007385254
+582;CFV-839;Ignición Apagada;Oct 16 2025 09:03 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0850062370;-81.1007385254
+581;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:02 PM;;Pi-102, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0850358009;-81.1007614136
+580;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:02 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0855550766;-81.1009216309
+579;CFV-839;Ignición Encendida;Oct 16 2025 09:01 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0855550766;-81.1009216309
+578;CFV-839;Ignición Apagada;Oct 16 2025 08:26 PM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0855550766;-81.1009216309
+577;CFV-839;Ignición Encendida;Oct 16 2025 08:25 PM;;Pi-102, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0859146118;-81.1009979248
+576;CFV-839;Ignición Apagada;Oct 16 2025 08:25 PM;;Pi-102, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0859146118;-81.1009979248
+575;CFV-839;Conduciendo;Oct 16 2025 08:24 PM;;Pi-102, Paita, Paita, Piura;9;N/A;Jorge Luis, Avila Ojeda;-5.0864348412;-81.1009902954
+574;CFV-839;Conduciendo;Oct 16 2025 08:24 PM;;Pi-102, Paita, Paita, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.0868463516;-81.1008682251
+573;CFV-839;Conduciendo;Oct 16 2025 08:23 PM;;Pi-102, Paita, Paita, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.0870375633;-81.1001205444
+572;CFV-839;Conduciendo;Oct 16 2025 08:22 PM;;Pi-102, Paita, Paita, Piura;14;N/A;Jorge Luis, Avila Ojeda;-5.0868811607;-81.0973587036
+571;CFV-839;Conduciendo;Oct 16 2025 08:21 PM;NEPTUNIA PAITA;Pi-102-10, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0866527557;-81.0950317383
+570;CFV-839;Saliendo de Landmark;Oct 16 2025 08:21 PM;NEPTUNIA PAITA;Avenida F;9;N/A;Jorge Luis, Avila Ojeda;-5.0866527557;-81.0950317383
+569;CFV-839;Conduciendo;Oct 16 2025 08:20 PM;NEPTUNIA PAITA;Pi-102-51, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0857300758;-81.0896148682
+568;CFV-839;Conduciendo;Oct 16 2025 08:20 PM;NEPTUNIA PAITA;Pi-102-53, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0857062340;-81.0893783569
+567;CFV-839;Conduciendo;Oct 16 2025 08:20 PM;NEPTUNIA PAITA;Avenida F;9;N/A;Jorge Luis, Avila Ojeda;-5.0860605240;-81.0893173218
+566;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:19 PM;NEPTUNIA PAITA;Avenida F;4;N/A;Jorge Luis, Avila Ojeda;-5.0862727165;-81.0894012451
+565;CFV-839;Conduciendo;Oct 16 2025 08:18 PM;NEPTUNIA PAITA;Avenida D, Paita, Peru;9;N/A;Jorge Luis, Avila Ojeda;-5.0876665115;-81.0902099609
+564;CFV-839;Entrando a Landmark;Oct 16 2025 08:18 PM;NEPTUNIA PAITA;Avenida F;9;N/A;Jorge Luis, Avila Ojeda;-5.0876665115;-81.0902099609
+563;CFV-839;Conduciendo;Oct 16 2025 08:16 PM;;Av Pe-02-44, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0905809402;-81.0915298462
+562;CFV-839;Conduciendo;Oct 16 2025 08:16 PM;;Av Pe-02-47, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0907297134;-81.0916061401
+561;CFV-839;Conduciendo;Oct 16 2025 08:15 PM;;2 800, Paita, Peru;43;N/A;Jorge Luis, Avila Ojeda;-5.0922789574;-81.0885848999
+560;CFV-839;Conduciendo;Oct 16 2025 08:14 PM;;Av Pe-02, Paita, Paita, Piura, Perú;43;N/A;Jorge Luis, Avila Ojeda;-5.0953965187;-81.0823440552
+559;CFV-839;Conduciendo;Oct 16 2025 08:13 PM;;Av Pe-02, Paita, Paita, Piura, Perú;41;N/A;Jorge Luis, Avila Ojeda;-5.0984358788;-81.0763702393
+558;CFV-839;Conduciendo;Oct 16 2025 08:12 PM;;Av Pe-02, Paita, Paita, Piura, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1005277634;-81.0722961426
+557;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:11 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1012873650;-81.0719528198
+556;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:10 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+555;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:09 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+554;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:08 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+553;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:07 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+552;CFV-839;Ignición Encendida;Oct 16 2025 08:06 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+551;CFV-839;Ignición Apagada;Oct 16 2025 07:36 PM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1014223099;-81.0718841553
+550;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:35 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1015005112;-81.0716857910
+549;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:35 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1015176773;-81.0715408325
+548;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:35 PM;;Carretera Interoceánica Norte, Paita, Peru;8;N/A;Jorge Luis, Avila Ojeda;-5.1013422012;-81.0714950562
+547;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:34 PM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1010756493;-81.0719146729
+546;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:34 PM;;Av Pe-02, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.1009640694;-81.0719757080
+545;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:34 PM;;Av Pe-02, Paita, Paita, Piura;6;N/A;Jorge Luis, Avila Ojeda;-5.1008615494;-81.0719146729
+544;CFV-839;Conduciendo;Oct 16 2025 07:34 PM;;Interoceanica Norte, Paita, Peru;48;N/A;Jorge Luis, Avila Ojeda;-5.1011438370;-81.0711822510
+543;CFV-839;Conduciendo;Oct 16 2025 07:33 PM;;Km 43 Paita - Piura PE-02,43, Paita, Paita, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.1043319702;-81.0612487793
+542;CFV-839;Conduciendo;Oct 16 2025 07:32 PM;;Av Pe-02, Paita, Paita, Piura, Perú;69;N/A;Jorge Luis, Avila Ojeda;-5.1062283516;-81.0505676270
+541;CFV-839;Conduciendo;Oct 16 2025 07:31 PM;;Av Pe-02, Paita, Paita, Piura, Perú;61;N/A;Jorge Luis, Avila Ojeda;-5.1076841354;-81.0405731201
+540;CFV-839;Conduciendo;Oct 16 2025 07:30 PM;PEAJE PAITA;Av Pe-02, Paita, Paita, Piura, Perú;28;N/A;Jorge Luis, Avila Ojeda;-5.1086387634;-81.0336761475
+539;CFV-839;Saliendo de Landmark;Oct 16 2025 07:30 PM;PEAJE PAITA;Carretera a Paita;28;N/A;Jorge Luis, Avila Ojeda;-5.1086387634;-81.0336761475
+538;CFV-839;Conduciendo;Oct 16 2025 07:29 PM;PEAJE PAITA;Carretera a Paita;9;N/A;Jorge Luis, Avila Ojeda;-5.1088538170;-81.0318984985
+537;CFV-839;Entrando a Landmark;Oct 16 2025 07:29 PM;PEAJE PAITA;Carretera a Paita;9;N/A;Jorge Luis, Avila Ojeda;-5.1088538170;-81.0318984985
+536;CFV-839;Conduciendo;Oct 16 2025 07:28 PM;;Av Pe-02, Paita, Paita, Piura, Perú;57;N/A;Jorge Luis, Avila Ojeda;-5.1092796326;-81.0292739868
+535;CFV-839;Conduciendo;Oct 16 2025 07:27 PM;;Carr Interoceánica Nte, Peru;70;N/A;Jorge Luis, Avila Ojeda;-5.1106891632;-81.0193939209
+534;CFV-839;Conduciendo;Oct 16 2025 07:26 PM;;Av Pe-02, Paita, Paita, Piura;62;N/A;Jorge Luis, Avila Ojeda;-5.1121234894;-81.0094070435
+533;CFV-839;Conduciendo;Oct 16 2025 07:25 PM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1135282516;-80.9994277954
+532;CFV-839;Conduciendo;Oct 16 2025 07:24 PM;;Carretera Interoceánica Norte, Peru;72;N/A;Jorge Luis, Avila Ojeda;-5.1150383949;-80.9886932373
+531;CFV-839;Conduciendo;Oct 16 2025 07:23 PM;;Av Pe-02, Paita, Paita, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.1161756516;-80.9780197144
+530;CFV-839;Conduciendo;Oct 16 2025 07:22 PM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1170144081;-80.9671859741
+529;CFV-839;Conduciendo;Oct 16 2025 07:21 PM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1178498268;-80.9566040039
+528;CFV-839;Conduciendo;Oct 16 2025 07:20 PM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1187033653;-80.9458770752
+527;CFV-839;Conduciendo;Oct 16 2025 07:19 PM;;Av Pe-02, Paita, Paita, Piura, Perú;67;N/A;Jorge Luis, Avila Ojeda;-5.1195206642;-80.9355545044
+526;CFV-839;Conduciendo;Oct 16 2025 07:18 PM;;Av Pe-02, Paita, Paita, Piura, Perú;57;N/A;Jorge Luis, Avila Ojeda;-5.1202764511;-80.9254989624
+525;CFV-839;Conduciendo;Oct 16 2025 07:17 PM;;Carr Interoceánica Nte 105, Peru;69;N/A;Jorge Luis, Avila Ojeda;-5.1205878258;-80.9156341553
+524;CFV-839;Conduciendo;Oct 16 2025 07:16 PM;;Carretera Interoceánica Norte, Peru;67;N/A;Jorge Luis, Avila Ojeda;-5.1209082603;-80.9052124023
+523;CFV-839;Conduciendo;Oct 16 2025 07:15 PM;;Carretera Interoceánica Norte, Peru;65;N/A;Jorge Luis, Avila Ojeda;-5.1212577820;-80.8951568604
+522;CFV-839;Conduciendo;Oct 16 2025 07:14 PM;;Av Pe-02, Paita, Paita, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1172614098;-80.8863601685
+521;CFV-839;Conduciendo;Oct 16 2025 07:13 PM;;Av Pe-02, Paita, Paita, Piura, Perú;67;N/A;Jorge Luis, Avila Ojeda;-5.1122989655;-80.8779144287
+520;CFV-839;Conduciendo;Oct 16 2025 07:11 PM;;South America, Piura;65;N/A;Jorge Luis, Avila Ojeda;-5.1059622765;-80.8664779663
+519;CFV-839;Conduciendo;Oct 16 2025 07:11 PM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1085052490;-80.8600006104
+518;CFV-839;Conduciendo;Oct 16 2025 07:10 PM;;Av Pe-02, Paita, Paita, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1149010658;-80.8512039185
+517;CFV-839;Conduciendo;Oct 16 2025 07:09 PM;;Carr Interoceánica Nte 700, Peru;72;N/A;Jorge Luis, Avila Ojeda;-5.1212253571;-80.8424987793
+516;CFV-839;Conduciendo;Oct 16 2025 07:08 PM;;Carr Interoceánica Nte 52, Peru;69;N/A;Jorge Luis, Avila Ojeda;-5.1276373863;-80.8336715698
+515;CFV-839;Conduciendo;Oct 16 2025 07:07 PM;;Av Pe-02, Paita, Paita, Piura, Perú;74;N/A;Jorge Luis, Avila Ojeda;-5.1340637207;-80.8248367310
+514;CFV-839;Conduciendo;Oct 16 2025 07:06 PM;;South America, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1394691467;-80.8153305054
+513;CFV-839;Conduciendo;Oct 16 2025 07:05 PM;;Av Pe-02, Paita, Paita, Piura, Perú;56;N/A;Jorge Luis, Avila Ojeda;-5.1435093880;-80.8056488037
+512;CFV-839;Conduciendo;Oct 16 2025 07:04 PM;;Carretera Interoceánica Norte, Peru;48;N/A;Jorge Luis, Avila Ojeda;-5.1452069283;-80.7975540161
+511;CFV-839;Conduciendo;Oct 16 2025 07:03 PM;;Carr Interoceánica Nte 500, Peru;56;N/A;Jorge Luis, Avila Ojeda;-5.1465640068;-80.7910614014
+510;CFV-839;Conduciendo;Oct 16 2025 07:02 PM;;Av Pe-02, Paita, Paita, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1485257149;-80.7817230225
+509;CFV-839;Conduciendo;Oct 16 2025 07:01 PM;;Av Pe-02, Paita, Paita, Piura, Perú;62;N/A;Jorge Luis, Avila Ojeda;-5.1505799294;-80.7719192505
+508;CFV-839;Conduciendo;Oct 16 2025 07:00 PM;;Av Pe-02, Paita, Paita, Piura, Perú;59;N/A;Jorge Luis, Avila Ojeda;-5.1524176598;-80.7630767822
+507;CFV-839;Conduciendo;Oct 16 2025 07:00 PM;;Av Pe-02, Paita, Paita, Piura, Perú;59;N/A;Jorge Luis, Avila Ojeda;-5.1524176598;-80.7630767822
+506;CFV-839;Conduciendo;Oct 16 2025 06:59 PM;;Av Pe-02, Paita, Paita, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1543846130;-80.7540054321
+505;CFV-839;Conduciendo;Oct 16 2025 06:58 PM;;Av Pe-02, Paita, Paita, Piura;51;N/A;Jorge Luis, Avila Ojeda;-5.1558356285;-80.7471008301
+504;CFV-839;Conduciendo;Oct 16 2025 06:57 PM;;Av Pe-02, Paita, Paita, Piura;53;N/A;Jorge Luis, Avila Ojeda;-5.1573271751;-80.7400512695
+503;CFV-839;Conduciendo;Oct 16 2025 06:56 PM;;Av Pe-02-12, Paita, Paita, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1591959000;-80.7311325073
+502;CFV-839;Conduciendo;Oct 16 2025 06:55 PM;;Av Pe-02-33, Paita, Paita, Piura;56;N/A;Jorge Luis, Avila Ojeda;-5.1611528397;-80.7218399048
+501;CFV-839;Conduciendo;Oct 16 2025 06:54 PM;;Av Pe-02-52, Paita, Paita, Piura, Perú;59;N/A;Jorge Luis, Avila Ojeda;-5.1629734039;-80.7131500244
+500;CFV-839;Conduciendo;Oct 16 2025 06:53 PM;;Av Pe-02-72, Paita, Paita, Piura, Perú;62;N/A;Jorge Luis, Avila Ojeda;-5.1652545929;-80.7041091919
+499;CFV-839;Conduciendo;Oct 16 2025 06:52 PM;;Km 0 Paita - Piura PE-02,0, Piura, Piura, Piura, Perú;51;N/A;Jorge Luis, Avila Ojeda;-5.1681656837;-80.6958999634
+498;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Av Panamericana-20, Piura, Piura, Piura, Perú;19;N/A;Jorge Luis, Avila Ojeda;-5.1702733040;-80.6896820068
+497;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Av Panamericana-69, Piura, Piura, Piura, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1701087952;-80.6894760132
+496;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Av Panamericana-81, Piura, Piura, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1698870659;-80.6895217896
+495;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Av Panamericana-53, Piura, Piura, Piura;12;N/A;Jorge Luis, Avila Ojeda;-5.1693706512;-80.6900253296
+494;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Av Panamericana-74, Piura, Piura, Piura;9;N/A;Jorge Luis, Avila Ojeda;-5.1694073677;-80.6902160645
+493;CFV-839;Conduciendo;Oct 16 2025 06:50 PM;;Panamericana Nte., Piura, Peru;30;N/A;Jorge Luis, Avila Ojeda;-5.1699514389;-80.6903533936
+492;CFV-839;Conduciendo;Oct 16 2025 06:49 PM;;Av Grau, Piura, Piura, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1788263321;-80.6925735474
+491;CFV-839;Conduciendo;Oct 16 2025 06:48 PM;;Panamericana Nte., Piura, Peru;67;N/A;Jorge Luis, Avila Ojeda;-5.1891927719;-80.6913223267
+490;CFV-839;Conduciendo;Oct 16 2025 06:47 PM;;Via Principal, Piura, Piura, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1981973648;-80.6869506836
+489;CFV-839;Conduciendo;Oct 16 2025 06:46 PM;;Via Principal, Piura, Piura, Piura, Perú;62;N/A;Jorge Luis, Avila Ojeda;-5.2070593834;-80.6830215454
+488;CFV-839;Conduciendo;Oct 16 2025 06:45 PM;;Via Principal, Piura, Piura, Piura, Perú;65;N/A;Jorge Luis, Avila Ojeda;-5.2135772705;-80.6760711670
+487;CFV-839;Conduciendo;Oct 16 2025 06:44 PM;;Av Pe-1n-65, Sechura, Sechura, Piura, Perú;65;N/A;Jorge Luis, Avila Ojeda;-5.2187767029;-80.6671524048
+486;CFV-839;Conduciendo;Oct 16 2025 06:43 PM;;Panamericana Nte., Piura, Peru;65;N/A;Jorge Luis, Avila Ojeda;-5.2242431641;-80.6594467163
+485;CFV-839;Conduciendo;Oct 16 2025 06:42 PM;;Av Pe-1n-31, Sechura, Sechura, Piura;62;N/A;Jorge Luis, Avila Ojeda;-5.2293605804;-80.6518783569
+484;CFV-839;Conduciendo;Oct 16 2025 06:41 PM;;Av Pe-1n-86, Sechura, Sechura, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.2350177765;-80.6437225342
+483;CFV-839;Conduciendo;Oct 16 2025 06:40 PM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.2408986092;-80.6352462769
+482;CFV-839;Conduciendo;Oct 16 2025 06:39 PM;;PANAMERICANA NORTE KM 989, Catacaos, Piura, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.2469525337;-80.6261596680
+481;CFV-839;Conduciendo;Oct 16 2025 06:37 PM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;35;N/A;Jorge Luis, Avila Ojeda;-5.2549185753;-80.6169509888
+480;CFV-839;Conduciendo;Oct 16 2025 06:37 PM;;Km 987 P Norte PE-1N,987, Catacaos, Piura, Piura, Perú;35;N/A;Jorge Luis, Avila Ojeda;-5.2552800179;-80.6164550781
+479;CFV-839;Conduciendo;Oct 16 2025 06:37 PM;;Km 987 P Norte PE-1N,987, Catacaos, Piura, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.2532501221;-80.6138153076
+478;CFV-839;Conduciendo;Oct 16 2025 06:36 PM;;Via de Evitamiento Este, Peru;67;N/A;Jorge Luis, Avila Ojeda;-5.2486796379;-80.6053848267
+477;CFV-839;Conduciendo;Oct 16 2025 06:35 PM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;43;N/A;Jorge Luis, Avila Ojeda;-5.2471137047;-80.5978393555
+476;CFV-839;Conduciendo;Oct 16 2025 06:33 PM;;Via de Evitamiento Este, Peru;33;N/A;Jorge Luis, Avila Ojeda;-5.2418403625;-80.5883178711
+475;CFV-839;Conduciendo;Oct 16 2025 06:33 PM;;Via Principal, Castilla, Piura, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.2355237007;-80.5866851807
+474;CFV-839;Conduciendo;Oct 16 2025 06:32 PM;;QCC6+QW, Piura 20000, Peru;51;N/A;Jorge Luis, Avila Ojeda;-5.2273116112;-80.5882720947
+473;CFV-839;Conduciendo;Oct 16 2025 06:31 PM;;QCJ6+C5 Piura, Peru;57;N/A;Jorge Luis, Avila Ojeda;-5.2189893723;-80.5895080566
+472;CFV-839;Conduciendo;Oct 16 2025 06:30 PM;;Via Principal Km 253, Castilla, Piura, Piura, Perú;51;N/A;Jorge Luis, Avila Ojeda;-5.2116599083;-80.5857696533
+471;CFV-839;Conduciendo;Oct 16 2025 06:29 PM;;Via de Evitamiento Este, Peru;56;N/A;Jorge Luis, Avila Ojeda;-5.2057867050;-80.5803222656
+470;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:27 PM;;Av Pe-1nj Km 253, Olmos, Lambayeque, Lambayeque, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.1985616684;-80.5739440918
+469;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:27 PM;;Av Pe-1nj Km 253, Olmos, Lambayeque, Lambayeque, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1985268593;-80.5739212036
+468;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:27 PM;;South America, Piura;6;N/A;Jorge Luis, Avila Ojeda;-5.1984586716;-80.5738830566
+467;CFV-839;Conduciendo;Oct 16 2025 06:26 PM;;Via de Evitamiento Este, Peru;45;N/A;Jorge Luis, Avila Ojeda;-5.1944336891;-80.5714569092
+466;CFV-839;Conduciendo;Oct 16 2025 06:25 PM;;Av Pe-1nj Km 253, Olmos, Lambayeque, Lambayeque, Perú;51;N/A;Jorge Luis, Avila Ojeda;-5.1870770454;-80.5674972534
+465;CFV-839;Conduciendo;Oct 16 2025 06:24 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;35;N/A;Jorge Luis, Avila Ojeda;-5.1805853844;-80.5640335083
+464;CFV-839;Conduciendo;Oct 16 2025 06:23 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1773366928;-80.5625534058
+463;CFV-839;Conduciendo;Oct 16 2025 06:22 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque;46;N/A;Jorge Luis, Avila Ojeda;-5.1765084267;-80.5592117310
+462;CFV-839;Conduciendo;Oct 16 2025 06:21 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque;38;N/A;Jorge Luis, Avila Ojeda;-5.1743822098;-80.5523529053
+461;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:19 PM;;1B, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1732993126;-80.5491561890
+460;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:19 PM;;1B, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1727600098;-80.5492324829
+459;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:18 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+458;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:17 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+457;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:16 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+456;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:15 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+455;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:14 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+454;CFV-839;Ignición Encendida;Oct 16 2025 06:12 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+453;CFV-839;Ignición Apagada;Oct 16 2025 06:12 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+452;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:12 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+451;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:11 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+450;CFV-839;Inmóvil - Detenido;Oct 16 2025 06:10 PM;;1B, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1726818085;-80.5492858887
+449;CFV-839;Conduciendo;Oct 16 2025 06:09 PM;;RFG2+WC7, 20000, Peru;20;N/A;Jorge Luis, Avila Ojeda;-5.1719470024;-80.5495300293
+448;CFV-839;Conduciendo;Oct 16 2025 06:07 PM;;RCJX+HV Piura, Peru;14;N/A;Jorge Luis, Avila Ojeda;-5.1685066223;-80.5503463745
+447;CFV-839;Conduciendo;Oct 16 2025 06:07 PM;;1B, Peru;14;N/A;Jorge Luis, Avila Ojeda;-5.1679930687;-80.5488357544
+446;CFV-839;Conduciendo;Oct 16 2025 06:06 PM;;1B, Peru;17;N/A;Jorge Luis, Avila Ojeda;-5.1646647453;-80.5481491089
+445;CFV-839;Conduciendo;Oct 16 2025 06:06 PM;;Av Pe-1nj Km 241, Olmos, Lambayeque, Lambayeque, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1644706726;-80.5477981567
+444;CFV-839;Conduciendo;Oct 16 2025 06:05 PM;;Av Pe-1nj Km 241, Olmos, Lambayeque, Lambayeque, Perú;19;N/A;Jorge Luis, Avila Ojeda;-5.1617474556;-80.5467910767
+443;CFV-839;Conduciendo;Oct 16 2025 06:04 PM;;South America, Piura;22;N/A;Jorge Luis, Avila Ojeda;-5.1582083702;-80.5457000732
+442;CFV-839;Conduciendo;Oct 16 2025 06:03 PM;;South America, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.1549558640;-80.5447616577
+441;CFV-839;Conduciendo;Oct 16 2025 06:02 PM;;Av Pe-1nj Km 235, Olmos, Lambayeque, Lambayeque, Perú;22;N/A;Jorge Luis, Avila Ojeda;-5.1518855095;-80.5438613892
+440;CFV-839;Conduciendo;Oct 16 2025 06:01 PM;;Av Pe-1nj Km 235, Olmos, Lambayeque, Lambayeque, Perú;24;N/A;Jorge Luis, Avila Ojeda;-5.1491365433;-80.5430679321
+439;CFV-839;Conduciendo;Oct 16 2025 06:00 PM;;South America, Piura;27;N/A;Jorge Luis, Avila Ojeda;-5.1454668045;-80.5419616699
+438;CFV-839;Conduciendo;Oct 16 2025 05:59 PM;;1B, Peru;24;N/A;Jorge Luis, Avila Ojeda;-5.1417894363;-80.5408859253
+437;CFV-839;Conduciendo;Oct 16 2025 05:58 PM;;1B, Peru;24;N/A;Jorge Luis, Avila Ojeda;-5.1382164955;-80.5398406982
+436;CFV-839;Conduciendo;Oct 16 2025 05:57 PM;;1B, Peru;25;N/A;Jorge Luis, Avila Ojeda;-5.1347026825;-80.5388183594
+435;CFV-839;Conduciendo;Oct 16 2025 05:56 PM;;1B, Peru;24;N/A;Jorge Luis, Avila Ojeda;-5.1308312416;-80.5376129150
+434;CFV-839;Conduciendo;Oct 16 2025 05:55 PM;;VFF7+29 Piura, Peru;12;N/A;Jorge Luis, Avila Ojeda;-5.1274623871;-80.5365371704
+433;CFV-839;Conduciendo;Oct 16 2025 05:54 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1272673607;-80.5365066528
+432;CFV-839;Conduciendo;Oct 16 2025 05:54 PM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1265854836;-80.5384445190
+431;CFV-839;Conduciendo;Oct 16 2025 05:53 PM;;Km 244 Ant P Norte PE-1NJ,244, Castilla, Piura, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1258239746;-80.5410995483
+430;CFV-839;Conduciendo;Oct 16 2025 05:52 PM;;Km 245 Ant P Norte PE-1NJ,245, Castilla, Piura, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1249823570;-80.5439224243
+429;CFV-839;Conduciendo;Oct 16 2025 05:51 PM;;Unnamed Road, Peru;19;N/A;Jorge Luis, Avila Ojeda;-5.1240711212;-80.5470199585
+428;CFV-839;Conduciendo;Oct 16 2025 05:50 PM;;Av Pe-1nj Km 241, Olmos, Lambayeque, Lambayeque, Perú;22;N/A;Jorge Luis, Avila Ojeda;-5.1230511665;-80.5504150391
+427;CFV-839;Conduciendo;Oct 16 2025 05:49 PM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;20;N/A;Jorge Luis, Avila Ojeda;-5.1221280098;-80.5537567139
+426;CFV-839;Conduciendo;Oct 16 2025 05:47 PM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;12;N/A;Jorge Luis, Avila Ojeda;-5.1211600304;-80.5567169189
+425;CFV-839;Conduciendo;Oct 16 2025 05:46 PM;;Unnamed Road, Peru;9;N/A;Jorge Luis, Avila Ojeda;-5.1249079704;-80.5579757690
+424;CFV-839;Conduciendo;Oct 16 2025 05:46 PM;;Via Principal, Castilla, Piura, Piura, Perú;28;N/A;Jorge Luis, Avila Ojeda;-5.1243638992;-80.5599975586
+423;CFV-839;Conduciendo;Oct 16 2025 05:45 PM;;Via Principal, Castilla, Piura, Piura, Perú;25;N/A;Jorge Luis, Avila Ojeda;-5.1231617928;-80.5640945435
+422;CFV-839;Conduciendo;Oct 16 2025 05:44 PM;;Via Principal, Castilla, Piura, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1222438812;-80.5671463013
+421;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:43 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+420;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:42 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+419;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:41 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+418;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:40 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+417;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:39 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+416;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:38 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1218686104;-80.5684509277
+415;CFV-839;Conduciendo;Oct 16 2025 05:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;27;N/A;Jorge Luis, Avila Ojeda;-5.1215472221;-80.5695800781
+414;CFV-839;Conduciendo;Oct 16 2025 05:36 PM;;VCHG+VG Piura, Peru;25;N/A;Jorge Luis, Avila Ojeda;-5.1203136444;-80.5736465454
+413;CFV-839;Conduciendo;Oct 16 2025 05:35 PM;;Via Principal, Castilla, Piura, Piura, Perú;27;N/A;Jorge Luis, Avila Ojeda;-5.1191287041;-80.5776596069
+412;CFV-839;Conduciendo;Oct 16 2025 05:34 PM;;Via Principal, Castilla, Piura, Piura, Perú;27;N/A;Jorge Luis, Avila Ojeda;-5.1178445816;-80.5819625854
+411;CFV-839;Conduciendo;Oct 16 2025 05:33 PM;;Via Principal, Castilla, Piura, Piura, Perú;25;N/A;Jorge Luis, Avila Ojeda;-5.1166582108;-80.5858840942
+410;CFV-839;Conduciendo;Oct 16 2025 05:31 PM;;Via Principal, Castilla, Piura, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.1155281067;-80.5898437500
+409;CFV-839;Conduciendo;Oct 16 2025 05:31 PM;;VCM5+9W Piura, Peru;17;N/A;Jorge Luis, Avila Ojeda;-5.1166090965;-80.5902023315
+408;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:30 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+407;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:29 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+406;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:28 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+405;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:27 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+404;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:26 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+403;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:25 PM;;VCJ5+WR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1176652908;-80.5904159546
+402;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:23 PM;;Via Principal, Castilla, Piura, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1177968979;-80.5903625488
+401;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:23 PM;;Unnamed Road, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1178531647;-80.5904083252
+400;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:23 PM;;VCJ5+QR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1180429459;-80.5904617310
+399;CFV-839;Ignición Encendida;Oct 16 2025 05:22 PM;;VCJ5+QR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1180429459;-80.5904617310
+398;CFV-839;Ignición Apagada;Oct 16 2025 05:19 PM;;VCJ5+QR Piura, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1180429459;-80.5904617310
+397;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:18 PM;;Unnamed Road, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.1183924675;-80.5904998779
+396;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:18 PM;;Unnamed Road, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1185512543;-80.5905380249
+395;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:18 PM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1185154915;-80.5907669067
+394;CFV-839;Conduciendo;Oct 16 2025 05:16 PM;;VCJ4+RW Piura, Peru;11;N/A;Jorge Luis, Avila Ojeda;-5.1179275513;-80.5927581787
+393;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1198983192;-80.5932922363
+392;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1199522018;-80.5932464600
+391;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1199193001;-80.5928344727
+390;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:15 PM;;Unnamed Road, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1197314262;-80.5927658081
+389;CFV-839;Ignición Encendida;Oct 16 2025 05:14 PM;;Unnamed Road, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1195178032;-80.5926971436
+388;CFV-839;Ignición Apagada;Oct 16 2025 05:10 PM;;Unnamed Road, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1195178032;-80.5926971436
+387;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:08 PM;;Via Principal, Castilla, Piura, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1192955971;-80.5926513672
+386;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:08 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+385;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:07 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+384;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:06 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+383;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:05 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+382;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:04 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+381;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:03 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+380;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:02 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+379;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:01 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+378;CFV-839;Inmóvil - Detenido;Oct 16 2025 05:00 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+377;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:59 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+376;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:58 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+375;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:57 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+374;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:56 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+373;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:55 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+372;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:54 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+371;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:53 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+370;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:52 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+369;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:51 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+368;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:50 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+367;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:49 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+366;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:48 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+365;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:47 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+364;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:46 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+363;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:45 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+362;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:44 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+361;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:43 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+360;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:42 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+359;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:41 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+358;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:40 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+357;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:39 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+356;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:38 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+355;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+354;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:36 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+353;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:35 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+352;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:34 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+351;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:33 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+350;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:32 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+349;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:31 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+348;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:30 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+347;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:29 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+346;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:28 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+345;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:27 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+344;CFV-839;Inmóvil - Detenido;Oct 16 2025 04:26 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+343;CFV-839;Ignición Encendida;Oct 16 2025 04:25 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+342;CFV-839;Ignición Apagada;Oct 16 2025 03:40 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+341;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:40 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+340;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:39 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+339;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:38 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+338;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+337;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:36 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+336;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:35 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+335;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:34 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+334;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:33 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+333;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:32 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+332;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:31 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+331;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:30 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+330;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:29 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+329;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:28 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+328;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:27 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+327;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:26 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+326;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:25 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+325;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:24 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+324;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:23 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+323;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:22 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+322;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:21 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+321;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:20 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+320;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:19 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+319;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:18 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+318;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:17 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+317;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:16 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+316;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+315;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:14 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+314;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:13 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+313;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:12 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+312;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:11 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+311;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:10 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+310;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:09 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+309;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:08 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+308;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:07 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+307;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:06 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+306;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:05 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+305;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:04 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+304;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:03 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+303;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:02 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+302;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:01 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+301;CFV-839;Inmóvil - Detenido;Oct 16 2025 03:00 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+300;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:59 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+299;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:58 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+298;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:57 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+297;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:56 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+296;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:55 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+295;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:54 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+294;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:53 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+293;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:52 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+292;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:51 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+291;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:50 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+290;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:49 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+289;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:48 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+288;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:47 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+287;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:46 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+286;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:45 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+285;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:44 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+284;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:43 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+283;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:42 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+282;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:41 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+281;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:40 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+280;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:39 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+279;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:38 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+278;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+277;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:36 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+276;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:35 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+275;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:34 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+274;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:33 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+273;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:32 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+272;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:31 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+271;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:30 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+270;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:29 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+269;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:28 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+268;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:27 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+267;CFV-839;Inmóvil - Detenido;Oct 16 2025 02:26 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+266;CFV-839;Ignición Encendida;Oct 16 2025 02:25 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+265;CFV-839;Ignición Apagada;Oct 16 2025 01:56 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+264;CFV-839;Ignición Encendida;Oct 16 2025 01:55 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+263;CFV-839;Ignición Apagada;Oct 16 2025 01:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+262;CFV-839;Ignición Encendida;Oct 16 2025 01:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+261;CFV-839;Ignición Apagada;Oct 16 2025 01:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+260;CFV-839;Ignición Encendida;Oct 16 2025 01:37 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+259;CFV-839;Ignición Apagada;Oct 16 2025 01:27 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+258;CFV-839;Ignición Encendida;Oct 16 2025 01:27 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+257;CFV-839;Ignición Apagada;Oct 16 2025 01:22 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+256;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:22 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+255;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:21 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+254;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:20 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+253;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:19 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+252;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:18 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+251;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:17 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+250;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:16 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+249;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+248;CFV-839;Inmóvil - Detenido;Oct 16 2025 01:14 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+247;CFV-839;Ignición Encendida;Oct 16 2025 01:13 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+246;CFV-839;Ignición Apagada;Oct 16 2025 12:26 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+245;CFV-839;Ignición Encendida;Oct 16 2025 12:26 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+244;CFV-839;Ignición Apagada;Oct 16 2025 12:18 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+243;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:18 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+242;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:17 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+241;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:16 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+240;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:15 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+239;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:13 PM;;Via Principal, Castilla, Piura, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1185832024;-80.5926208496
+238;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:13 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+237;CFV-839;Ignición Encendida;Oct 16 2025 12:12 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+236;CFV-839;Ignición Apagada;Oct 16 2025 12:07 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+235;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:07 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+234;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:06 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+233;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:05 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+232;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:04 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+231;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:03 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+230;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:02 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+229;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:01 PM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1189870834;-80.5927200317
+228;CFV-839;Inmóvil - Detenido;Oct 16 2025 12:00 PM;;Via Principal, Castilla, Piura, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1192255020;-80.5927276611
+227;CFV-839;Ignición Encendida;Oct 16 2025 11:59 AM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1193628311;-80.5927505493
+226;CFV-839;Ignición Apagada;Oct 16 2025 11:40 AM;;Via Principal, Castilla, Piura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1193628311;-80.5927505493
+225;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:40 AM;;Via Principal, Castilla, Piura, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1193628311;-80.5927505493
+224;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:39 AM;;Via Principal, Castilla, Piura, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1196832657;-80.5927124023
+223;CFV-839;Conduciendo;Oct 16 2025 11:39 AM;;Unnamed Road, Peru;9;N/A;Jorge Luis, Avila Ojeda;-5.1197671890;-80.5927963257
+222;CFV-839;Conduciendo;Oct 16 2025 11:39 AM;;Via Principal, Castilla, Piura, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.1199483871;-80.5928421021
+221;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:39 AM;;Unnamed Road, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.1200175285;-80.5928115845
+220;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:39 AM;;Unnamed Road, Peru;4;N/A;Jorge Luis, Avila Ojeda;-5.1200966835;-80.5928268433
+219;CFV-839;Conduciendo;Oct 16 2025 11:38 AM;;Via Principal, Castilla, Piura, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1199960709;-80.5931320190
+218;CFV-839;Conduciendo;Oct 16 2025 11:38 AM;;Via Principal, Castilla, Piura, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1199240685;-80.5932235718
+217;CFV-839;Conduciendo;Oct 16 2025 11:37 AM;;Via Principal, Castilla, Piura, Piura, Perú;17;N/A;Jorge Luis, Avila Ojeda;-5.1180963516;-80.5927734375
+216;CFV-839;Inmóvil - Detenido;Oct 16 2025 11:36 AM;;Unnamed Road, Peru;8;N/A;Jorge Luis, Avila Ojeda;-5.1185231209;-80.5905609131
+215;CFV-839;Ignición Encendida;Oct 16 2025 11:36 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1181831360;-80.5904464722
+214;CFV-839;Ignición Apagada;Oct 16 2025 11:34 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1181831360;-80.5904464722
+213;CFV-839;Conduciendo;Oct 16 2025 11:33 AM;;Unnamed Road, Peru;11;N/A;Jorge Luis, Avila Ojeda;-5.1156220436;-80.5898818970
+212;CFV-839;Conduciendo;Oct 16 2025 11:32 AM;;Via Principal, Castilla, Piura, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.1154713631;-80.5898132324
+211;CFV-839;Conduciendo;Oct 16 2025 11:32 AM;;South America, Piura;33;N/A;Jorge Luis, Avila Ojeda;-5.1158800125;-80.5883560181
+210;CFV-839;Conduciendo;Oct 16 2025 11:31 AM;;Via Principal, Castilla, Piura, Piura, Perú;33;N/A;Jorge Luis, Avila Ojeda;-5.1173381805;-80.5834503174
+209;CFV-839;Conduciendo;Oct 16 2025 11:30 AM;;Via Principal, Castilla, Piura, Piura, Perú;35;N/A;Jorge Luis, Avila Ojeda;-5.1188855171;-80.5783081055
+208;CFV-839;Conduciendo;Oct 16 2025 11:29 AM;;Via Principal, Castilla, Piura, Piura, Perú;27;N/A;Jorge Luis, Avila Ojeda;-5.1203246117;-80.5734634399
+207;CFV-839;Conduciendo;Oct 16 2025 11:28 AM;;Via Principal, Castilla, Piura, Piura, Perú;30;N/A;Jorge Luis, Avila Ojeda;-5.1216287613;-80.5690765381
+206;CFV-839;Conduciendo;Oct 16 2025 11:27 AM;;ingreso Club de Remo Piura, Piura, Peru;28;N/A;Jorge Luis, Avila Ojeda;-5.1228418350;-80.5649642944
+205;CFV-839;Conduciendo;Oct 16 2025 11:25 AM;;Via Principal, Castilla, Piura, Piura, Perú;16;N/A;Jorge Luis, Avila Ojeda;-5.1248779297;-80.5582427979
+204;CFV-839;Conduciendo;Oct 16 2025 11:25 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1249036789;-80.5580062866
+203;CFV-839;Conduciendo;Oct 16 2025 11:25 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;19;N/A;Jorge Luis, Avila Ojeda;-5.1246128082;-80.5578918457
+202;CFV-839;Conduciendo;Oct 16 2025 11:24 AM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1211667061;-80.5569458008
+201;CFV-839;Conduciendo;Oct 16 2025 11:24 AM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;25;N/A;Jorge Luis, Avila Ojeda;-5.1213302612;-80.5562210083
+200;CFV-839;Conduciendo;Oct 16 2025 11:23 AM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;24;N/A;Jorge Luis, Avila Ojeda;-5.1223731041;-80.5526580811
+199;CFV-839;Conduciendo;Oct 16 2025 11:22 AM;;VFG2+JC Piura, Peru;25;N/A;Jorge Luis, Avila Ojeda;-5.1234693527;-80.5488967896
+198;CFV-839;Conduciendo;Oct 16 2025 11:21 AM;;Km 245 Ant P Norte PE-1NJ,245, Castilla, Piura, Piura, Perú;33;N/A;Jorge Luis, Avila Ojeda;-5.1248030663;-80.5442733765
+197;CFV-839;Conduciendo;Oct 16 2025 11:19 AM;;1B, Peru;20;N/A;Jorge Luis, Avila Ojeda;-5.1269183159;-80.5369720459
+196;CFV-839;Conduciendo;Oct 16 2025 11:19 AM;;1B, Peru;17;N/A;Jorge Luis, Avila Ojeda;-5.1271195412;-80.5366439819
+195;CFV-839;Conduciendo;Oct 16 2025 11:18 AM;;VF96+QX Piura, Peru;22;N/A;Jorge Luis, Avila Ojeda;-5.1305470467;-80.5376205444
+194;CFV-839;Conduciendo;Oct 16 2025 11:17 AM;;VF86+3C Piura, Peru;33;N/A;Jorge Luis, Avila Ojeda;-5.1348342896;-80.5389099121
+193;CFV-839;Conduciendo;Oct 16 2025 11:16 AM;;VF65+7W Piura, Peru;28;N/A;Jorge Luis, Avila Ojeda;-5.1393485069;-80.5402069092
+192;CFV-839;Conduciendo;Oct 16 2025 11:15 AM;;1B, Peru;24;N/A;Jorge Luis, Avila Ojeda;-5.1433053017;-80.5413436890
+191;CFV-839;Conduciendo;Oct 16 2025 11:14 AM;;Av Pe-1nj Km 235, Olmos, Lambayeque, Lambayeque, Perú;25;N/A;Jorge Luis, Avila Ojeda;-5.1466116905;-80.5423202515
+190;CFV-839;Conduciendo;Oct 16 2025 11:13 AM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;25;N/A;Jorge Luis, Avila Ojeda;-5.1500959396;-80.5433349609
+189;CFV-839;Conduciendo;Oct 16 2025 11:12 AM;;RFW4+G6 Piura, Peru;24;N/A;Jorge Luis, Avila Ojeda;-5.1536588669;-80.5444107056
+188;CFV-839;Conduciendo;Oct 16 2025 11:11 AM;;RFR3+WQ Piura, Peru;27;N/A;Jorge Luis, Avila Ojeda;-5.1576776505;-80.5456085205
+187;CFV-839;Conduciendo;Oct 16 2025 11:09 AM;;South America, Piura;19;N/A;Jorge Luis, Avila Ojeda;-5.1642408371;-80.5475234985
+186;CFV-839;Conduciendo;Oct 16 2025 11:09 AM;;1B, Peru;19;N/A;Jorge Luis, Avila Ojeda;-5.1644215584;-80.5479431152
+185;CFV-839;Conduciendo;Oct 16 2025 11:09 AM;;RFP2+6P Piura, Peru;14;N/A;Jorge Luis, Avila Ojeda;-5.1644892693;-80.5481262207
+184;CFV-839;Conduciendo;Oct 16 2025 11:09 AM;;Km 246 Ant P Norte PE-1NJ,246, Castilla, Piura, Piura, Perú;24;N/A;Jorge Luis, Avila Ojeda;-5.1650485992;-80.5480041504
+183;CFV-839;Conduciendo;Oct 16 2025 11:08 AM;;1B, Peru;19;N/A;Jorge Luis, Avila Ojeda;-5.1678147316;-80.5485458374
+182;CFV-839;Conduciendo;Oct 16 2025 11:08 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;22;N/A;Jorge Luis, Avila Ojeda;-5.1682362556;-80.5499420166
+181;CFV-839;Conduciendo;Oct 16 2025 11:08 AM;;Av Pe-1nj Km 241, Olmos, Lambayeque, Lambayeque, Perú;19;N/A;Jorge Luis, Avila Ojeda;-5.1683616638;-80.5502929688
+180;CFV-839;Conduciendo;Oct 16 2025 11:07 AM;;1B, Peru;27;N/A;Jorge Luis, Avila Ojeda;-5.1707611084;-80.5497055054
+179;CFV-839;Ignición Encendida;Oct 16 2025 11:06 AM;;1B, 20000, 20000, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1725358963;-80.5491867065
+178;CFV-839;Ignición Apagada;Oct 16 2025 11:00 AM;;1B, 20000, 20000, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.1725358963;-80.5491867065
+177;CFV-839;Conduciendo;Oct 16 2025 11:00 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.1729388237;-80.5490264893
+176;CFV-839;Conduciendo;Oct 16 2025 10:59 AM;;1B, Peru;11;N/A;Jorge Luis, Avila Ojeda;-5.1731343269;-80.5490188599
+175;CFV-839;Conduciendo;Oct 16 2025 10:59 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque;56;N/A;Jorge Luis, Avila Ojeda;-5.1745610237;-80.5530395508
+174;CFV-839;Conduciendo;Oct 16 2025 10:58 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque;20;N/A;Jorge Luis, Avila Ojeda;-5.1769695282;-80.5608673096
+173;CFV-839;Conduciendo;Oct 16 2025 10:57 AM;;Av Pe-1nj Km 249, Olmos, Lambayeque, Lambayeque, Perú;38;N/A;Jorge Luis, Avila Ojeda;-5.1787967682;-80.5630111694
+172;CFV-839;Conduciendo;Oct 16 2025 10:56 AM;;Av Pe-1nj Km 253, Olmos, Lambayeque, Lambayeque, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.1870899200;-80.5674819946
+171;CFV-839;Conduciendo;Oct 16 2025 10:55 AM;;Via de Evitamiento Este, Peru;62;N/A;Jorge Luis, Avila Ojeda;-5.1958451271;-80.5721664429
+170;CFV-839;Conduciendo;Oct 16 2025 10:54 AM;;Via Principal Km 253, Castilla, Piura, Piura, Perú;53;N/A;Jorge Luis, Avila Ojeda;-5.2031068802;-80.5778579712
+169;CFV-839;Conduciendo;Oct 16 2025 10:53 AM;;Via Principal Km 253, Castilla, Piura, Piura, Perú;67;N/A;Jorge Luis, Avila Ojeda;-5.2105827332;-80.5848312378
+168;CFV-839;Conduciendo;Oct 16 2025 10:52 AM;;Via de Evitamiento Este, Peru;72;N/A;Jorge Luis, Avila Ojeda;-5.2197108269;-80.5894699097
+167;CFV-839;Conduciendo;Oct 16 2025 10:51 AM;;Via Principal, Castilla, Piura, Piura;69;N/A;Jorge Luis, Avila Ojeda;-5.2299613953;-80.5875015259
+166;CFV-839;Conduciendo;Oct 16 2025 10:50 AM;;Via Principal, Castilla, Piura, Piura, Perú;64;N/A;Jorge Luis, Avila Ojeda;-5.2416486740;-80.5881958008
+165;CFV-839;Conduciendo;Oct 16 2025 10:49 AM;;Via de Evitamiento Este, Peru;75;N/A;Jorge Luis, Avila Ojeda;-5.2465901375;-80.5954666138
+164;CFV-839;Conduciendo;Oct 16 2025 10:48 AM;;Via de Evitamiento Este, Peru;67;N/A;Jorge Luis, Avila Ojeda;-5.2485771179;-80.6052246094
+163;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura, Perú;38;N/A;Jorge Luis, Avila Ojeda;-5.2559742928;-80.6167297363
+162;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Panamericana Nte. 1860, Peru;33;N/A;Jorge Luis, Avila Ojeda;-5.2565398216;-80.6169357300
+161;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Panamericana Nte. 99, Piura, Peru;30;N/A;Jorge Luis, Avila Ojeda;-5.2570209503;-80.6165847778
+160;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura, Perú;30;N/A;Jorge Luis, Avila Ojeda;-5.2570676804;-80.6162872314
+159;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Panamericana Nte. 1860, Peru;30;N/A;Jorge Luis, Avila Ojeda;-5.2568330765;-80.6160202026
+158;CFV-839;Conduciendo;Oct 16 2025 10:46 AM;;Panamericana Nte. 99, Piura, Peru;37;N/A;Jorge Luis, Avila Ojeda;-5.2562041283;-80.6162567139
+157;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:45 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.2546162605;-80.6173629761
+156;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:44 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.2546162605;-80.6173629761
+155;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:43 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.2546162605;-80.6173629761
+154;CFV-839;Conduciendo;Oct 16 2025 10:42 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;65;N/A;Jorge Luis, Avila Ojeda;-5.2500982285;-80.6218566895
+153;CFV-839;Conduciendo;Oct 16 2025 10:41 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;69;N/A;Jorge Luis, Avila Ojeda;-5.2439236641;-80.6306991577
+152;CFV-839;Conduciendo;Oct 16 2025 10:40 AM;;Av Pe-1n Km 986, Sechura, Sechura, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.2380595207;-80.6393585205
+151;CFV-839;Conduciendo;Oct 16 2025 10:39 AM;;Av Pe-1n-58, Sechura, Sechura, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.2321619987;-80.6478729248
+150;CFV-839;Conduciendo;Oct 16 2025 10:38 AM;;Via Principal-4, Catacaos, Piura, Piura;59;N/A;Jorge Luis, Avila Ojeda;-5.2263417244;-80.6566390991
+149;CFV-839;Conduciendo;Oct 16 2025 10:37 AM;;Av Pe-1n-70, Sechura, Sechura, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.2203164101;-80.6649780273
+148;CFV-839;Conduciendo;Oct 16 2025 10:36 AM;;Via Principal, Piura, Piura, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.2148218155;-80.6740112305
+147;CFV-839;Conduciendo;Oct 16 2025 10:35 AM;;Via Principal, Piura, Piura, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.2086024284;-80.6823959351
+146;CFV-839;Conduciendo;Oct 16 2025 10:34 AM;;Via Principal, Piura, Piura, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1988825798;-80.6868438721
+145;CFV-839;Conduciendo;Oct 16 2025 10:33 AM;;R865+C8 Piura, Peru;72;N/A;Jorge Luis, Avila Ojeda;-5.1889371872;-80.6917266846
+144;CFV-839;Conduciendo;Oct 16 2025 10:31 AM;;Via Principal-52, Piura, Piura, Piura, Perú;56;N/A;Jorge Luis, Avila Ojeda;-5.1712594032;-80.6909561157
+143;CFV-839;Conduciendo;Oct 16 2025 10:31 AM;;Via Principal-32, Piura, Piura, Piura, Perú;59;N/A;Jorge Luis, Avila Ojeda;-5.1695542336;-80.6923675537
+142;CFV-839;Conduciendo;Oct 16 2025 10:30 AM;;Av Pe-02-76, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1659860611;-80.7021865845
+141;CFV-839;Conduciendo;Oct 16 2025 10:29 AM;;Av Pe-02-53, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1631770134;-80.7125244141
+140;CFV-839;Conduciendo;Oct 16 2025 10:28 AM;;Av Pe-02-30, Paita, Paita, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.1609458923;-80.7229003906
+139;CFV-839;Conduciendo;Oct 16 2025 10:27 AM;;Av Pe-02-7, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1588110924;-80.7332458496
+138;CFV-839;Conduciendo;Oct 16 2025 10:26 AM;;Av Pe-02, Paita, Paita, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.1566023827;-80.7437438965
+137;CFV-839;Conduciendo;Oct 16 2025 10:25 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1544938087;-80.7537460327
+136;CFV-839;Conduciendo;Oct 16 2025 10:24 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1522374153;-80.7645339966
+135;CFV-839;Conduciendo;Oct 16 2025 10:23 AM;;Av Pe-02, Paita, Paita, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.1500349045;-80.7750701904
+134;CFV-839;Conduciendo;Oct 16 2025 10:22 AM;;Av Pe-02, Paita, Paita, Piura;74;N/A;Jorge Luis, Avila Ojeda;-5.1477298737;-80.7861175537
+133;CFV-839;Conduciendo;Oct 16 2025 10:21 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1454567909;-80.7969589233
+132;CFV-839;Conduciendo;Oct 16 2025 10:20 AM;;Av Pe-02, Paita, Paita, Piura;65;N/A;Jorge Luis, Avila Ojeda;-5.1431760788;-80.8075027466
+131;CFV-839;Conduciendo;Oct 16 2025 10:19 AM;;Av Pe-02, Paita, Paita, Piura;69;N/A;Jorge Luis, Avila Ojeda;-5.1392273903;-80.8161621094
+130;CFV-839;Conduciendo;Oct 16 2025 10:18 AM;;Av Pe-02, Paita, Paita, Piura;74;N/A;Jorge Luis, Avila Ojeda;-5.1337637901;-80.8254165649
+129;CFV-839;Conduciendo;Oct 16 2025 10:17 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1272749901;-80.8343429565
+128;CFV-839;Conduciendo;Oct 16 2025 10:16 AM;;Carretera Interoceánica Norte, Peru;72;N/A;Jorge Luis, Avila Ojeda;-5.1209731102;-80.8429718018
+127;CFV-839;Conduciendo;Oct 16 2025 10:15 AM;;Av Pe-02, Paita, Paita, Piura;69;N/A;Jorge Luis, Avila Ojeda;-5.1146645546;-80.8516998291
+126;CFV-839;Conduciendo;Oct 16 2025 10:13 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1062526703;-80.8637619019
+125;CFV-839;Conduciendo;Oct 16 2025 10:13 AM;;Av Pe-02, Paita, Paita, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1078720093;-80.8700714111
+124;CFV-839;Conduciendo;Oct 16 2025 10:12 AM;;Av Pe-02, Paita, Paita, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1132607460;-80.8792724609
+123;CFV-839;Conduciendo;Oct 16 2025 10:11 AM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1188387871;-80.8887557983
+122;CFV-839;Conduciendo;Oct 16 2025 10:10 AM;;Av Pe-02, Paita, Paita, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.1212506294;-80.8989257813
+121;CFV-839;Conduciendo;Oct 16 2025 10:09 AM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1209073067;-80.9094390869
+120;CFV-839;Conduciendo;Oct 16 2025 10:08 AM;;Av Pe-02, Paita, Paita, Piura;74;N/A;Jorge Luis, Avila Ojeda;-5.1205549240;-80.9202270508
+119;CFV-839;Conduciendo;Oct 16 2025 10:07 AM;;Av Pe-02, Paita, Paita, Piura, Perú;74;N/A;Jorge Luis, Avila Ojeda;-5.1200180054;-80.9311676025
+118;CFV-839;Conduciendo;Oct 16 2025 10:06 AM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1191563606;-80.9419860840
+117;CFV-839;Conduciendo;Oct 16 2025 10:05 AM;;Av Pe-02, Paita, Paita, Piura, Perú;67;N/A;Jorge Luis, Avila Ojeda;-5.1182990074;-80.9527969360
+116;CFV-839;Conduciendo;Oct 16 2025 10:04 AM;;Av Pe-02, Paita, Paita, Piura;45;N/A;Jorge Luis, Avila Ojeda;-5.1176028252;-80.9615936279
+115;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:03 AM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1172795296;-80.9653778076
+114;CFV-839;Inmóvil - Detenido;Oct 16 2025 10:02 AM;;Av Pe-02, Paita, Paita, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1172671318;-80.9654693604
+113;CFV-839;Conduciendo;Oct 16 2025 10:01 AM;;Av Pe-02, Paita, Paita, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.1168918610;-80.9702377319
+112;CFV-839;Conduciendo;Oct 16 2025 10:00 AM;;Av Pe-02, Paita, Paita, Piura, Perú;72;N/A;Jorge Luis, Avila Ojeda;-5.1160326004;-80.9811706543
+111;CFV-839;Conduciendo;Oct 16 2025 09:59 AM;;Av Pe-02, Paita, Paita, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1147279739;-80.9916763306
+110;CFV-839;Conduciendo;Oct 16 2025 09:58 AM;;Av Pe-02, Paita, Paita, Piura;72;N/A;Jorge Luis, Avila Ojeda;-5.1131677628;-81.0026855469
+109;CFV-839;Conduciendo;Oct 16 2025 09:57 AM;;Av Pe-02, Paita, Paita, Piura, Perú;70;N/A;Jorge Luis, Avila Ojeda;-5.1116900444;-81.0131912231
+108;CFV-839;Conduciendo;Oct 16 2025 09:56 AM;;Av Pe-02, Paita, Paita, Piura, Perú;59;N/A;Jorge Luis, Avila Ojeda;-5.1102681160;-81.0231781006
+107;CFV-839;Conduciendo;Oct 16 2025 09:55 AM;PEAJE PAITA;Carretera a Paita;30;N/A;Jorge Luis, Avila Ojeda;-5.1092028618;-81.0307006836
+106;CFV-839;Saliendo de Landmark;Oct 16 2025 09:55 AM;PEAJE PAITA;Carretera a Paita;30;N/A;Jorge Luis, Avila Ojeda;-5.1092028618;-81.0307006836
+105;CFV-839;Entrando a Landmark;Oct 16 2025 09:54 AM;PEAJE PAITA;Carretera a Paita;0;N/A;Jorge Luis, Avila Ojeda;-5.1090416908;-81.0320968628
+104;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:54 AM;PEAJE PAITA;Carretera a Paita;0;N/A;Jorge Luis, Avila Ojeda;-5.1090416908;-81.0320968628
+103;CFV-839;Conduciendo;Oct 16 2025 09:53 AM;;Av Pe-02, Paita, Paita, Piura;64;N/A;Jorge Luis, Avila Ojeda;-5.1086258888;-81.0346755981
+102;CFV-839;Conduciendo;Oct 16 2025 09:52 AM;;Av Pe-02, Paita, Paita, Piura;70;N/A;Jorge Luis, Avila Ojeda;-5.1071481705;-81.0449981689
+101;CFV-839;Conduciendo;Oct 16 2025 09:51 AM;;Av Pe-02, Paita, Paita, Piura;67;N/A;Jorge Luis, Avila Ojeda;-5.1055350304;-81.0553665161
+100;CFV-839;Conduciendo;Oct 16 2025 09:50 AM;;Av Pe-02, Paita, Paita, Piura;51;N/A;Jorge Luis, Avila Ojeda;-5.1038227081;-81.0647430420
+99;CFV-839;Conduciendo;Oct 16 2025 09:49 AM;;Av Pe-02, Paita, Paita, Piura;14;N/A;Jorge Luis, Avila Ojeda;-5.1010570526;-81.0715332031
+98;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:48 AM;;Av Pe-02, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.1012187004;-81.0718765259
+97;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:48 AM;;South America, Piura;4;N/A;Jorge Luis, Avila Ojeda;-5.1012787819;-81.0720443726
+96;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:48 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1012063026;-81.0721054077
+95;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:47 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1012063026;-81.0721054077
+94;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:46 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1012063026;-81.0721054077
+93;CFV-839;Ignición Encendida;Oct 16 2025 09:45 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1012063026;-81.0721054077
+92;CFV-839;Ignición Apagada;Oct 16 2025 09:40 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.1012063026;-81.0721054077
+91;CFV-839;Conduciendo;Oct 16 2025 09:40 AM;;Av Pe-02, Paita, Paita, Piura, Perú;16;N/A;Jorge Luis, Avila Ojeda;-5.1009411812;-81.0720596313
+90;CFV-839;Conduciendo;Oct 16 2025 09:39 AM;;Av Pe-02, Paita, Paita, Piura, Perú;61;N/A;Jorge Luis, Avila Ojeda;-5.1000638008;-81.0735244751
+89;CFV-839;Conduciendo;Oct 16 2025 09:38 AM;;Av Pe-02, Paita, Paita, Piura;62;N/A;Jorge Luis, Avila Ojeda;-5.0957489014;-81.0819168091
+88;CFV-839;Conduciendo;Oct 16 2025 09:37 AM;;Av Pe-02-54, Paita, Paita, Piura;14;N/A;Jorge Luis, Avila Ojeda;-5.0917277336;-81.0897674561
+87;CFV-839;Conduciendo;Oct 16 2025 09:36 AM;NEPTUNIA PAITA;Av Pe-02-40, Paita, Paita, Piura;17;N/A;Jorge Luis, Avila Ojeda;-5.0899400711;-81.0889358521
+86;CFV-839;Saliendo de Landmark;Oct 16 2025 09:36 AM;NEPTUNIA PAITA;Avenida F;17;N/A;Jorge Luis, Avila Ojeda;-5.0899400711;-81.0889358521
+85;CFV-839;Conduciendo;Oct 16 2025 09:35 AM;NEPTUNIA PAITA;Avenida F;9;N/A;Jorge Luis, Avila Ojeda;-5.0878977776;-81.0878448486
+84;CFV-839;Conduciendo;Oct 16 2025 09:34 AM;NEPTUNIA PAITA;Pi-102-66, Paita, Paita, Piura;12;N/A;Jorge Luis, Avila Ojeda;-5.0866470337;-81.0871734619
+83;CFV-839;Entrando a Landmark;Oct 16 2025 09:34 AM;NEPTUNIA PAITA;Avenida F;12;N/A;Jorge Luis, Avila Ojeda;-5.0866470337;-81.0871734619
+82;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:33 AM;;Pi-102-73, Paita, Paita, Piura;6;N/A;Jorge Luis, Avila Ojeda;-5.0854196548;-81.0865631104
+81;CFV-839;Conduciendo;Oct 16 2025 09:32 AM;;Pi-102-97, Paita, Paita, Piura;51;N/A;Jorge Luis, Avila Ojeda;-5.0834980011;-81.0830764771
+80;CFV-839;Conduciendo;Oct 16 2025 09:31 AM;;Pi-102-61, Paita, Paita, Piura;64;N/A;Jorge Luis, Avila Ojeda;-5.0785346031;-81.0750656128
+79;CFV-839;Conduciendo;Oct 16 2025 09:30 AM;;Pi-102-26, Paita, Paita, Piura, Perú;51;N/A;Jorge Luis, Avila Ojeda;-5.0737576485;-81.0673294067
+78;CFV-839;Conduciendo;Oct 16 2025 09:29 AM;;Pi-102, Paita, Paita, Piura;43;N/A;Jorge Luis, Avila Ojeda;-5.0693926811;-81.0618896484
+77;CFV-839;Conduciendo;Oct 16 2025 09:28 AM;;Pi-102, Paita, Paita, Piura;11;N/A;Jorge Luis, Avila Ojeda;-5.0651078224;-81.0606384277
+76;CFV-839;Conduciendo;Oct 16 2025 09:26 AM;;Pi-102, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0639991760;-81.0636825562
+75;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:26 AM;;Pi-102, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0638184547;-81.0639724731
+74;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:25 AM;;Pi-102, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0625977516;-81.0635375977
+73;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:25 AM;;Pi-102, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0624403954;-81.0635223389
+72;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:24 AM;;WWPP+M9X, Paita 20701, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.0622277260;-81.0640716553
+71;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:23 AM;;WWQM+6W Paita, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.0619378090;-81.0651550293
+70;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:22 AM;;WWQM+6W Paita, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.0619378090;-81.0651550293
+69;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:21 AM;;WWQM+6W Paita, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.0619378090;-81.0651550293
+68;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:20 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+67;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:19 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+66;CFV-839;Ignición Encendida;Oct 16 2025 09:18 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+65;CFV-839;Ignición Apagada;Oct 16 2025 09:18 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+64;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:17 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+63;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:16 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+62;CFV-839;Ignición Encendida;Oct 16 2025 09:15 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+61;CFV-839;Ignición Apagada;Oct 16 2025 09:15 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+60;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:14 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0619292259;-81.0658645630
+59;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:13 AM;;Pi-102, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0619697571;-81.0660247803
+58;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:12 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0623049736;-81.0651245117
+57;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:11 AM;;Pi-102, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0623030663;-81.0649795532
+56;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:10 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0624456406;-81.0650177002
+55;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:09 AM;;Pi-102, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0628552437;-81.0651931763
+54;CFV-839;Conduciendo;Oct 16 2025 09:09 AM;;Pi-102, Paita, Paita, Piura, Perú;12;N/A;Jorge Luis, Avila Ojeda;-5.0628843307;-81.0652618408
+53;CFV-839;Conduciendo;Oct 16 2025 09:09 AM;;Pi-102, Paita, Paita, Piura, Perú;9;N/A;Jorge Luis, Avila Ojeda;-5.0625352859;-81.0662765503
+52;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:08 AM;;Pi-102, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0621132851;-81.0662765503
+51;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:08 AM;;Pi-102, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0620660782;-81.0663146973
+50;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:08 AM;;Pi-102, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.0620365143;-81.0663146973
+49;CFV-839;Inmóvil - Detenido;Oct 16 2025 09:08 AM;;Pi-102, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.0620222092;-81.0662841797
+48;CFV-839;Ignición Encendida;Oct 16 2025 09:07 AM;;WWQM+79 Paita, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.0618100166;-81.0665817261
+47;CFV-839;Ignición Apagada;Oct 16 2025 08:36 AM;;WWQM+79 Paita, Peru;0;N/A;Jorge Luis, Avila Ojeda;-5.0618100166;-81.0665817261
+46;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:36 AM;;WWQM+87 Paita, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.0617618561;-81.0667953491
+45;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:35 AM;;WWQM+86 Paita, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.0617723465;-81.0669555664
+44;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:35 AM;;WWQM+86 Paita, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.0617241859;-81.0669708252
+43;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:34 AM;;WWQM+86 Paita, Peru;6;N/A;Jorge Luis, Avila Ojeda;-5.0616984367;-81.0669326782
+42;CFV-839;Conduciendo;Oct 16 2025 08:34 AM;;WWQM+78 Paita, Peru;9;N/A;Jorge Luis, Avila Ojeda;-5.0617694855;-81.0666198730
+41;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:33 AM;;Pi-102, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.0622544289;-81.0650100708
+40;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:32 AM;;Pi-102, Paita, Paita, Piura, Perú;8;N/A;Jorge Luis, Avila Ojeda;-5.0623579025;-81.0646743774
+39;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:31 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0627241135;-81.0637664795
+38;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:30 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0627241135;-81.0637664795
+37;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:29 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0627241135;-81.0637664795
+36;CFV-839;Ignición Encendida;Oct 16 2025 08:28 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0627241135;-81.0637664795
+35;CFV-839;Ignición Apagada;Oct 16 2025 08:28 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0627241135;-81.0637664795
+34;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:27 AM;;South America, Piura;4;N/A;Jorge Luis, Avila Ojeda;-5.0627346039;-81.0636825562
+33;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:27 AM;;South America, Piura;4;N/A;Jorge Luis, Avila Ojeda;-5.0628237724;-81.0636444092
+32;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:26 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+31;CFV-839;Ignición Encendida;Oct 16 2025 08:25 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+30;CFV-839;Ignición Apagada;Oct 16 2025 08:22 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+29;CFV-839;Ignición Encendida;Oct 16 2025 08:22 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+28;CFV-839;Ignición Apagada;Oct 16 2025 08:09 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+27;CFV-839;Inmóvil - Detenido;Oct 16 2025 08:09 AM;;South America, Piura;0;N/A;Jorge Luis, Avila Ojeda;-5.0631408691;-81.0637512207
+26;CFV-839;Conduciendo;Oct 16 2025 08:07 AM;;Pi-102, Paita, Paita, Piura, Perú;11;N/A;Jorge Luis, Avila Ojeda;-5.0636649132;-81.0640106201
+25;CFV-839;Conduciendo;Oct 16 2025 08:06 AM;;Pi-102, Paita, Paita, Piura;9;N/A;Jorge Luis, Avila Ojeda;-5.0651130676;-81.0606155396
+24;CFV-839;Conduciendo;Oct 16 2025 08:06 AM;;Pi-102, Paita, Paita, Piura;11;N/A;Jorge Luis, Avila Ojeda;-5.0652122498;-81.0605850220
+23;CFV-839;Conduciendo;Oct 16 2025 08:05 AM;;Pi-102-4, Paita, Paita, Piura, Perú;51;N/A;Jorge Luis, Avila Ojeda;-5.0703301430;-81.0624237061
+22;CFV-839;Conduciendo;Oct 16 2025 08:04 AM;;Pi-102-36, Paita, Paita, Piura;56;N/A;Jorge Luis, Avila Ojeda;-5.0750551224;-81.0694732666
+21;CFV-839;Conduciendo;Oct 16 2025 08:03 AM;;Pi-102-66, Paita, Paita, Piura;28;N/A;Jorge Luis, Avila Ojeda;-5.0792160034;-81.0761718750
+20;CFV-839;Conduciendo;Oct 16 2025 08:02 AM;;Pi-102-96, Paita, Paita, Piura;32;N/A;Jorge Luis, Avila Ojeda;-5.0832028389;-81.0825729370
+19;CFV-839;Conduciendo;Oct 16 2025 08:01 AM;NEPTUNIA PAITA;Pi-102-75, Paita, Paita, Piura;9;N/A;Jorge Luis, Avila Ojeda;-5.0852584839;-81.0863647461
+18;CFV-839;Saliendo de Landmark;Oct 16 2025 08:01 AM;NEPTUNIA PAITA;Avenida F;9;N/A;Jorge Luis, Avila Ojeda;-5.0852584839;-81.0863647461
+17;CFV-839;Conduciendo;Oct 16 2025 08:00 AM;NEPTUNIA PAITA;Avenida F;20;N/A;Jorge Luis, Avila Ojeda;-5.0874934196;-81.0876770020
+16;CFV-839;Entrando a Landmark;Oct 16 2025 08:00 AM;NEPTUNIA PAITA;Avenida F;20;N/A;Jorge Luis, Avila Ojeda;-5.0874934196;-81.0876770020
+15;CFV-839;Conduciendo;Oct 16 2025 07:58 AM;;Av Pe-02-59, Paita, Paita, Piura, Perú;24;N/A;Jorge Luis, Avila Ojeda;-5.0915007591;-81.0898208618
+14;CFV-839;Conduciendo;Oct 16 2025 07:58 AM;;Av Pe-02-17, Paita, Paita, Piura;57;N/A;Jorge Luis, Avila Ojeda;-5.0921058655;-81.0889739990
+13;CFV-839;Conduciendo;Oct 16 2025 07:57 AM;;Av Pe-02, Paita, Paita, Piura, Perú;62;N/A;Jorge Luis, Avila Ojeda;-5.0966959000;-81.0799255371
+12;CFV-839;Conduciendo;Oct 16 2025 07:55 AM;;Av Pe-02, Paita, Paita, Piura, Perú;14;N/A;Jorge Luis, Avila Ojeda;-5.1006684303;-81.0719451904
+11;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:54 AM;;Av Pe-02, Paita, Paita, Piura, Perú;6;N/A;Jorge Luis, Avila Ojeda;-5.1025581360;-81.0725021362
+10;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:53 AM;;Av Pe-02, Paita, Paita, Piura, Perú;4;N/A;Jorge Luis, Avila Ojeda;-5.1026287079;-81.0724258423
+9;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:53 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+8;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:52 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+7;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:51 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+6;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:50 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+5;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:49 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+4;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:48 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+3;CFV-839;Inmóvil - Detenido;Oct 16 2025 07:47 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+2;CFV-839;Ignición Encendida;Oct 16 2025 07:45 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
+1;CFV-839;Estacionado;Oct 16 2025 07:45 AM;;Av Pe-02, Paita, Paita, Piura, Perú;0;N/A;Jorge Luis, Avila Ojeda;-5.1026482582;-81.0726623535
