@@ -1,0 +1,73 @@
+﻿textbox12,textbox16,EventTime,Address,EndLandmark,textbox25,Driver,textbox20
+,Unit: TDL795,1/12/2025 5:34:22 a.m.,"Cl9b 16c-51, Mosquera, Cundinamarca, Colombia",,00:00:32, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 5:42:39 a.m.,"Cl9b 16c-50, Mosquera, Cundinamarca, Colombia",,01:39:11, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 7:26:40 a.m.,"Cl9b 16c-51, Mosquera, Cundinamarca, Colombia",,00:08:36, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 7:37:27 a.m.,"Av 50, Madrid, Cundinamarca",,00:00:33, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 7:39:40 a.m.,"Av 50-19, Madrid, Cundinamarca, Colombia",,00:13:51, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:08:40 a.m.,"Via Principal-86, Funza, Cundinamarca",,00:02:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:14:40 a.m.,"Via Principal-89, Funza, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:16:40 a.m.,"Via Principal-4, Funza, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:21:40 a.m.,"Via Principal-61, Bogota, Cundinamarca",,00:02:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:29:55 a.m.,"Glorieta-34, Bogota, Cundinamarca",,00:05:45, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:50:40 a.m.,"Cl80 104-34, Bogota, Cundinamarca",,00:00:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:54:40 a.m.,"Cl80 94-16, Bogota, Cundinamarca",,00:01:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 8:57:40 a.m.,"Cl80 81-43, Bogota, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:01:39 a.m.,"Av Cl80-90, Bogota, Cundinamarca",,00:01:01, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:05:40 a.m.,"Cl80-84, Bogota, Cundinamarca",,00:00:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:08:40 a.m.,"Kr56bis 79bbis-67, Bogota, Cundinamarca, Colombia",,00:22:20, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:31:15 a.m.,"Kr56 79b-80, Bogota, Cundinamarca",,00:01:02, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:34:40 a.m.,"Entrada A La Nqs-45, Bogota, Cundinamarca",,00:03:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:45:40 a.m.,"Kr50 94-12, Bogota, Cundinamarca",,00:03:57, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:50:35 a.m.,"Cl91a 50-15, Bogota, Cundinamarca",,00:00:44, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 9:51:29 a.m.,"Cl92 60-7, Bogota, Cundinamarca",,00:20:48, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 10:13:02 a.m.,"Kr58 93a-23, Bogota, Cundinamarca, Colombia",,00:10:58, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 10:24:21 a.m.,"Cl94 57-13, Bogota, Cundinamarca",,00:01:19, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 10:29:25 a.m.,"Cl80 29-14, Bogota, Cundinamarca",,00:02:15, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 10:34:40 a.m.,"Kr29c 75-70, Bogota, Cundinamarca",,00:09:20, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 10:49:40 a.m.,"Kr29b 70-70, Bogota, Cundinamarca",,00:09:46, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 11:03:40 a.m.,"Kr27 66-46, Bogota, Cundinamarca, Colombia",,00:23:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 11:31:13 a.m.,"Calle 71 # 23-1 a 23-99, Bogotá, Cundinamarca, Colombia",,00:10:48, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 11:44:40 a.m.,"Kr24 73-84, Bogota, Cundinamarca",,00:01:28, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 11:47:40 a.m.,"Cl75 24-18, Bogota, Cundinamarca",,00:12:09, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:00:23 p.m.,"Kr24 75-13, Bogota, Cundinamarca",,00:01:17, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:02:40 p.m.,"Kr24 78-88, Bogota, Cundinamarca",,00:00:55, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:05:40 p.m.,"Kr23 80-13, Bogota, Cundinamarca, Colombia",,00:11:37, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:21:40 p.m.,"Cl77 20b-9, Bogota, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:23:39 p.m.,"Kr20b 74-82, Bogota, Cundinamarca",,00:00:20, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:25:40 p.m.,"Cl74 15-27, Bogota, Cundinamarca",,00:00:58, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:27:40 p.m.,"Kr13 75-73, Bogota, Cundinamarca",,00:00:30, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:29:40 p.m.,"Kr12a 79-47, Bogota, Cundinamarca",,00:06:33, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:37:40 p.m.,"Cl80 11-24, Bogota, Cundinamarca",,00:02:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 12:41:40 p.m.,"Cl76 16a-30, Bogota, Cundinamarca",,00:17:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:04:40 p.m.,"Cl72 12-17, Bogota, Cundinamarca",,00:01:10, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:08:04 p.m.,"Cl72 5-5, Bogota, Cundinamarca",,00:01:33, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:11:40 p.m.,"Cl68 5-66, Bogota, Cundinamarca, Colombia",,00:15:48, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:30:56 p.m.,"Dg57 4e-4, Bogota, Cundinamarca",,00:00:11, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:32:14 p.m.,"Dg58 4ae-97, Bogota, Cundinamarca",,00:02:26, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:35:27 p.m.,"Tr4be 58a-32, Bogota, Cundinamarca",,00:02:12, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 1:38:40 p.m.,"Tv. 4b Este #61-14, Bogotá, Bogotá, Colombia",,00:22:56, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 2:04:17 p.m.,"Kr3a 56-14, Bogota, Cundinamarca",,00:00:17, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 2:05:02 p.m.,"Av Circunvalar 57-8, Bogota, Cundinamarca",,00:01:03, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 2:10:50 p.m.,"Carrera 3E # 46-1 a 46-99, Bogotá, Cundinamarca, Colombia",,00:00:22, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 2:52:17 p.m.,"Carrera 2E # 46-2 a 46-100, Bogotá, Cundinamarca, Colombia",,00:00:38, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:05:18 p.m.,"Cl72 7-80, Bogota, Cundinamarca",,00:02:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:09:17 p.m.,"Cl72 20a-59, Bogota, Cundinamarca",,00:02:20, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:13:18 p.m.,"Kr24 77-83, Bogota, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:17:18 p.m.,"Kr23 80-84, Bogota, Cundinamarca, Colombia",,00:18:33, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:41:17 p.m.,"Cl80 68c-5, Bogota, Cundinamarca",,00:02:01, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:45:18 p.m.,"Cl80 70f-49, Bogota, Cundinamarca",,00:03:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:50:17 p.m.,"Cl80 75-68, Bogota, Cundinamarca",,00:01:01, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:53:18 p.m.,"Cl80 89-51, Bogota, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:56:18 p.m.,"Cl80 96-4, Bogota, Cundinamarca",,00:00:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 3:58:17 p.m.,"Via Principal-26, Bogota, Cundinamarca",,00:02:01, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:08:18 p.m.,"Av 50-96, Bogota, Cundinamarca",,00:00:27, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:20:18 p.m.,"Via Principal-92, Funza, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:22:17 p.m.,"Via Principal-73, Funza, Cundinamarca",,00:06:01, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:29:18 p.m.,"Via Principal-11, Funza, Cundinamarca",,00:01:59, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:34:18 p.m.,"Via Principal, Funza, Cundinamarca",,00:01:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:36:18 p.m.,"Via Principal-21, Funza, Cundinamarca",,00:06:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:42:26 p.m.,"Cl16ae 5a-98, Mosquera, Cundinamarca",,00:02:52, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 4:54:43 p.m.,"Madrid-59, Madrid, Cundinamarca",,00:05:00, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 5:00:34 p.m.,"Madrid-58, Madrid, Cundinamarca, Colombia",,00:00:33, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+,Unit: TDL795,1/12/2025 5:13:18 p.m.,"Cl9b 16c-50, Mosquera, Cundinamarca, Colombia",,00:19:46, ,# Stops: 71 - Max: 01:39:11 - Min: 00:00:11 - Total Stops: 07:25:36
+

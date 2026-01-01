@@ -1,0 +1,65 @@
+TicketID;Subject;Dealer;Company;Assign To;Reg By;Jira Number;Commitment;Consultar a:
+TS000163067;SCRIPT OSINERMING PARA TOPFLY;TSO Mobile Peru;TRACKING SOLUTION TSO MOBILE S.A.C;José Hurtado;Daniel guardamino;TSO-3695;Exponer caso en JIRA;
+TS000165503;AUXILIARES SIN REPORTE GFP865;TSO Colombia - IBO SEGTEC;GPS SEGTEC SAS;José Hurtado;Dilia Jimenez Cogollo;TSO-3675;Esperando respuesta de Desarrollo;
+TS000165695 ;Reporte Unidades Instaladas por Caso;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL�;José Hurtado;Evelyn Llanos Tobar;;Esperando respuesta de Gerardo;
+TS000165668;RECLAMO DE LA PLATAFORMA POR ERRORES DE LATENCIA;TSO Mobile Peru;LELY SPECIAL CORPORATION S.A.C (22716);José Hurtado;Jose Hidalgo;;Revisar si hay otro caso similar;
+TS000165526;INCONSISTENCIAS EN EL REPORTE DETALLADO DE ACTIVIDADES;TSO Mobile Peru;TRANSPORTES SAKURA E.I.R.L;José Hurtado;Olga Díaz Rodríguez;TSO-3694;Esperar respuesta de Desarrollo;
+TS000165485;Error Camara Transportes Hagemsa;TSO Mobile Peru;TRANSPORTES HAGEMSA S.A.C.;José Hurtado;Harold Dominguez;;Consultar UTC en los reportes;
+TS000165453;Inconsistencia en informaci�n ralenti unidades;TSO Mobile - Colombia;TRANSPORTES BRAHMAN S.A.S.;José Hurtado;Diana Garc�a;;Consultar a Harold si lo gener� bien en PM;
+TS000165218;REPORTE DE RELENTI DE UNIDADES DENTRO DE GEOCERCAS;TSO Mobile Peru;EMPRESA AGROINDUSTRIAL POMALCA S.A.A. (;José Hurtado;Jose Hidalgo;;Consultar a Freddy si se har� en PM;
+TS000165245;NO VISUALIZA CAMARA AUX UFE984 - MQB882 - EQW230 - WGR156;TSO Mobile - Colombia;COMERCIALIZADORA VICTOR ALVAREZ Y CIA S A S�;José Hurtado;Jahidine Navia;TSO-3675;Esperando respuesta de Desarrollo;
+TS000163023;REVISION DESFASE DE DESCARGA DE VIDEOS DE PLATAFORMAS;TSO Mobile Peru;SERVICENTROS DEL SUR S.A.C.;José Hurtado;Jorge Solis;TSO-3692;Esperando respuesta;
+TS000165342;HABILITAR LAS CAMARAS AUXILIARES;TSO Mobile - Colombia;SUPER CARNES JH SAS;José Hurtado;Lina Giraldo;TSO-3675;Esperando respuesta de Desarrollo;
+TS000163976;REPLICA DE TRANSMISION unidad�A5J-825�// requiere RETRANSMICION cliente KIMBERLY CLACK - plataforma FORKITES;TSO Mobile - Peru;TRANSPORTES J.J.C.A E.I.R.L�;José Hurtado;Jose Hidalgo;;Consultar el lunes con Freddy y Jorge;
+TS000160013;DISE�AR PLANTILLA PARA CAMBIO DE DATOS PRECIOS - UNIDADES MASIVO;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Diana Ramirez Fernandez;;Preguntar a Diana qui�n es Jenny;
+TS000164775;CAMBIO O BLOQUEO DE VISTA INTERIOR - OJO DE PEZ;TSO Mobile - Peru;SERVICIO DE LOGISTICA EXPRESS SOCIEDAD ANONIMA CERRADA;José Hurtado;Jorge Solis;TSO-3693;Espreando respuesta;
+TS000165220;ALERTAS DE VELOCIDAD EN GEOCERCAS A PARTIR DE 5KM/H - ASIMISMO VALIDAR EN TSO PLATAFORMA SI ES POSIBLE;TSO Mobile - Peru;SERVICIOS AEROPORTUARIOS ANDINOS SA;José Hurtado;Jose Hidalgo;TSO-3678;Consultar las alertas con Jose Hidalgo de la geocerca Zonar trials seg�n el notebook saa TS000165220;
+TS000163444;SOLCITUD ADICIONAR INFORME REPORTE BASICO LATITUD Y LONGITUD;TSO Colombia - IBO IDCOM;DOMINION COLOMBIA SAS;José Hurtado;Diana Turriago Contreras;TSO-3676;Revisar soluci�n en JIRA y grabai�n de la reu;
+TS000163723;NO SE VISUALIZAN CAMARAS AUXILIARES;TSO Mobile - Colombia;SUNRISE TRUCKING S.A.S.;José Hurtado;Lina Giraldo;TSO-3675;Esperar respuesta de Desarrollo;
+TS000164581;TopFly HeroX 100;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;SGSD-7374;Se requiere prueba de unidad con script de combustible en veh�culo real para continuar con el de iButton;Yo
+TS000164571;SOLICITUDES VARIAS - PLATAFORMA TSO;TSO Mobile - Peru;BUS SERVICE AUTOMOTRIZ S.A.C;José Hurtado;Jose Hidalgo;;Consultar con Freddy. 09-12-2025;Fredy
+TS000164451;DEV: Solicitud craci�n caso para desarrollo;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Nathaly Martinez;PM-6854;Esperar respuesta de Desarrollo;Yo
+TS000164384;ENVIAR ALERTA AL CORREO EN PTE DE PAGO CON 10 DIAS;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Diana Ramirez Fernandez;TSO-3669;Seg�n reuni�n de TSO - Planning del d�a 15-12-2025, debemos agendar una reuni�n con Daniel Ocampo, Freddy Villamil, Diana Ramirez y yo para determinar si es facible hacer este desarrollo o si podemos esperar hasta la puesta en marcha de Sales Force.;Diana
+TS000164382;RESTRICCION PARA GENERAR NUEVOS CASOS SI EL CLIENTE TIENE CARTERA VENCIDA (CUENTA EN MORA-RESTRINGUIDO- JURIDICO);TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Diana Ramirez Fernandez;TSO-3670;Seg�n reuni�n de TSO - Planning del d�a 15-12-2025, debemos agendar una reuni�n con Daniel Ocampo, Freddy Villamil, Diana Ramirez y yo para determinar si es facible hacer este desarrollo o si podemos esperar hasta la puesta en marcha de Sales Force.;Diana
+TS000164335;Asignacion por eliminacion de usuario;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL�;José Hurtado;Johan Piraquive;TSO-3652;Jesus dice que est� ocupado ahora;Jesus
+TS000159795;GARANTIA UNIDAD VDM-700 NO FUNCIONA APAGADO REMOTO;TSO Mobile - Peru;LAIAX APLICACIONES INDUSTRIALES S.A.C.;José Hurtado;Juan Mosquera;Empty;A la espera de nuevo proveedor;Gerardo
+TS000163798;Unidades no reportan en Ignition.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;PM-6796;A la espera de respuesta de Valeria y Devin;Valeria
+TS000159988;ADICIONAR CAMPO COMMENTS EN REPORTE CUSTOMER;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Diana Ramirez Fernandez;TSO-3558�;Revisar si cumple lo solicitado;Yo
+TS000157637;Manual de configuración de cámara VidFleet 4K.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espreando respuesta;Fredy
+TS000156278;Integración SolarX 120.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;PM-6853;Espreando respuesta;Robert
+TS000156274;Integración GV58LAU.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;P3-50191;Espreando respuesta;Robert, Libardo Zu�oga
+TS000154165;InCabin. Mejoras en Work Order e Inspecciones.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espreando respuesta;Yo
+TS000152732;SOLICITUD 06 CAMARAS Y CONFIGURAR EXCESO VELOCIDAD;TSO Mobile - Peru;C Y C TRANSPORT CORPORATION SAC;José Hurtado;Jimmy Portilla;Empty;Espreando respuesta;Fredy
+TS000150202;NOTIFICAR A VENDEDOR CUANDO SE LE CREA UN LEAD MANUALMENTE;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Laura Velasquez;Empty;Reu con Laura;Laura
+TS000162551;Panel de Vehiculos - Informacion de Combustible;TSO Mobile - Colombia;VERDE AZUCAR S.A.S;José Hurtado;Harold Dominguez;Empty;Evaluar y poner caso en desarrollo si es necesario;Harold y yo
+TS000162405;ERROR EN CRM;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Johan Piraquive;TSO-3639;Espera de soluci�n de Desarrollo;Jesus
+TS000162295;Cliente solicita configuracion que tenia activa;TSO Mobile - Colombia;BOMBA FOODS SAS;José Hurtado;Harold Dominguez;Empty;Reu con Harold, no entiendo el caso;Harold
+TS000161857;CREAR CAMPO EDITABLE DE LISTA PARA EL GRUPO DE BILLIN GROUP;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Diana Ramirez Fernandez;TSO-3668;Seg�n reuni�n de TSO - Planning del d�a 15-12-2025, debemos agendar una reuni�n con Daniel Ocampo, Freddy Villamil, Diana Ramirez y yo para determinar si es facible hacer este desarrollo o si podemos esperar hasta la puesta en marcha de Sales Force.;Yo
+TS000160363;Error eventos de camara;TSO Mobile - Colombia;SUNRISE TRUCKING S.A.S.;José Hurtado;Harold Dominguez;Empty;Esperar capacitaci�n con Freddy;Yo
+TS000159520;Integración - Sistema TMS / Tottus / EXACTA;TSO Mobile - Peru;EXACTA OPERADOR LOGISTICO S.A.C.;José Hurtado;Sandro Velasco;Empty;Del lado del cliente;Sandro Velasco
+TS000159244;VIDFLEET: Solicitud (Garantía Por Fallas) 3;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espreando respuesta;Dan Ocampo, Rob case, Gerardo
+TS000149945;Pruebas de sensor de combustible de varilla.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espero prueba en veh�culo real;Gerardo
+TS000144935;VIDFLEET: Solicitud (Garantía Por Fallas);TSO Mobile - Colombia;TTSO MOBILE S.A.S. COLOMBIA.;José Hurtado;gerardo loaiza;Empty;Espreando respuesta;Dan Ocampo, Rob case, Gerardo
+TS000163787;ALERTA DE UNIDAD EN GEOCERCA;TSO Mobile - Peru;LELY SPECIAL CORPORATION S.A.C;José Hurtado;Jose Hidalgo;Empty;Pruebas con cal 2630, el lunes 01-12 1BL4, espera de accesorio;Gerardo
+TS000163772;CRM no notifica llegada de LEADS;TSO Mobile - Peru;TRACKING SOLUTION TSO MOBILE S.A.C;José Hurtado;Empty;Empty;Reu con Laura;Laura
+TS000163620;FALLA REPORTE CAMARAS EMPRESA BRAHMAN;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Luis Montaño Guerrero;Empty;Monitorear;Yo
+TS000163255;INTEGRACION A PLATAFORMA UNIGIS Y RETRANSMICION A CLIENTE ALICORP;TSO Mobile - Peru;GLD TRANSPORT S.A.C;José Hurtado;Jose Hidalgo;TSO-3640;Del lado del cliente;Jose Hidalgo
+TS000163078;REVISION CAMARAS CFI-942, CDW-714 Y CFI-908;TSO Mobile - Peru;DISTRIBUIDORA CONTINENTAL 6 S.A;José Hurtado;Jorge Solis;Empty;A la espera de registro de Opsitel;Daniel G
+TS000163006;PROBLEMAS SEÑAL CAMARAS AIR 2;TSO Mobile - Peru;NOVA SERVICES S.A.C.;José Hurtado;Jorge Solis;Empty;A la espera de registro de Opsitel;Daniel G
+TS000162962;Integración ESTARTER.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;P3-51701;Consultar con Jenny Barriga como va el proceso;Jenny
+TS000162503;Remodelación de almacén de inventario.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;A la espera de espacio con Daniel B;Daniel B
+TS000162071;SOLICITUDES DEL AREA DE OPERACIONES SAASA A DESARROLLO;TSO Mobile - Peru;SERVICIOS AEROPORTUARIOS ANDINOS SA;José Hurtado;Jose Hidalgo;Empty;A la espera de la llegada del accesorio;Gerardo
+TS000161839;SOLICITUD DE INTEGRACION PLATAFORMA TSO A EXACTA - OPERACION CENCOSUD;TSO Mobile - Peru;EXACTA OPERADOR LOGISTICO S.A.C.;José Hurtado;Jose Hidalgo;TSO-3618;Seguir grupo de Whatsapp;Jose Hidalgo
+TS000161349;Integración de todas las unidades LATAM en PX.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espera de reui�n con Dan Ocampo, Fredy, Gerardo y Jhon Ruiz;Gerardo, Dan, Jhon y Fredy
+TS000161066;REVISION DE UNIDADES SIN REPORTAR;TSO Mobile - Peru;BUS SERVICE AUTOMOTRIZ S.A.C;José Hurtado;Olga Díaz Rodríguez;Empty;Revisar configuraci�n para ver si aun la tiene, que no se haya reestablecido;Geraldine
+TS000161065;Integración TopFly KNIGHT.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;A la espera de respuesta de Johana Idarraga de CLARO;Gerardo
+TS000159072;REVISIÓN ALERTAS DE CONDUCTOR AL CLIENTE.;TSO Mobile - Colombia;COMERCIALIZADORA VICTOR ALVAREZ Y CIA S A S;José Hurtado;Manuel luna;Empty;A la espera de capacitaci�n;Fredy
+TS000158948;metodos de consumo de api rest - SERVICIOS AEROPORTUARIOS ANDINOS SA;TSO Mobile - Peru;SERVICIOS AEROPORTUARIOS ANDINOS SA;José Hurtado;Jose Hidalgo;Empty;Stand By, capacitaci�n pendiente;Jose Hidalgo
+TS000158501;Pruebas mitac-k.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Consultar;Dave
+TS000158203;SOLICITUD INTEGRACION PLATAFORMA PRIMAX;TSO Mobile - Colombia;LUBRYCO Y CIA SAS;José Hurtado;Juan Mosquera;TSO-3535;A la espera de respuesta de Desarrollo;Carlos
+TS000158202;SOLICITUD INTEGRACION PLATAFORMA PRIMAX;TSO Mobile - Colombia;ARBEY ESTIVEN RIASCO GARCIA;José Hurtado;Juan Mosquera;TSO-3535;A la espera de respuesta de Desarrollo;Carlos
+TS000156721;VIDFLEET: Solicitud (Garantía Por Fallas) 2;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Espreando respuesta;Dan Ocampo, Rob case, Gerardo
+TS000156591;Análisis técnico de unidades CALAMP 2630 para SpaceFox.;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;José Hurtado;Empty;Esperando accesorio. Pruebas de aprovisionamiento por SMS;Gerardo
+TS000133123;VOLVER A REASIGNAR LEADS 4 HORAS SIN ATENDER;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Laura Velasquez;TSO-2880;Reu con Laura;Laura
+TS000164088;UNIDADES VIDFLEET IA CON NOVEDADES A REPORTAR A WAYLENS;TSO Mobile - Colombia;TTSO MOBILE S.A.S COL;José Hurtado;Alvaro Castañeda;TSO-3690;Pruebas de laboratorio, crear caso de garant�a;Yo
+TS000163708;ERROR EN REPORTE DE EVENTOS;TSO Mobile - Colombia;ECOBANO SAS;José Hurtado;Cesar Briñez;TSO-3654;Revisar si la soluci�n que hice funcion�;Harold, Yo

@@ -27,3 +27,5 @@ for i in range(0,14578):
 ubd['Dec_Monthly_fee']=vec_aux
 
 ubd.info()
+
+ISO 8859-1 if I have troubles with ñ,Ñ,ó...

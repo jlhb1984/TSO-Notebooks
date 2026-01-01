@@ -1,0 +1,158 @@
+﻿GroupName,UnitName,StartTime,MovingTimeSecs,MilesDriven,MaxSpeed,StopTime,textbox43,StopLengthSecs,ContactName,textbox28,textbox29,textbox30,textbox32,MovingTimeSecs_1,MilesDriven_1,MaxSpeed_1,StopLengthSecs_1
+,Unidad: MX194,16/12/2025 12:00 a.m.,00h:00m:00s,"0,00",0,17/12/2025 11:50:2.m.,Denido/Ralenti,35h:50m:49s,Gulf of Guinea,08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 11:50 a.m.,00h:00m:00s,"0,00",1,17/12/2025 11:50:5.m.,Denido/Ralenti,00h:21m:13s,Gulf of Guinea,08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 12:12 p.m.,00h:00m:00s,"0,00",0,17/12/2025 12:12:1.m.,Denido/Ralenti,00h:26m:13s,"Cl31 15d-49, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 12:25 p.m.,00h:00m:00s,"0,00",0,17/12/2025 12:26:2.m.,Denido/Ralenti,03h:47m:05s,"Cl31 15d-40, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 4:13 p.m.,00h:00m:00s,"0,00",0,17/12/2025 4:13:2.m.,Denido/Ralenti,00h:33m:59s,"Cl31 15d-49, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 4:48 p.m.,00h:03m:43s,"2,98",27,17/12/2025 4:52:2.m.,Ralenti,00h:01m:16s,"Cl10 37b, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 4:53 p.m.,00h:03m:58s,"2,54",25,17/12/2025 4:57:3.m.,Ralenti,00h:01m:01s,"Cl30 13b-78, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 4:58 p.m.,00h:01m:11s,"0,71",22,17/12/2025 4:59:4.m.,Ralenti,00h:01m:32s,"Cl30 15b-43, Soledad, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:01 p.m.,00h:01m:43s,"0,64",11,17/12/2025 5:03:0.m.,Ralenti,00h:01m:56s,"Kr17 40-92, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:05 p.m.,00h:00m:41s,"0,92",11,17/12/2025 5:05:4.m.,Ralenti/Ign Apagada,00h:14m:39s,"Cl30 12, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:18 p.m.,00h:00m:00s,"0,00",0,17/12/2025 5:18:5.m.,Denido/Ralenti,00h:01m:28s,"Cl30 12, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:22 p.m.,00h:04m:30s,"2,88",21,17/12/2025 5:27:1.m.,Ralenti,00h:01m:07s,"Cl30 15a-95, Soledad, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:28 p.m.,00h:04m:47s,"2,72",31,17/12/2025 5:33:1.m.,Ralenti,00h:00m:27s,"Cl30 1b-40, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:33 p.m.,00h:00m:47s,"0,16",10,17/12/2025 5:34:2.m.,Ralenti,00h:06m:54s,"Cl30 2-23, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:41 p.m.,00h:06m:40s,"1,48",18,17/12/2025 5:48:0.m.,Ralenti,00h:06m:40s,"Kr4a 42a-33, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 5:54 p.m.,00h:01m:14s,"0,66",18,17/12/2025 5:55:5.m.,Ralenti,00h:05m:26s,"Cl45 2b-94, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:01 p.m.,00h:00m:32s,"0,43",12,17/12/2025 6:01:5.m.,Ralenti,00h:01m:13s,"Cl45 1a-32, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:03 p.m.,00h:09m:03s,"6,16",41,17/12/2025 6:12:0.m.,Ralenti,00h:01m:51s,"Av La Cordialidad, Sabanalarga-81, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:14 p.m.,00h:02m:56s,"2,57",42,17/12/2025 6:16:5.m.,Ralenti,00h:00m:50s," Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:17 p.m.,00h:01m:19s,"0,80",16,17/12/2025 6:19:0.m.,Ralenti,00h:02m:16s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:21 p.m.,00h:00m:42s,"0,16",6,17/12/2025 6:22:0.m.,Ralenti,00h:25m:58s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 6:48 p.m.,00h:00m:54s,"0,19",7,17/12/2025 6:48:5.m.,Ralenti,00h:12m:27s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 7:14 p.m.,00h:04m:19s,"2,56",22,17/12/2025 7:19:0.m.,Ralenti,00h:02m:21s,"Av La Cordialidad, Sabanalarga, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 7:21 p.m.,00h:11m:09s,"8,45",44,17/12/2025 7:32:3.m.,Ralenti,00h:01m:26s,"Cl6 15-54, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 7:33 p.m.,00h:07m:53s,"7,08",46,17/12/2025 7:41:5.m.,Ralenti,00h:00m:35s,"Av 90, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 7:42 p.m.,00h:27m:11s,"24,74",49,17/12/2025 8:09:3.m.,Ralenti,00h:01m:59s,"Av 90-87, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 8:11 p.m.,00h:13m:58s,"13,00",48,17/12/2025 8:25:3.m.,Ralenti,00h:03m:59s,"Av 90, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 8:29 p.m.,00h:46m:59s,"44,02",53,17/12/2025 9:16:3.m.,Ralenti,00h:00m:30s,"Km 22 de la vía Troncal del Caribe -La Cordialidad - Cartagena - *, , Bolívar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 9:17 p.m.,00h:20m:08s,"22,42",56,17/12/2025 9:37:0.m.,Ralenti,00h:00m:39s,"Via Principal, Cartagena, Bolivar, COLOMBIA",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 9:37 p.m.,00h:03m:35s,"1,54",20,17/12/2025 9:41:2.m.,Ralenti,00h:00m:21s,"ULTRACEM CARTAGENA
+Unnamed Road, Turbaco, Bolívar, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 9:41 p.m.,00h:00m:56s,"0,48",18,17/12/2025 9:42:4.m.,Ralenti,00h:07m:02s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,17/12/2025 9:49 p.m.,00h:00m:23s,"0,11",5,17/12/2025 9:50:0.m.,Ralenti/Ign Apagada,08h:17m:30s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 6:07 a.m.,00h:00m:00s,"0,00",0,18/12/2025 6:07:2.m.,Denido/Ralenti,00h:11m:26s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 6:19 a.m.,00h:00m:03s,"0,16",6,18/12/2025 6:19:3.m.,Ralenti/Ign Apagada,00h:57m:52s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 7:02 a.m.,00h:00m:00s,"0,00",0,18/12/2025 7:02:5.m.,Denido/Ralenti,00h:50m:29s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 7:56 a.m.,00h:01m:45s,"0,98",16,18/12/2025 7:58:0.m.,Ralenti,00h:01m:36s,"ULTRACEM CARTAGENA
+Via Principal, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 7:59 a.m.,00h:03m:21s,"2,51",41,18/12/2025 8:03:0.m.,Ralenti,00h:00m:25s,"Av 90-82, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:03 a.m.,00h:00m:22s,"0,06",8,18/12/2025 8:03:5.m.,Ralenti,00h:00m:25s,"Av 90-86, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:04 a.m.,00h:03m:51s,"1,05",18,18/12/2025 8:08:0.m.,Ralenti,00h:02m:09s,"Tr54-52, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:10 a.m.,00h:00m:25s,"1,13",11,18/12/2025 8:10:4.m.,Ralenti,00h:04m:07s,"Tr53 32, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:14 a.m.,00h:00m:53s,"0,34",6,18/12/2025 8:15:4.m.,Ralenti,00h:02m:49s,"Tr53 32, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:18 a.m.,00h:01m:43s,"0,64",11,18/12/2025 8:20:1.m.,Ralenti,00h:00m:29s,"Dg32-83, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:20 a.m.,00h:01m:16s,"0,37",12,18/12/2025 8:21:5.m.,Ralenti,00h:00m:23s,"Tr73 31i-88, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 8:22 a.m.,00h:01m:16s,"0,31",6,18/12/2025 8:23:3.m.,Ralenti,01h:18m:44s,"Dg32 71-88, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 9:42 a.m.,00h:00m:22s,"0,24",5,18/12/2025 9:42:4.m.,Ralenti,00h:01m:36s,"Dg32 70-4, Cartagena, Bolivar, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 9:44 a.m.,00h:01m:31s,"0,50",8,18/12/2025 9:45:4.m.,Ralenti,00h:01m:37s,"Pedro Romero 70a-85, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 9:47 a.m.,00h:02m:51s,"0,92",20,18/12/2025 9:50:1.m.,Ralenti,00h:00m:39s,"Dg33-76, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 9:50 a.m.,00h:07m:34s,"3,25",31,18/12/2025 9:58:3.m.,Ralenti,00h:06m:12s,"I-90 # 1 a 99, Cartagena De Indias (Distrito Turístico Y Cultural), Bolívar, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 10:04 a.m.,00h:02m:04s,"2,03",46,18/12/2025 10:06:4.m.,Ignición Apagada,00h:12m:02s,"EDS MANANTIAL
+2 Bayunca-Cartagena Variante Mamonal Gambote ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 10:18 a.m.,00h:00m:00s,"0,00",0,18/12/2025 10:18:4.m.,Denido/Ralenti,00h:00m:00s,"EDS MANANTIAL
+2 Bayunca-Cartagena Variante Mamonal Gambote ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 10:20 a.m.,00h:01m:33s,"1,17",24,18/12/2025 10:21:4.m.,Ralenti,00h:01m:49s,"Via Principal, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 10:23 a.m.,00h:04m:34s,"3,11",23,18/12/2025 10:28:0.m.,Ralenti/Ign Apagada,01h:15m:28s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:17 a.m.,00h:00m:00s,"0,00",0,18/12/2025 11:17:5.m.,Denido/Ralenti,00h:09m:37s,"ULTRACEM CARTAGENA
+Unnamed Road ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:30 a.m.,00h:00m:33s,"0,35",16,18/12/2025 11:31:0.m.,Ralenti,00h:04m:14s,"ULTRACEM CARTAGENA
+Unnamed Road, Cartagena, Bolívar, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:35 a.m.,00h:00m:44s,"0,53",25,18/12/2025 11:36:0.m.,Ralenti,00h:00m:49s,"ULTRACEM CARTAGENA
+Via Principal, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:36 a.m.,00h:03m:38s,"2,43",39,18/12/2025 11:40:2.m.,Ralenti,00h:02m:06s,"Av 90-73, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:42 a.m.,00h:14m:49s,"15,74",53,18/12/2025 11:57:2.m.,Ralenti,00h:00m:22s,"Av 90, Cartagena, Bolivar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 11:57 a.m.,00h:06m:44s,"4,14",39,18/12/2025 12:04:2.m.,Ralenti,00h:02m:49s,"Km 22 de la vía Troncal del Caribe -La Cordialidad - Cartagena - *, , Bolívar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 12:07 p.m.,00h:14m:10s,"10,85",49,18/12/2025 12:21:2.m.,Ralenti,00h:01m:46s,"Km 1 de la vía Troncal del Caribe -La Cordialidad - Santa Catali*, , Bolívar",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 12:23 p.m.,00h:10m:00s,"9,85",41,18/12/2025 12:33:1.m.,Ralenti,00h:01m:11s,"Av 90, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 12:34 p.m.,00h:00m:23s,"0,51",9,18/12/2025 12:34:4.m.,Ralenti,00h:01m:37s,"Av 90, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 12:36 p.m.,00h:45m:14s,"35,87",50,18/12/2025 1:21:3.m.,Ralenti,00h:01m:09s,"Camino De La Cordialidad Route B-8, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 1:22 p.m.,00h:13m:06s,"10,64",47,18/12/2025 1:35:5.m.,Ralenti,00h:00m:51s,"Av 90, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 1:36 p.m.,00h:18m:45s,"13,74",46,18/12/2025 1:55:3.m.,Ralenti,00h:00m:38s,"Av 90, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 1:56 p.m.,00h:02m:47s,"1,85",19,18/12/2025 1:58:5.m.,Ralenti,00h:02m:07s,"Av 90, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 2:01 p.m.,00h:05m:05s,"5,09",52,18/12/2025 2:06:0.m.,Ralenti,00h:03m:15s,"Via Principal Galapa, Galapa, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 2:09 p.m.,00h:08m:52s,"6,97",41,18/12/2025 2:18:1.m.,Ralenti/Ign Apagada,01h:53m:04s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 3:14 p.m.,00h:00m:00s,"0,00",0,18/12/2025 3:16:2.m.,Denido/Ralenti,02h:44m:26s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 6:00 p.m.,00h:00m:00s,"0,00",0,18/12/2025 6:00:5.m.,Denido/Ralenti,00h:43m:20s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 6:34 p.m.,00h:00m:00s,"0,00",0,18/12/2025 6:34:3.m.,Denido/Ralenti,01h:27m:20s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 7:49 p.m.,00h:00m:00s,"0,00",0,18/12/2025 7:52:5.m.,Denido/Ralenti,01h:23m:46s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,18/12/2025 9:16 p.m.,00h:00m:00s,"0,00",0,18/12/2025 9:17:0.m.,Denido/Ralenti,09h:33m:00s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 6:50 a.m.,00h:00m:00s,"0,00",0,19/12/2025 6:50:0.m.,Denido/Ralenti,00h:01m:36s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 6:54 a.m.,00h:00m:36s,"0,35",8,19/12/2025 6:55:1.m.,Ralenti/Ign Apagada,00h:35m:45s,"Av 90-75, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:26 a.m.,00h:00m:00s,"0,00",0,19/12/2025 7:26:5.m.,Denido/Ralenti,00h:02m:31s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:30 a.m.,00h:00m:54s,"0,21",8,19/12/2025 7:31:4.m.,Ralenti,00h:02m:05s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:33 a.m.,00h:05m:43s,"2,12",32,19/12/2025 7:39:2.m.,Ralenti,00h:01m:34s,"Cl109, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:41 a.m.,00h:00m:51s,"0,34",15,19/12/2025 7:41:5.m.,Ralenti,00h:02m:00s,"Av La Cordialidad, Sabanalarga, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:43 a.m.,00h:08m:18s,"8,01",41,19/12/2025 7:52:1.m.,Ralenti/Ign Apagada,00h:29m:51s,"EDS TERPEL LOS VOLCANES
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 8:08 a.m.,00h:00m:00s,"0,00",0,19/12/2025 8:09:3.m.,Denido/Ralenti,00h:03m:43s,"Av 90-23, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 8:13 a.m.,00h:00m:00s,"0,00",1,19/12/2025 8:13:3.m.,Denido/Ralenti,02h:30m:41s,"Av 90-23, Galapa, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 10:44 a.m.,00h:00m:00s,"0,00",0,19/12/2025 10:44:4.m.,Denido/Ralenti,00h:23m:07s,"Av 90-24, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:07 a.m.,00h:00m:00s,"0,00",0,19/12/2025 11:07:5.m.,Denido/Ralenti,00h:04m:43s,"Av 90-24, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:13 a.m.,00h:03m:45s,"2,85",41,19/12/2025 11:16:4.m.,Ralenti,00h:01m:13s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:17 a.m.,00h:00m:28s,"0,14",12,19/12/2025 11:18:2.m.,Ralenti,00h:17m:20s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:35 a.m.,00h:00m:33s,"0,23",9,19/12/2025 11:36:1.m.,Ralenti/Ign Apagada,00h:20m:46s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:48 a.m.,00h:00m:00s,"0,00",0,19/12/2025 11:48:2.m.,Denido/Ralenti,00h:23m:02s,"Av 90-75, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 12:14 p.m.,00h:00m:20s,"0,06",6,19/12/2025 12:14:4.m.,Ralenti,00h:04m:03s," Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 12:18 p.m.,00h:00m:24s,"0,11",8,19/12/2025 12:19:1.m.,Ralenti,00h:33m:50s," Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 12:53 p.m.,00h:00m:31s,"0,21",7,19/12/2025 12:53:3.m.,Ralenti,00h:35m:10s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:28 p.m.,00h:00m:21s,"0,24",7,19/12/2025 1:29:0.m.,Ralenti,00h:03m:58s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:33 p.m.,00h:00m:21s,"0,06",7,19/12/2025 1:33:2.m.,Ralenti,00h:02m:58s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:36 p.m.,00h:03m:41s,"2,46",21,19/12/2025 1:40:0.m.,Ralenti,00h:01m:11s,"Cl109, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:41 p.m.,00h:00m:26s,"0,16",11,19/12/2025 1:41:3.m.,Ralenti,00h:01m:34s,"Via Principal-6, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:43 p.m.,00h:04m:30s,"2,43",30,19/12/2025 1:47:4.m.,Ralenti,00h:01m:00s,"Cl110 12-24, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:48 p.m.,00h:07m:19s,"4,51",31,19/12/2025 1:56:0.m.,Ralenti,00h:00m:25s,"Av Circunvalar, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:56 p.m.,00h:01m:50s,"0,71",17,19/12/2025 1:58:1.m.,Ralenti,00h:00m:32s,"Av Circunvalar, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 1:58 p.m.,00h:01m:03s,"0,35",13,19/12/2025 1:59:5.m.,Ralenti,00h:04m:06s,"X5W3+MG Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 2:03 p.m.,00h:00m:38s,"0,47",8,19/12/2025 2:04:3.m.,Ralenti,00h:01m:18s,"Av Circunvalar-26, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 2:05 p.m.,00h:00m:32s,"0,19",8,19/12/2025 2:06:2.m.,Ralenti,00h:01m:53s,"Av Circunvalar-20, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 2:08 p.m.,00h:00m:36s,"0,10",6,19/12/2025 2:08:5.m.,Ralenti,00h:35m:24s,"Unnamed Road, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 2:44 p.m.,00h:00m:50s,"0,39",10,19/12/2025 2:45:0.m.,Ralenti,01h:08m:05s,"South America, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 3:53 p.m.,00h:00m:05s,"0,87",5,19/12/2025 3:53:1.m.,Ralenti,00h:00m:03s,"Av Circunvalar, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 3:53 p.m.,00h:01m:58s,"0,61",9,19/12/2025 3:55:1.m.,Ralenti,00h:00m:12s,"Av Circunvalar, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 3:55 p.m.,00h:00m:53s,"0,27",15,19/12/2025 3:56:2.m.,Ralenti,00h:01m:25s,"Av Circunvalar-13, Barranquilla, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 3:57 p.m.,00h:00m:29s,"0,14",9,19/12/2025 3:58:1.m.,Ralenti,00h:01m:11s,"Av Circunvalar-20, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 3:59 p.m.,00h:04m:24s,"3,06",31,19/12/2025 4:03:5.m.,Ralenti,00h:00m:47s,"Cl110 13-52, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:04 p.m.,00h:03m:39s,"1,13",18,19/12/2025 4:08:1.m.,Ralenti,00h:00m:21s,"Cl109 10, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:08 p.m.,00h:07m:55s,"4,83",49,19/12/2025 4:16:3.m.,Ralenti,00h:00m:40s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:17 p.m.,00h:00m:20s,"0,10",4,19/12/2025 4:17:3.m.,Ralenti,00h:32m:37s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:50 p.m.,00h:00m:23s,"0,29",8,19/12/2025 4:50:3.m.,Ralenti,00h:04m:24s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:54 p.m.,00h:00m:43s,"0,08",6,19/12/2025 4:55:4.m.,Ralenti,00h:03m:34s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 4:59 p.m.,00h:02m:23s,"0,24",14,19/12/2025 5:01:3.m.,Ralenti,00h:01m:37s,"Av La Cordialidad, Sabanalarga-22, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:03 p.m.,00h:00m:44s,"1,40",8,19/12/2025 5:04:0.m.,Ralenti,00h:00m:24s,"Kr6, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:04 p.m.,00h:03m:22s,"1,21",16,19/12/2025 5:07:4.m.,Ralenti,00h:02m:18s,"Cl110 6j-58, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:10 p.m.,00h:00m:24s,"0,24",8,19/12/2025 5:10:2.m.,Ralenti,00h:00m:24s,"Cl109 6, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:10 p.m.,00h:00m:20s,"0,06",5,19/12/2025 5:11:1.m.,Ralenti,00h:00m:30s,"Cl109 6, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:11 p.m.,00h:00m:23s,"0,10",8,19/12/2025 5:12:0.m.,Ralenti,00h:02m:17s,"Cl109 10, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:14 p.m.,00h:01m:12s,"0,45",8,19/12/2025 5:15:3.m.,Ralenti,00h:00m:22s,"Cl109 10, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:15 p.m.,00h:01m:39s,"0,53",9,19/12/2025 5:17:3.m.,Ralenti,00h:01m:30s,"Cl109 10-29, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:19 p.m.,00h:00m:33s,"0,19",6,19/12/2025 5:19:3.m.,Ralenti,00h:02m:01s,"Cl109 10-60, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:21 p.m.,00h:00m:31s,"0,27",8,19/12/2025 5:22:1.m.,Ralenti,00h:01m:13s,"Cl110 12-94, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:23 p.m.,00h:00m:30s,"0,13",5,19/12/2025 5:23:5.m.,Ralenti,00h:04m:26s,"Cl110 12-60, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:28 p.m.,00h:02m:55s,"1,88",18,19/12/2025 5:31:1.m.,Ralenti,00h:01m:04s,"Kr38 84b-84, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 5:32 p.m.,00h:16m:43s,"8,21",26,19/12/2025 5:49:0.m.,Ralenti,00h:14m:57s,"Km 8 de la vía Troncal del Caribe  - Tubará - Barranquilla, , Atlántico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 6:03 p.m.,00h:00m:55s,"0,23",6,19/12/2025 6:04:5.m.,Ralenti,00h:10m:39s," Km 8 de la vía Troncal del Caribe  - Tubará - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 6:15 p.m.,00h:01m:43s,"0,60",13,19/12/2025 6:17:1.m.,Ralenti,00h:44m:25s,"Km 9 de la vía Troncal del Caribe  - Tubará - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:32 p.m.,00h:13m:15s,"9,08",47,19/12/2025 7:45:2.m.,Ralenti,00h:00m:05s,"Kr38 110-67, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:45 p.m.,00h:02m:00s,"1,09",11,19/12/2025 7:47:2.m.,Ralenti,00h:01m:44s,"Cl110 14a-30, Barranquilla, Atlantico",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 7:49 p.m.,00h:10m:13s,"6,52",49,19/12/2025 7:59:2.m.,Ralenti/Ign Apagada,00h:24m:58s,"90, Barranquilla, Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 8:18 p.m.,00h:00m:00s,"0,00",0,19/12/2025 8:18:3.m.,Denido/Ralenti,00h:00m:00s,"Av 90-75, Galapa, Atlantico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 8:19 p.m.,00h:00m:51s,"0,24",9,19/12/2025 8:20:1.m.,Ralenti/Ign Apagada,00h:06m:11s,"CONCRETERA ULTRACEM
+Troncal del Caribe ",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 8:23 p.m.,00h:00m:00s,"0,00",0,19/12/2025 8:24:0.m.,Denido/Ralenti,02h:44m:42s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+,Unidad: MX194,19/12/2025 11:08 p.m.,00h:00m:00s,"0,00",0,19/12/2025 11:08:4.m.,Denido/Ralenti,08h:39m:06s,"Km 2 de la vía Troncal del Caribe  - Baranoa - Barranquilla, , Atlántico, Colombia",08h:07m:20s,"358,51",56,97h:15m:57s,08h:07m:20s,"358,51",56,97h:15m:57s
+
